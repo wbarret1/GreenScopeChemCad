@@ -1,0 +1,388 @@
+Acetaldehyde(http://www.cdc.gov/niosh/idlh/75070.html)	"10,000 ppm"	"2,000 ppm"
+Acetic acid(http://www.cdc.gov/niosh/idlh/64197.html)	"1,000 ppm"	50 ppm
+Acetic anhydride(http://www.cdc.gov/niosh/idlh/108247.html)	"1,000 ppm"	200 ppm
+Acetone(http://www.cdc.gov/niosh/idlh/67641.html)	"20,000 ppm"	"2,500 ppm [LEL]"
+Acetonitrile(http://www.cdc.gov/niosh/idlh/75058.html)	"4,000 ppm"	500 ppm
+Acetylene tetrabromide(http://www.cdc.gov/niosh/idlh/79276.html)	10 ppm	8 ppm
+Acrolein(http://www.cdc.gov/niosh/idlh/107028.html)	5 ppm	2 ppm
+Acrylamide(http://www.cdc.gov/niosh/idlh/79061.html)	Unknown	60 mg/m3
+Acrylonitrile(http://www.cdc.gov/niosh/idlh/107131.html)	500 ppm	85 ppm
+Aldrin(http://www.cdc.gov/niosh/idlh/309002.html)	100 mg/m3	25 mg/m3
+Allyl alcohol(http://www.cdc.gov/niosh/idlh/107186.html)	150 ppm	20 ppm
+Allyl chloride(http://www.cdc.gov/niosh/idlh/107051.html)	300 ppm	250 ppm
+Allyl glycidyl ether(http://www.cdc.gov/niosh/idlh/106923.html)	270 ppm	50 ppm
+2 Aminopyridine(http://www.cdc.gov/niosh/idlh/504290.html)	5 ppm	5 ppm [Unch]
+Ammonia(http://www.cdc.gov/niosh/idlh/7664417.html)	500 ppm	300 ppm
+Ammonium sulfamate(http://www.cdc.gov/niosh/idlh/7773060.html)	"5,000 mg/m3"	"1,500 mg/m3"
+n-Amyl acetate(http://www.cdc.gov/niosh/idlh/628637.html)	"4,000 ppm"	"1,000 ppm"
+sec-Amyl acetate(http://www.cdc.gov/niosh/idlh/626380.html)	"9,000 ppm"	"1,000 ppm"
+Aniline(http://www.cdc.gov/niosh/idlh/62533.html)	100 ppm	100 ppm [Unch]
+o-Anisidine(http://www.cdc.gov/niosh/idlh/90040.html)	50 mg/m3	50 mg/m3 [Unch]
+p-Anisidine(http://www.cdc.gov/niosh/idlh/104949.html)	50 mg/m3	50 mg/m3 [Unch]
+Antimony compounds (as Sb)(http://www.cdc.gov/niosh/idlh/7440360.html)	80 mg Sb/m3	50 mg Sb/m3
+ANTU(http://www.cdc.gov/niosh/idlh/86884.html)	100 mg/m3	100 mg/m3 [Unch]
+"Arsenic (inorganic compounds, as As)(http://www.cdc.gov/niosh/idlh/7440382.html)"	100 mg As/m3	5 mg As/m3
+Arsine(http://www.cdc.gov/niosh/idlh/7784421.html)	6 ppm	3 ppm
+Azinphosmethyl(http://www.cdc.gov/niosh/idlh/86500.html)	20 mg/m3	10 mg/m3
+"Barium (soluble compounds, as Ba)(http://www.cdc.gov/niosh/idlh/7440393.html)"	"1,100 mg Ba/m3"	50 mg Ba/m3
+Benzene(http://www.cdc.gov/niosh/idlh/71432.html)	"3,000 ppm"	500 ppm
+Benzoyl peroxide(http://www.cdc.gov/niosh/idlh/94360.html)	"7,000 mg/m3"	"1,500 mg/m3"
+Benzyl chloride(http://www.cdc.gov/niosh/idlh/100447.html)	10 ppm	10 ppm [Unch]
+Beryllium compounds (as Be)(http://www.cdc.gov/niosh/idlh/7440417.html)	10 mg Be/m3	4 mg Be/m3
+Boron oxide(http://www.cdc.gov/niosh/idlh/1303862.html)	N.E.	"2,000 mg/m3"
+Boron trifluoride(http://www.cdc.gov/niosh/idlh/7637072.html)	100 ppm	25 ppm
+Bromine(http://www.cdc.gov/niosh/idlh/7726956.html)	10 ppm	3 ppm
+Bromoform(http://www.cdc.gov/niosh/idlh/75252.html)	Unknown	850 ppm
+"1,3-Butadiene(http://www.cdc.gov/niosh/idlh/106990.html)"	"20,000 ppm [LEL]"	"2,000 ppm [LEL]"
+2-Butanone(http://www.cdc.gov/niosh/idlh/78933.html)	"3,000 ppm"	"3,000 ppm [Unch]"
+2-Butoxyethanol(http://www.cdc.gov/niosh/idlh/111762.html)	700 ppm	700 ppm [Unch]
+n-Butyl acetate(http://www.cdc.gov/niosh/idlh/123864.html)	"10,000 ppm"	"1,700 ppm [LEL]"
+sec-Butyl acetate(http://www.cdc.gov/niosh/idlh/105464.html)	"10,000 ppm"	"1,700 ppm [LEL]"
+tert-Butyl acetate(http://www.cdc.gov/niosh/idlh/540885.html)	"10,000 ppm"	"1,500 ppm [LEL]"
+n-Butyl alcohol(http://www.cdc.gov/niosh/idlh/71363.html)	"8,000 ppm"	"1,400 ppm [LEL]"
+sec-Butyl alcohol(http://www.cdc.gov/niosh/idlh/78922.html)	"10,000 ppm"	"2,000 ppm"
+tert-Butyl alcohol(http://www.cdc.gov/niosh/idlh/75650.html)	"8,000 ppm"	"1,600 ppm"
+n-Butylamine(http://www.cdc.gov/niosh/idlh/109739.html)	"2,000 ppm"	300 ppm
+tert-Butyl chromate(http://www.cdc.gov/niosh/idlh/1189851.html)	30 mg/m3 (as CrO3)	15 mg Cr(VI)/m3
+n-Butyl glycidyl ether(http://www.cdc.gov/niosh/idlh/2426086.html)	"3,500 ppm"	250 ppm
+n-Butyl mercaptan(http://www.cdc.gov/niosh/idlh/109795.html)	"2,500 ppm"	500 ppm
+p-tert-Butyltoluene(http://www.cdc.gov/niosh/idlh/98511.html)	"1,000 ppm"	100 ppm
+Cadmium dust (as Cd)(http://www.cdc.gov/niosh/idlh/7440439.html)	50 mg Cd/m3	9 mg Cd/m3
+Cadmium fume (as Cd)(http://www.cdc.gov/niosh/idlh/7440439.html)	9 mg Cd/m3	9 mg Cd/m3[Unc h]
+Calcium arsenate (as As)(http://www.cdc.gov/niosh/idlh/7778441.html)	100 mg As/m3	5 mg As/m3
+Calcium oxide(http://www.cdc.gov/niosh/idlh/1305788.html)	Unknown	25 mg/m3
+Camphor (synthetic)(http://www.cdc.gov/niosh/idlh/76222.html)	200 mg/m3	200 mg/m3 [Unch]
+Carbaryl(http://www.cdc.gov/niosh/idlh/63252.html)	600 mg/m3	100 mg/m3
+Carbon black(http://www.cdc.gov/niosh/idlh/1333864.html)	N.E.	"1,750 mg/m3"
+Carbon dioxide(http://www.cdc.gov/niosh/idlh/124389.html)	"50,000 ppm"	"40,000 ppm"
+Carbon disulfide(http://www.cdc.gov/niosh/idlh/75150.html)	500 ppm	500 ppm [Unch]
+Carbon monoxide(http://www.cdc.gov/niosh/idlh/630080.html)	"1,500 ppm"	"1,200 ppm"
+Carbon tetrachloride(http://www.cdc.gov/niosh/idlh/56235.html)	300 ppm	200 ppm
+Chlordane(http://www.cdc.gov/niosh/idlh/57749.html)	500 mg/m3	100 mg/m3
+Chlorinated camphene(http://www.cdc.gov/niosh/idlh/8001352.html)	200 mg/m3	200 mg/m3 [Unch]
+Chlorinated diphenyl oxide(http://www.cdc.gov/niosh/idlh/31242930.html)	Unknown	5 mg/m3
+Chlorine(http://www.cdc.gov/niosh/idlh/7782505.html)	30 ppm	10 ppm
+Chlorine dioxide(http://www.cdc.gov/niosh/idlh/10049044.html)	10 ppm	5 ppm
+Chlorine trifluoride(http://www.cdc.gov/niosh/idlh/7790912.html)	20 ppm	20 ppm [Unch]
+Chloroacetaldehyde(http://www.cdc.gov/niosh/idlh/107200.html)	100 ppm	45 ppm
+alpha-Chloroacetophenone(http://www.cdc.gov/niosh/idlh/532274.html)	100 mg/m3	15 mg/m3
+Chlorobenzene(http://www.cdc.gov/niosh/idlh/108907.html)	"2,400 ppm"	"1,000 ppm"
+o-Chlorobenzylidene malononitrile(http://www.cdc.gov/niosh/idlh/2698411.html)	2 mg/m3	2 mg/m3 [Unch]
+Chlorobromomethane(http://www.cdc.gov/niosh/idlh/74975.html)	"5,000 ppm"	"2,000 ppm"
+Chlorodiphenyl (42% chlorine)(http://www.cdc.gov/niosh/idlh/53469219.html)	10 mg/m3	5 mg/m3
+Chlorodiphenyl (54% chlorine)(http://www.cdc.gov/niosh/idlh/53469219.html)	5 mg/m3	5 mg/m3 [Unch]
+Chloroform(http://www.cdc.gov/niosh/idlh/67663.html)	"1,000 ppm"	500 ppm
+1-Chloro-1-nitropropane(http://www.cdc.gov/niosh/idlh/600259.html)	"2,000 ppm"	100 ppm
+Chloropicrin(http://www.cdc.gov/niosh/idlh/76062.html)	4 ppm	2 ppm
+beta-Chloroprene(http://www.cdc.gov/niosh/idlh/126998.html)	400 ppm	300 ppm
+Chromic acid and chromates(http://www.cdc.gov/niosh/idlh/1333820.html)	30 mg/m3 (as CrO3)	15 mg Cr(VI)/m3
+Chromium (II) compounds [as Cr(II)](http://www.cdc.gov/niosh/idlh/cr2m3.html)	N.E.	250 mg Cr(II)/m3
+Chromium (III) compounds [as Cr(III)](http://www.cdc.gov/niosh/idlh/cr3m3.html)	N.E.	25 mg Cr(III)/m3
+Chromium metal (as Cr)(http://www.cdc.gov/niosh/idlh/7440473.html)	N.E.	250 mg Cr/m3
+Coal tar pitch volatiles(http://www.cdc.gov/niosh/idlh/65996932.html)	700 mg/m3	80 mg/m3
+"Cobalt metal, dust and fume (as Co)(http://www.cdc.gov/niosh/idlh/7440484.html)"	20 mg Co/m3	20 mg Co/m3 [Unch]
+"Copper (dusts and mists, as Cu)(http://www.cdc.gov/niosh/idlh/7440508.html)"	N.E.	100 mg Cu/m3
+Copper fume (as Cu)(http://www.cdc.gov/niosh/idlh/1317380.html)	N.E.	100 mg Cu/m3
+Cotton dust (raw)(http://www.cdc.gov/niosh/idlh/cotdust.html)	N.E.	100 mg/m3
+Crag (r) herbicide(http://www.cdc.gov/niosh/idlh/136787.html)	"5,000 mg/m3"	500 mg/m3
+"Cresol (o, m, p isomers)(http://www.cdc.gov/niosh/idlh/cresol.html)"	250 ppm	250 ppm [Unch]
+Crotonaldehyde(http://www.cdc.gov/niosh/idlh/123739.html)	400 ppm	50 ppm
+Cumene(http://www.cdc.gov/niosh/idlh/98828.html)	"8,000 ppm"	900 ppm [LEL]
+Cyanides (as CN)(http://www.cdc.gov/niosh/idlh/cyanides.html)	50 mg/m3 (as CN)	25 mg/m3 (as CN)
+Cyclohexane(http://www.cdc.gov/niosh/idlh/110827.html)	"10,000 ppm"	"1,300 ppm [LEL]"
+Cyclohexanol(http://www.cdc.gov/niosh/idlh/108930.html)	"3,500 ppm"	400 ppm
+Cyclohexanone(http://www.cdc.gov/niosh/idlh/108941.html)	"5,000 ppm"	700 ppm
+Cyclohexene(http://www.cdc.gov/niosh/idlh/110838.html)	"10,000 ppm"	"2,000 ppm"
+Cyclopentadiene(http://www.cdc.gov/niosh/idlh/542927.html)	"2,000 ppm"	750 ppm
+"2,4-D(http://www.cdc.gov/niosh/idlh/94757.html)"	500 mg/m3	100 mg/m3
+DDT(http://www.cdc.gov/niosh/idlh/50293.html)	N.E.	500 mg/m3
+Decaborane(http://www.cdc.gov/niosh/idlh/17702419.html)	100 mg/m3	15 mg/m3
+Demeton(http://www.cdc.gov/niosh/idlh/8065483.html)	20 mg/m3	10 mg/m3
+Diacetone alcohol(http://www.cdc.gov/niosh/idlh/123422.html)	"2,100 ppm"	"1,800 ppm [LEL]"
+Diazomethane(http://www.cdc.gov/niosh/idlh/334883.html)	2 ppm	2 ppm [Unch]
+Diborane(http://www.cdc.gov/niosh/idlh/19287457.html)	40 ppm	15 ppm
+Dibutyl phosphate(http://www.cdc.gov/niosh/idlh/107664.html)	125 ppm	30 ppm
+Dibutyl phthalate(http://www.cdc.gov/niosh/idlh/84742.html)	"9,300 mg/m3"	"4,000 mg/m3"
+o-Dichlorobenzene(http://www.cdc.gov/niosh/idlh/95501.html)	"1,000 ppm"	200 ppm
+p-Dichlorobenzene(http://www.cdc.gov/niosh/idlh/106467.html)	"1,000 ppm"	150 ppm
+Dichlorodifluoromethane(http://www.cdc.gov/niosh/idlh/75718.html)	"50,000 ppm"	"15,000 ppm"
+"1,3-Dichloro 5,5-dimethylhydantoin(http://www.cdc.gov/niosh/idlh/118525.html)"	Unknown	5 mg/m3
+"1,1-Dichloroethane(http://www.cdc.gov/niosh/idlh/75343.html)"	"4,000 ppm"	"3,000 ppm"
+"1,2-Dichloroethylene(http://www.cdc.gov/niosh/idlh/540590.html)"	"4,000 ppm"	"1,000 ppm"
+Dichloroethyl ether(http://www.cdc.gov/niosh/idlh/111444.html)	250 ppm	100 ppm
+Dichloromonofluoromethane(http://www.cdc.gov/niosh/idlh/75434.html)	"50,000 ppm"	"5,000 ppm"
+"1,1-Dichloro 1-nitroethane(http://www.cdc.gov/niosh/idlh/594729.html)"	150 ppm	25 ppm
+Dichlorotetrafluoroethane(http://www.cdc.gov/niosh/idlh/76142.html)	"50,000 ppm"	"15,000 ppm"
+Dichlorvos(http://www.cdc.gov/niosh/idlh/62737.html)	200 mg/m3	100 mg/m3
+Dieldrin(http://www.cdc.gov/niosh/idlh/60571.html)	450 mg/m3	50 mg/m3
+Diethylamine(http://www.cdc.gov/niosh/idlh/109897.html)	"2,000 ppm"	200 ppm
+2-Diethylaminoethanol(http://www.cdc.gov/niosh/idlh/100378.html)	500 ppm	100 ppm
+Difluorodibromomethane(http://www.cdc.gov/niosh/idlh/75616.html)	"2,500 ppm"	"2,000 ppm"
+Diglycidyl ether(http://www.cdc.gov/niosh/idlh/2238075.html)	25 ppm	10 ppm
+Diisobutyl ketone(http://www.cdc.gov/niosh/idlh/108838.html)	"2,000 ppm"	500 ppm
+Diisopropylamine(http://www.cdc.gov/niosh/idlh/108189.html)	"1,000 ppm"	200 ppm
+Dimethyl acetamide(http://www.cdc.gov/niosh/idlh/127195.html)	400 ppm	300 ppm
+Dimethylamine(http://www.cdc.gov/niosh/idlh/124403.html)	"2,000 ppm"	500 ppm
+"N,N-Dimethylaniline(http://www.cdc.gov/niosh/idlh/121697.html)"	100 ppm	100 ppm [Unch]
+"Dimethyl 1,2-dibromo 2,2-dichlorethyl phosphate(http://www.cdc.gov/niosh/idlh/300765.html)"	"1,800 mg/m3"	200 mg/m3
+Dimethylformamide(http://www.cdc.gov/niosh/idlh/68122.html)	"3,500 ppm"	500 ppm
+"1,1-Dimethylhydrazine(http://www.cdc.gov/niosh/idlh/57147.html)"	50 ppm	15 ppm
+Dimethylphthalate(http://www.cdc.gov/niosh/idlh/131113.html)	"9,300 mg/m3"	"2,000 mg/m3"
+Dimethyl sulfate(http://www.cdc.gov/niosh/idlh/77781.html)	10 ppm	7 ppm
+"Dinitrobenzene (o, m, p isomers)(http://www.cdc.gov/niosh/idlh/528290.html)"	200 mg/m3	50 mg/m3
+Dinitroocresol(http://www.cdc.gov/niosh/idlh/534521.html)	5 mg/m3	5 mg/m3 [Unch]
+Dinitrotoluene(http://www.cdc.gov/niosh/idlh/25321146.html)	200 mg/m3	50 mg/m3
+Di sec-octyl phthalate(http://www.cdc.gov/niosh/idlh/117817.html)	Unknown	"5,000 mg/m3"
+Dioxane(http://www.cdc.gov/niosh/idlh/123911.html)	"2,000 ppm"	500 ppm
+Diphenyl(http://www.cdc.gov/niosh/idlh/92524.html)	300 mg/m3	100 mg/m3
+Dipropylene glycol methyl ether(http://www.cdc.gov/niosh/idlh/34590948.html)	Unknown	600 ppm
+Endrin(http://www.cdc.gov/niosh/idlh/72208.html)	"2,000 mg/m3"	2 mg/m3
+Epichlorohydrin(http://www.cdc.gov/niosh/idlh/106898.html)	250 ppm	75 ppm
+EPN(http://www.cdc.gov/niosh/idlh/2104645.html)	50 mg/m3	5 mg/m3
+Ethanolamine(http://www.cdc.gov/niosh/idlh/141435.html)	"1,000 ppm"	30 ppm
+2-Ethoxyethanol(http://www.cdc.gov/niosh/idlh/110805.html)	"6,000 ppm"	500 ppm
+2-Ethoxyethyl acetate(http://www.cdc.gov/niosh/idlh/111159.html)	"2,500 ppm"	500 ppm
+Ethyl acetate(http://www.cdc.gov/niosh/idlh/141786.html)	"10,000 ppm"	"2,000 ppm [LEL]"
+Ethyl acrylate(http://www.cdc.gov/niosh/idlh/140885.html)	"2,000 ppm"	300 ppm
+Ethyl alcohol(http://www.cdc.gov/niosh/idlh/64175.html)	"15,000 ppm"	"3,300 ppm [LEL]"
+Ethylamine(http://www.cdc.gov/niosh/idlh/75047.html)	"4,000 ppm"	600 ppm
+Ethyl benzene(http://www.cdc.gov/niosh/idlh/100414.html)	"2,000 ppm"	800 ppm [LEL]
+Ethyl bromide(http://www.cdc.gov/niosh/idlh/74964.html)	"3,500 ppm"	"2,000 ppm"
+Ethyl butyl ketone(http://www.cdc.gov/niosh/idlh/106354.html)	"3,000 ppm"	"1,000 ppm"
+Ethyl chloride(http://www.cdc.gov/niosh/idlh/75003.html)	"20,000 ppm"	"3,800 ppm [LEL]"
+Ethylene chlorohydrin(http://www.cdc.gov/niosh/idlh/107073.html)	10 ppm	7 ppm
+Ethylenediamine(http://www.cdc.gov/niosh/idlh/107153.html)	"2,000 ppm"	"1,000 ppm"
+Ethylene dibromide(http://www.cdc.gov/niosh/idlh/106934.html)	400 ppm	100 ppm
+Ethylene dichloride(http://www.cdc.gov/niosh/idlh/107062.html)	"1,000 ppm"	50 ppm
+Ethylene glycol dinitrate(http://www.cdc.gov/niosh/idlh/628966.html)	500 mg/m3	75 mg/m3
+Ethyleneimine(http://www.cdc.gov/niosh/idlh/151564.html)	100 ppm	100 ppm [Unch]
+Ethylene oxide(http://www.cdc.gov/niosh/idlh/75218.html)	800 ppm	800 ppm [Unch]
+Ethyl ether(http://www.cdc.gov/niosh/idlh/60297.html)	"19,000 ppm [LEL]"	"1,900 ppm [LEL]"
+Ethyl formate(http://www.cdc.gov/niosh/idlh/109944.html)	"8,000 ppm"	"1,500 ppm"
+Ethyl mercaptan(http://www.cdc.gov/niosh/idlh/75081.html)	"2,500 ppm"	500 ppm
+N-Ethylmorpholine(http://www.cdc.gov/niosh/idlh/100743.html)	"2,000 ppm"	100 ppm
+Ethyl silicate(http://www.cdc.gov/niosh/idlh/78104.html)	"1,000 ppm"	700 ppm
+Ferbam(http://www.cdc.gov/niosh/idlh/14484641.html)	N.E.	800 mg/m3
+Ferrovanadium dust(http://www.cdc.gov/niosh/idlh/12604589.html)	N.E.	500 mg/m3
+Fluorides (as F)(http://www.cdc.gov/niosh/idlh/fluoride.html)	500 mg F/m3	250 mg F/m3
+Fluorine(http://www.cdc.gov/niosh/idlh/7782414.html)	25 ppm	25 ppm [Unch]
+Fluorotrichloromethane(http://www.cdc.gov/niosh/idlh/75694.html)	"10,000 ppm"	"2,000 ppm"
+Formaldehyde(http://www.cdc.gov/niosh/idlh/50000.html)	30 ppm	20 ppm
+Formic acid(http://www.cdc.gov/niosh/idlh/64186.html)	30 ppm	30 ppm [Unch]
+Furfural(http://www.cdc.gov/niosh/idlh/98011.html)	250 ppm	100 ppm
+Furfuryl alcohol(http://www.cdc.gov/niosh/idlh/98000.html)	250 ppm	75 ppm
+Glycidol(http://www.cdc.gov/niosh/idlh/556525.html)	500 ppm	150 ppm
+Graphite (natural)(http://www.cdc.gov/niosh/idlh/7782425.html)	N.E.	"1,250 mg/m3"
+Hafnium compounds (as Hf)(http://www.cdc.gov/niosh/idlh/7440586.html)	Unknown	50 mg Hf/m3
+Heptachlor(http://www.cdc.gov/niosh/idlh/76448.html)	700 mg/m3	35 mg/m3
+n-Heptane(http://www.cdc.gov/niosh/idlh/142825.html)	"5,000 ppm"	750 ppm
+Hexachloroethane(http://www.cdc.gov/niosh/idlh/67721.html)	300 ppm	300 ppm [Unch]
+Hexachloronaphthalene(http://www.cdc.gov/niosh/idlh/1335871.html)	2 mg/m3	2 mg/m3 [Unch]
+n-Hexane(http://www.cdc.gov/niosh/idlh/110543.html)	"5,000 ppm"	"1,100 ppm [LEL]"
+2-Hexanone(http://www.cdc.gov/niosh/idlh/591786.html)	"5,000 ppm"	"1,600 ppm"
+Hexone(http://www.cdc.gov/niosh/idlh/108101.html)	"3,000 ppm"	500 ppm
+sec Hexyl acetate(http://www.cdc.gov/niosh/idlh/108849.html)	"4,000 ppm"	500 ppm
+Hydrazine(http://www.cdc.gov/niosh/idlh/302012.html)	80 ppm	50 ppm
+Hydrogen bromide(http://www.cdc.gov/niosh/idlh/10035106.html)	50 ppm	30 ppm
+Hydrogen chloride(http://www.cdc.gov/niosh/idlh/7647010.html)	100 ppm	50 ppm
+Hydrogen cyanide(http://www.cdc.gov/niosh/idlh/74908.html)	50 ppm	50 ppm [Unch]
+Hydrogen fluoride (as F)(http://www.cdc.gov/niosh/idlh/7664393.html)	30 ppm	30 ppm [Unch]
+Hydrogen peroxide(http://www.cdc.gov/niosh/idlh/772841.html)	75 ppm	75 ppm [Unch]
+Hydrogen selenide (as Se)(http://www.cdc.gov/niosh/idlh/7783075.html)	2 ppm	1 ppm
+Hydrogen sulfide(http://www.cdc.gov/niosh/idlh/7783064.html)	300 ppm	100 ppm
+Hydroquinone(http://www.cdc.gov/niosh/idlh/123319.html)	Unknown	50 mg/m3
+Iodine(http://www.cdc.gov/niosh/idlh/7553562.html)	10 ppm	2 ppm
+Iron oxide dust and fume (as Fe)(http://www.cdc.gov/niosh/idlh/1309371.html)	N.E.	"2,500 mg Fe/m3"
+Isoamyl acetate(http://www.cdc.gov/niosh/idlh/123922.html)	"3,000 ppm"	"1,000 ppm"
+Isoamyl alcohol (primary and secondary)(http://www.cdc.gov/niosh/idlh/123513.html)	"10,000 ppm"	500 ppm
+Isobutyl acetate(http://www.cdc.gov/niosh/idlh/110190.html)	"7,500 ppm"	"1,300 ppm [LEL]"
+Isobutyl alcohol(http://www.cdc.gov/niosh/idlh/78831.html)	"8,000 ppm"	"1,600 ppm"
+Isophorone(http://www.cdc.gov/niosh/idlh/78591.html)	800 ppm	200 ppm
+Isopropyl acetate(http://www.cdc.gov/niosh/idlh/108214.html)	"16,000 ppm"	"1,800 ppm"
+Isopropyl alcohol(http://www.cdc.gov/niosh/idlh/67630.html)	"12,000 ppm"	"2,000 ppm [LEL]"
+Isopropylamine(http://www.cdc.gov/niosh/idlh/75310.html)	"4,000 ppm"	750 ppm
+Isopropyl ether(http://www.cdc.gov/niosh/idlh/108203.html)	"10,000 ppm"	"1,400 ppm [LEL]"
+Isopropyl glycidyl ether(http://www.cdc.gov/niosh/idlh/4016142.html)	"1,000 ppm"	400 ppm
+Ketene(http://www.cdc.gov/niosh/idlh/463514.html)	Unknown	5 ppm
+Lead compounds (as Pb)(http://www.cdc.gov/niosh/idlh/7439921.html)	700 mg Pb/m3	100 mg Pb/m3
+Lindane(http://www.cdc.gov/niosh/idlh/58899.html)	"1,000 mg/m3"	50 mg/m3
+Lithium hydride(http://www.cdc.gov/niosh/idlh/7580678.html)	55 mg/m3	0.5 mg/m3
+L.P.G.(http://www.cdc.gov/niosh/idlh/68476857.html)	"19,000 ppm [LEL]"	"2,000 ppm [LEL]"
+Magnesium oxide fume(http://www.cdc.gov/niosh/idlh/1309484.html)	N.E.	750 mg/m3
+Malathion(http://www.cdc.gov/niosh/idlh/121755.html)	"5,000 mg/m3"	250 mg/m3
+Maleic anhydride(http://www.cdc.gov/niosh/idlh/108316.html)	Unknown	10 mg/m3
+Manganese compounds (as Mn)(http://www.cdc.gov/niosh/idlh/7439965.html)	N.E.	500 mg Mn/m3
+"Mercury compounds [except (organo) alkyls, as Hg](http://www.cdc.gov/niosh/idlh/7439976.html)"	28 mg Hg/m3	10 mg Hg/m3
+Mercury (organo) alkyl compounds(as Hg)(http://www.cdc.gov/niosh/idlh/merc-hg.html)	10 mg Hg/m3	2 mg Hg/m3
+Mesityl oxide(http://www.cdc.gov/niosh/idlh/141797.html)	"5,000 ppm"	"1,400 ppm [LEL]"
+Methoxychlor(http://www.cdc.gov/niosh/idlh/72435.html)	N.E.	"5,000 mg/m3"
+Methyl acetate(http://www.cdc.gov/niosh/idlh/79209.html)	"10,000 ppm"	"3,100 ppm [LEL]"
+Methyl acetylene(http://www.cdc.gov/niosh/idlh/74997.html)	"15,000 ppm [LEL]"	"1,700 ppm [LEL]"
+Methyl acetylenepropadiene mixture(http://www.cdc.gov/niosh/idlh/59355758.html)	"15,000 ppm"	"3,400 ppm [LEL]"
+Methyl acrylate(http://www.cdc.gov/niosh/idlh/96333.html)	"1,000 ppm"	250 ppm
+Methylal(http://www.cdc.gov/niosh/idlh/109875.html)	"15,000 ppm [LEL]"	"2,200 ppm [LEL]"
+Methyl alcohol(http://www.cdc.gov/niosh/idlh/67561.html)	"25,000 ppm"	"6,000 ppm"
+Methylamine(http://www.cdc.gov/niosh/idlh/74895.html)	100 ppm	100 ppm [Unch]
+Methyl (namyl) ketone(http://www.cdc.gov/niosh/idlh/110430.html)	"4,000 ppm"	800 ppm
+Methyl bromide(http://www.cdc.gov/niosh/idlh/74839.html)	"2,000 ppm"	250 ppm
+Methyl Cellosolve (r)(http://www.cdc.gov/niosh/idlh/109864.html)	"2,000 ppm"	200 ppm
+Methyl Cellosolve (r) acetate(http://www.cdc.gov/niosh/idlh/110496.html)	"4,000 ppm"	200 ppm
+Methyl chloride(http://www.cdc.gov/niosh/idlh/74873.html)	"10,000 ppm"	"2,000 ppm"
+Methyl chloroform(http://www.cdc.gov/niosh/idlh/71556.html)	"1,000 ppm"	700 ppm
+Methylcyclohexane(http://www.cdc.gov/niosh/idlh/108872.html)	"10,000 ppm"	"1,200 ppm [LEL]"
+Methylcyclohexanol(http://www.cdc.gov/niosh/idlh/25639423.html)	"10,000 ppm"	500 ppm
+o-Methylcyclohexanone(http://www.cdc.gov/niosh/idlh/583608.html)	"2,500 ppm"	600 ppm
+Methylene bisphenyl isocyanate(http://www.cdc.gov/niosh/idlh/101688.html)	100 mg/m3	75 mg/m3
+Methylene chloride(http://www.cdc.gov/niosh/idlh/75092.html)	"5,000 ppm"	"2,300 ppm"
+Methyl formate(http://www.cdc.gov/niosh/idlh/107313.html)	"5,000 ppm"	"4,500 ppm"
+5-Methyl 3-heptanone(http://www.cdc.gov/niosh/idlh/541855.html)	"3,000 ppm"	100 ppm
+Methyl hydrazine(http://www.cdc.gov/niosh/idlh/60344.html)	50 ppm	20 ppm
+Methyl iodide(http://www.cdc.gov/niosh/idlh/74884.html)	800 ppm	100 ppm
+Methyl isobutyl carbinol(http://www.cdc.gov/niosh/idlh/108112.html)	"2,000 ppm"	400 ppm
+Methyl isocyanate(http://www.cdc.gov/niosh/idlh/624839.html)	20 ppm	3 ppm
+Methyl mercaptan(http://www.cdc.gov/niosh/idlh/74931.html)	400 ppm	150 ppm
+Methyl methacrylate(http://www.cdc.gov/niosh/idlh/80626.html)	"4,000 ppm"	"1,000 ppm"
+Methyl styrene(http://www.cdc.gov/niosh/idlh/98839.html)	"5,000 ppm"	700 ppm
+Mica(http://www.cdc.gov/niosh/idlh/12001262.html)	N.E.	"1,500 mg/m3"
+"Molybdenum (insoluble compounds, as Mo)(http://www.cdc.gov/niosh/idlh/7439987.html)"	N.E.	"5,000 mg Mo/m3"
+"Molybdenum (soluble compounds, as Mo)(http://www.cdc.gov/niosh/idlh/moly-mo.html)"	N.E.	"1,000 mg Mo/m3"
+Monomethyl aniline(http://www.cdc.gov/niosh/idlh/100618.html)	100 ppm	100 ppm [Unch]
+Morpholine(http://www.cdc.gov/niosh/idlh/110918.html)	"8,000 ppm"	"1,400 ppm [LEL]"
+Naphtha (coal tar)(http://www.cdc.gov/niosh/idlh/8030306.html)	"10,000 ppm [LEL]"	"1,000 ppm [LEL]"
+Naphthalene(http://www.cdc.gov/niosh/idlh/91203.html)	500 ppm	250 ppm
+Nickel carbonyl (as Ni)(http://www.cdc.gov/niosh/idlh/13463393.html)	7 ppm	2 ppm
+Nickel metal and other compounds (as Ni)(http://www.cdc.gov/niosh/idlh/7440020.html)	N.E.	10 mg Ni/m3
+Nicotine(http://www.cdc.gov/niosh/idlh/54115.html)	35 mg/m3	5 mg/m3
+Nitric acid(http://www.cdc.gov/niosh/idlh/7697372.html)	100 ppm	25 ppm
+Nitric oxide(http://www.cdc.gov/niosh/idlh/10102439.html)	100 ppm	100 ppm [Unch]
+p-Nitroaniline(http://www.cdc.gov/niosh/idlh/100016.html)	300 mg/m3	300 mg/m3 [Unch]
+Nitrobenzene(http://www.cdc.gov/niosh/idlh/98953.html)	200 ppm	200 ppm [Unch]
+p-Nitrochlorobenzene(http://www.cdc.gov/niosh/idlh/100005.html)	"1,000 mg/m3"	100 mg/m3
+Nitroethane(http://www.cdc.gov/niosh/idlh/79243.html)	"1,000 ppm"	"1,000 ppm [Unch]"
+Nitrogen dioxide(http://www.cdc.gov/niosh/idlh/10102440.html)	50 ppm	20 ppm
+Nitrogen trifluoride(http://www.cdc.gov/niosh/idlh/7783542.html)	"2,000 ppm"	"1,000 ppm"
+Nitroglycerine(http://www.cdc.gov/niosh/idlh/55630.html)	500 mg/m3	75 mg/m3
+Nitromethane(http://www.cdc.gov/niosh/idlh/75525.html)	"1,000 ppm"	750 ppm
+1-Nitropropane(http://www.cdc.gov/niosh/idlh/108032.html)	"2,300 ppm"	"1,000 ppm"
+2-Nitropropane(http://www.cdc.gov/niosh/idlh/79469.html)	"2,300 ppm"	100 ppm
+"Nitrotoluene (o, m, p isomers)(http://www.cdc.gov/niosh/idlh/88722.html)"	200 ppm	200 ppm [Unch]
+Octachloronaphthalene(http://www.cdc.gov/niosh/idlh/2234131.html)	Unknown	Unknown [Unch]
+Octane(http://www.cdc.gov/niosh/idlh/111659.html)	"5,000 ppm"	"1,000 ppm [LEL]"
+Oil mist (mineral)(http://www.cdc.gov/niosh/idlh/8012951.html)	N.E.	"2,500 mg/m3"
+Osmium tetroxide (as Os)(http://www.cdc.gov/niosh/idlh/20816120.html)	1 mg Os/m3	1 mg Os/m3 [Unch]
+Oxalic acid(http://www.cdc.gov/niosh/idlh/144627.html)	500 mg/m3	500 mg/m3 [Unch]
+Oxygen difluoride(http://www.cdc.gov/niosh/idlh/7783417.html)	0.5 ppm	0.5 ppm [Unch]
+Ozone(http://www.cdc.gov/niosh/idlh/10028156.html)	10 ppm	5 ppm
+Paraquat(http://www.cdc.gov/niosh/idlh/1910425.html)	1.5 mg/m3	1 mg/m3
+Parathion(http://www.cdc.gov/niosh/idlh/56382.html)	20 mg/m3	10 mg/m3
+Pentaborane(http://www.cdc.gov/niosh/idlh/19624227.html)	3 ppm	1 ppm
+Pentachloronaphthalene(http://www.cdc.gov/niosh/idlh/1321648.html)	Unknown	Unknown [Unch]
+Pentachlorophenol(http://www.cdc.gov/niosh/idlh/87865.html)	150 mg/m3	2.5 mg/m3
+n-Pentane(http://www.cdc.gov/niosh/idlh/109660.html)	"15,000 ppm [LEL]"	"1,500 ppm [LEL]"
+2-Pentanone(http://www.cdc.gov/niosh/idlh/107879.html)	"5,000 ppm"	"1,500 ppm"
+Perchloromethyl mercaptan(http://www.cdc.gov/niosh/idlh/594423.html)	10 ppm	10 ppm [Unch]
+Perchloryl fluoride(http://www.cdc.gov/niosh/idlh/7616946.html)	385 ppm	100 ppm
+Petroleum distillates (naphtha)(http://www.cdc.gov/niosh/idlh/8002059.html)	"10,000 ppm"	"1,100 ppm [LEL]"
+Phenol(http://www.cdc.gov/niosh/idlh/108952.html)	250 ppm	250 ppm [Unch]
+p-Phenylene diamine(http://www.cdc.gov/niosh/idlh/106503.html)	Unknown	25 mg/m3
+Phenyl ether (vapor)(http://www.cdc.gov/niosh/idlh/101848.html)	N.E.	100 ppm
+Phenyl etherbiphenyl mixture (vapor)(http://www.cdc.gov/niosh/idlh/8004135.html)	N.E.	10 ppm
+Phenyl glycidyl ether(http://www.cdc.gov/niosh/idlh/122601.html)	Unknown	100 ppm
+Phenylhydrazine(http://www.cdc.gov/niosh/idlh/100630.html)	295 ppm	15 ppm
+Phosdrin(http://www.cdc.gov/niosh/idlh/7786347.html)	4 ppm	4 ppm [Unch]
+Phosgene(http://www.cdc.gov/niosh/idlh/75445.html)	2 ppm	2 ppm [Unch]
+Phosphine(http://www.cdc.gov/niosh/idlh/7803512.html)	200 ppm	50 ppm
+Phosphoric acid(http://www.cdc.gov/niosh/idlh/7664382.html)	"10,000 mg/m3"	"1,000 mg/m3"
+Phosphorus (yellow)(http://www.cdc.gov/niosh/idlh/7723140.html)	N.E.	5 mg/m3
+Phosphorus pentachloride(http://www.cdc.gov/niosh/idlh/10026138.html)	200 mg/m3	70 mg/m3
+Phosphorus pentasulfide(http://www.cdc.gov/niosh/idlh/1314803.html)	750 mg/m3	250 mg/m3
+Phosphorus trichloride(http://www.cdc.gov/niosh/idlh/7719122.html)	50 ppm	25 ppm
+Phthalic anhydride(http://www.cdc.gov/niosh/idlh/85449.html)	"10,000 mg/m3"	60 mg/m3
+Picric acid(http://www.cdc.gov/niosh/idlh/88891.html)	100 mg/m3	75 mg/m3
+Pindone(http://www.cdc.gov/niosh/idlh/83261.html)	200 mg/m3	100 mg/m3
+"Platinum (soluble salts, as Pt)(http://www.cdc.gov/niosh/idlh/platinum.html)"	N.E.	4 mg Pt/m3
+Portland cement(http://www.cdc.gov/niosh/idlh/65997151.html)	N.E.	"5,000 mg/m3"
+Propane(http://www.cdc.gov/niosh/idlh/74986.html)	"20,000 ppm [LEL]"	"2,100 ppm [LEL]"
+n-Propyl acetate(http://www.cdc.gov/niosh/idlh/109604.html)	"8,000 ppm"	"1,700 ppm"
+n-Propyl alcohol(http://www.cdc.gov/niosh/idlh/71238.html)	"4,000 ppm"	800 ppm
+Propylene dichloride(http://www.cdc.gov/niosh/idlh/78875.html)	"2,000 ppm"	400 ppm
+Propylene imine(http://www.cdc.gov/niosh/idlh/75558.html)	500 ppm	100 ppm
+Propylene oxide(http://www.cdc.gov/niosh/idlh/75569.html)	"2,000 ppm"	400 ppm
+n-Propyl nitrate(http://www.cdc.gov/niosh/idlh/627134.html)	"2,000 ppm"	500 ppm
+Pyrethrum(http://www.cdc.gov/niosh/idlh/8003347.html)	"5,000 mg/m3"	"5,000 mg/m3 [Unch]"
+Pyridine(http://www.cdc.gov/niosh/idlh/110861.html)	"3,600 ppm"	"1,000 ppm"
+Quinone(http://www.cdc.gov/niosh/idlh/106514.html)	300 mg/m3	100 mg/m3
+"Rhodium (metal fume and insoluble compounds, as Rh)(http://www.cdc.gov/niosh/idlh/7440166.html)"	N.E.	100 mg Rh/m3
+"Rhodium (soluble compounds, as Rh)(http://www.cdc.gov/niosh/idlh/rhodium.html)"	N.E.	2 mg Rh/m3
+Ronnel(http://www.cdc.gov/niosh/idlh/299843.html)	"5,000 mg/m3"	300 mg/m3
+Rotenone(http://www.cdc.gov/niosh/idlh/83794.html)	Unknown	"2,500 mg/m3"
+Selenium compounds (as Se)(http://www.cdc.gov/niosh/idlh/7782492.html)	Unknown	1 mg Se/m3
+Selenium hexafluoride(http://www.cdc.gov/niosh/idlh/7783791.html)	5 ppm	2 ppm
+"Silica, amorphous(http://www.cdc.gov/niosh/idlh/7631869.html)"	N.E.	"3,000 mg/m3"
+"Silica, crystalline (respirable dust)"	N.E.	
+cristobalite/tridymite:(http://www.cdc.gov/niosh/idlh/14808607.html)		25 mg/m3
+quartz/tripoli:(http://www.cdc.gov/niosh/idlh/14808607.html)		50 mg/m3
+"Silver (metal dust and soluble compounds, as Ag)(http://www.cdc.gov/niosh/idlh/7440224.html)"	N.E.	10 mg Ag/m3
+Soapstone(http://www.cdc.gov/niosh/idlh/soapston.html)	N.E.	"3,000 mg/m3"
+Sodium fluoroacetate(http://www.cdc.gov/niosh/idlh/62748.html)	5 mg/m3	2.5 mg/m3
+Sodium hydroxide(http://www.cdc.gov/niosh/idlh/1310732.html)	250 mg/m3	10 mg/m3
+Stibine(http://www.cdc.gov/niosh/idlh/7803523.html)	40 ppm	5 ppm
+Stoddard solvent(http://www.cdc.gov/niosh/idlh/8052413.html)	"29,500 mg/m3"	"20,000 mg/m3"
+Strychnine(http://www.cdc.gov/niosh/idlh/57249.html)	3 mg/m3	3 mg/m3 [Unch]
+Styrene(http://www.cdc.gov/niosh/idlh/100425.html)	"5,000 ppm"	700 ppm
+Sulfur dioxide(http://www.cdc.gov/niosh/idlh/7446095.html)	100 ppm	100 ppm [Unch]
+Sulfuric acid(http://www.cdc.gov/niosh/idlh/7664939.html)	80 mg/m3	15 mg/m3
+Sulfur monochloride(http://www.cdc.gov/niosh/idlh/10025679.html)	10 ppm	5 ppm
+Sulfur pentafluoride(http://www.cdc.gov/niosh/idlh/5714227.html)	1 ppm	1 ppm [Unch]
+Sulfuryl fluoride(http://www.cdc.gov/niosh/idlh/2699798.html)	"1,000 ppm"	200 ppm
+"2,4,5-T(http://www.cdc.gov/niosh/idlh/93765.html)"	Unknown	250 mg/m3
+Talc(http://www.cdc.gov/niosh/idlh/14807966.html)	N.E.	"1,000 mg/m3"
+"Tantalum (metal and oxide dust, as Ta)(http://www.cdc.gov/niosh/idlh/7440257.html)"	N.E.	"2,500 mg Ta/m3"
+TEDP(http://www.cdc.gov/niosh/idlh/3689245.html)	35 mg/m3	10 mg/m3
+Tellurium compounds (as Te)(http://www.cdc.gov/niosh/idlh/13494809.html)	N.E.	25 mg Te/m3
+Tellurium hexafluoride(http://www.cdc.gov/niosh/idlh/7783804.html)	1 ppm	1 ppm [Unch]
+TEPP(http://www.cdc.gov/niosh/idlh/107493.html)	10 mg/m3	5 mg/m3
+"Terphenyl (o, m, p isomers)(http://www.cdc.gov/niosh/idlh/26140603.html)"	Unknown	500 mg/m3
+"1,1,1,2-Tetrachloro 2,2-difluoroethane(http://www.cdc.gov/niosh/idlh/76119.html)"	"15,000 ppm"	"2,000 ppm"
+"1,1,2,2-Tetrachloro 1,2-difluoroethane(http://www.cdc.gov/niosh/idlh/76120.html)"	"15,000 ppm"	"2,000 ppm"
+"1,1,2,2-Tetrachloroethane(http://www.cdc.gov/niosh/idlh/79345.html)"	150 ppm	100 ppm
+Tetrachloroethylene(http://www.cdc.gov/niosh/idlh/127184.html)	500 ppm	150 ppm
+Tetrachloronaphthalene(http://www.cdc.gov/niosh/idlh/1335882.html)	Unknown	Unknown [Unch]
+Tetraethyl lead (as Pb)(http://www.cdc.gov/niosh/idlh/78002.html)	40 mg Pb/m3	40 mg Pb/m3 [Unch]
+Tetrahydrofuran(http://www.cdc.gov/niosh/idlh/109999.html)	"20,000 ppm [LEL]"	"2,000 ppm [LEL]"
+Tetramethyl lead (as Pb)(http://www.cdc.gov/niosh/idlh/75741.html)	40 mg Pb/m3	40 mg Pb/m3 [Unch]
+Tetramethyl succinonitrile(http://www.cdc.gov/niosh/idlh/3333526.html)	5 ppm	5 ppm [Unch]
+Tetranitromethane(http://www.cdc.gov/niosh/idlh/509148.html)	5 ppm	4 ppm
+Tetryl(http://www.cdc.gov/niosh/idlh/479458.html)	N.E.	750 mg/m3
+"Thallium (soluble compounds, as Tl)(http://www.cdc.gov/niosh/idlh/thallium.html)"	20 mg Tl/m3	15 mg Tl/m3
+Thiram(http://www.cdc.gov/niosh/idlh/137268.html)	"1,500 mg/m3"	100 mg/m3
+"Tin (inorganic compounds, as Sn)(http://www.cdc.gov/niosh/idlh/7440315.html)"	400 mg Sn/m3	100 mg Sn/m3
+"Tin (organic compounds, as Sn)(http://www.cdc.gov/niosh/idlh/tin-org.html)"	Unknown	25 mg Sn/m3
+Titanium dioxide(http://www.cdc.gov/niosh/idlh/13463677.html)	N.E.	"5,000 mg/m3"
+Toluene(http://www.cdc.gov/niosh/idlh/108883.html)	"2,000 ppm"	500 ppm
+"Toluene 2,4-diisocyanate(http://www.cdc.gov/niosh/idlh/584849.html)"	10 ppm	2.5 ppm
+o-Toluidine(http://www.cdc.gov/niosh/idlh/95534.html)	100 ppm	50 ppm
+Tributyl phosphate(http://www.cdc.gov/niosh/idlh/126738.html)	125 ppm	30 ppm
+"1,1,2-Trichloroethane(http://www.cdc.gov/niosh/idlh/79005.html)"	500 ppm	100 ppm
+Trichloroethylene(http://www.cdc.gov/niosh/idlh/79016.html)	"1,000 ppm"	"1,000 ppm [Unch]"
+Trichloronaphthalene(http://www.cdc.gov/niosh/idlh/1321659.html)	Unknown	Unknown [Unch]
+"1,2,3-Trichloropropane(http://www.cdc.gov/niosh/idlh/96184.html)"	"1,000 ppm"	100 ppm
+"1,1,2-Trichloro 1,2,2-trifluoroethane(http://www.cdc.gov/niosh/idlh/76131.html)"	"4,500 ppm"	"2,000 ppm"
+Triethylamine(http://www.cdc.gov/niosh/idlh/121448.html)	"1,000 ppm"	200 ppm
+Trifluorobromomethane(http://www.cdc.gov/niosh/idlh/75638.html)	"50,000 ppm"	"40,000 ppm"
+"2,4,6-Trinitrotoluene(http://www.cdc.gov/niosh/idlh/118967.html)"	"1,000 mg/m3"	500 mg/m3
+Triorthocresyl phosphate(http://www.cdc.gov/niosh/idlh/78308.html)	40 mg/m3	40 mg/m3 [Unch]
+Triphenyl phosphate(http://www.cdc.gov/niosh/idlh/115866.html)	N.E.	"1,000 mg/m3"
+Turpentine(http://www.cdc.gov/niosh/idlh/8006642.html)	"1,500 ppm"	800 ppm
+"Uranium (insoluble compounds, as U)(http://www.cdc.gov/niosh/idlh/7440611.html)"	30 mg U/m3	10 mg U/m3
+"Uranium (soluble compounds, as U)(http://www.cdc.gov/niosh/idlh/uranium.html)"	20 mg U/m3	10 mg U/m3
+Vanadium dust(http://www.cdc.gov/niosh/idlh/vandust.html)	70 mg/m3 (as V2O5)	35 mg V/m3
+Vanadium fume(http://www.cdc.gov/niosh/idlh/vanfume.html)	70 mg/m3 (as V2O5)	35 mg V/m3
+Vinyl toluene(http://www.cdc.gov/niosh/idlh/25013154.html)	"5,000 ppm"	400 ppm
+Warfarin(http://www.cdc.gov/niosh/idlh/81812.html)	350 mg/m3	100 mg/m3
+"Xylene (o, m, p isomers)(http://www.cdc.gov/niosh/idlh/95476.html)"	"1,000 ppm"	900 ppm
+Xylidine(http://www.cdc.gov/niosh/idlh/1300738.html)	150 ppm	50 ppm
+Yttrium compounds (as Y)(http://www.cdc.gov/niosh/idlh/7440655.html)	N.E.	500 mg Y/m3
+Zinc chloride fume(http://www.cdc.gov/niosh/idlh/7646857.html)	"4,800 mg/m3"	50 mg/m3
+Zinc oxide(http://www.cdc.gov/niosh/idlh/1314132.html)	"2,500 mg/m3"	500 mg/m3
+Zirconium compounds (as Zr)(http://www.cdc.gov/niosh/idlh/7440677.html)	500 mg Zr/m3	25 mg Zr/m3

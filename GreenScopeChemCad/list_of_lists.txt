@@ -1,0 +1,2012 @@
+Abamectin	ABAMECTIN AVERMECTIN B1	71751412	71751-41-2 				313								
+Acenaphthene	ACENAPHTHENE	83329	83-32-9 			100									
+Acenaphthylene	ACENAPHTHYLENE	208968	208-96-8 			"5,000"									
+Acephate	ACEPHATE	30560191	30560-19-1 				313								
+Acetaldehyde	ACETALDEHYDE	75070	75-07-0 			"1,000"	313	U001	"10,000"						
+"Acetaldehyde, trichloro-"	"ACETALDEHYDE, TRICHLORO-"	75876	75-87-6 			"5,000"		U034							
+Acetamide	ACETAMIDE	60355	60-35-5 			100	313								
+Acetic acid	ACETICACID	64197	64-19-7 			"5,000"									
+"Acetic acid, (2,4-dichlorophenoxy)-"	ACETICACIDDICHLOROPHENOXY)-	94757	94-75-7 			100	X	U240							
+Acetic acid ethenyl ester	ACETICACIDETHENYLESTER	108054	108-05-4 	"1,000"	"5,000"	"5,000"	X		"15,000"						
+Acetic anhydride	ACETICANHYDRIDE	108247	108-24-7 			"5,000"									
+Acetone	ACETONE	67641	67-64-1 			"5,000"		U002							
+Acetone cyanohydrin	ACETONE CYANOHYDRIN	75865	75-86-5 	"1,000"	10	10	X	P069							
+Acetone thiosemicarbazide	ACETONE THIOSEMICARBAZIDE	1752303	1752-30-3 	"1,000/10,000"	"1,000"										
+Acetonitrile	ACETONITRILE	75058	75-05-8 			"5,000"	313	U003							
+Acetophenone	ACETOPHENONE	98862	98-86-2 			"5,000"	313	U004							
+2-Acetylaminofluorene	ACETYLAMINOFLUOREN	53963	53-96-3 			1	313	U005							
+Acetyl bromide	ACETYLBROMIDE	506967	506-96-7 			"5,000"									
+Acetyl chloride	ACETYLCHLORIDE	75365	75-36-5 			"5,000"		U006							
+Acetylene	ACETYLENE	74862	74-86-2 						"10,000"						
+"Acetylphosphoramidothioic acid O,S-dimethyl ester"	ACETYLPHOSPHORAMIDOTHIOICACIDDIMETHYL ESTER	30560191	30560-19-1 				X								
+1-Acetyl-2-thiourea	ACETYLTHIOUREA	591082	591-08-2 			"1,000"		P002							
+"Acifluorfen, sodium salt"	"ACIFLUORFEN, SODIUM SALT"	62476599	62476-59-9 				313								
+Acrolein	ACROLEIN	107028	107-02-8 	500	1	1	313	P003	"5,000"						
+Acrylamide	ACRYLAMIDE	79061	79-06-1 	"1,000/10,000"	"5,000"	"5,000"	313	U007							
+Acrylic acid	ACRYLICACID	79107	79-10-7 			"5,000"	313	U008							
+Acrylonitrile	ACRYLONITRILE	107131	107-13-1 	"10,000"	100	100	313	U009	"20,000"						
+Acrylyl chloride	ACRYLYL CHLORIDE	814686	814-68-6 	100	100				"5,000"						
+Adipic acid	ADIPIC ACID	124049	124-04-9 			"5,000"									
+Adiponitrile	ADIPONITRILE	111693	111-69-3 	"1,000"	"1,000"										
+Alachlor	ALACHLOR	15972608	15972-60-8 				313								
+Aldicarb	ALDICARB	116063	116-06-3 	"100/10,000"	1	1	313	P070							
+Aldicarb sulfone	ALDICARBSULFONE	1646884	1646-88-4 			100		P203							
+Aldrin	ALDRIN	309002	309-00-2 	"500/10,000"	1	1	313	P004							
+d-trans-Allethrin	ALLETHRIN	28057489	28057-48-9 				313								
+Allyl alcohol	ALLYLALCOHOL	107186	107-18-6 	"1,000"	100	100	313	P005	"15,000"						
+Allylamine	ALLYLAMINE	107119	107-11-9 	500	500		313		"10,000"						
+Allyl chloride	ALLYLCHLORIDE	107051	107-05-1 			"1,000"	313								
+Aluminum (fume or dust)	ALUMINUM	7429905	7429-90-5 				313								
+Aluminum oxide (fibrous forms)	ALUMINUMOXIDE	1344281	1344-28-1 				313								
+Aluminum phosphide	ALUMINUMPHOSPHIDE	20859738	20859-73-8 	500	100	100	313	P006							
+Aluminum sulfate	ALUMINUMSULFATE	10043013	10043-01-3 			"5,000"									
+Ametryn	AMETRYN	834128	834-12-8 				313								
+2-Aminoanthraquinone	AMINOANTHRAQUINONE	117793	117-79-3 				313								
+4-Aminoazobenzene	AMINOAZOBENZENE	60093	60-09-3 				313								
+4-Aminobiphenyl	AMINOBIPHENYL	92671	92-67-1 			1	313								
+"1-Amino-2,4-dibromoanthraquinone"	AMINODIBROMOANTHRAQUINONE	81492	81-49-2 				313								
+1-Amino-2-methylanthraquinone	AMINOMETHYLANTH	82280	82-28-0 				313								
+5-(Aminomethyl)-3-isoxazolol	AMINOMETHYLISOXAZOLOL	2763964	2763-96-4 	"500/10,000"	"1,000"	"1,000"		P007							
+Aminopterin	AMINOPTERIN	54626	54-62-6 	"500/10,000"	500										
+4-Aminopyridine	AMINOPYRIDINE	504245	504-24-5 	"500/10,000"	"1,000"	"1,000"		P008							
+Amiton	AMITON	78535	78-53-5 	500	500										
+Amiton oxalate	AMITON OXALATE	3734972	3734-97-2 	"100/10,000"	100										
+Amitraz	AMITRAZ	33089611	33089-61-1 				313								
+Amitrole	AMITROLE	61825	61-82-5 			10	313	U011							
+Ammonia	AMMONIA	7664417	7664-41-7 	500	100	100									
+Ammonia (anhydrous)	AMMONIA	7664417	7664-41-7 	500	100	100	X		"10,000"						
+Ammonia (conc 20% or greater)	AMMONIAS	7664417	7664-41-7 			see ammonium hydroxide	X		"20,000"						
+Ammonia (includes anhydrous ammonia and aqueous ammonia from water dissociable ammonium salts and other sources; 10 percent of total aqueous ammonia is reportable under this listing)	AMMONIAT	7664417	7664-41-7				313								
+Ammonium acetate	AMMONIUMACETATE	631618	631-61-8 			"5,000"									
+Ammonium benzoate	AMMONIUMBENZOATE	1863634	1863-63-4 			"5,000"									
+Ammonium bicarbonate	AMMONIUMBICARBONATE	1066337	1066-33-7 			"5,000"									
+Ammonium bichromate	AMMONIUMBICHROMATE	7789095	7789-09-5			10	313c								
+Ammonium bifluoride	AMMONIUMBIFLUORIDE	1341497	1341-49-7 			100									
+Ammonium bisulfite	AMMONIUMBISULFITE	10192300	10192-30-0 			"5,000"									
+Ammonium carbamate	AMMONIUMCARBAMATE	1111780	1111-78-0 			"5,000"									
+Ammonium carbonate	AMMONIUMCARBONATE	506876	506-87-6 			"5,000"									
+Ammonium chloride	AMMONIUMCHLORIDE	12125029	12125-02-9 			"5,000"									
+Ammonium chromate	AMMONIUMCHROMATE	7788989	7788-98-9 			10	313c								
+"Ammonium citrate, dibasic"	"AMMONIUMCITRATE, DIBASIC"	3012655	3012-65-5 			"5,000"									
+Ammonium fluoborate	AMMONIUMFLUOBORATE	13826830	13826-83-0 			"5,000"									
+Ammonium fluoride	AMMONIUMFLUORIDE	12125018	12125-01-8 			100									
+Ammonium hydroxide	AMMONIUMHYDROXIDE	1336216	1336-21-6 			"1,000"	X								
+Ammonium oxalate	AMMONIUMOXALATE	5972736	5972-73-6 			"5,000"									
+Ammonium oxalate	AMMONIUMOXALATE	6009707	6009-70-7 			"5,000"									
+Ammonium oxalate	AMMONIUMOXALATE	14258492	14258-49-2 			"5,000"									
+Ammonium picrate	AMMONIUMPICRATE	131748	131-74-8 			10		P009							
+Ammonium silicofluoride	AMMONIUMSILICOFLUORIDE	16919190	16919-19-0 			"1,000"									
+Ammonium sulfamate	AMMONIUMSULFAMATE	7773060	7773-06-0 			"5,000"									
+Ammonium sulfide	AMMONIUMSULFIDE	12135761	12135-76-1 			100									
+Ammonium sulfite	AMMONIUMSULFITE	10196040	10196-04-0 			"5,000"									
+Ammonium tartrate	AMMONIUMTARTRATE	3164292	3164-29-2 			"5,000"									
+Ammonium tartrate	AMMONIUMTARTRATE	14307438	14307-43-8 			"5,000"									
+Ammonium thiocyanate	AMMONIUMTHIOCYANATE	1762954	1762-95-4 			"5,000"									
+Ammonium vanadate	AMMONIUMVANADATE	7803556	7803-55-6 			"1,000"	313c	P119							
+Amphetamine	AMPHETAMINE	300629	300-62-9 	"1,000"	"1,000"										
+Amyl acetate	AMYLACETATE	628637	628-63-7 			"5,000"									
+iso-Amyl acetate	AMYLACETATE-I	123922	123-92-2 			"5,000"									
+sec-Amyl acetate	AMYLACETATE-S	626380	626-38-0 			"5,000"									
+tert-Amyl acetate	AMYLACETATE-T	625161	625-16-1 			"5,000"									
+Anilazine	ANILAZINE	101053	101-05-3 				313								
+Aniline	ANILINE	62533	62-53-3 	"1,000"	"5,000"	"5,000"	313	U012							
+"Aniline, 2,4,6-trimethyl-"	"ANILINE, 2,4,6-TRIMETHYL-"	88051	88-05-1 	500	500										
+o-Anisidine	ANISIDINEA	90040	90-04-0 			100	313								
+p-Anisidine	ANISIDINEB	104949	104-94-9 				313								
+o-Anisidine hydrochloride	ANISIDINEHYDROCHL	134292	134-29-2 				313								
+Anthracene	ANTHRACENE	120127	120-12-7 			"5,000"	313								
+Antimony	ANTIMONY	7440360	7440-36-0 			"5,000"	313								
+Antimony Compounds	ANTIMONYCOMPOUNDS	1	N010 			&	313								
+Antimony pentachloride	ANTIMONYPENTACHLORIDE	7647189	7647-18-9			"1,000"									
+Antimony pentafluoride	ANTIMONYPENTAFLUORIDE	7783702	7783-70-2 	500	500		313c								
+Antimony potassium tartrate	ANTIMONYPOTASSIUM TARTRATE	28300745	28300-74-5 			100	313c								
+Antimony tribromide	ANTIMONYTRIBROMIDE	7789619	7789-61-9 			"1,000"	313c								
+Antimony trichloride	ANTIMONYTRICHLORIDE	10025919	10025-91-9 			"1,000"	313c								
+Antimony trifluoride	ANTIMONYTRIFLUORIDE	7783564	7783-56-4 			"1,000"	313c								
+Antimony trioxide	ANTIMONYTRIOXIDE	1309644	1309-64-4 			"1,000"	313c								
+Antimycin A	ANTIMYCIN A	1397940	1397-94-0 	"1,000/10,000"	"1,000"										
+ANTU	ANTU	86884	86-88-4 	"500/10,000"	100	100		P072							
+Aroclor 1016	AROCLOR 1016	12674112	12674-11-2 			1									
+Aroclor 1221	AROCLOR 1221	11104282	11104-28-2 			1									
+Aroclor 1232	AROCLOR 1232	11141165	11141-16-5 			1									
+Aroclor 1242	AROCLOR 1242	53469219	53469-21-9 			1									
+Aroclor 1248	AROCLOR 1248	12672296	12672-29-6 			1									
+Aroclor 1254	AROCLOR 1254	11097691	11097-69-1 			1									
+Aroclor 1260	AROCLOR 1260	11096825	11096-82-5 			1									
+Arsenic	ARSENIC	7440382	7440-38-2 			1	313								
+Arsenic acid	ARSENIC ACID	7778394	7778-39-4 			1	313c	P010							
+Arsenic Compounds	ARSENIC COMPOUNDS	1	N020 			&	313								
+Arsenic disulfide	ARSENIC DISULFIDE	1303328	1303-32-8 			1	313c								
+Arsenic pentoxide	ARSENIC PENTOXIDE	1303282	1303-28-2 	"100/10,000"	1	1	313c	P011							
+Arsenic trioxide	ARSENIC TRIOXIDE	1327533	1327-53-3 	"100/10,000"	1	1	313c	P012							
+Arsenic trisulfide	ARSENIC TRISULFIDE	1303339	1303-33-9 			1	313c								
+Arsenous oxide	ARSENOUS OXIDE	1327533	1327-53-3 	"100/10,000"	1	1	313c	P012							
+Arsenous trichloride	ARSENOUS TRICHLORIDE	7784341	7784-34-1 	500	1	1	313c		"15,000"						
+Arsine	ARSINE	7784421	7784-42-1 	100	100				"1,000"						
+Asbestos (friable)	ASBESTOS	1332214	1332-21-4 			1	313								
+Atrazine	ATRAZINE	1912249	1912-24-9 				313								
+Auramine	AURAMINE	492808	492-80-8 			100	X	U014							
+Avermectin B1	AVERMECTIN B1	71751412	71751-41-2 				X								
+Azaserine	AZASERINE	115026	115-02-6 			1		U015							
+"1H-Azepine-1 carbothioic acid, hexahydro-S-ethyl ester"	AZEPINECARBOTHIOICACIDHEXAHYDRO-S-ETHYL ESTER	2212671	2212-67-1 				X								
+Azinphos-ethyl	AZINPHOS-ETHYL	2642719	2642-71-9 	"100/10,000"	100										
+Azinphos-methyl	AZINPHOS-METHYL	86500	86-50-0 	"10/10,000"	1	1									
+Aziridine	AZIRIDINE	151564	151-56-4 	500	1	1	X	P054	"10,000"						
+"Aziridine, 2-methyl"	"AZIRIDINE, 2-METHYL"	75558	75-55-8 	"10,000"	1	1	X	P067	"10,000"						
+Barban	BARBAN	101279	101-27-9 			10		U280							
+Barium	BARIUM	7440393	7440-39-3 				313								
+Barium Compounds	BARIUM COMPOUNDS	1	N040 				313								
+Barium cyanide	BARIUM CYANIDE	542621	542-62-1 			10	313c	P013							
+Bendiocarb	BENDIOCARB	22781233	22781-23-3 			100	313	U278							
+Bendiocarb phenol	BENDIOCARBPHENOL	22961826	22961-82-6 			"1,000"		U364							
+"Benezeneamine, 2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)-"	BENEZENEAMINEDINITRODIPROPYL-4-(TRIFLUOROMETHYL)-	1582098	1582-09-8 			10	X								
+Benfluralin	BENFLURALIN	1861401	1861-40-1 				313								
+Benomyl	BENOMYL	17804352	17804-35-2 			10	313	U271							
+Benz[c]acridine	BENZACRIDINE	225514	225-51-4 			100		U016							
+Benzal chloride	BENZALCHLORIDE	98873	98-87-3 	500	"5,000"	"5,000"	313	U017							
+Benzamide	BENZAMIDE	55210	55-21-0 				313								
+"Benzamide, 3,5-dichloro-N-(1,1-dimethyl-2-propynyl"	"BENZAMIDE,3,5-DICHLORO-N-(1,1-DIMETHYL-2-PROPYNYL"	23950585	23950-58-5 			"5,000"	X	U192							
+Benz[a]anthracene	BENZANTHRACENE	56553	56-55-3 			10	313+	U018							
+"Benzenamine, 3-(trifluoromethyl)-"	"BENZENAMINE, 3-(TRIFLUOROMETHYL)-"	98168	98-16-8 	500	500										
+Benzene	BENZENE	71432	71-43-2 			10	313	U019							
+"Benzeneacetic acid, 4-chloro-.alpha.-(4-chlorophenyl)-.alpha.-hydroxy-, ethyl ester"	BENZENEACETICACIDCHLORO-.ALPHA.-(4-CHLOROPHENYL)-.ALPHA	510156	510-15-6 			10	X	U038							
+"Benzeneamine, N-hydroxy-N-nitroso, ammonium salt"	"BENZENEAMINEHYDROXYNITROSO, AMMONIUM SALT"	135206	135-20-6 				X								
+Benzenearsonic acid	BENZENEARSONIC ACID	98055	98-05-5 	"10/10,000"	10										
+"Benzene, 1-(chloromethyl)-4-nitro-"	BENZENECHLOROMETHYL)-4-NITRO-	100141	100-14-1 	"500/10,000"	500										
+"1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-"	BENZENEDICARBONITRILETETRACHLORO-	1897456	1897-45-6 				X								
+"Benzene, 2,4-dichloro-1-(4-nitrophenoxy)-"	BENZENEDICHLORONITROPHENOXY)-	1836755	1836-75-5 				X								
+"Benzene, 2,4-diisocyanato-1-methyl-"	BENZENEDIISOCYANATOMETHYLA	584849	584-84-9 	500	100	100	X		"10,000"						
+"Benzene, 1,3-diisocyanato-2-methyl-"	BENZENEDIISOCYANATOMETHYLB	91087	91-08-7 	100	100	100	X		"10,000"						
+"Benzene, 1,3-diisocyanatomethyl-"	BENZENEDIISOCYANATOMETHYLC	26471625	26471-62-5 			100	X	U223	"10,000"						
+"Benzene, m-dimethyl-"	BENZENEDIMETHYL-M	108383	108-38-3 			"1,000"	X	U239							
+"Benzene, o-dimethyl-"	BENZENEDIMETHYL-O	95476	95-47-6 			"1,000"	X	U239							
+"Benzene, p-dimethyl-"	BENZENEDIMETHYL-P	106423	106-42-3 			100	X	U239							
+"Benzeneethanamine, alpha,alpha-dimethyl-"	"BENZENEETHANAMINE, ALPAH,ALPHA-DIMETHYL- +"	122098	122-09-8 			"5,000"		P046							
+"Benzenemethanol, 4-chloro-.alpha.-4-chlorophenyl)-.alpha.-(trichloromethyl)-"	BENZENEMETHANOLCHLORO-.ALPHA.-4-CHLOROPHENYL)-.ALPHA.-(	115322	115-32-2 			10	X								
+Benzenesulfonyl chloride	BENZENESULFONYL CHLORIDE	98099	98-09-9 			100		U020							
+Benzenethiol	BENZENETHIOL	108985	108-98-5 	500	100	100		P014							
+"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis [4-methoxy-"	BENZENETRICHLOROETHYLIDENE)BIS [4-METHOXY-	72435	72-43-5 			1	X	U247							
+Benzidine	BENZIDINE	92875	92-87-5 			1	313	U021							
+"Benzimidazole, 4,5-dichloro-2-(trifluoromethyl)-"	"BENZIMIDAZOLE,4,5-DICHLORO-2-(TRIFLUOROMETHYL)-"	3615212	3615-21-2 	"500/10,000"	500										
+Benzo[b]fluoranthene	BENZOFLUORANTHENE	205992	205-99-2 			1	313+								
+Benzo(j)fluoranthene	BENZOFLUORANTHENEJ	205823	205-82-3 				313+								
+Benzo(k)fluoranthene	BENZOFLUORANTHENEK	207089	207-08-9 			"5,000"	313+								
+Benzoic acid	BENZOICACID	65850	65-85-0 			"5,000"									
+"Benzoic acid, 3-amino-2,5-dichloro-"	BENZOICACIDAMINODICHLORO-	133904	133-90-4 			100	X								
+"Benzoic acid, 5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitro-, 2-ethoxy-1-methyl-2-oxethyl ester"	Benzoicacidchlorotrifluoromethylphenoxynitroethocymethyloxethyl ester	77501634	77501-63-4 				313								
+Benzoic trichloride	BENZOICTRICHLORIDE	98077	98-07-7 	100	10	10	313	U023							
+Benzonitrile	BENZONITRILE	100470	100-47-0 			"5,000"									
+Benzo(rst)pentaphene	BENZOPENTAPHENE	189559	189-55-9 			10	313+	U064							
+"Benzo[g,h,i]perylene"	BENZOPERYLENE	191242	191-24-2 			"5,000"	313								
+Benzo(a)phenanthrene	BENZOPHENANTHRENE	218019	218-01-9 			100	313+	U050							
+Benzo[a]pyrene	BENZOPYRENE	50328	50-32-8 			1	313+	U022							
+p-Benzoquinone	BENZOQUINONE	106514	106-51-4 			10	X	U197							
+Benzotrichloride	BENZOTRICHLORIDE	98077	98-07-7 	100	10	10	X	U023							
+Benzoyl chloride	BENZOYLCHLORIDE	98884	98-88-4 			"1,000"	313								
+Benzoyl peroxide	BENZOYLPEROXIDE	94360	94-36-0 				313								
+Benzyl chloride	BENZYLCHLORIDE	100447	100-44-7 	500	100	100	313	P028							
+Benzyl cyanide	BENZYLCYANIDE	140294	140-29-4 	500	500										
+Beryllium	BERYLLIUM	7440417	7440-41-7 			10	313	P015							
+Beryllium chloride	BERYLLIUM CHLORIDE	7787475	7787-47-5 			1	313c								
+Beryllium Compounds	BERYLLIUM COMPOUNDS	1	N050 			&	313								
+Beryllium fluoride	BERYLLIUM FLUORIDE	7787497	7787-49-7 			1	313c								
+Beryllium nitrate	BERYLLIUM NITRATE	7787555	7787-55-5 			1	313c								
+Beryllium nitrate	BERYLLIUM NITRATE	13597994	13597-99-4 			1	313c								
+alpha-BHC	BHC	319846	319-84-6 			10	X								
+beta-BHC	BHC	319857	319-85-7 			1									
+delta-BHC	BHC	319868	319-86-8 			1									
+"Bicyclo[2.2.1]heptane-2-carbonitrile, 5-chloro-6-((((methylamino)carbonyl)oxy)imino)-,(1-alpha,2-beta,4-alpha,5-alpha,6E))-"	"BICYCLO[2.2.1]HEPTANE-2-CARBONITRILE, 5-CHLORO-6-("	15271417	15271-41-7 	"500/10,000"	500										
+Bifenthrin	BIFENTHRIN	82657043	82657-04-3 				313								
+"2,2'-Bioxirane"	BIOXIRANE	1464535	1464-53-5 	500	10	10	X	U085							
+Biphenyl	BIPHENYL	92524	92-52-4 			100	313								
+"2,2-bis(Bromomethyl)-1,3-propanediol"	BIS(BROMOMETHYL)PROPANEDIOL	3296900	3296-90-0 				313								
+Bis(2-chloroethoxy) methane	BISCHLOROETHOXYMETHANE	111911	111-91-1 			"1,000"	313	U024							
+Bis(2-chloroethyl) ether	BISCHLOROETHYLETHER	111444	111-44-4 	"10,000"	10	10	313	U025							
+Bis(chloromethyl) ether	BISCHLOROMETHYLETHER	542881	542-88-1 	100	10	10	313	P016	"1,000"						
+Bis(2-chloro-1-methylethyl)ether	BISCHLOROMETHYLETHYL	108601	108-60-1 			"1,000"	313	U027							
+Bis(chloromethyl) ketone	BISCHLOROMETHYLKETONE	534076	534-07-6 	"10/10,000"	10										
+Bis(2-ethylhexyl)phthalate	BISETHYLHEXYLPHTHALATE	117817	117-81-7 			100	X	U028							
+"N,N'-Bis(1-methylethyl)-6-methylthio-1,3,5-triazine-2,4-diamine"	BISMETHYLETHYLMETHYLTHIOTRIAZINEDIA	7287196	7287-19-6 				X								
+"1,4-Bis(methylisocyanate)cyclohexane"	BISMETHYLISOCYANATECYCLOHEXANE	10347543	10347-54-3 				313#								
+"1,3-Bis(methylisocyanate)cyclohexane"	BISMETHYLISOCYANATECYCLOHEXANE	38661722	38661-72-2 				313#								
+Bis(tributyltin) oxide	BISTRIBUTYLTIN) OXIDE	56359	56-35-9 				313								
+Bitoscanate	BITOSCANATE	4044659	4044-65-9 	"500/10,000"	500										
+"Borane, trichloro-"	BORANETRICHLORO-	10294345	10294-34-5 	500	500		X		"5,000"						
+"Borane, trifluoro-"	BORANETRIFLUORO-	7637072	7637-07-2	500	500		X		"5,000"						
+Boron trichloride	BORON TRICHLORIDE	10294345	10294-34-5 	500	500		313		"5,000"						
+Boron trifluoride	BORON TRIFLUORIDE	7637072	7637-07-2	500	500		313		"5,000"						
+Boron trifluoride compound with methyl ether (1:1)	BORON TRIFLUORIDE COMPOUND WITH METHYL ETHER (1:1)	353424	353-42-4 	"1,000"	"1,000"				"15,000"						
+"Boron, trifluoro[oxybis[methane]]-, (T-4)-"	"BORONTRIFLUORO[OXYBIS[METHANE]]-, (T-4)-"	353424	353-42-4 	"1,000"	"1,000"				"15,000"						
+Bromacil	BROMACIL	314409	314-40-9 				313								
+"Bromacil, lithium salt"	"BROMACIL, LITHIUM SALT"	53404196	53404-19-6 				313								
+Bromadiolone	BROMADIOLONE	28772567	28772-56-7 	"100/10,000"	100										
+Bromine	BROMINE	7726956	7726-95-6 	500	500		313		"10,000"						
+Bromoacetone	BROMOACETONE	598312	598-31-2 			"1,000"		P017							
+"1-Bromo-1-(bromomethyl)-1,3-propanedicarbonitrile"	"BROMOBROMOMETHYL)-1,3-PROPANEDICARBONITRILE"	35691657	35691-65-7 				313								
+Bromochlorodifluoromethane	BROMOCHLORODIFLUOROMETHANE	353593	353-59-3 				313								
+O-(4-Bromo-2-chlorophenyl)-O-ethyl-S-propylphosphorothioate	BROMOCHLOROPHENYLETHYLPROPYLPHOSPHOROTHIOATE	41198087	41198-08-7 				X								
+Bromoform	BROMOFORM	75252	75-25-2 			100	313	U225							
+Bromomethane	BROMOMETHANE	74839	74-83-9 	"1,000"	"1,000"	"1,000"	313	U029							
+"5-Bromo-6-methyl-3-(1-methylpropyl)-2,4-(1H,3H)-pyrimidinedione"	BROMOMETHYLMETHYLPROPYLPYRIMIDINEDI	314409	314-40-9 				X								
+4-Bromophenyl phenyl ether	BROMOPHENYL PHENYL ETHER	101553	101-55-3 			100		U030							
+Bromotrifluoroethylene	BROMOTRIFLUOROETHYLEN	598732	598-73-2 						"10,000"						
+Bromotrifluoromethane	BROMOTRIFLUOROMETHANE	75638	75-63-8 				313								
+Bromoxynil	BROMOXYNIL	1689845	1689-84-5 				313								
+Bromoxynil octanoate	BROMOXYNIL OCTANOATE	1689992	1689-99-2 				313								
+Brucine	BRUCINE	357573	357-57-3 			100	313	P018							
+"1,3-Butadiene"	BUTADIENE	106990	106-99-0 			10	313		"10,000"						
+"1,3-Butadiene, 2-methyl-"	BUTADIENEMETHYL	78795	78-79-5 			100			"10,000"						
+Butane	BUTANE	106978	106-97-8 						"10,000"						
+"Butane, 2-methyl-"	BUTANEMETHYL-	78784	78-78-4 						"10,000"						
+2-Butenal	BUTENAL	4170303	4170-30-3 	"1,000"	100	100	X	U053	"20,000"						
+"2-Butenal, (e)-"	"BUTENAL, (E)-"	123739	123-73-9 	"1,000"	100	100		U053	"20,000"						
+Butene	BUTENE	25167673	25167-67-3 						"10,000"						
+1-Butene	BUTENE1	106989	106-98-9 						"10,000"						
+2-Butene	BUTENE2	107017	107-01-7 						"10,000"						
+2-Butene-cis	BUTENE-CIS	590181	590-18-1 						"10,000"						
+"2-Butene, 1,4-dichloro-"	BUTENEDICHLORO-	764410	764-41-0 			1	X	U074							
+"2-Butene, (E)"	BUTENE-E	624646	624-64-6 						"10,000"						
+2-Butene-trans	BUTENE-TRANS	624646	624-64-6 						"10,000"						
+1-Buten-3-yne	BUTENYNE	689974	689-97-4 						"10,000"						
+"2,4-D butoxyethyl ester"	"BUTOXYETHYL ESTER-2,4-D"	1929733	1929-73-3 			100	313								
+Butyl acetate	BUTYLACETATE	123864	123-86-4 			"5,000"									
+iso-Butyl acetate	BUTYLACETATE-I	110190	110-19-0 			"5,000"									
+sec-Butyl acetate	BUTYLACETATE-S	105464	105-46-4 			"5,000"									
+tert-Butyl acetate	BUTYLACETATE-T	540885	540-88-5 			"5,000"									
+Butyl acrylate	BUTYLACRYLATE	141322	141-32-2 				313								
+n-Butyl alcohol	BUTYLALCOHOLA	71363	71-36-3 			"5,000"	313	U031							
+sec-Butyl alcohol	BUTYLALCOHOLB	78922	78-92-2 				313								
+tert-Butyl alcohol	BUTYLALCOHOLC	75650	75-65-0 				313								
+Butylamine	BUTYLAMINE	109739	109-73-9 			"1,000"									
+iso-Butylamine	BUTYLAMINE-I	78819	78-81-9 			"1,000"									
+sec-Butylamine	BUTYLAMINE-S	513495	513-49-5 			"1,000"									
+sec-Butylamine	BUTYLAMINE-S	13952846	13952-84-6 			"1,000"									
+tert-Butylamine	BUTYLAMINE-T	75649	75-64-9 			"1,000"									
+Butyl benzyl phthalate	BUTYLBENZYLPHTHALA	85687	85-68-7 			100									
+".alpha.-Butyl-.alpha.-(4-chlorophenyl)-1H-1,2,4-triazole-1-propanenitrile"	BUTYLCHLOROPHENYLTRIAZOLE-1-P	88671890	88671-89-0 				X								
+"1,2-Butylene oxide"	BUTYLENEOXIDE	106887	106-88-7 			100	313								
+Butylethylcarbamothioic acid S-propyl ester	BUTYLETHYLCARBAMOTHIOICACIDPROPYLESTER	1114712	1114-71-2 				X								
+"N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl) benzenamine"	BUTYLETHYLDINITROTRIFLUOROMETHYLBENZENAMINE	1861401	1861-40-1 				X								
+n-Butyl phthalate	BUTYLPHTHALATE	84742	84-74-2 			10	X	U069							
+1-Butyne	BUTYNE	107006	107-00-6 						"10,000"						
+Butyraldehyde	BUTYRALDEHYDE	123728	123-72-8 				313								
+Butyric acid	BUTYRIC ACID	107926	107-92-6 			"5,000"									
+iso-Butyric acid	BUTYRIC ACIDISO	79312	79-31-2 			"5,000"									
+Cacodylic acid	CACODYLIC ACID	75605	75-60-5 			1		U136							
+Cadmium	CADMIUM	7440439	7440-43-9 			10	313								
+Cadmium acetate	CADMIUM ACETATE	543908	543-90-8 			10	313c								
+Cadmium bromide	CADMIUM BROMIDE	7789426	7789-42-6			10	313c								
+Cadmium chloride	CADMIUM CHLORIDE	10108642	10108-64-2 			10	313c								
+Cadmium Compounds	CADMIUM COMPOUNDS	1	N078 			&	313								
+Cadmium oxide	CADMIUM OXIDE	1306190	1306-19-0 	"100/10,000"	100		313c								
+Cadmium stearate	CADMIUM STEARATE	2223930	2223-93-0 	"1,000/10,000"	"1,000"		313c								
+Calcium arsenate	CALCIUMARSENATE	7778441	7778-44-1 	"500/10,000"	1	1	313c								
+Calcium arsenite	CALCIUMARSENITE	52740166	52740-16-6 			1	313c								
+Calcium carbide	CALCIUMCARBIDE	75207	75-20-7 			10									
+Calcium chromate	CALCIUMCHROMATE	13765190	13765-19-0 			10	313c	U032							
+Calcium cyanamide	CALCIUMCYANAMIDE	156627	156-62-7 			"1,000"	313								
+Calcium cyanide	CALCIUMCYANIDE	592018	592-01-8 			10	313c	P021							
+Calcium dodecylbenzenesulfonate	CALCIUMDODECYLBENZENESULFONATE	26264062	26264-06-2 			"1,000"									
+Calcium hypochlorite	CALCIUMHYPOCHLORITE	7778543	7778-54-3 			10									
+Camphechlor	CAMPHECHLOR	8001352	8001-35-2 	"500/10,000"	1	1	X	P123							
+"Camphene, octachloro-"	"CAMPHENE, OCTACHLORO-"	8001352	8001-35-2 	"500/10,000"	1	1	X	P123							
+Cantharidin	CANTHARIDIN	56257	56-25-7 	"100/10,000"	100										
+Captan	CAPTAN	133062	133-06-2 			10	313								
+Carbachol chloride	CARBACHOL CHLORIDE	51832	51-83-2 	"500/10,000"	500										
+"Carbamic acid, diethylthio-, S-(p-chlorobenzyl)"	CARBAMIC ACIDDIETHYLTHIOCHLOROBENZYL)	28249776	28249-77-6 				X								
+"Carbamic acid, ethyl ester"	CARBAMIC ACIDETHYL ESTER	51796	51-79-6 			100	X	U238							
+"Carbamic acid, methyl-, O-(((2,4-dimethyl-1,3-dithiolan-2-yl)methylene)amino)-"	"CARBAMIC ACIDMETHYL-, O-(((2,4-DIMETHYL-1, 3-DIT"	26419738	26419-73-8 	"100/10,000"	100	100		P185							
+"Carbamodithioic acid, 1,2-ethanediylbis-, manganese complex"	"CARBAMODITHIOICACIDETHANEDIYLBIS-, MANGANESE COMPLEX"	12427382	12427-38-2 				X								
+"Carbamodithioic acid, 1,2-ethanediylbis-, zinc complex"	"CARBAMODITHIOICACIDETHANEDIYLBIS-, ZINC COMPLEX"	12122677	12122-67-7 				X								
+"Carbamothioic acid, bis(1-methylethyl)-S-(2,3-dichloro-2-propenyl)ester"	"CARBAMOTHIOIC ACID, BIS(1-METHYLETHYL)-S-(2,3-DICHLORO-"	2303164	2303-16-4 			100	X	U062							
+"Carbamothioic acid, dipropyl-, S-(phenylmethyl) ester"	"CARBAMOTHIOICACIDDIPROPYL-, S-(PHENYLMETHYL) ES"	52888809	52888-80-9 			"5,000"		U387							
+Carbaryl	CARBARYL	63252	63-25-2 			100	313	U279							
+Carbendazim	CARBENDAZIM	10605217	10605-21-7 			10		U372							
+Carbofuran	CARBOFURAN	1563662	1563-66-2 	"10/10,000"	10	10	313	P127							
+Carbofuran phenol	CARBOFURANPHENOL	1563388	1563-38-8 			10		U367							
+Carbon disulfide	CARBONDISULFIDE	75150	75-15-0 	"10,000"	100	100	313	P022	"20,000"						
+Carbonic difluoride	CARBONIC DIFLUORIDE	353504	353-50-4 			"1,000"		U033							
+Carbonic dichloride	CARBONICDICHLORIDE	75445	75-44-5 	10	10	10	X	P095	500						
+"Carbonochloridic acid, methylester"	CARBONOCHLORIDICACIDMETHYLESTER	79221	79-22-1 	500	"1,000"	"1,000"	X	U156	"5,000"						
+"Carbonochloridic acid, 1-methylethyl ester"	CARBONOCHLORIDICACIDMETHYLETHYL ESTER	108236	108-23-6 	"1,000"	"1,000"				"15,000"						
+"Carbonochloridic acid, propylester"	CARBONOCHLORIDICACIDPROPYLESTER	109615	109-61-5 	500	500				"15,000"						
+Carbon oxide sulfide (COS)	CARBONOXIDESULFIDE	463581	463-58-1 			100	X		"10,000"						
+Carbon tetrachloride	CARBONTETRACHLORIDE	56235	56-23-5 			10	313	U211							
+Carbonyl sulfide	CARBONYLSULFIDE	463581	463-58-1 			100	313		"10,000"						
+Carbophenothion	CARBOPHENOTHION	786196	786-19-6 	500	500										
+Carbosulfan	CARBOSULFAN	55285148	55285-14-8 			"1,000"		P189							
+Carboxin	CARBOXIN	5234684	5234-68-4 				313								
+Catechol	CATECHOL	120809	120-80-9 			100	313								
+CFC-11	CFC-11	75694	75-69-4 			"5,000"	X	U121							
+CFC-12	CFC-112	75718	75-71-8 			"5,000"	X	U075							
+CFC-114	CFC-114	76142	76-14-2 				X								
+CFC-115	CFC-115	76153	76-15-3 				X								
+CFC-13	CFC-13	75729	75-72-9 				X								
+Chinomethionat	CHINOMETHIONAT	2439012	2439-01-2				313								
+Chloramben	CHLORAMBEN	133904	133-90-4 			100	313								
+Chlorambucil	CHLORAMBUCIL	305033	305-03-3 			10		U035							
+Chlordane	CHLORDANE	57749	57-74-9 	"1,000"	1	1	313	U036							
+Chlordane (Technical Mixture and Metabolites)	CHLORDANE (TECHNICAL MIXTURE AND METABOLITES)	0	N.A. 			&									
+Chlorendic acid	CHLORENDIC ACID	115286	115-28-6 				313								
+Chlorfenvinfos	CHLORFENVINFOS	470906	470-90-6 	500	500										
+Chlorimuron ethyl	CHLORIMURON ETHYL	90982324	90982-32-4 				313								
+Chlorinated Benzenes	CHLORINATED BENZENES	0	N.A. 			&									
+Chlorinated Ethanes	CHLORINATED ETHANES	0	N.A. 			&									
+Chlorinated Naphthalene	CHLORINATED NAPHTHALENE	0	N.A. 			&									
+Chlorinated Phenols	CHLORINATED PHENOLS	1	N084 			&	313								
+Chlorine	CHLORINE	7782505	7782-50-5 	100	10	10	313		"2,500"						
+Chlorine dioxide	CHLORINEDIOXIDE	10049044	10049-04-4 				313		"1,000"						
+Chlorine monoxide	CHLORINEMONOXIDE	7791211	7791-21-1 						"10,000"						
+Chlorine oxide	CHLORINEOXIDE	7791211	7791-21-1 						"10,000"						
+Chlorine oxide (ClO2)	CHLORINEOXIDE (CLO2)	10049044	10049-04-4 				X		"1,000"						
+Chlormephos	CHLORMEPHOS	24934916	24934-91-6 	500	500										
+Chlormequat chloride	CHLORMEQUAT CHLORIDE	999815	999-81-5 	"100/10,000"	100										
+Chlornaphazine	CHLORNAPHAZINE	494031	494-03-1 			100		U026							
+Chloroacetaldehyde	CHLOROACETALDEHYDE	107200	107-20-0 			"1,000"		P023							
+Chloroacetic acid	CHLOROACETICACID	79118	79-11-8 	"100/10,000"	100	100	313								
+2-Chloroacetophenone	CHLOROACETOPHENONE	532274	532-27-4 			100	313								
+Chloroalkyl Ethers	CHLOROALKYL ETHERS	0	N.A. 			&									
+"1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride"	CHLOROALLYLTRIAZA-1-AZONIAADAMANTANE CHLOR	4080313	4080-31-3 				313								
+p-Chloroaniline	CHLOROANILINE	106478	106-47-8 			"1,000"	313	P024							
+Chlorobenzene	CHLOROBENZENE	108907	108-90-7 			100	313	U037							
+Chlorobenzilate	CHLOROBENZILATE	510156	510-15-6 			10	313	U038							
+"2-(4-((6-Chloro-2-benzoxazolylen)oxy)phenoxy)propanoic acid, ethyl ester"	"CHLOROBENZOXAZOLYLENOXYPHENOXYPROPANOICACID,"	66441234	66441-23-4 				X								
+2-Chloro-N-(2-chloroethyl)-N-methylethanamine	CHLOROCHLOROETHYL)-N-METHYLETHANAMINE	51752	51-75-2 	10	10		X								
+p-Chloro-m-cresol	CHLOROCRESOL	59507	59-50-7 			"5,000"		U039							
+"2,4-D chlorocrotyl ester"	CHLOROCROTYL ESTER	2971382	2971-38-2 			100	313								
+Chlorodibromomethane	CHLORODIBROMOMETHANE	124481	124-48-1 			100									
+"1-Chloro-1,1-difluoroethane"	CHLORODIFLUOROETHANE	75683	75-68-3 				313								
+Chlorodifluoromethane	CHLORODIFLUOROMETHANE	75456	75-45-6 				313								
+"5-Chloro-3-(1,1-dimethylethyl)-6-methyl-2,4(1H,3H)-pyrimidinedione"	CHLORODIMETHYLETHYLMETHYLPYRIMIDIN	5902512	5902-51-2 				X								
+Chloroethane	CHLOROETHANE	75003	75-00-3 			100	313		"10,000"						
+Chloroethanol	CHLOROETHANOL	107073	107-07-3 	500	500										
+Chloroethyl chloroformate	CHLOROETHYLCHLOROFORMATE	627112	627-11-2 	"1,000"	"1,000"										
+"6-Chloro-N-ethyl-N'-(1-methylethyl)-1,3,5-triazine-2,4-diamine"	"CHLOROETHYLMETHYLETHYL)-1,3,5-TRIAZINE-2,4-DIAMI"	1912249	1912-24-9 				X								
+2-Chloroethyl vinyl ether	CHLOROETHYLVINYL ETHER	110758	110-75-8 			"1,000"		U042							
+Chloroform	CHLOROFORM	67663	67-66-3 	"10,000"	10	10	313	U044	"20,000"						
+Chloromethane	CHLOROMETHANE	74873	74-87-3 			100	313	U045	"10,000"						
+"2-Chloro-N-(((4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl)benzenesulfonamide"	CHLOROMETHOXYMETHYLTRIAZINYLAMINO]CA	64902723	64902-72-3 				X								
+4-Chloro-5-(methylamino)-2-[3-(trifluoromethyl)phenyl]-3(2H)-pyridazinone	CHLOROMETHYLAMINOTRIFLUOROMETHYLPHENYL]-3(2H)	27314132	27314-13-2 				X								
+Chloromethyl ether	CHLOROMETHYLETHER	542881	542-88-1 	100	10	10	X	P016	"1,000"						
+4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester	CHLOROMETHYLETHYLBENZENEACETICACIDCYANOPHE	51630581	51630-58-1 				X								
+2-Chloro-N-(1-methylethyl)-N-phenylacetamide	CHLOROMETHYLETHYLPHENYLACETAMIDE	1918167	1918-16-7 				X								
+Chloromethyl methyl ether	CHLOROMETHYLMETHYLETHER	107302	107-30-2 	100	10	10	313	U046	"5,000"						
+(4-Chloro-2-methylphenoxy) acetate sodium salt	CHLOROMETHYLPHENOXYACETATESODIUMSALT	3653483	3653-48-3 				X								
+(4-Chloro-2-methylphenoxy) acetic acid	CHLOROMETHYLPHENOXYACETICACID	94746	94-74-6 				X								
+3-Chloro-2-methyl-1-propene	CHLOROMETHYLPROPENE	563473	563-47-3 				313								
+2-Chloronaphthalene	CHLORONAPHTHALENE	91587	91-58-7 			"5,000"		U047							
+Chlorophacinone	CHLOROPHACINONE	3691358	3691-35-8 	"100/10,000"	100										
+2-Chlorophenol	CHLOROPHENOL	95578	95-57-8 			100		U048							
+Chlorophenols	CHLOROPHENOLS	1	N084 			&	313								
+"1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-2-butanone"	CHLOROPHENOXYDIMETHYLTRIAZOLYL	43121433	43121-43-3 				X								
+.alpha.-(2-Chlorophenyl)-.alpha.-4-chlorophenyl)-5-pyrimidinemethanol	CHLOROPHENYLCHLOROPHENYLPYRIMIDIN	60168889	60168-88-9 				X								
+p-Chlorophenyl isocyanate	CHLOROPHENYLISOCYANATE	104121	104-12-1 				313								
+4-Chlorophenyl phenyl ether	CHLOROPHENYLPHENYLETHER	7005723	7005-72-3 			"5,000"									
+Chloropicrin	CHLOROPICRIN	76062	76-06-2 				313								
+Chloroprene	CHLOROPRENE	126998	126-99-8 			100	313								
+3-Chloropropionitrile	CHLOROPROPIONITRILE	542767	542-76-7 	"1,000"	"1,000"	"1,000"	313	P027							
+2-Chloropropylene	CHLOROPROPYLENE	557982	557-98-2 						"10,000"						
+1-Chloropropylene	CHLOROPROPYLENE	590216	590-21-6 						"10,000"						
+2-(4-((6-Chloro-2-quinoxalinyl)oxy]phenoxy) propanoic acid ethyl ester	CHLOROQUINOXALINYLOXYPHENOXYPROPANOIC ACID E	76578148	76578-14-8 				X								
+Chlorosulfonic acid	CHLOROSULFONIC ACID	7790945	7790-94-5 			"1,000"									
+Chlorotetrafluoroethane	CHLOROTETRAFLUOROETHANE	63938103	63938-10-3 				313								
+"1-Chloro-1,1,2,2-tetrafluoroethane"	CHLOROTETRAFLUOROETHANE1	354256	354-25-6 				313								
+"2-Chloro-1,1,1,2-tetrafluoroethane"	CHLOROTETRAFLUOROETHANE2	2837890	2837-89-0 				313								
+Chlorothalonil	CHLOROTHALONIL	1897456	1897-45-6 				313								
+p-Chloro-o-toluidine	CHLOROTOLUIDINE	95692	95-69-2 				313								
+"4-Chloro-o-toluidine, hydrochloride"	"CHLOROTOLUIDINE, HYDROCHLORIDE"	3165933	3165-93-3 			100		U049							
+2-Chloro-6-(trichloromethyl)pyridine	CHLOROTRICHLOROMETHYLPYRIDINE	1929824	1929-82-4 				X								
+"2-Chloro-1,1,1-trifluoroethane"	CHLOROTRIFLUOROETHANE (HCFC-133A)	75887	75-88-7 				313								
+Chlorotrifluoromethane	CHLOROTRIFLUOROMETHANE	75729	75-72-9 				313								
+"5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid, sodium salt"	"CHLOROTRIFLUOROMETHYLPHENOXY)-2-NITROBENZOIC ACID,"	62476599	62476-59-9 				X								
+5-(2-Chloro-4-(trifluoromethyl)phenoxy)-N-methylsulfonyl)-2-nitrobenzamide	CHLOROTRIFLUOROMETHYLPHENOXYMETHYLSULFONYL)-2-	72178020	72178-02-0 				X								
+5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitro-2-ethoxy-1-methyl-2-oxoethyl ester	CHLOROTRIFLUOROMETHYLPHENOXYNITROETHOXYM	77501634	77501-63-4 				X								
+N-(2-Chloro-4-(trifluoromethyl)phenyl)-DL-valine(+)-cyano(3-phenoxyphenyl)methyl ester	CHLOROTRIFLUOROMETHYLPHENYLVALINE(+)-CYANO(3-	69409945	69409-94-5 				X								
+"3-Chloro-1,1,1-trifluoropropane"	CHLOROTRIFLUOROPROPANE (HCFC-253FB)	460355	460-35-5 				313								
+"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl) methyl ester"	CHLOROTRIFLUOROPROPENYLDIMETHYLCYCLOPRO	68085858	68085-85-8 				X								
+Chloroxuron	CHLOROXURON	1982474	1982-47-4 	"500/10,000"	500										
+Chlorpyrifos	CHLORPYRIFOS	2921882	2921-88-2 			1									
+Chlorpyrifos methyl	CHLORPYRIFOSMETHYL	5598130	5598-13-0 				313								
+Chlorsulfuron	CHLORSULFURON	64902723	64902-72-3 				313								
+Chlorthiophos	CHLORTHIOPHOS	21923239	21923-23-9 	500	500										
+Chromic acetate	CHROMIC ACETATE	1066304	1066-30-4 			"1,000"	313c								
+Chromic acid	CHROMIC ACID	7738945	7738-94-5 			10	313c								
+Chromic acid	CHROMIC ACID	11115745	11115-74-5 			10	313c								
+Chromic chloride	CHROMIC CHLORIDE	10025737	10025-73-7 	"1/10,000"	1		313c								
+Chromic sulfate	CHROMIC SULFATE	10101538	10101-53-8 			"1,000"	313c								
+Chromium	CHROMIUM	7440473	7440-47-3 			"5,000"	313								
+Chromium Compounds	CHROMIUM AND COMPOUNDS	1	N090 			&	313								
+Chromous chloride	CHROMOUS CHLORIDE	10049055	10049-05-5 			"1,000"	313c								
+d-trans-Chrysanthemic acid of d-allethrone	CHRYSANTHEMICACID OF D-ALLETHRONE	28057489	28057-48-9 				X								
+Chrysene	CHRYSENE	218019	218-01-9 			100	X	U050							
+C.I. Acid Green 3	CIACIDGREEN3	4680788	4680-78-8 				313								
+C.I. Acid Red 114	CIACIDRED114	6459945	6459-94-5 				313								
+C.I. Basic Green 4	CIBASICGREEN4	569642	569-64-2 				313								
+C.I. Basic Red 1	CIBASICRED1	989388	989-38-8 				313								
+C.I. Direct Black 38	CIDIRECTBLACK38	1937377	1937-37-7 				313								
+C.I. Direct Blue 218	CIDIRECTBLUE218	28407376	28407-37-6 				313								
+C.I. Direct Blue 6	CIDIRECTBLUE6	2602462	2602-46-2 				313								
+C.I. Direct Brown 95	CIDIRECTBROWN95	16071866	16071-86-6 				313								
+C.I. Disperse Yellow 3	CIDISPERSEYELLOW	2832408	2832-40-8 				313								
+C.I. Food Red 5	CIFOODRED05	3761533	3761-53-3 				313								
+C.I. Food Red 15	CIFOODRED15	81889	81-88-9 				313								
+C.I. Solvent Orange 7	CISOLVENTORANGE	3118976	3118-97-6 				313								
+C.I. Solvent Yellow 3	CISOLVENTYELLOWA	97563	97-56-3 				313								
+C.I. Solvent Yellow 14	CISOLVENTYELLOWB	842079	842-07-9 				313								
+C.I. Solvent Yellow 34	CISOLVENTYELLOWC	492808	492-80-8 			100	313	U014							
+C.I. Vat Yellow 4	CIVATYELLOW4	128665	128-66-5 				313								
+Cobalt	COBALT	7440484	7440-48-4 				313								
+Cobalt carbonyl	COBALT CARBONYL	10210681	10210-68-1 	"10/10,000"	10		313c								
+Cobalt Compounds	COBALT COMPOUNDS	1	N096 			&	313								
+"Cobalt, ((2,2'-(1,2-ethanediylbis(nitrilomethylidyne))bis(6-fluorophenylato))(2-)-N,N',O,O')-"	"COBALT, ((2,2'-(1,2-ETHANEDIYLBIS (NITRILOMETHYLID"	62207765	62207-76-5 	"100/10,000"	100		313c								
+Cobaltous bromide	COBALTOUS BROMIDE	7789437	7789-43-7 			"1,000"	313c								
+Cobaltous formate	COBALTOUS FORMATE	544183	544-18-3 			"1,000"	313c								
+Cobaltous sulfamate	COBALTOUS SULFAMATE	14017415	14017-41-5 			"1,000"	313c								
+Coke Oven Emissions	COKE OVEN EMISSIONS	0	N.A. 			1									
+Colchicine	COLCHICINE	64868	64-86-8 	"10/10,000"	10										
+Copper	COPPER	7440508	7440-50-8 			"5,000"	313								
+Copper Compounds	COPPER COMPOUNDS	1	N100 			&	313								
+Copper cyanide	COPPER CYANIDE	544923	544-92-3 			10	313c	P029							
+Coumaphos	COUMAPHOS	56724	56-72-4 	"100/10,000"	10	10									
+Coumatetralyl	COUMATETRALYL	5836293	5836-29-3 	"500/10,000"	500										
+Creosote	CREOSOTE	0	N.A.			1		U051							
+Creosote	CREOSOTE	8001589	8001-58-9 				313								
+p-Cresidine	CRESIDINE	120718	120-71-8 				313								
+m-Cresol	CRESOLA	108394	108-39-4 			100	313	U052							
+o-Cresol	CRESOLB	95487	95-48-7 	"1,000/10,000"	100	100	313	U052							
+p-Cresol	CRESOLC	106445	106-44-5 			100	313	U052							
+Cresol (mixed isomers)	CRESOLMIXEDISOMER	1319773	1319-77-3 			100	313	U052							
+Crimidine	CRIMIDINE	535897	535-89-7 	"100/10,000"	100										
+Crotonaldehyde	CROTONALDEHYDE	4170303	4170-30-3 	"1,000"	100	100	313	U053	"20,000"						
+"Crotonaldehyde, (E)-"	"CROTONALDEHYDE, (E)-"	123739	123-73-9 	"1,000"	100	100		U053	"20,000"						
+Cumene	CUMENE	98828	98-82-8 			"5,000"	313	U055							
+Cumene hydroperoxide	CUMENEHYDROPEROXIDE	80159	80-15-9 			10	313	U096							
+Cupferron	CUPFERRON	135206	135-20-6 				313								
+Cupric acetate	CUPRIC ACETATE	142712	142-71-2 			100	313c								
+Cupric acetoarsenite	CUPRIC ACETOARSENITE	12002038	12002-03-8 	"500/10,000"	1	1	313c								
+Cupric chloride	CUPRIC CHLORIDE	7447394	7447-39-4 			10	313c								
+Cupric nitrate	CUPRIC NITRATE	3251238	3251-23-8 			100	313c								
+Cupric oxalate	CUPRIC OXALATE	5893663	5893-66-3 			100	313c								
+Cupric sulfate	CUPRIC SULFATE	7758987	7758-98-7 			10	313c								
+"Cupric sulfate, ammoniated"	"CUPRIC SULFATE, AMMONIATED"	10380297	10380-29-7 			100	313c								
+Cupric tartrate	CUPRIC TARTRATE	815827	815-82-7 			100	313c								
+Cyanazine	CYANAZINE	21725462	21725-46-2 				313								
+Cyanide Compounds	CYANIDE COMPOUNDS	1	N106			&	313								
+"Cyanides (soluble salts and complexes), not otherwise specified"	CYANIDES (SOLUBLE SALTS AND COMPLEXES) NOT OTHERWI	0	N.A.			10	313c	P030							
+Cyanogen	CYANOGEN	460195	460-19-5 			100		P031	"10,000"						
+Cyanogen bromide	CYANOGENBROMIDE	506683	506-68-3 	"500/10,000"	"1,000"	"1,000"	313c	U246							
+Cyanogen chloride	CYANOGENCHLORIDE	506774	506-77-4 			10	313c	P033	"10,000"						
+Cyanogen iodide	CYANOGENIODIDE	506785	506-78-5 	"1,000/10,000"	"1,000"		313c								
+Cyanophos	CYANOPHOS	2636262	2636-26-2 	"1,000"	"1,000"										
+Cyanuric fluoride	CYANURICFLUORIDE	675149	675-14-9 	100	100		313c								
+Cycloate	CYCLOATE	1134232	1134-23-2 				313								
+"2,5-Cyclohexadiene-1,4-dione, 2,3,5-tris(1-aziridinyl)-"	CYCLOHEXADIENEDIONETRIS(1-AZIRIDINYL)-	68768	68-76-8 				X								
+Cyclohexanamine	CYCLOHEXANAMINE	108918	108-91-8 	"10,000"	"10,000"				"15,000"						
+Cyclohexane	CYCLOHEXANE	110827	110-82-7 			"1,000"	313	U056							
+"1,4-Cyclohexane diisocyanate"	CYCLOHEXANEDIISOCYANATE	2556367	2556-36-7 				313#								
+"Cyclohexane, 1,2,3,4,5,6-hexachloro-,(1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha.,6.beta.)-"	"CYCLOHEXANEHEXACHLORO-,(1.ALPHA.,2.ALPHA.,3.BE"	58899	58-89-9 	"1,000/10,000"	1	1	X	U129							
+Cyclohexanol	CYCLOHEXANOL	108930	108-93-0 				313								
+Cyclohexanone	CYCLOHEXANONE	108941	108-94-1 			"5,000"		U057							
+Cycloheximide	CYCLOHEXIMIDE	66819	66-81-9 	"100/10,000"	100										
+Cyclohexylamine	CYCLOHEXYLAMINE	108918	108-91-8 	"10,000"	"10,000"				"15,000"						
+"2-Cyclohexyl-4,6-dinitrophenol"	CYCLOHEXYLDINITROPHENOL	131895	131-89-5 			100		P034							
+Cyclophosphamide	CYCLOPHOSPHAMIDE	50180	50-18-0 			10		U058							
+Cyclopropane	CYCLOPROPANE	75194	75-19-4 						"10,000"						
+Cyfluthrin	CYFLUTHRIN	68359375	68359-37-5 				313								
+Cyhalothrin	CYHALOTHRIN	68085858	68085-85-8 				313								
+"2,4-D"	D	94757	94-75-7 			100	313	U240							
+"2,4-D Acid"	D ACID	94757	94-75-7 			100	X	U240							
+"2,4-D butyl ester"	D BUTYL ESTER	94804	94-80-4 			100	313								
+"2,4-D Esters"	D ESTERS	94111	94-11-1 			100	X								
+"2,4-D Esters"	D ESTERS	94791	94-79-1 			100									
+"2,4-D Esters"	D ESTERS	94804	94-80-4 			100	X								
+"2,4-D Esters"	D ESTERS	1320189	1320-18-9 			100	X								
+"2,4-D Esters"	D ESTERS	1928387	1928-38-7 			100									
+"2,4-D Esters"	D ESTERS	1928616	1928-61-6 			100									
+"2,4-D Esters"	D ESTERS	1929733	1929-73-3 			100	X								
+"2,4-D Esters"	D ESTERS	2971382	2971-38-2 			100	X								
+"2,4-D Esters"	D ESTERS	25168267	25168-26-7 			100									
+"2,4-D Esters"	D ESTERS	53467111	53467-11-1 			100									
+"2,4-D isopropyl ester"	D ISOPROPYL ESTER	94111	94-11-1 			100	313								
+"2,4-D propylene glycol butyl ether ester"	D PROPYLENE GLYCOL BUTYL ETHER ESTER	1320189	1320-18-9 			100	313								
+"2,4-D, salts and esters"	D SALTS	94757	94-75-7 			100		U240							
+Daunomycin	DAUNOMYCIN	20830813	20830-81-3 			10		U059							
+Dazomet	DAZOMET	533744	533-74-4 				313								
+"Dazomet, sodium salt"	DAZOMETSODIUM SALT	53404607	53404-60-7 				313								
+"2,4-DB"	DB	94826	94-82-6 				313								
+DBCP	DBCP	96128	96-12-8 			1	X	U066							
+DDD	DDD	72548	72-54-8 			1		U060							
+DDE	DDE	72559	72-55-9 			1									
+DDE	DDE	3547044	3547-04-4			"5,000"									
+DDT	DDT	50293	50-29-3 			1		U061							
+DDT and Metabolites	DDT AND METABOLITES	0	N.A. 			&									
+Decaborane(14)	DECABORANE(14)	17702419	17702-41-9 	"500/10,000"	500										
+Decabromodiphenyl oxide	DECABROMODIPHENYLOX	1163195	1163-19-5 				313								
+DEF	DEF	78488	78-48-8 				X								
+DEHP	DEHP	117817	117-81-7 			100	X	U028							
+Demeton	DEMETON	8065483	8065-48-3 	500	500										
+Demeton-S-methyl	DEMETON-S-METHYL	919868	919-86-8 	500	500										
+Desmedipham	DESMEDIPHAM	13684565	13684-56-5 				313								
+"2,4-D 2-ethylhexyl ester"	DETHYLHEXYL ESTER	1928434	1928-43-4 				313								
+"2,4-D 2-ethyl-4-methylpentyl ester"	DETHYLMETHYLPENTYL ESTER	53404378	53404-37-8 				313								
+Dialifor	DIALIFOR	10311849	10311-84-9 	"100/10,000"	100										
+Diallate	DIALLATE	2303164	2303-16-4 			100	313	U062							
+"2,4-Diaminoanisole"	DIAMINOANISOLE	615054	615-05-4 				313								
+"2,4-Diaminoanisole sulfate"	DIAMINOANISOLESULF	39156417	39156-41-7 				313								
+"4,4'-Diaminodiphenyl ether"	DIAMINODIPHENYL	101804	101-80-4 				313								
+Diaminotoluene	DIAMINOTOLUENE	496720	496-72-0 			10		U221							
+Diaminotoluene	DIAMINOTOLUENE	823405	823-40-5 			10		U221							
+"2,4-Diaminotoluene"	DIAMINOTOLUENEA	95807	95-80-7 			10	313								
+Diaminotoluene (mixed isomers)	DIAMINOTOLUENEMIXE	25376458	25376-45-8 			10	313	U221							
+o-Dianisidine dihydrochloride	DIANISIDINEDIHYDROCHLORIDE	20325400	20325-40-0 				X								
+o-Dianisidine hydrochloride	DIANISIDINEHYDROCHLORIDE	111984099	111984-09-9 				X								
+Diazinon	DIAZINON	333415	333-41-5 			1	313								
+Diazomethane	DIAZOMETHANE	334883	334-88-3 			100	313								
+"Dibenz(a,h)acridine"	DIBENZACRIDINEAH	226368	226-36-8 				313+								
+"Dibenz(a,j)acridine"	DIBENZACRIDINEAJ	224420	224-42-0 				313+								
+"Dibenz[a,h]anthracene"	DIBENZANTHRACENE	53703	53-70-3 			1	313+	U063							
+"7H-Dibenzo(c,g)carbazole"	DIBENZOCARBAZOLECG	194592	194-59-2 				313+								
+"Dibenzo(a,e)fluoranthene"	DIBENZOFLUORANTHENEAE	5385751	5385-75-1 				313+								
+Dibenzofuran	DIBENZOFURAN	132649	132-64-9 			100	313								
+"Dibenzo(a,e)pyrene"	DIBENZOPYRENEAE	192654	192-65-4 				313+								
+"Dibenzo(a,h)pyrene"	DIBENZOPYRENEAH	189640	189-64-0 				313+								
+"Dibenzo(a,l)pyrene"	DIBENZOPYRENEAL	191300	191-30-0 				313+								
+"Dibenz[a,i]pyrene"	DIBENZPYRENEAI	189559	189-55-9 			10	X	U064							
+Diborane	DIBORANE	19287457	19287-45-7 	100	100				"2,500"						
+Diborane(6)	DIBORANE(6)	19287457	19287-45-7 	100	100				"2,500"						
+"1,2-Dibromo-3-chloropropane"	DIBROMOCHLORO	96128	96-12-8 			1	313	U066							
+"1,2-Dibromoethane"	DIBROMOETHANEE	106934	106-93-4 			1	313	U067							
+"3,5-Dibromo-4-hydroxybenzonitrile"	DIBROMOHYDROXYBENZONITRILE	1689845	1689-84-5 				X								
+"2,2-Dibromo-3-nitrilopropionamide"	DIBROMONITRILOPROPIONAMIDE	10222012	10222-01-2 				313s								
+Dibromotetrafluoroethane	DIBROMOTETRAFLUOROETHANE	124732	124-73-2 				313								
+Dibutyl phthalate	DIBUTYLPHTHALATE	84742	84-74-2 			10	313	U069							
+Dicamba	DICAMBA	1918009	1918-00-9 			"1,000"	313								
+Dichlobenil	DICHLOBENIL	1194656	1194-65-6 			100									
+Dichlone	DICHLONE	117806	117-80-6 			1									
+Dichloran	DICHLORAN	99309	99-30-9 				313								
+o-Dichlorobenzene	DICHLOROBENZENE	95501	95-50-1 			100	X	U070							
+Dichlorobenzene	DICHLOROBENZENE	25321226	25321-22-6 			100	X								
+"1,2-Dichlorobenzene"	DICHLOROBENZENEA	95501	95-50-1 			100	313	U070							
+"1,3-Dichlorobenzene"	DICHLOROBENZENEB	541731	541-73-1 			100	313	U071							
+"1,4-Dichlorobenzene"	DICHLOROBENZENEC	106467	106-46-7 			100	313	U072							
+Dichlorobenzene (mixed isomers)	DICHLOROBENZENEMIX	25321226	25321-22-6 			100	313								
+Dichlorobenzidine	DICHLOROBENZIDINE	0	N.A. 			&									
+"3,3'-Dichlorobenzidine"	DICHLOROBENZIDINE	91941	91-94-1 			1	313	U073							
+"3,3'-Dichlorobenzidine dihydrochloride"	DICHLOROBENZIDINEDIHYDROCHLORIDE	612839	612-83-9 				313								
+"3,3'-Dichlorobenzidine sulfate"	DICHLOROBENZIDINESULFATE	64969342	64969-34-2 				313								
+Dichlorobromomethane	DICHLOROBROMOMETHANE	75274	75-27-4 			"5,000"	313								
+"trans-1,4-Dichloro-2-butene"	DICHLOROBUTENE	110576	110-57-6 	500	500		313								
+"trans-1,4-Dichlorobutene"	DICHLOROBUTENE	110576	110-57-6 	500	500		X								
+"1,4-Dichloro-2-butene"	DICHLOROBUTENE2	764410	764-41-0 			1	313	U074							
+"4,6-Dichloro-N-(2-chlorophenyl)-1,3,5-triazin-2-amine"	DICHLOROCHLOROPHENYLTRIAZIN-2-AMINE	101053	101-05-3 				X								
+"1,2-Dichloro-1,1-difluoroethane"	DICHLORODIFLUOROETHANE (HCFC-132B)	1649087	1649-08-7 				313								
+Dichlorodifluoromethane	DICHLORODIFLUOROMETHANE	75718	75-71-8 			"5,000"	313	U075							
+"1,1-Dichloroethane"	DICHLOROETHANE	75343	75-34-3 			"1,000"	X	U076							
+"1,2-Dichloroethane"	DICHLOROETHANE	107062	107-06-2 			100	313	U077							
+"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropane carboxylic acid, (3-phenoxy-phenyl)methyl ester"	DICHLOROETHENYLDIMETHYLCYCLOPROPANECARBOXYLI	52645531	52645-53-1 				X								
+"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, cyano(4-fluoro-3-phenoxyphenyl)methyl ester"	DICHLOROETHENYLDIMETHYLCYCLOPROPANECARBOXYLIC A	68359375	68359-37-5 				X								
+"1,1-Dichloroethylene"	DICHLOROETHYLENE	75354	75-35-4 			100	X	U078	"10,000"						
+"1,2-Dichloroethylene"	DICHLOROETHYLENE	156605	156-60-5 			"1,000"		U079							
+"1,2-Dichloroethylene"	DICHLOROETHYLENE	540590	540-59-0 				313								
+Dichloroethyl ether	DICHLOROETHYLETHER	111444	111-44-4 	"10,000"	10	10	X	U025							
+"1,1-Dichloro-1-fluoroethane"	DICHLOROFLUOROETHANE	1717006	1717-00-6 				313								
+Dichlorofluoromethane	DICHLOROFLUOROMETHANE	75434	75-43-4 				313								
+Dichloroisopropyl ether	DICHLOROISOPROPYL ETHER	108601	108-60-1 			"1,000"	X	U027							
+Dichloromethane	DICHLOROMETHANE	75092	75-09-2 			"1,000"	313	U080							
+"3,6-Dichloro-2-methoxybenzoic acid"	DICHLOROMETHOXYBENZOICACID	1918009	1918-00-9 			"1,000"	X								
+"3,6-Dichloro-2-methoxybenzoic acid, sodium salt"	DICHLOROMETHOXYBENZOICACIDSODIUM SALT	1982690	1982-69-0 				X								
+Dichloromethyl ether	DICHLOROMETHYLETHER	542881	542-88-1 	100	10	10	X	P016	"1,000"						
+"3-(2,4-Dichloro-5-(1-methylethoxy)phenyl)-5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one"	DICHLOROMETHYLETHOXYPHENYLDIMETHYLETH	19666309	19666-30-9 				X								
+Dichloromethylphenylsilane	DICHLOROMETHYLPHENYLSILANE	149746	149-74-6 	"1,000"	"1,000"										
+"2,6-Dichloro-4-nitroaniline"	DICHLORONITROANILINE	99309	99-30-9 				X								
+Dichloropentafluoropropane	DICHLOROPENTAFLUOROPROPANE	127564925	127564-92-5 				313								
+"2,2-Dichloro-1,1,1,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225AA)	128903219	128903-21-9 				313								
+"2,3-Dichloro-1,1,1,2,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225BA)	422480	422-48-0 				313								
+"1,2-Dichloro-1,1,2,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225BB)	422446	422-44-6 				313								
+"3,3-Dichloro-1,1,1,2,2-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225CA)	422560	422-56-0 				313								
+"1,3-Dichloro-1,1,2,2,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225CB)	507551	507-55-1 				313								
+"1,1-Dichloro-1,2,2,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225CC)	13474889	13474-88-9 				313								
+"1,2-Dichloro-1,1,3,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225DA)	431867	431-86-7 				313								
+"1,3-Dichloro-1,1,2,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225EA)	136013791	136013-79-1 				313								
+"1,1-Dichloro-1,2,3,3,3-pentafluoropropane"	DICHLOROPENTAFLUOROPROPANE (HCFC-225EB)	111512562	111512-56-2 				313								
+Dichlorophene	DICHLOROPHENE	97234	97-23-4 				313								
+"2,6-Dichlorophenol"	DICHLOROPHENOL	87650	87-65-0 			100		U082							
+"2,4-Dichlorophenol"	DICHLOROPHENOL	120832	120-83-2 			100	313	U081							
+"2-(4-(2,4-Dichlorophenoxy)phenoxy)propanoic acid, methyl ester"	DICHLOROPHENOXYPHENOXYPROPANOICACIDMETHYL EST	51338273	51338-27-3 				X								
+Dichlorophenylarsine	DICHLOROPHENYLARSINE	696286	696-28-6 	500	1	1		P036							
+"3-(3,5-Dichlorophenyl)-5-ethenyl-5-methyl-2,4-oxazolidinedione"	DICHLOROPHENYLETHENYLMETHYLOXAZOLIDINEDIO	50471448	50471-44-8 				X								
+"2-(3,4-Dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione"	DICHLOROPHENYLMETHYLOXADIAZOLIDINEDIO	20354261	20354-26-1 				X								
+"N-(3,4-Dichlorophenyl)propanamide"	DICHLOROPHENYLPROPANAMIDE	709988	709-98-8 				X								
+"1-(2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl)-1H-imidazole"	DICHLOROPHENYLPROPENYLOXYETHYLIMIDAZO	35554440	35554-44-0 				X								
+"1-(2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl)-methyl-1H-1,2,4,-triazole"	DICHLOROPHENYLPROPYLDIOXOLANYLMETHYL	60207901	60207-90-1 				X								
+Dichloropropane	DICHLOROPROPANE	26638197	26638-19-7 			"1,000"									
+Dichloropropane - Dichloropropene (mixture)	DICHLOROPROPANE - DICHLOROPROPENE (MIXTURE)	8003198	8003-19-8 			100									
+"1,1-Dichloropropane"	DICHLOROPROPANE11	78999	78-99-9 			"1,000"									
+"1,2-Dichloropropane"	DICHLOROPROPANE12	78875	78-87-5 			"1,000"	313	U083							
+"1,3-Dichloropropane"	DICHLOROPROPANE13	142289	142-28-9 			"1,000"									
+Dichloropropene	DICHLOROPROPENE	26952238	26952-23-8 			100									
+"1,3-Dichloropropene"	DICHLOROPROPENE13	542756	542-75-6 			100	X	U084							
+"trans-1,3-Dichloropropene"	DICHLOROPROPENE13T	10061026	10061-02-6 				313								
+"2,3-Dichloropropene"	DICHLOROPROPENE23	78886	78-88-6 			100	313								
+"2,2-Dichloropropionic acid"	DICHLOROPROPIONIC ACID	75990	75-99-0 			"5,000"									
+"1,3-Dichloropropylene"	DICHLOROPROPYLEN	542756	542-75-6 			100	313	U084							
+Dichlorosilane	DICHLOROSILANE	4109960	4109-96-0 						"10,000"						
+Dichlorotetrafluoroethane	DICHLOROTETRAFLUOROETHANE	76142	76-14-2 				313								
+Dichlorotrifluoroethane	DICHLOROTRIFLUOROETHANE	34077877	34077-87-7 				313								
+"Dichloro-1,1,2-trifluoroethane"	DICHLOROTRIFLUOROETHANE	90454185	90454-18-5 				313								
+"1,1-Dichloro-1,2,2-trifluoroethane"	DICHLOROTRIFLUOROETHANE11	812044	812-04-4 				313								
+"1,2-Dichloro-1,1,2-trifluoroethane"	DICHLOROTRIFLUOROETHANE12	354234	354-23-4 				313								
+"2,2-Dichloro-1,1,1-trifluoroethane"	DICHLOROTRIFLUOROETHANE22	306832	306-83-2 				313								
+Dichlorvos	DICHLORVOS	62737	62-73-7 	"1,000"	10	10	313								
+Diclofop methyl	DICLOFOPMETHYL	51338273	51338-27-3 				313								
+Dicofol	DICOFOL	115322	115-32-2 			10	313								
+Dicrotophos	DICROTOPHOS	141662	141-66-2 	100	100										
+Dicyclopentadiene	DICYCLOPENTADIENE	77736	77-73-6 				313								
+Dieldrin	DIELDRIN	60571	60-57-1 			1		P037							
+Diepoxybutane	DIEPOXYBUTANE	1464535	1464-53-5 	500	10	10	313	U085							
+Diethanolamine	DIETHANOLAMINE	111422	111-42-2 			100	313								
+Diethatyl ethyl	DIETHATYLETHYL	38727558	38727-55-8 				313								
+Diethylamine	DIETHYLAMINE	109897	109-89-7 			100									
+"O-(2-(Diethylamino)-6-methyl-4-pyrimidinyl)-O,O-dimethyl phosphorothioate"	DIETHYLAMINOMETHYLPYRIMIDINYLDIMETHYLPHO	29232937	29232-93-7 				X								
+"N,N-Diethylaniline"	DIETHYLANILINE	91667	91-66-7 			"1,000"									
+Diethylarsine	DIETHYLARSINE	692422	692-42-2 			1		P038							
+Diethyl chlorophosphate	DIETHYLCHLOROPHOSPHATE	814493	814-49-3 	500	500										
+Diethyldiisocyanatobenzene	DIETHYLDIISOCYANATOBENZENE	134190377	134190-37-7 				313#								
+Di(2-ethylhexyl) phthalate	DIETHYLHEXYLPHT	117817	117-81-7 			100	313	U028							
+"O,O-Diethyl S-methyl dithiophosphate"	DIETHYLMETHYLDITHIOPHOSPHATE	3288582	3288-58-2 			"5,000"		U087							
+Diethyl-p-nitrophenyl phosphate	DIETHYLNITROPHENYL PHOSPHATE	311455	311-45-5 			100		P041							
+Diethyl phthalate	DIETHYLPHTHALATE	84662	84-66-2 			"1,000"		U088							
+"O,O-Diethyl O-pyrazinyl phosphorothioate"	DIETHYLPYRAZINYL PHOSPHOROTHIOATE	297972	297-97-2 	500	100	100		P040							
+Diethylstilbestrol	DIETHYLSTILBESTROL	56531	56-53-1 			1		U089							
+Diethyl sulfate	DIETHYLSULFATE	64675	64-67-5 			10	313								
+Diflubenzuron	DIFLUBENZURON	35367385	35367-38-5 				313								
+Difluoroethane	DIFLUOROETHANE	75376	75-37-6 						"10,000"						
+Digitoxin	DIGITOXIN	71636	71-63-6 	"100/10,000"	100										
+Diglycidyl ether	DIGLYCIDYL ETHER	2238075	2238-07-5	"1,000"	"1,000"										
+Diglycidyl resorcinol ether	DIGLYCIDYLRESORCINOL ETHER	101906	101-90-6 				313								
+Digoxin	DIGOXIN	20830755	20830-75-5 	"10/10,000"	10										
+"2,3,-Dihydro-5,6-dimethyl-1,4-dithiin 1,1,4,4-tetraoxide"	DIHYDRODIMETHYLDITHIINTETRAOXIDE	55290647	55290-64-7 				X								
+"5,6-Dihydro-2-methyl-N-phenyl-1,4-oxathiin-3-carboxamide"	DIHYDROMETHYLPHENYLOXATHIINCARBOXAMIDE	5234684	5234-68-4 				X								
+Dihydrosafrole	DIHYDROSAFROLE	94586	94-58-6 			10	313	U090							
+Diisocyanates (includes only 20 chemicals)	DIISOCYANATES	1	N120				313								
+"4,4'-Diisocyanatodiphenyl ether"	DIISOCYANATODIPHENYLETHER	4128738	4128-73-8 				313#								
+"2,4'-Diisocyanatodiphenyl sulfide"	DIISOCYANATODIPHENYLSULFIDE	75790873	75790-87-3 				313#								
+Diisopropylfluorophosphate	DIISOPROPYLFLUOROPHOSPHATE	55914	55-91-4 	100	100	100		P043							
+Dimefox	DIMEFOX	115264	115-26-4 	500	500										
+"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-(1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.)-"	"DIMETHANONAPHTHALENEHEXACHLORO-1,4,4"	309002	309-00-2 	"500/10,000"	1	1	X	P004							
+Dimethipin	DIMETHIPIN	55290647	55290-64-7 				313								
+Dimethoate	DIMETHOATE	60515	60-51-5 	"500/10,000"	10	10	313	P044							
+"3,3'-Dimethoxybenzidine"	DIMETHOXYBENZID	119904	119-90-4 			100	313	U091							
+"3,3'-Dimethoxybenzidine dihydrochloride"	DIMETHOXYBENZIDINEDIHYDROCHLORIDE	20325400	20325-40-0 				313								
+"3,3'-Dimethoxybenzidine-4,4'-diisocyanate"	DIMETHOXYBENZIDINEDIISOCYANATE	91930	91-93-0 				313#								
+"3,3'-Dimethoxybenzidine hydrochloride"	DIMETHOXYBENZIDINEHYDROCHLORIDE	111984099	111984-09-9 				313								
+Dimethylamine	DIMETHYLAMINE	124403	124-40-3 			"1,000"	313	U092	"10,000"						
+Dimethylamine dicamba	DIMETHYLAMINEDICAMBA	2300665	2300-66-5 				313								
+4-Dimethylaminoazobenzene	DIMETHYLAMINOAZO	60117	60-11-7 			10	313	U093							
+Dimethylaminoazobenzene	DIMETHYLAMINOAZOBENZENE	60117	60-11-7 			10	X	U093							
+"N,N-Dimethylaniline"	DIMETHYLANILINE	121697	121-69-7 			100	313								
+"7,12-Dimethylbenz[a]anthracene"	DIMETHYLBENZAANTHRACENE	57976	57-97-6 			1	313+	U094							
+"3,3'-Dimethylbenzidine"	DIMETHYLBENZIDI	119937	119-93-7 			10	313	U095							
+"3,3'-Dimethylbenzidine dihydrochloride"	DIMETHYLBENZIDINEDIHYDROCHLORIDE	612828	612-82-8 				313								
+"3,3'-Dimethylbenzidine dihydrofluoride"	DIMETHYLBENZIDINEDIHYDROFLUORIDE	41766750	41766-75-0 				313								
+"2,2-Dimethyl-1,3-benzodioxol-4-ol methylcarbamate"	DIMETHYLBENZODIOXOLOL METHYLCARBAMATE	22781233	22781-23-3 			100	X	U278							
+Dimethylcarbamyl chloride	DIMETHYLCARBAMYL	79447	79-44-7 			1	313	U097							
+Dimethyl chlorothiophosphate	DIMETHYLCHLOROTHIOPHOSPHATE	2524030	2524-03-0 	500	500		313								
+Dimethyldichlorosilane	DIMETHYLDICHLOROSILANE	75785	75-78-5 	500	500				"5,000"						
+"3,3'-Dimethyl-4,4'-diphenylene diisocyanate"	DIMETHYLDIPHENYLENEDIISOCYANATE	91974	91-97-4 				313#								
+"3,3'-Dimethyldiphenylmethane-4,4'-diisocyanate"	DIMETHYLDIPHENYLMETHANEDIISOCYANATE	139253	139-25-3 				313#								
+"N-(5-(1,1-Dimethylethyl)-1,3,4-thiadiazol-2-yl)-N,N'-dimethylurea"	DIMETHYLETHYLTHIADIAZOLYLDIMETHY	34014181	34014-18-1 				X								
+Dimethylformamide	DIMETHYLFORMAMIDE	68122	68-12-2 			100	X								
+"N,N-Dimethylformamide"	"DIMETHYLFORMAMIDE,N,N-"	68122	68-12-2 			100	313								
+"1,1-Dimethyl hydrazine"	DIMETHYLHYDRAZI	57147	57-14-7 	"1,000"	10	10	313	U098	"15,000"						
+Dimethylhydrazine	DIMETHYLHYDRAZINE	57147	57-14-7 	"1,000"	10	10	X	U098	"15,000"						
+"O,O-Dimethyl O-(3-methyl-4-(methylthio) phenyl) ester, phosphorothioic acid"	DIMETHYLMETHYLMETHYLTHIOPHENYLESTERPHOSP	55389	55-38-9 				X								
+"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (1,3,4,5,6,7-hexahydro-1,3-dioxo-2H-isoindol-2-yl)methyl ester"	DIMETHYLMETHYLPROPENYLCYCLOPROPANECARBOXYLIC A	7696120	7696-12-0 				X								
+"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester"	DIMETHYLMETHYLPROPENYLCYCLOPROPANECARBOXYLIC A	26002802	26002-80-2 				X								
+"2,4-Dimethylphenol"	DIMETHYLPHENOL	105679	105-67-9 			100	313	U101							
+Dimethyl-p-phenylenediamine	DIMETHYLPHENYLENEDIAMINE	99989	99-98-9 	"10/10,000"	10										
+Dimethyl phosphorochloridothioate	DIMETHYLPHOSPHOROCHLORIDOTHIOATE	2524030	2524-03-0 	500	500		X								
+Dimethyl phthalate	DIMETHYLPHTALATE	131113	131-11-3 			"5,000"	313	U102							
+"2,2-Dimethylpropane"	DIMETHYLPROPANE	463821	463-82-1 						"10,000"						
+Dimethyl sulfate	DIMETHYLSULFATE	77781	77-78-1 	500	100	100	313	U103							
+"O,O-Dimethyl-O-(3,5,6-trichloro-2-pyridyl)phosphorothioate"	DIMETHYLTRICHLOROPYRIDYLPHOSPHOROTHIOATE	5598130	5598-13-0 				X								
+Dimetilan	DIMETILAN	644644	644-64-4 	"500/10,000"	1	1		P191							
+Dinitrobenzene (mixed isomers)	DINITROBENZENE (MIXED)	25154545	25154-54-5 			100									
+m-Dinitrobenzene	DINITROBENZENEM	99650	99-65-0 			100	313								
+o-Dinitrobenzene	DINITROBENZENEO	528290	528-29-0 			100	313								
+p-Dinitrobenzene	DINITROBENZENEP	100254	100-25-4 			100	313								
+Dinitrobutyl phenol	DINITROBUTYL PHENOL	88857	88-85-7 	"100/10,000"	"1,000"	"1,000"	313	P020							
+"4,6-Dinitro-o-cresol"	DINITROCRESOL	534521	534-52-1 	"10/10,000"	10	10	313	P047							
+Dinitrocresol	DINITROCRESOL	534521	534-52-1 	"10/10,000"	10	10	X	P047							
+"4,6-Dinitro-o-cresol and salts"	DINITROOCRESOL AND SALTS	534521	534-52-1 			10		P047							
+Dinitrophenol	DINITROPHENOLA	25550587	25550-58-7 			10									
+"2,4-Dinitrophenol"	DINITROPHENOLB	51285	51-28-5 			10	313	P048							
+"2,5-Dinitrophenol"	DINITROPHENOLC	329715	329-71-5 			10									
+"2,6-Dinitrophenol"	DINITROPHENOLD	573568	573-56-8 			10									
+"1,6-Dinitropyrene"	DINITROPYRENE	42397648	42397-64-8 				313+								
+"1,8-Dinitropyrene"	DINITROPYRENE	42397659	42397-65-9 				313+								
+Dinitrotoluene (mixed isomers)	DINITROTOLUENEA	25321146	25321-14-6 			10	313								
+"2,4-Dinitrotoluene"	DINITROTOLUENEB	121142	121-14-2 			10	313	U105							
+"2,6-Dinitrotoluene"	DINITROTOLUENEC	606202	606-20-2 			100	313	U106							
+"3,4-Dinitrotoluene"	DINITROTOLUENED	610399	610-39-9 			10									
+Dinocap	DINOCAP	39300453	39300-45-3 				313								
+Dinoseb	DINOSEB	88857	88-85-7 	"100/10,000"	"1,000"	"1,000"	X	P020							
+Dinoterb	DINOTERB	1420071	1420-07-1 	"500/10,000"	500										
+Di-n-octyl phthalate	DIOCTYLPHTHALATE	117840	117-84-0 			"5,000"		U107							
+n-Dioctylphthalate	DIOCTYLPHTHALATE	117840	117-84-0 			"5,000"		U107							
+"1,4-Dioxane"	DIOXANE	123911	123-91-1 			100	313	U108							
+Dioxathion	DIOXATHION	78342	78-34-2 	500	500										
+Dioxin and dioxin-like compounds (includes only 17 chemicals)	DIOXIN AND DIOXIN-LIKE COMPOUNDS	1	N150				313								
+Diphacinone	DIPHACINONE	82666	82-66-6 	"10/10,000"	10										
+Diphenamid	DIPHENAMID	957517	957-51-7 				313								
+Diphenylamine	DIPHENYLAMINE	122394	122-39-4 				313								
+"1,2-Diphenylhydrazine"	DIPHENYLHYDRAZI	122667	122-66-7 			10	313	U109							
+Diphenylhydrazine	DIPHENYLHYDRAZINE	0	N.A. 			&									
+"Diphosphoramide, octamethyl-"	"DIPHOSPHORAMIDE, OCTAMETHYL-"	152169	152-16-9 	100	100	100		P085							
+Dipotassium endothall	DIPOTASSIUMENDOTHALL	2164070	2164-07-0 				313								
+Dipropylamine	DIPROPYLAMINE	142847	142-84-7 			"5,000"		U110							
+"4-(Dipropylamino)-3,5-dinitrobenzenesulfonamide"	DIPROPYLAMINODINITROBENZENESULFONAMIDE	19044883	19044-88-3 				X								
+Dipropyl isocinchomeronate	DIPROPYLISOCINCHOMERONATE	136458	136-45-8 				313								
+Di-n-propylnitrosamine	DIPROPYLNITROSAMINE	621647	621-64-7 			10	X	U111							
+Diquat	DIQUAT	85007	85-00-7 			"1,000"									
+Diquat	DIQUAT	2764729	2764-72-9 			"1,000"									
+Disodium cyanodithioimidocarbonate	DISODIUMCYANODITHIOIMIDOCARBONATE	138932	138-93-2 				313								
+Disulfoton	DISULFOTON	298044	298-04-4 	500	1	1		P039							
+Dithiazanine iodide	DITHIAZANINE IODIDE	514738	514-73-8 	"500/10,000"	500										
+Dithiobiuret	DITHIOBIURET	541537	541-53-7 	"100/10,000"	100	100	X	P049							
+"2,4-Dithiobiuret"	"DITHIOBIURET-2,4"	541537	541-53-7 	"100/10,000"	100	100	313	P049							
+Diuron	DIURON	330541	330-54-1 			100	313								
+Dodecylbenzenesulfonic acid	DODECYLBENZENESULFONIC ACID	27176870	27176-87-0 			"1,000"									
+Dodecylguanidine monoacetate	DODECYLGUANIDINEMONOACETATE	2439103	2439-10-3				X								
+Dodine	DODINE	2439103	2439-10-3				313								
+"2,4-DP"	DP	120365	120-36-5 				313								
+"2,4-D sodium salt"	DSODIUM SALT	2702729	2702-72-9 				313								
+"Emetine, dihydrochloride"	"EMETINE, DIHYDROCHLORIDE"	316427	316-42-7 	"1/10,000"	1										
+Endosulfan	ENDOSULFAN	115297	115-29-7 	"10/10,000"	1	1		P050							
+alpha - Endosulfan	ENDOSULFAN	959988	959-98-8 			1									
+beta - Endosulfan	ENDOSULFAN	33213659	33213-65-9 			1									
+Endosulfan and Metabolites	ENDOSULFAN AND METABOLITES	0	N.A. 			&									
+Endosulfan sulfate	ENDOSULFAN SULFATE	1031078	1031-07-8 			1									
+Endothall	ENDOTHALL	145733	145-73-3 			"1,000"		P088							
+Endothion	ENDOTHION	2778043	2778-04-3	"500/10,000"	500										
+Endrin	ENDRIN	72208	72-20-8 	"500/10,000"	1	1		P051							
+Endrin aldehyde	ENDRIN ALDEHYDE	7421934	7421-93-4 			1									
+Endrin and Metabolites	ENDRIN AND METABOLITES	0	N.A. 			&									
+Epichlorohydrin	EPICHLOROHYDRIN	106898	106-89-8 	"1,000"	100	100	313	U041	"20,000"						
+Epinephrine	EPINEPHRINE	51434	51-43-4 			"1,000"		P042							
+EPN	EPN	2104645	2104-64-5 	"100/10,000"	100										
+EPTC	EPTC	759944	759-94-4 				X								
+Ergocalciferol	ERGOCALCIFEROL	50146	50-14-6 	"1,000/10,000"	"1,000"										
+Ergotamine tartrate	ERGOTAMINE TARTRATE	379793	379-79-3 	"500/10,000"	500										
+Ethanamine	ETHANAMINE	75047	75-04-7 			100			"10,000"						
+Ethane	ETHANE	74840	74-84-0 						"10,000"						
+"Ethane, chloro-"	ETHANECHLORO-	75003	75-00-3 			100	X		"10,000"						
+"1,2-Ethanediamine"	ETHANEDIAMINE	107153	107-15-3 	"10,000"	"5,000"	"5,000"			"20,000"						
+"Ethane, 1,1-difluoro-"	ETHANEDIFLUORO	75376	75-37-6 						"10,000"						
+Ethanedinitrile	ETHANEDINITRILE	460195	460-19-5 			100		P031	"10,000"						
+"Ethane, 1,1'-oxybis-"	ETHANEOXYBIS-	60297	60-29-7 			100		U117	"10,000"						
+Ethaneperoxoic acid	ETHANEPEROXOICACID	79210	79-21-0 	500	500		X		"10,000"						
+"Ethanesulfonyl chloride, 2-chloro-"	"ETHANESULFONYL CHLORIDE, 2-CHLORO-"	1622328	1622-32-8 	500	500										
+"Ethane, 1,1,1,2-tetrachloro-"	ETHANETETRACHLORO-	630206	630-20-6 			100	X	U208							
+"Ethane, 1,1'-thiobis[2-chloro-"	ETHANETHIOBISCHLORO-	505602	505-60-2 	500	500		X								
+Ethanethiol	ETHANETHIOL	75081	75-08-1 						"10,000"						
+"Ethane, 1,1,2-trichloro-1,2,2,-trifluoro-"	ETHANETRICHLOROTRIFLUORO-	76131	76-13-1 				X								
+"Ethanimidothioic acid, 2-(dimethylamino)-N-hydroxy-2-oxo-, methyl ester"	ETHANIMIDOTHIOICACIDDIMETHYLAMINO)-N-HYDROXY	30558431	30558-43-1 			"5,000"		U394							
+"Ethanimidothioic acid, N-[[methylamino)carbonyl]"	ETHANIMIDOTHIOICACIDMETHYLAMINO)CARBONYL]	16752775	16752-77-5 	"500/10,000"	100	100		P066							
+"Ethanol, 1,2-dichloro-, acetate"	ETHANOLDICHLOROACETATE	10140871	10140-87-1 	"1,000"	"1,000"										
+"Ethanol, 2-ethoxy-"	ETHANOLETHOXY	110805	110-80-5 			"1,000"	X	U359							
+"Ethanol, 2,2'-oxybis-, dicarbamate"	ETHANOLOXYBISDICARBAMATE	5952261	5952-26-1 			"5,000"		U395							
+Ethene	ETHENE	74851	74-85-1 				X		"10,000"						
+"Ethene, bromotrifluoro-"	ETHENEBROMOTRIFLUORO	598732	598-73-2 						"10,000"						
+"Ethene, chloro-"	ETHENECHLORO-	75014	75-01-4 			1	X	U043	"10,000"						
+"Ethene, chlorotrifluoro-"	ETHENECHLOROTRIFLU	79389	79-38-9 						"10,000"						
+"Ethene, 1,1-dichloro-"	ETHENEDICHLORO	75354	75-35-4 			100	X	U078	"10,000"						
+"Ethene, 1,1-difluoro-"	ETHENEDIFLUORO	75387	75-38-7 						"10,000"						
+"Ethene, ethoxy-"	ETHENEETHOXY-	109922	109-92-2 						"10,000"						
+"Ethene, fluoro-"	ETHENEFLUORO-	75025	75-02-5 						"10,000"						
+"Ethene, methoxy-"	ETHENEMETHOXY-	107255	107-25-5 						"10,000"						
+"Ethene, tetrafluoro-"	ETHENETETRAFLUORO-	116143	116-14-3 						"10,000"						
+Ethion	ETHION	563122	563-12-2 	"1,000"	10	10									
+Ethoprop	ETHOPROP	13194484	13194-48-4 	"1,000"	"1,000"		313								
+Ethoprophos	ETHOPROPHOS	13194484	13194-48-4 	"1,000"	"1,000"		X								
+2-Ethoxyethanol	ETHOXYETHANOL	110805	110-80-5 			"1,000"	313	U359							
+2-(1-(Ethoxyimino) butyl)-5-(2-(ethylthio)propyl)-3-hydroxyl-2-cyclohexen-1-one	ETHOXYIMINOBUTYLETHYLTHIOPROPYLHYDROXYL	74051802	74051-80-2 				X								
+2-((Ethoxyl((1-methylethyl)amino]phosphinothioyl]oxy) benzoic acid 1-methylethyl ester	ETHOXYLMETHYLETHYLAMINOPHOSPHINOTHIOYLOXYBENZOI	25311711	25311-71-1 				X								
+Ethyl acetate	ETHYLACETATE	141786	141-78-6 			"5,000"		U112							
+Ethyl acetylene	ETHYLACETYLENE	107006	107-00-6 						"10,000"						
+Ethyl acrylate	ETHYLACRYLATE	140885	140-88-5 			"1,000"	313	U113							
+"3-((Ethylamino)methoxyphosphinothioyl)oxy)-2-butenoic acid, 1-methylethyl ester"	"ETHYLAMINOMETHOXYPHOSPHINOTHIOYLOXYBUTENOIC ACID,"	31218834	31218-83-4 				X								
+Ethylbenzene	ETHYLBENZENE	100414	100-41-4 			"1,000"	313								
+Ethylbis(2-chloroethyl)amine	ETHYLBISCHLOROETHYL)AMINE	538078	538-07-8 	500	500										
+Ethyl carbamate	ETHYLCARBAMATE	51796	51-79-6 			100	X	U238							
+Ethyl chloride	ETHYLCHLORIDE	75003	75-00-3 			100	X		"10,000"						
+Ethyl chloroformate	ETHYLCHLOROFORMATE	541413	541-41-3 				313								
+Ethyl-2-(((((4-chloro-6-methoxyprimidin-2-yl)amino)carbonyl)amino)sulfonyl)benzoate	ETHYLCHLOROMETHOXYPRIMIDINYLCARBONYLAMINO	90982324	90982-32-4 				X								
+Ethyl cyanide	ETHYLCYANIDE	107120	107-12-0 	500	10	10		P101	"10,000"						
+Ethyl dipropylthiocarbamate	ETHYLDIPROPYLTHIOCARBAMATE EPTC	759944	759-94-4 				313								
+Ethylene	ETHYLENE	74851	74-85-1 				313		"10,000"						
+"Ethylenebisdithiocarbamic acid, salts and esters"	ETHYLENEBISDITHIOCARBAMIC ACID SALTS AND ESTERS	1	N171				313								
+"Ethylenebisdithiocarbamic acid, salts & esters"	"ETHYLENEBISDITHIOCARBAMIC ACID, SALTS & ESTERS"	111546	111-54-6 			"5,000"	X	U114							
+Ethylenediamine	ETHYLENEDIAMINE	107153	107-15-3 	"10,000"	"5,000"	"5,000"			"20,000"						
+Ethylenediamine-tetraacetic acid (EDTA)	ETHYLENEDIAMINE-TETRAACETIC ACID (EDTA)	60004	60-00-4 			"5,000"									
+Ethylene dibromide	ETHYLENEDIBROMIDE	106934	106-93-4 			1	X	U067							
+Ethylene dichloride	ETHYLENEDICHLORIDE	107062	107-06-2 			100	X	U077							
+Ethylene fluorohydrin	ETHYLENEFLUOROHYDRIN	371620	371-62-0 	10	10										
+Ethylene glycol	ETHYLENEGLYCOL	107211	107-21-1 			"5,000"	313								
+Ethyleneimine	ETHYLENEIMINE	151564	151-56-4 	500	1	1	313	P054	"10,000"						
+Ethylene oxide	ETHYLENEOXIDE	75218	75-21-8 	"1,000"	10	10	313	U115	"10,000"						
+Ethylene thiourea	ETHYLENETHIOUREA	96457	96-45-7 			10	313	U116							
+Ethyl ether	ETHYLETHER	60297	60-29-7 			100		U117	"10,000"						
+Ethylidene Dichloride	ETHYLIDENEDICHLLORIDE	75343	75-34-3 			"1,000"	313	U076							
+Ethyl mercaptan	ETHYLMERCAPTAN	75081	75-08-1 						"10,000"						
+Ethyl methacrylate	ETHYLMETHACRYLATE	97632	97-63-2 			"1,000"		U118							
+Ethyl methanesulfonate	ETHYLMETHANESULFONATE	62500	62-50-0 			1		U119							
+"N-Ethyl-N'-(1-methylethyl)-6-(methylthio)-1,3,5,-triazine-2,4-diamine"	"ETHYLMETHYLETHYLMETHYLTHIO)-1,3,5,-TRIAZINE-2,"	834128	834-12-8 				X								
+O-Ethyl O-(4-(methylthio)phenyl)phosphorodithioic acid S-propyl ester	ETHYLMETHYLTHIOPHENYLPHOSPHORODITHIOIC ACID S-PRO	35400432	35400-43-2 				X								
+Ethyl nitrite	ETHYLNITRITE	109955	109-95-5 						"10,000"						
+"N-(1-Ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine"	ETHYLPROPYLDIMETHYLDINITROBENZENAMINE	40487421	40487-42-1 				X								
+"S-(2-(Ethylsulfinyl)ethyl) O,O-dimethyl ester phosphorothioic acid"	ETHYLSULFINYLETHYLDIMETHYLESTERPHOSPHOROTHIOI	301122	301-12-2 				X								
+Ethylthiocyanate	ETHYLTHIOCYANATE	542905	542-90-5 	"10,000"	"10,000"										
+Ethyne	ETHYNE	74862	74-86-2 						"10,000"						
+Famphur	FAMPHUR	52857	52-85-7 			"1,000"	313	P097							
+Fenamiphos	FENAMIPHOS	22224926	22224-92-6 	"10/10,000"	10										
+Fenarimol	FENARIMOL	60168889	60168-88-9 				313								
+Fenbutatin oxide	FENBUTATINOXIDE	13356086	13356-08-6 				313								
+Fenoxaprop ethyl	FENOXAPROPETHYL	66441234	66441-23-4 				313								
+Fenoxycarb	FENOXYCARB	72490018	72490-01-8 				313								
+Fenpropathrin	FENPROPATHRIN	39515418	39515-41-8 				313								
+Fensulfothion	FENSULFOTHION	115902	115-90-2 	500	500										
+Fenthion	FENTHION	55389	55-38-9 				313								
+Fenvalerate	FENVALERATE	51630581	51630-58-1 				313								
+Ferbam	FERBAM	14484641	14484-64-1 				313								
+Ferric ammonium citrate	FERRICAMMONIUMCITRATE	1185575	1185-57-5 			"1,000"									
+Ferric ammonium oxalate	FERRICAMMONIUMOXALATE	2944674	2944-67-4 			"1,000"									
+Ferric ammonium oxalate	FERRICAMMONIUMOXALATE	55488874	55488-87-4 			"1,000"									
+Ferric chloride	FERRICCHLORIDE	7705080	7705-08-0 			"1,000"									
+Ferric fluoride	FERRICFLUORIDE	7783508	7783-50-8 			100									
+Ferric nitrate	FERRICNITRATE	10421484	10421-48-4 			"1,000"									
+Ferric sulfate	FERRICSULFATE	10028225	10028-22-5 			"1,000"									
+Ferrous ammonium sulfate	FERROUSAMMONIUM SULFATE	10045893	10045-89-3 			"1,000"									
+Ferrous chloride	FERROUSCHLORIDE	7758943	7758-94-3 			100									
+Ferrous sulfate	FERROUSSULFATE	7720787	7720-78-7 			"1,000"									
+Ferrous sulfate	FERROUSSULFATE	7782630	7782-63-0 			"1,000"									
+Fine mineral fibers	FINEMINERALFIBERS	0	N.A. 			&									
+Fluazifop butyl	FLUAZIFOPBUTYL	69806504	69806-50-4 				313								
+Fluenetil	FLUENETIL	4301502	4301-50-2 	"100/10,000"	100										
+Fluometuron	FLUOMETURON	2164172	2164-17-2 				313								
+Fluoranthene	FLUORANTHENE	206440	206-44-0 			100	X	U120							
+Fluorene	FLUORENE	86737	86-73-7 			"5,000"									
+Fluorine	FLUORINE	7782414	7782-41-4 	500	10	10	313	P056	"1,000"						
+Fluoroacetamide	FLUOROACETAMIDE	640197	640-19-7 	"100/10,000"	100	100		P057							
+Fluoroacetic acid	FLUOROACETIC ACID	144490	144-49-0 	"10/10,000"	10										
+"Fluoroacetic acid, sodium salt"	"FLUOROACETIC ACID, SODIUM SALT"	62748	62-74-8 	"10/10,000"	10	10	X	P058							
+Fluoroacetyl chloride	FLUOROACETYL CHLORIDE	359068	359-06-8 	10	10										
+Fluorouracil	FLUOROURACIL	51218	51-21-8 	"500/10,000"	500		313								
+5-Fluorouracil	"FLUOROURACIL,5-"	51218	51-21-8 	"500/10,000"	500		X								
+Fluvalinate	FLUVALINATE	69409945	69409-94-5 				313								
+Folpet	FOLPET	133073	133-07-3 				313								
+Fomesafen	FOMESAFEN	72178020	72178-02-0 				313								
+Fonofos	FONOFOS	944229	944-22-9 	500	500										
+Formaldehyde	FORMALDEHYDE	50000	50-00-0 	500	100	100	313	U122	"15,000"						
+Formaldehyde cyanohydrin	FORMALDEHYDECYANOHYDRIN	107164	107-16-4 	"1,000"	"1,000"										
+Formaldehyde (solution)	FORMALDEHYDESOLUTION)	50000	50-00-0 	500	100	100	X	U122	"15,000"						
+Formetanate hydrochloride	FORMETANATEHYDROCHLORIDE	23422539	23422-53-9 	"500/10,000"	100	100		P198							
+Formic acid	FORMICACID	64186	64-18-6 			"5,000"	313	U123							
+"Formic acid, methyl ester"	FORMICACIDMETHYL	107313	107-31-3 						"10,000"						
+Formothion	FORMOTHION	2540821	2540-82-1 	100	100										
+Formparanate	FORMPARANATE	17702577	17702-57-7 	"100/10,000"	100	100		P197							
+Fosthietan	FOSTHIETAN	21548323	21548-32-3 	500	500										
+Freon 113	FREON113	76131	76-13-1 				313								
+Fuberidazole	FUBERIDAZOLE	3878191	3878-19-1 	"100/10,000"	100										
+Fumaric acid	FUMARIC ACID	110178	110-17-8 			"5,000"									
+Furan	FURAN	110009	110-00-9 	500	100	100	313	U124	"5,000"						
+"Furan, tetrahydro-"	"FURAN, TETRAHYDRO-"	109999	109-99-9 			"1,000"		U213							
+Furfural	FURFURAL	98011	98-01-1 			"5,000"		U125							
+Gallium trichloride	GALLIUM TRICHLORIDE	13450903	13450-90-3 	"500/10,000"	500										
+Glycidol	GLYCIDOL	556525	556-52-5 				313								
+Glycidylaldehyde	GLYCIDYLALDEHYDE	765344	765-34-4 			10		U126							
+Glycol Ethers	GLYCOL ETHERS	1	N230			&	313								
+"Guanidine, N-methyl-N'-nitro-N-nitroso-"	"GUANIDINE, N-METHYL-N'-NITRO-N-NITROSO-"	70257	70-25-7 			10		U163							
+Guthion	GUTHION	86500	86-50-0 	"10/10,000"	1	1									
+Haloethers	HALOETHERS	0	N.A. 			&									
+Halomethanes	HALOMETHANES	0	N.A. 			&									
+Halon 1211	HALON1211	353593	353-59-3 				X								
+Halon 1301	HALON1301	75638	75-63-8 				X								
+Halon 2402	HALON2402	124732	124-73-2 				X								
+HCFC-121	HCFC-121	354143	354-14-3 				X								
+HCFC-121a	HCFC-121A	354110	354-11-0 				X								
+HCFC-123	HCFC-123	306832	306-83-2 				X								
+HCFC-123a	HCFC-123A	354234	354-23-4 				X								
+HCFC-123b	HCFC-123B	812044	812-04-4 				X								
+HCFC-124	HCFC-124	2837890	2837-89-0 				X								
+HCFC-124a	HCFC-124A	354256	354-25-6 				X								
+HCFC-132b	HCFC-132B	1649087	1649-08-7 				X								
+HCFC-133a	HCFC-133A	75887	75-88-7 				X								
+HCFC-141b	HCFC-141B	1717006	1717-00-6 				X								
+HCFC-142b	HCFC-142B	75683	75-68-3 				X								
+HCFC-21	HCFC-21	75434	75-43-4 				X								
+HCFC-22	HCFC-22	75456	75-45-6 				X								
+HCFC-225aa	HCFC-225AA	128903219	128903-21-9 				X								
+HCFC-225ba	HCFC-225BA	422480	422-48-0 				X								
+HCFC-225bb	HCFC-225BB	422446	422-44-6 				X								
+HCFC-225ca	HCFC-225CA	422560	422-56-0 				X								
+HCFC-225cb	HCFC-225CB	507551	507-55-1 				X								
+HCFC-225cc	HCFC-225CC	13474889	13474-88-9 				X								
+HCFC-225da	HCFC-225DA	431867	431-86-7 				X								
+HCFC-225ea	HCFC-225EA	136013791	136013-79-1 				X								
+HCFC-225eb	HCFC-225EB	111512562	111512-56-2 				X								
+HCFC-253fb	HCFC-253FB	460355	460-35-5 				X								
+Heptachlor	HEPTACHLOR	76448	76-44-8 			1	313	P059							
+Heptachlor and Metabolites	HEPTACHLOR AND METABOLITES	0	N.A. 			&									
+Heptachlor epoxide	HEPTACHLOR EPOXIDE	1024573	1024-57-3 			1									
+"1,2,3,4,6,7,8-heptachlorodibenzo-p-dioxin"	HEPTACHLORODIBENZODIOXIN	35822469	35822-46-9 				313!								
+"1,2,3,4,7,8,9-heptachlorodibenzofuran"	HEPTACHLORODIBENZOFURAN	55673897	55673-89-7 				313!								
+"1,2,3,4,6,7,8-heptachlorodibenzofuran"	HEPTACHLORODIBENZOFURAN	67562394	67562-39-4 				313!								
+"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene"	"HEPTACHLOROTETRAHYDRO-4,7-METHANO-1"	76448	76-44-8 			1	X	P059							
+Hexachlorobenzene	HEXACHLOROBENZENE	118741	118-74-1 			10	313	U127							
+"Hexachloro-1,3-butadiene"	HEXACHLOROBUTAD	87683	87-68-3 			1	313	U128							
+Hexachlorobutadiene	HEXACHLOROBUTADIENE	87683	87-68-3 			1	X	U128							
+Hexachlorocyclohexane (all isomers)	HEXACHLOROCYCLOHEXANEALL	608731	608-73-1 			&									
+alpha-Hexachlorocyclohexane	HEXACHLOROCYCLOHEXANEALPHA	319846	319-84-6 			10	313								
+Hexachlorocyclohexane (gamma isomer)	HEXACHLOROCYCLOHEXANEGAMMA ISOMER)	58899	58-89-9 	"1,000/10,000"	1	1	X	U129							
+Hexachlorocyclopentadiene	HEXACHLOROCYCLOPENTADIENE	77474	77-47-4 	100	10	10	313	U130							
+"1,2,3,7,8,9-hexachlorodibenzo-p-dioxin"	HEXACHLORODIBENZODIOXIN	19408743	19408-74-3 				313!								
+"1,2,3,4,7,8-hexachlorodibenzo-p-dioxin"	HEXACHLORODIBENZODIOXIN	39227286	39227-28-6 				313!								
+"1,2,3,6,7,8-hexachlorodibenzo-p-dioxin"	HEXACHLORODIBENZODIOXIN	57653857	57653-85-7 				313!								
+"1,2,3,6,7,8-hexachlorodibenzofuran"	HEXACHLORODIBENZOFURAN	57117449	57117-44-9 				313!								
+"2,3,4,6,7,8-hexachlorodibenzofuran"	HEXACHLORODIBENZOFURAN	60851345	60851-34-5 				313!								
+"1,2,3,4,7,8-hexachlorodibenzofuran"	HEXACHLORODIBENZOFURAN	70648269	70648-26-9 				313!								
+"1,2,3,7,8,9-hexachlorodibenzofuran"	HEXACHLORODIBENZOFURAN	72918219	72918-21-9 				313!								
+Hexachloroethane	HEXACHLOROETHANE	67721	67-72-1 			100	313	U131							
+Hexachloronaphthalene	HEXACHLORONAPHTHA	1335871	1335-87-1 				313								
+Hexachlorophene	HEXACHLOROPHENE	70304	70-30-4 			100	313	U132							
+Hexachloropropene	HEXACHLOROPROPENE	1888717	1888-71-7 			"1,000"		U243							
+Hexaethyl tetraphosphate	HEXAETHYL TETRAPHOSPHATE	757584	757-58-4 			100		P062							
+Hexakis(2-methyl-2-phenylpropyl)distannoxane	HEXAKISMETHYLPHENYLPROPYLDISTANNOXANE	13356086	13356-08-6 				X								
+"Hexamethylenediamine, N,N'-dibutyl-"	"HEXAMETHYLENEDIAMINE, N,N'-DIBUTYL-"	4835114	4835-11-4	500	500										
+"Hexamethylene-1,6-diisocyanate"	HEXAMETHYLENEDIISOCYANATE	822060	822-06-0 			100	313#								
+Hexamethylphosphoramide	HEXAMETHYLPHOSPHO	680319	680-31-9 			1	313								
+Hexane	HEXANE	110543	110-54-3 			"5,000"	X								
+n-Hexane	HEXANE-N	110543	110-54-3 			"5,000"	313								
+Hexazinone	HEXAZINONE	51235042	51235-04-2 				313								
+Hydramethylnon	HYDRAMETHYLNON	67485294	67485-29-4 				313								
+Hydrazine	HYDRAZINE	302012	302-01-2 	"1,000"	1	1	313	U133	"15,000"						
+"Hydrazine, 1,2-diethyl-"	HYDRAZINEDIETHYL-	1615801	1615-80-1 			10		U086							
+"Hydrazine, 1,1-dimethyl-"	HYDRAZINEDIMETHYL-	57147	57-14-7 	"1,000"	10	10	X	U098	"15,000"						
+"Hydrazine, 1,2-dimethyl-"	HYDRAZINEDIMETHYL-	540738	540-73-8 			1		U099							
+"Hydrazine, 1,2-diphenyl-"	HYDRAZINEDIPHENYL-	122667	122-66-7 			10	X	U109							
+"Hydrazine, methyl-"	HYDRAZINEMETHYL-	60344	60-34-4 	500	10	10	X	P068	"15,000"						
+Hydrazine sulfate	HYDRAZINESULFATE	10034932	10034-93-2 				313								
+Hydrazobenzene	HYDRAZOBENZENE	122667	122-66-7 			10	X	U109							
+Hydrochloric acid	HYDROCHLORICACID	7647010	7647-01-0 			"5,000"									
+Hydrochloric acid (conc 37% or greater)	HYDROCHLORICACID	7647010	7647-01-0 			"5,000"			"15,000"						
+Hydrochloric acid (aerosol forms only)	HYDROCHLORICACIDAEROSOL	7647010	7647-01-0 			"5,000"	313								
+Hydrocyanic acid	HYDROCYANICACID	74908	74-90-8 	100	10	10	X	P063	"2,500"						
+Hydrofluoric acid	HYDROFLUORICACID	7664393	7664-39-3 	100	100	100	X	U134							
+Hydrofluoric acid (conc. 50% or greater)	HYDROFLUORICACID (CONC>)	7664393	7664-39-3 	100	100	100	X	U134	"1,000"						
+Hydrogen	HYDROGEN	1333740	1333-74-0 						"10,000"						
+Hydrogen chloride (anhydrous)	HYDROGENCHLORIDE	7647010	7647-01-0 	500	"5,000"	"5,000"	X		"5,000"						
+Hydrogen chloride (gas only)	HYDROGENCHLORIDE (Gas Only)	7647010	7647-01-0 	500	"5,000"	"5,000"	X		"5,000"						
+Hydrogen cyanide	HYDROGENCYANIDE	74908	74-90-8 	100	10	10	313	P063	"2,500"						
+Hydrogen fluoride	HYDROGENFLUORIDE	7664393	7664-39-3 	100	100	100	313	U134							
+Hydrogen fluoride (anhydrous)	HYDROGENFLUORIDE(ANHYDROUS)	7664393	7664-39-3 	100	100	100	X	U134	"1,000"						
+Hydrogen peroxide (Conc.> 52%)	HYDROGENPEROXIDE (Conc.> 52%)	7722841	7722-84-1 	"1,000"	"1,000"										
+Hydrogen selenide	HYDROGENSELENIDE	7783075	7783-07-5	10	10		313c		500						
+Hydrogen sulfide	HYDROGENSULFIDE	7783064	7783-06-4	500	100	100	313	U135	"10,000"						
+"Hydroperoxide, 1-methyl-1-phenylethyl-"	"HYDROPEROXIDE, 1-METHYL-1-PHENYLETHYL-"	80159	80-15-9 			10	X	U096							
+Hydroquinone	HYDROQUINONE	123319	123-31-9 	"500/10,000"	100	100	313								
+Imazalil	IMAZALIL	35554440	35554-44-0 				313								
+"Indeno(1,2,3-cd)pyrene"	"INDENO(1,2,3-CD)PYRENE"	193395	193-39-5 			100	313+	U137							
+3-Iodo-2-propynyl butylcarbamate	IODOPROPYNYL BUTYLCARBAMATE	55406536	55406-53-6 				313								
+"Iron carbonyl (Fe(CO)5), (TB-5-11)-"	"IRONCARBONYL (FE(CO)5), (TB-5-11)-"	13463406	13463-40-6 	100	100		X		"2,500"						
+"Iron, pentacarbonyl-"	IRONPENTACARBONYL-	13463406	13463-40-6 	100	100		313		"2,500"						
+Isobenzan	ISOBENZAN	297789	297-78-9 	"100/10,000"	100										
+Isobutane	ISOBUTANE	75285	75-28-5 						"10,000"						
+Isobutyl alcohol	ISOBUTYL ALCOHOL	78831	78-83-1 			"5,000"		U140							
+Isobutyraldehyde	ISOBUTYRALDEHYDE	78842	78-84-2 				313								
+Isobutyronitrile	ISOBUTYRONITRILE	78820	78-82-0 	"1,000"	"1,000"				"20,000"						
+"Isocyanic acid, 3,4-dichlorophenyl ester"	"ISOCYANIC ACID, 3,4-DICHLOROPHENYL ESTER"	102363	102-36-3 	"500/10,000"	500										
+Isodrin	ISODRIN	465736	465-73-6 	"100/10,000"	1	1	313	P060							
+Isofenphos	ISOFENPHOS	25311711	25311-71-1 				313								
+Isofluorphate	ISOFLUORPHATE	55914	55-91-4 	100	100	100		P043							
+"1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-"	ISOINDOLEDIONETETRAHYDROTRICHLO	133062	133-06-2 			10	X								
+Isononylphenol	ISONONYLPHENOL	11066492	11066-49-2				313$								
+4-Isononylphenol	ISONONYLPHENOL4	26543975	26543-97-5				313$								
+Isopentane	ISOPENTANE	78784	78-78-4 						"10,000"						
+Isophorone	ISOPHORONE	78591	78-59-1 			"5,000"									
+Isophorone diisocyanate	ISOPHORONE DIISOCYANATE	4098719	4098-71-9 	500	500		313#								
+Isoprene	ISOPRENE	78795	78-79-5 			100	313		"10,000"						
+Isopropanolamine dodecylbenzene sulfonate	ISOPROPANOLAMINE DODECYLBENZENE SULFONATE	42504461	42504-46-1 			"1,000"									
+Isopropyl alcohol (mfg-strong acid process)	ISOPROPYLALCOHOL	67630	67-63-0 				313								
+Isopropylamine	ISOPROPYLAMINE	75310	75-31-0 						"10,000"						
+Isopropyl chloride	ISOPROPYLCHLORIDE	75296	75-29-6 						"10,000"						
+Isopropyl chloroformate	ISOPROPYLCHLOROFORMATE	108236	108-23-6 	"1,000"	"1,000"				"15,000"						
+"4,4'-Isopropylidenediphenol"	ISOPROPYLIDENED	80057	80-05-7 				313								
+Isopropylmethylpyrazolyl dimethylcarbamate	ISOPROPYLMETHYLPYRAZOLYL DIMETHYLCARBAMATE	119380	119-38-0 	500	100	100		P192							
+Isosafrole	ISOSAFROLE	120581	120-58-1 			100	313	U141							
+Isothiocyanatomethane	ISOTHIOCYANATOMETHANE	556616	556-61-6 	500	500		X								
+Kepone	KEPONE	143500	143-50-0 			1		U142							
+Lactofen	LACTOFEN	77501634	77501-63-4 				313								
+Lactonitrile	LACTONITRILE	78977	78-97-7 	"1,000"	"1,000"										
+Lasiocarpine	LASIOCARPINE	303344	303-34-4 			10		U143							
+Lead	LEAD	7439921	7439-92-1 			10	313								
+Lead acetate	LEADACETATE	301042	301-04-2 			10	313c	U144							
+Lead arsenate	LEADARSENATE	7645252	7645-25-2 			1	313c								
+Lead arsenate	LEADARSENATE	7784409	7784-40-9 			1	313c								
+Lead arsenate	LEADARSENATE	10102484	10102-48-4 			1	313c								
+Lead chloride	LEADCHLORIDE	7758954	7758-95-4 			10	313c								
+Lead Compounds	LEADCOMPOUNDS	1	N420			&	313								
+Lead fluoborate	LEADFLUOBORATE	13814965	13814-96-5 			10	313c								
+Lead fluoride	LEADFLUORIDE	7783462	7783-46-2 			10	313c								
+Lead iodide	LEADIODIDE	10101630	10101-63-0 			10	313c								
+Lead nitrate	LEADNITRATE	10099748	10099-74-8 			10	313c								
+Lead phosphate	LEADPHOSPHATE	7446277	7446-27-7 			10	313c	U145							
+Lead stearate	LEADSTEARATE	1072351	1072-35-1 			10	313c								
+Lead stearate	LEADSTEARATE	7428480	7428-48-0 			10	313c								
+Lead stearate	LEADSTEARATE	52652592	52652-59-2 			10	313c								
+Lead stearate	LEADSTEARATE	56189094	56189-09-4 			10	313c								
+Lead subacetate	LEADSUBACETATE	1335326	1335-32-6 			10	313c	U146							
+Lead sulfate	LEADSULFATE	7446142	7446-14-2 			10	313c								
+Lead sulfate	LEADSULFATE	15739807	15739-80-7 			10	313c								
+Lead sulfide	LEADSULFIDE	1314870	1314-87-0 			10	313c								
+Lead thiocyanate	LEADTHIOCYANATE	592870	592-87-0 			10	313c								
+Leptophos	LEPTOPHOS	21609905	21609-90-5 	"500/10,000"	500										
+Lewisite	LEWISITE	541253	541-25-3 	10	10										
+Lindane	LINDANE	58899	58-89-9 	"1,000/10,000"	1	1	313	U129							
+Linuron	LINURON	330552	330-55-2 				313								
+Lithium carbonate	LITHIUMCARBONATE	554132	554-13-2 				313								
+Lithium chromate	LITHIUMCHROMATE	14307358	14307-35-8 			10	313c								
+Lithium hydride	LITHIUMHYDRIDE	7580678	7580-67-8 	100	100										
+Malathion	MALATHION	121755	121-75-5 			100	313								
+Maleic acid	MALEICACID	110167	110-16-7 			"5,000"									
+Maleic anhydride	MALEICANHYDRIDE	108316	108-31-6 			"5,000"	313	U147							
+Maleic hydrazide	MALEICHYDRAZIDE	123331	123-33-1 			"5,000"		U148							
+Malononitrile	MALONONITRILE	109773	109-77-3 	"500/10,000"	"1,000"	"1,000"	313	U149							
+Maneb	MANEB	12427382	12427-38-2 				313								
+Manganese	MANGANESE	7439965	7439-96-5 				313								
+"Manganese, bis(dimethylcarbamodithioato-S,S')-"	"MANGANESEBISDIMETHYLCARBAMODITHIOATO-S,S')-"	15339363	15339-36-3 			10	313c	P196							
+Manganese Compounds	MANGANESECOMPOUNDS	1	N450			&	313								
+"Manganese, tricarbonyl methylcyclopentadienyl"	MANGANESETRICARBONYL METHYLCYCLOPENTADIENYL	12108133	12108-13-3 	100	100		313c								
+MBOCA	MBOCA	101144	101-14-4 			10	X	U158							
+MBT	MBT	149304	149-30-4 				X								
+MCPA	MCPA	94746	94-74-6 				X								
+MDI	MDI	101688	101-68-8 			"5,000"	X								
+Mechlorethamine	MECHLORETHAMINE	51752	51-75-2 	10	10		X								
+Mecoprop	MECOPROP	93652	93-65-2 				313								
+Melphalan	MELPHALAN	148823	148-82-3 			1		U150							
+Mephosfolan	MEPHOSFOLAN	950107	950-10-7 	500	500										
+2-Mercaptobenzothiazole	MERCAPTOBENZOTHIAZOLE (MBT)	149304	149-30-4 				313								
+Mercaptodimethur	MERCAPTODIMETHUR	2032657	2032-65-7 	"500/10,000"	10	10	X	P199							
+Mercuric acetate	MERCURICACETATE	1600277	1600-27-7 	"500/10,000"	500		313c								
+Mercuric chloride	MERCURICCHLORIDE	7487947	7487-94-7 	"500/10,000"	500		313c								
+Mercuric cyanide	MERCURICCYANIDE	592041	592-04-1 			1	313c								
+Mercuric nitrate	MERCURICNITRATE	10045940	10045-94-0 			10	313c								
+Mercuric oxide	MERCURICOXIDE	21908532	21908-53-2 	"500/10,000"	500		313c								
+Mercuric sulfate	MERCURICSULFATE	7783359	7783-35-9 			10	313c								
+Mercuric thiocyanate	MERCURICTHIOCYANATE	592858	592-85-8 			10	313c								
+Mercurous nitrate	MERCUROUSNITRATE	7782867	7782-86-7 			10	313c								
+Mercurous nitrate	MERCUROUSNITRATE	10415755	10415-75-5 			10	313c								
+Mercury	MERCURY	7439976	7439-97-6 			1	313	U151							
+Mercury Compounds	MERCURY COMPOUNDS	1	N458			&	313								
+Mercury fulminate	MERCURY FULMINATE	628864	628-86-4 			10	313c	P065							
+Merphos	MERPHOS	150505	150-50-5 				313								
+Methacrolein diacetate	METHACROLEIN DIACETATE	10476956	10476-95-6 	"1,000"	"1,000"										
+Methacrylic anhydride	METHACRYLIC ANHYDRIDE	760930	760-93-0 	500	500										
+Methacrylonitrile	METHACRYLONITRILE	126987	126-98-7 	500	"1,000"	"1,000"	313	U152	"10,000"						
+Methacryloyl chloride	METHACRYLOYL CHLORIDE	920467	920-46-7 	100	100										
+Methacryloyloxyethyl isocyanate	METHACRYLOYLOXYETHYL ISOCYANATE	30674807	30674-80-7 	100	100										
+Methamidophos	METHAMIDOPHOS	10265926	10265-92-6 	"100/10,000"	100										
+Metham sodium	METHAMSODIUM	137428	137-42-8 				313								
+Methanamine	METHANAMINE	74895	74-89-5 			100			"10,000"						
+"Methanamine, N,N-dimethyl-"	METHANAMINEDIMETHYL	75503	75-50-3 			100			"10,000"						
+"Methanamine, N-methyl-"	METHANAMINEMETHYL	124403	124-40-3 			"1,000"	X	U092	"10,000"						
+"Methanamine, N-methyl-N-nitroso-"	METHANAMINEMETHYLNITROSO-	62759	62-75-9 	"1,000"	10	10	X	P082							
+Methane	METHANE	74828	74-82-8 						"10,000"						
+"Methane, chloro-"	METHANECHLORO-	74873	74-87-3 			100	X	U045	"10,000"						
+"Methane, chloromethoxy-"	METHANECHLOROMETHOXY-	107302	107-30-2 	100	10	10	X	U046	"5,000"						
+"Methane, isocyanato-"	METHANEISOCYANATO-	624839	624-83-9 	500	10	10	X	P064	"10,000"						
+"Methane, oxybis-"	METHANEOXYBIS-	115106	115-10-6 						"10,000"						
+"Methane, oxybis[chloro-"	METHANEOXYBIS[CHLORO-	542881	542-88-1 	100	10	10	X	P016	"1,000"						
+"Methanesulfenyl chloride, trichloro-"	METHANESULFENYLCHLORIDETRICHLORO-	594423	594-42-3 	500	100	100	X		"10,000"						
+Methanesulfonyl fluoride	METHANESULFONYL FLUORIDE	558258	558-25-8 	"1,000"	"1,000"										
+"Methane, tetranitro-"	METHANETETRANITRO-	509148	509-14-8 	500	10	10		P112	"10,000"						
+Methanethiol	METHANETHIOL	74931	74-93-1 	500	100	100	X	U153	"10,000"						
+"Methane, trichloro-"	METHANETRICHLORO-	67663	67-66-3 	"10,000"	10	10	X	U044	"20,000"						
+"4,7-Methanoindan, 1,2,3,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-"	"METHANOINDANOCTACHLORO-2,3,3A,4,7,7A"	57749	57-74-9 	"1,000"	1	1	X	U036							
+Methanol	METHANOL	67561	67-56-1 			"5,000"	313	U154							
+Methapyrilene	METHAPYRILENE	91805	91-80-5 			"5,000"		U155							
+Methazole	METHAZOLE	20354261	20354-26-1 				313								
+Methidathion	METHIDATHION	950378	950-37-8 	"500/10,000"	500										
+Methiocarb	METHIOCARB	2032657	2032-65-7 	"500/10,000"	10	10	313	P199							
+Methomyl	METHOMYL	16752775	16752-77-5 	"500/10,000"	100	100		P066							
+Methoxone	METHOXONE	94746	94-74-6 				313								
+Methoxone sodium salt	METHOXONESODIUM SALT	3653483	3653-48-3 				313								
+Methoxychlor	METHOXYCHLOR	72435	72-43-5 			1	313	U247							
+2-Methoxyethanol	METHOXYETHANOL	109864	109-86-4 				313								
+Methoxyethylmercuric acetate	METHOXYETHYLMERCURIC ACETATE	151382	151-38-2 	"500/10,000"	500		313c								
+"2-(4-Methoxy-6-methyl-1,3,5-triazin-2-yl)-methylamino)carbonyl)amino)sulfonyl)benzoic acid, methyl ester"	METHOXYMETHYLTRIAZINYLMETHYLAMINOCARBON	101200480	101200-48-0 				X								
+Methyl acrylate	METHYLACRYLATE	96333	96-33-3 				313								
+Methyl bromide	METHYLBROMIDE	74839	74-83-9 	"1,000"	"1,000"	"1,000"	X	U029							
+2-Methyl-1-butene	METHYLBUTENE2	563462	563-46-2 						"10,000"						
+3-Methyl-1-butene	METHYLBUTENE3	563451	563-45-1 						"10,000"						
+Methyl chloride	METHYLCHLORIDE	74873	74-87-3 			100	X	U045	"10,000"						
+Methyl 2-chloroacrylate	METHYLCHLOROACRYLATE	80637	80-63-7 	500	500										
+Methyl chlorocarbonate	METHYLCHLOROCARBONATE	79221	79-22-1 	500	"1,000"	"1,000"	313	U156	"5,000"						
+Methyl chloroform	METHYLCHLOROFORM	71556	71-55-6 			"1,000"	X	U226							
+Methyl chloroformate	METHYLCHLOROFORMATE	79221	79-22-1 	500	"1,000"	"1,000"	X	U156	"5,000"						
+3-Methylcholanthrene	METHYLCHOLANTHRENE	56495	56-49-5 			10	313+	U157							
+5-Methylchrysene	METHYLCHRYSENE5	3697243	3697-24-3 				313+								
+"4-Methyldiphenylmethane-3,4-diisocyanate"	METHYLDIPHENYLMETHANEDIISOCYANATE	75790840	75790-84-0 				313#								
+"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one"	METHYLDITHIOLOQUINOXALIN-2-ONE	2439012	2439-01-2				X								
+"4,4'-Methylenebis(2-chloroaniline)"	METHYLENEBISCHLORO	101144	101-14-4 			10	313	U158							
+"2,2'-Methylenebis(4-chlorophenol"	METHYLENEBISCHLOROPHENOL	97234	97-23-4 				X								
+"4,4'-Methylenebis(N,N-dimethyl)benzenamine"	METHYLENEBISDIMETH	101611	101-61-1 				313								
+"1,1'-Methylene bis(4-isocyanatocyclohexane)"	METHYLENEBISISOCYANATOCYCLOHEXANE)	5124301	5124-30-1 				313#								
+Methylenebis(phenylisocyanate)	METHYLENEBISPHENYL	101688	101-68-8 			"5,000"	313#								
+Methylene bromide	METHYLENEBROMIDE	74953	74-95-3 			"1,000"	313	U068							
+Methylene chloride	METHYLENECHLORIDE	75092	75-09-2 			"1,000"	X	U080							
+"4,4'-Methylenedianiline"	METHYLENEDIANI	101779	101-77-9 			10	313								
+Methyl ether	METHYLETHER	115106	115-10-6 						"10,000"						
+Methyl ethyl ketone	METHYLETHYLKETONE	78933	78-93-3 			"5,000"		U159							
+Methyl ethyl ketone peroxide	METHYLETHYLKETONEPEROXIDE	1338234	1338-23-4 			10		U160							
+Methyleugenol	METHYLEUGENOL	93152	93-15-2 				313								
+Methyl formate	METHYLFORMATE	107313	107-31-3 						"10,000"						
+Methyl hydrazine	METHYLHYDRAZINE	60344	60-34-4 	500	10	10	313	P068	"15,000"						
+Methyl iodide	METHYLIODIDE	74884	74-88-4 			100	313	U138							
+Methyl isobutyl ketone	METHYLISOBUTYLKETO	108101	108-10-1 			"5,000"	313	U161							
+Methyl isocyanate	METHYLISOCYANATE	624839	624-83-9 	500	10	10	313	P064	"10,000"						
+Methyl isothiocyanate	METHYLISOTHIOCYANATE	556616	556-61-6 	500	500		313								
+2-Methyllactonitrile	METHYLLACTONITRILE	75865	75-86-5 	"1,000"	10	10	313	P069							
+Methyl mercaptan	METHYLMERCAPTAN	74931	74-93-1 	500	100	100	313s	U153	"10,000"						
+Methylmercuric dicyanamide	METHYLMERCURIC DICYANAMIDE	502396	502-39-6 	"500/10,000"	500		313c								
+Methyl methacrylate	METHYLMETHACRYLATE	80626	80-62-6 			"1,000"	313	U162							
+N-Methylolacrylamide	METHYLOLACRYLAMIDE	924425	924-42-5 				313								
+Methyl parathion	METHYLPARATHION	298000	298-00-0 	"100/10,000"	100	100	313	P071							
+Methyl phenkapton	METHYLPHENKAPTON	3735237	3735-23-7 	500	500										
+Methyl phosphonic dichloride	METHYLPHOSPHONIC DICHLORIDE	676971	676-97-1 	100	100										
+2-Methylpropene	METHYLPROPENE	115117	115-11-7 						"10,000"						
+2-Methylpyridine	METHYLPYRIDINE	109068	109-06-8 			"5,000"	313	U191							
+N-Methyl-2-pyrrolidone	METHYLPYRROLIDONE	872504	872-50-4 				313								
+Methyl tert-butyl ether	METHYLTBUTYLET	1634044	1634-04-4 			"1,000"	313								
+Methyl thiocyanate	METHYLTHIOCYANATE	556649	556-64-9 	"10,000"	"10,000"				"20,000"						
+Methylthiouracil	METHYLTHIOURACIL	56042	56-04-2 			10		U164							
+Methyltrichlorosilane	METHYLTRICHLOROSILANE	75796	75-79-6 	500	500				"5,000"						
+Methyl vinyl ketone	METHYLVINYL KETONE	78944	78-94-4 	10	10										
+Metiram	METIRAM	9006422	9006-42-2 				313								
+Metolcarb	METOLCARB	1129415	1129-41-5 	"100/10,000"	"1,000"	"1,000"		P190							
+Metribuzin	METRIBUZIN	21087649	21087-64-9 				313								
+Mevinphos	MEVINPHOS	7786347	7786-34-7 	500	10	10	313								
+Mexacarbate	MEXACARBATE	315184	315-18-4 	"500/10,000"	"1,000"	"1,000"		P128							
+Michler's ketone	MICHLERSKETONE	90948	90-94-8 				313								
+Mitomycin C	MITOMYCIN C	50077	50-07-7 	"500/10,000"	10	10		U010							
+Molinate	MOLINATE	2212671	2212-67-1 				313								
+Molybdenum trioxide	MOLYBDENUMTRIOXIDE	1313275	1313-27-5 				313								
+Monochloropentafluoroethane	MONOCHLOROPENTAFLUOROETHANE	76153	76-15-3 				313								
+Monocrotophos	MONOCROTOPHOS	6923224	6923-22-4 	"10/10,000"	10										
+Monoethylamine	MONOETHYLAMINE	75047	75-04-7 			100			"10,000"						
+Monomethylamine	MONOMETHYLAMINE	74895	74-89-5 			100			"10,000"						
+Monuron	MONURON	150685	150-68-5 				313								
+Muscimol	MUSCIMOL	2763964	2763-96-4 	"500/10,000"	"1,000"	"1,000"		P007							
+Mustard gas	MUSTARDGAS	505602	505-60-2 	500	500		313								
+Myclobutanil	MYCLOBUTANIL	88671890	88671-89-0 				313								
+Nabam	NABAM	142596	142-59-6 				313								
+Naled	NALED	300765	300-76-5 			10	313								
+Naphthalene	NAPHTHALENE	91203	91-20-3 			100	313	U165							
+"1,5-Naphthalene diisocyanate"	NAPHTHALENEDIISOCYANATE	3173726	3173-72-6 				313#								
+"1-Naphthalenol, methylcarbamate"	NAPHTHALENOLMETHYLCARBAMATE	63252	63-25-2 			100	X	U279							
+Naphthenic acid	NAPHTHENIC ACID	1338245	1338-24-5 			100									
+"1,4-Naphthoquinone"	NAPHTHOQUINONE	130154	130-15-4 			"5,000"		U166							
+alpha-Naphthylamine	NAPHTHYLAMINEA	134327	134-32-7 			100	313	U167							
+beta-Naphthylamine	NAPHTHYLAMINEB	91598	91-59-8 			10	313	U168							
+Nickel	NICKEL	7440020	7440-02-0 			100	313								
+Nickel ammonium sulfate	NICKELAMMONIUM SULFATE	15699180	15699-18-0 			100	313c								
+Nickel carbonyl	NICKELCARBONYL	13463393	13463-39-3 	1	10	10	313c	P073	"1,000"						
+Nickel chloride	NICKELCHLORIDE	7718549	7718-54-9 			100	313c								
+Nickel chloride	NICKELCHLORIDE	37211055	37211-05-5 			100	313c								
+Nickel Compounds	NICKELCOMPOUNDS	1	N495			&	313								
+Nickel cyanide	NICKELCYANIDE	557197	557-19-7 			10	313c	P074							
+Nickel hydroxide	NICKELHYDROXIDE	12054487	12054-48-7 			10	313c								
+Nickel nitrate	NICKELNITRATE	14216752	14216-75-2 			100	313c								
+Nickel sulfate	NICKELSULFATE	7786814	7786-81-4 			100	313c								
+Nicotine	NICOTINE	54115	54-11-5 	100	100	100	313c	P075							
+Nicotine and salts	NICOTINE AND SALTS	1	N503				313								
+Nicotine and salts	NICOTINE AND SALTS	54115	54-11-5 			100	313c	P075							
+Nicotine sulfate	NICOTINE SULFATE	65305	65-30-5 	"100/10,000"	100	100	313c								
+Nitrapyrin	NITRAPYRIN	1929824	1929-82-4 				313								
+Nitrate compounds (water dissociable)	NITRATECOMPOUNDS	1	N511				313								
+Nitric acid	NITRICACID	7697372	7697-37-2 	"1,000"	"1,000"	"1,000"	313								
+Nitric acid (conc 80% or greater)	NITRICACID	7697372	7697-37-2 	"1,000"	"1,000"	"1,000"	X		"15,000"						
+Nitric oxide	NITRICOXIDE	10102439	10102-43-9 	100	10	10 @		P076	"10,000"						
+Nitrilotriacetic acid	NITRILOTRIACETICACI	139139	139-13-9 				313								
+p-Nitroaniline	NITROANILINE	100016	100-01-6 			"5,000"	313	P077							
+5-Nitro-o-anisidine	NITROANISIDINE	99592	99-59-2 				313								
+Nitrobenzene	NITROBENZENE	98953	98-95-3 	"10,000"	"1,000"	"1,000"	313	U169							
+4-Nitrobiphenyl	NITROBIPHENYL	92933	92-93-3 			10	313								
+6-Nitrochrysene	NITROCHRYSENE	7496028	7496-02-8				313+								
+Nitrocyclohexane	NITROCYCLOHEXANE	1122607	1122-60-7 	500	500										
+Nitrofen	NITROFEN	1836755	1836-75-5 				313								
+Nitrogen dioxide	NITROGEN DIOXIDE	10102440	10102-44-0 	100	10	10 @		P078							
+Nitrogen dioxide	NITROGEN DIOXIDE	10544726	10544-72-6 			10 @									
+Nitrogen mustard	NITROGENMUSTARD	51752	51-75-2 	10	10		313								
+Nitrogen oxide (NO)	NITROGENOXIDE (NO)	10102439	10102-43-9 	100	10	10 @		P076	"10,000"						
+Nitroglycerin	NITROGLYCERINE	55630	55-63-0 			10	313	P081							
+Nitromethane	NITROMETHANE	75525	75-52-5 				313								
+Nitrophenol (mixed isomers)	NITROPHENOL (MIXED)	25154556	25154-55-6 			100									
+2-Nitrophenol	NITROPHENOLA	88755	88-75-5 			100	313								
+4-Nitrophenol	NITROPHENOLB	100027	100-02-7 			100	313	U170							
+m-Nitrophenol	NITROPHENOL-M	554847	554-84-7 			100									
+p-Nitrophenol	NITROPHENOL-P	100027	100-02-7 			100	X	U170							
+Nitrophenols	NITROPHENOLS	0	N.A. 			&									
+2-Nitropropane	NITROPROPANE	79469	79-46-9 			10	313	U171							
+1-Nitropyrene	NITROPYRENE	5522430	5522-43-0 				313+								
+4–Nitropyrene	NITROPYRENE	57835924	57835-92-4 				313+								
+Nitrosamines	NITROSAMINES	0	N.A. 			&									
+N-Nitrosodi-n-butylamine	NITROSODIBUTYLA	924163	924-16-3 			10	313	U172							
+N-Nitrosodiethanolamine	NITROSODIETHANOLAMINE	1116547	1116-54-7 			1		U173							
+N-Nitrosodiethylamine	NITROSODIETHYLAMIN	55185	55-18-5 			1	313	U174							
+N-Nitrosodimethylamine	NITROSODIMETHYLAMI	62759	62-75-9 	"1,000"	10	10	313	P082							
+Nitrosodimethylamine	NITROSODIMETHYLAMINE	62759	62-75-9 	"1,000"	10	10	X	P082							
+N-Nitrosodiphenylamine	NITROSODIPHENYLA	86306	86-30-6 			100	313								
+p-Nitrosodiphenylamine	NITROSODIPHENYLB	156105	156-10-5 				313								
+N-Nitrosodi-n-propylamine	NITROSODIPROPYL	621647	621-64-7 			10	313	U111							
+N-Nitroso-N-ethylurea	NITROSOETHYLURE	759739	759-73-9 			1	313	U176							
+N-Nitroso-N-methylurea	NITROSOMETHYLUR	684935	684-93-5 			1	313	U177							
+N-Nitroso-N-methylurethane	NITROSOMETHYLURETHANE	615532	615-53-2 			1		U178							
+N-Nitrosomethylvinylamine	NITROSOMETHYLVINYL	4549400	4549-40-0 			10	313	P084							
+N-Nitrosomorpholine	NITROSOMORPHOLINE	59892	59-89-2 			1	313								
+N-Nitrosonornicotine	NITROSONORNICOTINE	16543558	16543-55-8 				313								
+N-Nitrosopiperidine	NITROSOPIPERIDINE	100754	100-75-4 			10	313	U179							
+N-Nitrosopyrrolidine	NITROSOPYRROLIDINE	930552	930-55-2 			1		U180							
+Nitrotoluene	NITROTOLUENE	1321126	1321-12-6 			"1,000"									
+m-Nitrotoluene	NITROTOLUENE-M	99081	99-08-1 			"1,000"									
+o-Nitrotoluene	NITROTOLUENE-O	88722	88-72-2 			"1,000"	313								
+p-Nitrotoluene	NITROTOLUENE-P	99990	99-99-0 			"1,000"									
+5-Nitro-o-toluidine	NITROTOLUIDINE	99558	99-55-8 			100	313	U181							
+"Nitrous acid, ethyl ester"	NITROUSACIDETHYL	109955	109-95-5 						"10,000"						
+Nonyphenol (includes only six chemicals)	NONYLPHENOL	1	N530				313								
+Nonylphenol	NONYLPHENOLB	25154523	25154-52-3				313$								
+"Nonylphenol, branched"	NONYLPHENOLBRANCHED	90481042	90481-04-2				313$								
+4-Nonylphenol	NONYLPHENOLC4	104405	104-40-5				313$								
+"4-Nonylphenol,branched"	NONYLPHENOLCBRANCHED4	84852153	84852-15-3				313$								
+Norbormide	NORBORMIDE	991424	991-42-4 	"100/10,000"	100										
+Norflurazon	NORFLURAZON	27314132	27314-13-2 				313								
+"1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin"	OCTACHLORODIBENZODIOXIN	3268879	3268-87-9 				313!								
+"1,2,3,4,6,7,8,9-octachlorodibenzofuran"	OCTACHLORODIBENZOFURAN	39001020	39001-02-0 				313!								
+Octachloronaphthalene	OCTACHLORONAPHTHALEN	2234131	2234-13-1 				313								
+Octachlorostyrene	OCTACHLOROSTYRENE	29082744	29082-74-4 				313								
+"Octanoic acid, 2,6-dibromo-4-cyanophenyl ester"	OCTANOIC ACIDDIBROMOCYANOPHENYL ESTER	1689992	1689-99-2 				X								
+Oleum (fuming sulfuric acid)	OLEUM	8014957	8014-95-7 			"1,000"			"10,000"						
+o-Nitroanisole	ONITROANISOLE	91236	91-23-6 				313								
+Organorhodium Complex (PMN-82-147)	ORGANORHODIUM COMPLEX (PMN-82-147)	2	0	"10/10,000"	10	PMN									
+Oryzalin	ORYZALIN	19044883	19044-88-3 				313								
+Osmium oxide OsO4 (T-4)-	OSMIUM OXIDE OSO4 (T-4)-	20816120	20816-12-0 			"1,000"	X	P087							
+Osmium tetroxide	OSMIUMTETROXIDE	20816120	20816-12-0 			"1,000"	313	P087							
+Ouabain	OUABAIN	630604	630-60-4 	"100/10,000"	100										
+"7-Oxabicyclo(2.2.1)heptane-2,3-dicarboxylic acid, dipotassium salt"	OXABICYCLOHEPTANEDICARBOXYLICACIDDIPOTASSIU	2164070	2164-07-0 				X								
+Oxamyl	OXAMYL	23135220	23135-22-0 	"100/10,000"	100	100		P194							
+"Oxetane, 3,3-bis(chloromethyl)-"	"OXETANE, 3,3-BIS(CHLOROMETHYL)-"	78717	78-71-7 	500	500										
+Oxirane	OXIRANE	75218	75-21-8 	"1,000"	10	10	X	U115	"10,000"						
+"Oxirane, (chloromethyl)-"	OXIRANECHLOROMETHYL)-	106898	106-89-8 	"1,000"	100	100	X	U041	"20,000"						
+"Oxirane, methyl-"	OXIRANEMETHYL-	75569	75-56-9 	"10,000"	100	100	X		"10,000"						
+Oxydemeton methyl	OXYDEMETONMETHYL	301122	301-12-2 				313								
+Oxydiazon	OXYDIAZON	19666309	19666-30-9 				313								
+Oxydisulfoton	OXYDISULFOTON	2497076	2497-07-6	500	500										
+Oxyfluorfen	OXYFLUORFEN	42874033	42874-03-3 				313								
+Ozone	OZONE	10028156	10028-15-6 	100	100		313								
+Paraformaldehyde	PARAFORMALDEHYDE	30525894	30525-89-4 			"1,000"									
+Paraldehyde	PARALDEHYDE	123637	123-63-7 			"1,000"	313	U182							
+Paraquat dichloride	PARAQUATDICHLORIDE	1910425	1910-42-5 	"10/10,000"	10		313								
+Paraquat methosulfate	PARAQUATMETHOSULFATE	2074502	2074-50-2 	"10/10,000"	10										
+Parathion	PARATHION	56382	56-38-2 	100	10	10	313	P089							
+Parathion-methyl	PARATHION-METHYL	298000	298-00-0 	"100/10,000"	100	100	X	P071							
+Paris green	PARIS GREEN	12002038	12002-03-8 	"500/10,000"	1	1									
+PCBs	PCBS	1336363	1336-36-3 			1	X								
+PCNB	PCNB	82688	82-68-8 			100	X	U185							
+PCP	PCP	87865	87-86-5 			10	X								
+Pebulate	PEBULATE	1114712	1114-71-2 				313								
+Pendimethalin	PENDIMETHALIN	40487421	40487-42-1 				313								
+Pentaborane	PENTABORANE	19624227	19624-22-7 	500	500										
+Pentachlorobenzene	PENTACHLOROBENZENE	608935	608-93-5 			10	313	U183							
+"1,2,3,7,8-pentachlorodibenzo-p-dioxin"	PENTACHLORODIBENZODIOXIN	40321764	40321-76-4 				313!								
+"2,3,4,7,8-pentachlorodibenzofuran"	PENTACHLORODIBENZOFURAN	57117314	57117-31-4 				313!								
+"1,2,3,7,8-pentachlorodibenzofuran"	PENTACHLORODIBENZOFURAN	57117416	57117-41-6 				313!								
+Pentachloroethane	PENTACHLOROETHANE	76017	76-01-7 			10	313	U184							
+Pentachloronitrobenzene	PENTACHLORONITROBENZENE (PCNB)	82688	82-68-8 			100	X	U185							
+Pentachlorophenol	PENTACHLOROPHENOLP	87865	87-86-5 			10	313								
+Pentadecylamine	PENTADECYLAMINE	2570265	2570-26-5 	"100/10,000"	100										
+"1,3-Pentadiene"	PENTADIENE	504609	504-60-9 			100		U186	"10,000"						
+Pentane	PENTANE	109660	109-66-0 						"10,000"						
+1-Pentene	PENTENE	109671	109-67-1 						"10,000"						
+"2-Pentene, (E)-"	PENTENEE	646048	646-04-8 						"10,000"						
+"2-Pentene, (Z)-"	PENTENEZ	627203	627-20-3 						"10,000"						
+Pentobarbital sodium	PENTOBARBITALSODIUM	57330	57-33-0 				313								
+Peracetic acid	PERACETICACID	79210	79-21-0 	500	500		313		"10,000"						
+Perchloroethylene	PERCHLOROETHYLENE	127184	127-18-4 			100	X	U210							
+Perchloromethyl mercaptan	PERCHLOROMETHYLMERCAPTAN	594423	594-42-3 	500	100	100	313		"10,000"						
+Permethrin	PERMETHRIN	52645531	52645-53-1 				313								
+Phenacetin	PHENACETIN	62442	62-44-2 			100		U187							
+Phenanthrene	PHENANTHRENE	85018	85-01-8 			"5,000"	313								
+Phenol	PHENOL	108952	108-95-2 	"500/10,000"	"1,000"	"1,000"	313	U188							
+"Phenol, 2-(1-methylethoxy)-, methylcarbamate"	PHENOLMETHYLETHOXYMETHYLCARBAMATE	114261	114-26-1 			100	X	U411							
+"Phenol, 3-(1-methylethyl)-, methylcarbamate"	"PHENOLMETHYLETHYL)-, METHYLCARBAMATE"	64006	64-00-6 	"500/10,000"	10	10		P202							
+Phenolphthalein	PHENOLPHTHALEIN	77098	77-09-8 				313								
+"Phenol, 2,2'-thiobis[4-chloro-6-methyl-"	PHENOLTHIOBIS[4-CHLORO-6-METHYL-	4418660	4418-66-0 	"100/10,000"	100										
+Phenothrin	PHENOTHRIN	26002802	26002-80-2 				313								
+"Phenoxarsine, 10,10'-oxydi-"	"PHENOXARSINE, 10,10'-OXYDI-"	58366	58-36-6 	"500/10,000"	500										
+(2-(4-Phenoxyphenoxy)ethyl carbamic acid ethyl ester	PHENOXYPHENOXYETHYLCARBAMICACIDETHYLESTER	72490018	72490-01-8 				X								
+Phenyl dichloroarsine	PHENYLDICHLOROARSINE	696286	696-28-6 	500	1	1		P036							
+"(1,2-Phenylenebis(iminocarbonothioyl)) biscarbamic acid diethyl ester"	PHENYLENEBISIMINOCARBONOTHIOYLBISCARBAMIC ACID DIET	23564069	23564-06-9 				X								
+"1,2-Phenylenediamine"	PHENYLENEDIAMINE	95545	95-54-5 				313								
+p-Phenylenediamine	PHENYLENEDIAMINE	106503	106-50-3 			"5,000"	313								
+"1,3-Phenylenediamine"	PHENYLENEDIAMINE	108452	108-45-2 				313								
+"1,2-Phenylenediamine dihydrochloride"	PHENYLENEDIAMINEDIHYDROCHLORIDE	615281	615-28-1 				313								
+"1,4-Phenylenediamine dihydrochloride"	PHENYLENEDIAMINEDIHYDROCHLORIDE	624180	624-18-0 				313								
+"1,4-Phenylene diisocyanate"	PHENYLENEDIISOCYANATE	104494	104-49-4 				313#								
+"1,3-Phenylene diisocyanate"	PHENYLENEDIISOCYANATE	123615	123-61-5 				313#								
+Phenylhydrazine hydrochloride	PHENYLHYDRAZINE HYDROCHLORIDE	59881	59-88-1 	"1,000/10,000"	"1,000"										
+Phenylmercuric acetate	PHENYLMERCURIC ACETATE	62384	62-38-4 	"500/10,000"	100	100	313c	P092							
+Phenylmercury acetate	PHENYLMERCURY ACETATE	62384	62-38-4 	"500/10,000"	100	100	313c	P092							
+"5-(Phenylmethyl)-3-furanyl)methyl 2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate"	PHENYLMETHYLFURANYLMETHYLDIMETHYLMETHYL	10453868	10453-86-8 				X								
+2-Phenylphenol	PHENYLPHENOL	90437	90-43-7 				313								
+Phenylsilatrane	PHENYLSILATRANE	2097190	2097-19-0 	"100/10,000"	100										
+Phenylthiourea	PHENYLTHIOUREA	103855	103-85-5 	"100/10,000"	100	100		P093							
+Phenytoin	PHENYTOIN	57410	57-41-0 				313								
+Phorate	PHORATE	298022	298-02-2 	10	10	10		P094							
+Phosacetim	PHOSACETIM	4104147	4104-14-7 	"100/10,000"	100										
+Phosfolan	PHOSFOLAN	947024	947-02-4 	"100/10,000"	100										
+Phosgene	PHOSGENE	75445	75-44-5 	10	10	10	313	P095	500						
+Phosphamidon	PHOSPHAMIDON	13171216	13171-21-6 	100	100										
+Phosphine	PHOSPHINE	7803512	7803-51-2 	500	100	100	313	P096	"5,000"						
+"Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-,dimethyl ester"	"PHOSPHONICACIDTRICHLORO-1-HYDROXYETHYL)-,DIMETHYL"	52686	52-68-6 			100	X								
+"Phosphonothioic acid, methyl-, O-ethyl O-(4-(methylthio)phenyl) ester"	"PHOSPHONOTHIOIC ACID, METHYL-, O-ETHYL O-(4-(METHY"	2703131	2703-13-1 	500	500										
+"Phosphonothioic acid, methyl-, S-(2-(bis(1-methylethyl)amino)ethyl) O-ethyl ester"	"PHOSPHONOTHIOIC ACID, METHYL-, S-(2-(BIS(1-METHYLE"	50782699	50782-69-9 	100	100										
+"Phosphonothioic acid, methyl-, O-(4-nitrophenyl) O-phenyl ester"	"PHOSPHONOTHIOIC ACID, METHYL-,O-(4-NITROPHENYL) O-"	2665307	2665-30-7 	500	500										
+Phosphoric acid	PHOSPHORICACID	7664382	7664-38-2 			"5,000"									
+"Phosphoric acid, 2-chloro-1-(2,3,5-trichlorophenyl) ethenyl dimethyl ester"	PHOSPHORICACIDCHLOROTRICHLOROPHENYL) ETHENYL	961115	961-11-5 				X								
+"Phosphoric acid, 2-dichloroethenyl dimethyl ester"	PHOSPHORICACIDDICHLOROETHENYL DIMETHYL ESTER	62737	62-73-7 	"1,000"	10	10	X								
+"Phosphoric acid, dimethyl 4-(methylthio) phenyl ester"	PHOSPHORICACIDDIMETHYL 4-(METHYLTHIO) PHENYL ES	3254635	3254-63-5 	500	500										
+"Phosphorodithioic acid O-ethyl S,S-dipropyl ester"	PHOSPHORODITHIOICACIDETHYLDIPROPYL ESTER	13194484	13194-48-4 	"1,000"	"1,000"		X								
+"Phosphorothioic acid, O,O-diethyl-O-(4-nitrophenyl) ester"	PHOSPHOROTHIOICACIDDIETHYLNITROPHENYL) ESTER	56382	56-38-2 	100	10	10	X	P089							
+"Phosphorothioic acid, O,O-dimethyl-5-(2-(methylthio)ethyl)ester"	PHOSPHOROTHIOICACIDDIMETHYLMETHYLTHIO	2587908	2587-90-8 	500	500										
+Phosphorous trichloride	PHOSPHOROUSTRICHLORIDE	7719122	7719-12-2	"1,000"	"1,000"	"1,000"			"15,000"						
+Phosphorus (yellow or white)	PHOSPHORUS	7723140	7723-14-0 	100	1	1	313								
+Phosphorus	PHOSPHORUS	7723140	7723-14-0 	100	1	1									
+Phosphorus oxychloride	PHOSPHORUS OXYCHLORIDE	10025873	10025-87-3 	500	"1,000"	"1,000"			"5,000"						
+Phosphorus pentachloride	PHOSPHORUS PENTACHLORIDE	10026138	10026-13-8 	500	500										
+Phosphorus trichloride	PHOSPHORUS TRICHLORIDE	7719122	7719-12-2	"1,000"	"1,000"	"1,000"			"15,000"						
+Phosphoryl chloride	PHOSPHORYLCHLORIDE	10025873	10025-87-3 	500	"1,000"	"1,000"			"5,000"						
+Phthalate Esters	PHTHALATE ESTERS	0	N.A. 			&									
+Phthalic anhydride	PHTHALICANHYDRIDE	85449	85-44-9 			"5,000"	313	U190							
+Physostigmine	PHYSOSTIGMINE	57476	57-47-6 	"100/10,000"	100	100		P204							
+"Physostigmine, salicylate (1:1)"	"PHYSOSTIGMINE, SALICYLATE (1:1)"	57647	57-64-7 	"100/10,000"	100	100		P188							
+Picloram	PICLORAM	1918021	1918-02-1				313								
+2-Picoline	PICOLINE	109068	109-06-8 			"5,000"	X	U191							
+Picric acid	PICRICACID	88891	88-89-1 				313								
+Picrotoxin	PICROTOXIN	124878	124-87-8 	"500/10,000"	500										
+"N,N'-(1,4-Piperazinediylbis(2,2,2-trichloroethylidene)) bisformamide"	PIPERAZINEDIYLBISTRICHLOROETHYLIDENEBISF	26644462	26644-46-2 				X								
+Piperidine	PIPERIDINE	110894	110-89-4 	"1,000"	"1,000"				"15,000"						
+Piperonyl butoxide	PIPERONYLBUTOXIDE	51036	51-03-6 				313								
+Pirimifos-ethyl	PIRIMIFOS-ETHYL	23505411	23505-41-1 	"1,000"	"1,000"										
+Pirimiphos methyl	PIRIMIPHOSMETHYL	29232937	29232-93-7 				313								
+"Plumbane, tetramethyl-"	PLUMBANETETRAMETHYL-	75741	75-74-1 	100	100				"10,000"						
+Polybrominated Biphenyls (PBBs)	POLYBROMINATED BIPHENYLS (PBBS)	1	N575				313								
+Polychlorinated alkanes (C10 to C13)	POLYCHLORINATED ALKANES	1	N583				313								
+Polychlorinated biphenyls	POLYCHLORINATEDBIPH	1336363	1336-36-3 			1	313								
+Polycyclic aromatic compounds (includes only 23 chemicals)	POLYCYCLIC AROMATIC COMPOUNDS	1	N590				313								
+Polycyclic organic matter	POLYCYCLICORGANICMATTER	0	N.A. 			&									
+Polymeric diphenylmethane diisocyanate	POLYMERICDIPHENYLMETHANEDIISOCYANATE	9016879	9016-87-9 				313#								
+Polynuclear Aromatic Hydrocarbons	POLYNUCLEAR AROMATIC HYDROCARBONS	0	N.A. 			&									
+Potassium arsenate	POTASSIUMARSENATE	7784410	7784-41-0 			1	313c								
+Potassium arsenite	POTASSIUMARSENITE	10124502	10124-50-2 	"500/10,000"	1	1	313c								
+Potassium bichromate	POTASSIUMBICHROMATE	7778509	7778-50-9 			10	313c								
+Potassium bromate	POTASSIUMBROMATE	7758012	7758-01-2				313								
+Potassium chromate	POTASSIUMCHROMATE	7789006	7789-00-6 			10	313c								
+Potassium cyanide	POTASSIUMCYANIDE	151508	151-50-8 	100	10	10	313c	P098							
+Potassium dimethyldithiocarbamate	POTASSIUMDIMETHYLDITHIOCARBAMATE	128030	128-03-0 				313								
+Potassium hydroxide	POTASSIUMHYDROXIDE	1310583	1310-58-3 			"1,000"									
+Potassium N-methyldithiocarbamate	POTASSIUMMETHYLDITHIOCARBAMATE	137417	137-41-7 				313								
+Potassium permanganate	POTASSIUMPERMANGANATE	7722647	7722-64-7 			100	313c								
+Potassium silver cyanide	POTASSIUMSILVERCYANIDE	506616	506-61-6 	500	1	1	313c	P099							
+Profenofos	PROFENOFOS	41198087	41198-08-7 				313								
+Promecarb	PROMECARB	2631370	2631-37-0 	"500/10,000"	"1,000"	"1,000"		P201							
+Prometryn	PROMETRYN	7287196	7287-19-6 				313								
+Pronamide	PRONAMIDE	23950585	23950-58-5 			"5,000"	313	U192							
+Propachlor	PROPACHLOR	1918167	1918-16-7 				313								
+"1,2-Propadiene"	PROPADIENE	463490	463-49-0 						"10,000"						
+Propadiene	PROPADIENE	463490	463-49-0 						"10,000"						
+2-Propanamine	PROPANAMINE	75310	75-31-0 						"10,000"						
+Propane	PROPANE	74986	74-98-6 						"10,000"						
+"Propane, 2-chloro-"	PROPANECHLORO-	75296	75-29-6 						"10,000"						
+"Propane 1,2-dichloro-"	PROPANEDICHLORO-	78875	78-87-5 			"1,000"	X	U083							
+"Propane, 2,2-dimethyl-"	PROPANEDIMETHYL	463821	463-82-1 						"10,000"						
+"Propane, 2-methyl"	PROPANEMETHYL	75285	75-28-5 						"10,000"						
+Propanenitrile	PROPANENITRILE	107120	107-12-0 	500	10	10		P101	"10,000"						
+"Propanenitrile, 2-methyl-"	PROPANENITRILEMETHYL-	78820	78-82-0 	"1,000"	"1,000"				"20,000"						
+Propane sultone	PROPANESULTONE	1120714	1120-71-4 			10	313	U193							
+"1,3-Propane sultone"	PROPANESULTONE	1120714	1120-71-4 			10	X	U193							
+Propanil	PROPANIL	709988	709-98-8 				313								
+Propargite	PROPARGITE	2312358	2312-35-8 			10	313								
+Propargyl alcohol	PROPARGYL ALCOHOL	107197	107-19-7 			"1,000"	313	P102							
+Propargyl bromide	PROPARGYL BROMIDE	106967	106-96-7 	10	10										
+2-Propenal	PROPENAL	107028	107-02-8 	500	1	1	X	P003	"5,000"						
+2-Propen-1-amine	PROPENAMINE	107119	107-11-9 	500	500		X		"10,000"						
+Propene	PROPENE	115071	115-07-1 				X		"10,000"						
+1-Propene	PROPENE1	115071	115-07-1 				X		"10,000"						
+"1-Propene, 1-chloro-"	PROPENECHLORO-1	590216	590-21-6 						"10,000"						
+"1-Propene, 2-chloro-"	PROPENECHLORO-2	557982	557-98-2 						"10,000"						
+"1-Propene, 2-methyl-"	PROPENEMETHYL-	115117	115-11-7 						"10,000"						
+2-Propenenitrile	PROPENENITRILE	107131	107-13-1 	"10,000"	100	100	X	U009	"20,000"						
+"2-Propenenitrile, 2-methyl-"	PROPENENITRILEMETHYL-	126987	126-98-7 	500	"1,000"	"1,000"	X	U152	"10,000"						
+2-Propen-1-ol	PROPENOL	107186	107-18-6 	"1,000"	100	100	X	P005	"15,000"						
+2-Propenoyl chloride	PROPENOYLCHLORIDE	814686	814-68-6 	100	100				"5,000"						
+Propetamphos	PROPETAMPHOS	31218834	31218-83-4 				313								
+Propham	PROPHAM	122429	122-42-9 			"1,000"		U373							
+Propiconazole	PROPICONAZOLE	60207901	60207-90-1 				313								
+beta-Propiolactone	PROPIOLACTONE	57578	57-57-8 	500	10	10	313								
+Propionaldehyde	PROPIONALDEHYDE	123386	123-38-6 			"1,000"	313								
+Propionic acid	PROPIONICACID	79094	79-09-4 			"5,000"									
+Propionic anhydride	PROPIONICANHYDRIDE	123626	123-62-6 			"5,000"									
+Propionitrile	PROPIONITRILE	107120	107-12-0 	500	10	10		P101	"10,000"						
+"Propionitrile, 3-chloro-"	"PROPIONITRILE, 3-CHLORO-"	542767	542-76-7 	"1,000"	"1,000"	"1,000"	X	P027							
+"Propiophenone, 4'-amino"	"PROPIOPHENONE,4-AMINO"	70699	70-69-9 	"100/10,000"	100										
+Propoxur	PROPOXUR	114261	114-26-1 			100	313	U411							
+n-Propylamine	PROPYLAMINE	107108	107-10-8 			"5,000"		U194							
+Propyl chloroformate	PROPYLCHLOROFORMATE	109615	109-61-5 	500	500				"15,000"						
+Propylene	PROPYLENE	115071	115-07-1 				313		"10,000"						
+Propyleneimine	PROPYLENEIMINE	75558	75-55-8 	"10,000"	1	1	313	P067	"10,000"						
+Propylene oxide	PROPYLENEOXIDE	75569	75-56-9 	"10,000"	100	100	313		"10,000"						
+1-Propyne	PROPYNE	74997	74-99-7 						"10,000"						
+Propyne	PROPYNE	74997	74-99-7 						"10,000"						
+Prothoate	PROTHOATE	2275185	2275-18-5 	"100/10,000"	100										
+Pyrene	PYRENE	129000	129-00-0 	"1,000/10,000"	"5,000"	"5,000"									
+Pyrethrins	PYRETHRINS	121211	121-21-1 			1									
+Pyrethrins	PYRETHRINS	121299	121-29-9 			1									
+Pyrethrins	PYRETHRINS	8003347	8003-34-7 			1									
+Pyridine	PYRIDINE	110861	110-86-1 			"1,000"	313	U196							
+"Pyridine, 4-amino-"	PYRIDINEAMINO-	504245	504-24-5 	"500/10,000"	"1,000"	"1,000"		P008							
+"Pyridine, 3-(1-methyl-2-pyrrolidinyl)-,(S)-"	PYRIDINEMETHYLPYRROLIDINYL(S)-	54115	54-11-5 	100	100	100		P075							
+"Pyridine, 2-methyl-5-vinyl-"	PYRIDINEMETHYLVINYL-	140761	140-76-1 	500	500										
+"Pyridine, 4-nitro-, 1-oxide"	PYRIDINENITROOXIDE	1124330	1124-33-0 	"500/10,000"	500										
+"2,4-(1H,3H)-Pyrimidinedione, 5-bromo-6-methyl-3-(1-methylpropyl), lithium salt"	PYRIMIDINEDIONEBROMOMETHYLMETHYLPRO	53404196	53404-19-6 				X								
+Pyriminil	PYRIMINIL	53558251	53558-25-1 	"100/10,000"	100										
+Quinoline	QUINOLINE	91225	91-22-5 			"5,000"	313								
+Quinone	QUINONE	106514	106-51-4 			10	313	U197							
+Quintozene	QUINTOZENE	82688	82-68-8 			100	313	U185							
+Quizalofop-ethyl	QUIZALOFOPETHYL	76578148	76578-14-8 				313								
+Reserpine	RESERPINE	50555	50-55-5 			"5,000"		U200							
+Resmethrin	RESMETHRIN	10453868	10453-86-8 				313								
+Resorcinol	RESORCINOL	108463	108-46-3 			"5,000"		U201							
+Saccharin (manufacturing)	SACCHARIN	81072	81-07-2 			100	313	U202							
+Saccharin and salts	SACCHARIN AND SALTS	81072	81-07-2 			100		U202							
+Safrole	SAFROLE	94597	94-59-7 			100	313	U203							
+Salcomine	SALCOMINE	14167181	14167-18-1 	"500/10,000"	500										
+Sarin	SARIN	107448	107-44-8 	10	10										
+Selenious acid	SELENIOUS ACID	7783008	7783-00-8 	"1,000/10,000"	10	10	313c	U204							
+"Selenious acid, dithallium(1+) salt"	"SELENIOUS ACID, DITHALLIUM(1+) SALT"	12039520	12039-52-0 			"1,000"	313c	P114							
+Selenium	SELENIUM	7782492	7782-49-2 			100	313								
+Selenium Compounds	SELENIUMCOMPOUNDS	1	N725			&	313								
+Selenium dioxide	SELENIUMDIOXIDE	7446084	7446-08-4			10	313c								
+Selenium oxychloride	SELENIUMOXYCHLORIDE	7791233	7791-23-3 	500	500		313c								
+Selenium sulfide	SELENIUMSULFIDE	7488564	7488-56-4 			10	313c	U205							
+Selenourea	SELENOUREA	630104	630-10-4 			"1,000"		P103							
+Semicarbazide hydrochloride	SEMICARBAZIDE HYDROCHLORIDE	563417	563-41-7 	"1,000/10,000"	"1,000"										
+Sethoxydim	SETHOXYDIM	74051802	74051-80-2 				313								
+Silane	SILANE	7803625	7803-62-5 						"10,000"						
+"Silane, (4-aminobutyl)diethoxymethyl-"	"SILANE, (4-AMINOBUTYL)DIETHOXYMETHYL-"	3037727	3037-72-7 	"1,000"	"1,000"										
+"Silane, chlorotrimethyl-"	SILANECHLOROTRIMETHYL-	75774	75-77-4 	"1,000"	"1,000"				"10,000"						
+"Silane, dichloro-"	SILANEDICHLORO-	4109960	4109-96-0 						"10,000"						
+"Silane, dichlorodimethyl-"	SILANEDICHLORODIMETHYL-	75785	75-78-5 	500	500				"5,000"						
+"Silane, tetramethyl-"	SILANETETRAMETHYL-	75763	75-76-3 						"10,000"						
+"Silane, trichloro-"	SILANETRICHLORO-	10025782	10025-78-2 						"10,000"						
+"Silane, trichloromethyl-"	SILANETRICHLOROMETHYL-	75796	75-79-6 	500	500				"5,000"						
+Silver	SILVER	7440224	7440-22-4 			"1,000"	313								
+Silver Compounds	SILVER AND COMPOUNDS	1	N740			&	313								
+Silver cyanide	SILVERCYANIDE	506649	506-64-9 			1	313c	P104							
+Silver nitrate	SILVERNITRATE	7761888	7761-88-8 			1	313c								
+"Silvex (2,4,5-TP)"	"SILVEX (2,4,5-TP)"	93721	93-72-1 			100									
+Simazine	SIMAZINE	122349	122-34-9 				313								
+Sodium	SODIUM	7440235	7440-23-5 			10									
+Sodium arsenate	SODIUM ARSENATE	7631892	7631-89-2	"1,000/10,000"	1	1	313c								
+Sodium arsenite	SODIUM ARSENITE	7784465	7784-46-5 	"500/10,000"	1	1	313c								
+Sodium azide (Na(N3))	SODIUM AZIDE (Na(N3))	26628228	26628-22-8 	500	"1,000"	"1,000"	313	P105							
+Sodium bichromate	SODIUM BICHROMATE	10588019	10588-01-9 			10	313c								
+Sodium bifluoride	SODIUM BIFLUORIDE	1333831	1333-83-1 			100									
+Sodium bisulfite	SODIUM BISULFITE	7631905	7631-90-5 			"5,000"									
+Sodium cacodylate	SODIUM CACODYLATE	124652	124-65-2 	"100/10,000"	100										
+Sodium chromate	SODIUM CHROMATE	7775113	7775-11-3			10	313c								
+Sodium cyanide (Na(CN))	SODIUM CYANIDE (Na(CN))	143339	143-33-9 	100	10	10	313c	P106							
+Sodium dicamba	SODIUM DICAMBA	1982690	1982-69-0 				313								
+Sodium dimethyldithiocarbamate	SODIUM DIMETHYLDITHIOCARBAMATE	128041	128-04-1 				313								
+Sodium dodecylbenzenesulfonate	SODIUM DODECYLBENZENESULFONATE	25155300	25155-30-0 			"1,000"									
+Sodium fluoride	SODIUM FLUORIDE	7681494	7681-49-4 			"1,000"									
+Sodium fluoroacetate	SODIUM FLUOROACETATE	62748	62-74-8 	"10/10,000"	10	10	313	P058							
+Sodium hydrosulfide	SODIUM HYDROSULFIDE	16721805	16721-80-5 			"5,000"									
+Sodium hydroxide	SODIUM HYDROXIDE	1310732	1310-73-2 			"1,000"									
+Sodium hypochlorite	SODIUM HYPOCHLORITE	7681529	7681-52-9 			100									
+Sodium hypochlorite	SODIUM HYPOCHLORITE	10022705	10022-70-5 			100									
+Sodium methylate	SODIUM METHYLATE	124414	124-41-4 			"1,000"									
+Sodium methyldithiocarbamate	SODIUM METHYLDITHIOCARBAMATE	137428	137-42-8 				X								
+Sodium nitrite	SODIUM NITRITE	7632000	7632-00-0 			100	313								
+Sodium pentachlorophenate	SODIUM PENTACHLOROPHENATE	131522	131-52-2 				313								
+Sodium o-phenylphenoxide	SODIUM PHENYLPHENOXIDE	132274	132-27-4 				313								
+"Sodium phosphate, dibasic"	"SODIUM PHOSPHATE, DIBASIC"	7558794	7558-79-4 			"5,000"									
+"Sodium phosphate, dibasic"	"SODIUM PHOSPHATE, DIBASIC"	10039324	10039-32-4 			"5,000"									
+"Sodium phosphate, dibasic"	"SODIUM PHOSPHATE, DIBASIC"	10140655	10140-65-5 			"5,000"									
+"Sodium phosphate, tribasic"	"SODIUM PHOSPHATE, TRIBASIC"	7601549	7601-54-9			"5,000"									
+"Sodium phosphate, tribasic"	"SODIUM PHOSPHATE, TRIBASIC"	10101890	10101-89-0 			"5,000"									
+"Sodium phosphate, tribasic"	"SODIUM PHOSPHATE, TRIBASIC"	10361894	10361-89-4 			"5,000"									
+Sodium selenate	SODIUM SELENATE	13410010	13410-01-0 	"100/10,000"	100		313c								
+Sodium selenite	SODIUM SELENITE	7782823	7782-82-3 			100	313c								
+Sodium selenite	SODIUM SELENITE	10102188	10102-18-8 	"100/10,000"	100	100	313c								
+Sodium tellurite	SODIUM TELLURITE	10102202	10102-20-2 	"500/10,000"	500										
+"Stannane, acetoxytriphenyl-"	"STANNANE,ACETOXYTRIPHENYL-"	900958	900-95-8 	"500/10,000"	500										
+Streptozotocin	STREPTOZOTOCIN	18883664	18883-66-4 			1		U206							
+Strontium chromate	STRONTIUM CHROMATE	7789062	7789-06-2			10	313c								
+Strychnine and salts	STRYCHNINE	1	N746				313								
+Strychnine	STRYCHNINE	57249	57-24-9 	"100/10,000"	10	10	313c	P108							
+"Strychnine, and salts"	"STRYCHNINE, AND SALTS"	57249	57-24-9 			10	313c	P108							
+"Strychnine, sulfate"	"STRYCHNINE, SULFATE"	60413	60-41-3 	"100/10,000"	10	10	313c								
+Styrene	STYRENEMONOMER	100425	100-42-5 			"1,000"	313								
+Styrene oxide	STYRENEOXIDE	96093	96-09-3 			100	313								
+Sulfotep	SULFOTEP	3689245	3689-24-5 	500	100	100		P109							
+"Sulfoxide, 3-chloropropyl octyl"	"SULFOXIDE, 3-CHLOROPROPYL OCTYL"	3569571	3569-57-1 	500	500										
+Sulfur dioxide	SULFURDIOXIDE	7446095	7446-09-5	500	500										
+Sulfur dioxide (anhydrous)	SULFURDIOXIDE	7446095	7446-09-5	500	500				"5,000"						
+"Sulfur fluoride (SF4), (T-4)-"	"SULFURFLUORIDE (SF4), (T-4)-"	7783600	7783-60-0 	100	100				"2,500"						
+Sulfuric acid (aerosol forms only)	SULFURICACID	7664939	7664-93-9 	"1,000"	"1,000"	"1,000"	313								
+Sulfuric acid	SULFURICACID	7664939	7664-93-9 	"1,000"	"1,000"	"1,000"									
+Sulfuric acid (fuming)	SULFURICACID (FUMING)	8014957	8014-95-7 			"1,000"			"10,000"						
+"Sulfuric acid, mixture with sulfur trioxide"	SULFURICACIDMIXTURE WITH SULFUR TRIOXIDE	8014957	8014-95-7 			"1,000"			"10,000"						
+Sulfur monochloride	SULFURMONOCHLORIDE	12771083	(1) 12771-08-3 			"1,000"				"(1) CASRN incorrect but still on CERCLA list, should be 10025-67-9.  See Intro in PDF doc for explanation."					
+Sulfur monochloride	SULFURMONOCHLORIDE	10025679	(2) 10025-67-9			"1,000"				(2) Correct CASRN but not same CASRN used on the CERCLA list.  See Intro in PDF doc for explanation.					
+Sulfur phosphide	SULFURPHOSPHIDE	1314803	1314-80-3 			100		U189							
+Sulfur tetrafluoride	SULFURTETRAFLUORIDE	7783600	7783-60-0 	100	100				"2,500"						
+Sulfur trioxide	SULFURTRIOXIDE	7446119	7446-11-9	100	100				"10,000"						
+Sulfuryl fluoride	SULFURYLFLUORIDE	2699798	2699-79-8 				313								
+Sulprofos	SULPROFOS	35400432	35400-43-2 				313								
+"2,4,5-T acid"	T ACID	93765	93-76-5 			"1,000"									
+"2,4,5-T amines"	T AMINES	1319728	1319-72-8 			"5,000"									
+"2,4,5-T amines"	T AMINES	2008460	2008-46-0 			"5,000"									
+"2,4,5-T amines"	T AMINES	3813147	3813-14-7 			"5,000"									
+"2,4,5-T amines"	T AMINES	6369966	6369-96-6 			"5,000"									
+"2,4,5-T amines"	T AMINES	6369977	6369-97-7 			"5,000"									
+"2,4,5-T esters"	T ESTERS	93798	93-79-8 			"1,000"									
+"2,4,5-T esters"	T ESTERS	1928478	1928-47-8 			"1,000"									
+"2,4,5-T esters"	T ESTERS	2545597	2545-59-7 			"1,000"									
+"2,4,5-T esters"	T ESTERS	25168154	25168-15-4 			"1,000"									
+"2,4,5-T esters"	T ESTERS	61792072	61792-07-2 			"1,000"									
+"2,4,5-T salts"	T SALTS	13560991	13560-99-1 			"1,000"									
+Tabun	TABUN	77816	77-81-6 	10	10										
+Tebuthiuron	TEBUTHIURON	34014181	34014-18-1 				313								
+Tellurium hexafluoride	TELLURIUM HEXAFLUORIDE	7783804	7783-80-4 	100	100										
+Temephos	TEMEPHOS	3383968	3383-96-8 				313								
+TEPP	TEPP	107493	107-49-3 	100	10	10		P111							
+Terbacil	TERBACIL	5902512	5902-51-2 				313								
+Terbufos	TERBUFOS	13071799	13071-79-9 	100	100										
+Tetrabromobisphenol A	TETRABROMOBISPHENOLA	79947	79-94-7 				313								
+"1,2,4,5-Tetrachlorobenzene"	TETRACHLOROBENZENE	95943	95-94-3 			"5,000"		U207							
+"2,3,7,8-tetrachlorodibenzofuran"	TETRACHLORODIBENZOFURAN	51207319	51207-31-9 				313!								
+"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD)"	TETRACHLORODIBENZO-P-DIOXIN (TCDD)	1746016	1746-01-6 			1	313!								
+"1,1,2,2-Tetrachloroethane"	TETRACHLOROETHANE	79345	79-34-5 			100	313	U209							
+"1,1,1,2-Tetrachloroethane"	TETRACHLOROETHANE	630206	630-20-6 			100	313	U208							
+Tetrachloroethylene	TETRACHLOROETHYLENE	127184	127-18-4 			100	313	U210							
+"1,1,2,2-Tetrachloro-1-fluoroethane"	TETRACHLOROFLUOROETHANE (HCFC-121)	354143	354-14-3 				313								
+"1,1,1,2-Tetrachloro-2-fluoroethane"	TETRACHLOROFLUOROETHANE (HCFC-121A)	354110	354-11-0 				313								
+"2,3,4,6-Tetrachlorophenol"	TETRACHLOROPHENOL	58902	58-90-2 			10	313c								
+Tetrachlorvinphos	TETRACHLORVINPHOS	961115	961-11-5 				313								
+Tetracycline hydrochloride	TETRACYCLINEHYDROCHLORIDE	64755	64-75-5 				313								
+Tetraethyldithiopyrophosphate	TETRAETHYLDITHIOPYROPHOSPHATE	3689245	3689-24-5 	500	100	100		P109							
+Tetraethyl lead	TETRAETHYLLEAD	78002	78-00-2 	100	10	10	313c	P110							
+Tetraethyl pyrophosphate	TETRAETHYLPYROPHOSPHATE	107493	107-49-3 	100	10	10		P111							
+Tetraethyltin	TETRAETHYLTIN	597648	597-64-8 	100	100										
+Tetrafluoroethylene	TETRAFLUOROETHYLENE	116143	116-14-3 				313		"10,000"						
+"Tetrahydro-5,5-dimethyl-2(1H)-pyrimidinone(3-(4-(trifluoromethyl)phenyl)-1-(2-(4-(trifluoromethyl)phenyl)ethenyl)-2-propenylidene)hydrazone"	TETRAHYDRODIMETHYLPYRIMIDINONETRIFLUOROME	67485294	67485-29-4 				X								
+"Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione"	TETRAHYDRODIMETHYLTHIADIAZINETHIONE	533744	533-74-4 				X								
+"Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione, ion(1-), sodium"	TETRAHYDRODIMETHYLTHIADIAZINETHIONEION(1	53404607	53404-60-7 				X								
+Tetramethrin	TETRAMETHRIN	7696120	7696-12-0 				313								
+"2,2,3,3-Tetramethylcyclopropane carboxylic acid cyano(3-phenoxyphenyl)methyl ester"	TETRAMETHYLCYCLOPROPANECARBOXYLICACIDCYANOPHEN	39515418	39515-41-8 				X								
+Tetramethyllead	TETRAMETHYLLEAD	75741	75-74-1 	100	100		313c		"10,000"						
+Tetramethylsilane	TETRAMETHYLSILANE	75763	75-76-3 						"10,000"						
+Tetranitromethane	TETRANITROMETHANE	509148	509-14-8 	500	10	10	313	P112	"10,000"						
+Thallic oxide	THALLIC OXIDE	1314325	1314-32-5 			100	313c	P113							
+Thallium	THALLIUM	7440280	7440-28-0 			"1,000"	313								
+Thallium(I) acetate	THALLIUMACETATE	563688	563-68-8 			100	313c	U214							
+Thallium(I) carbonate	THALLIUMCARBONATE	6533739	6533-73-9 	"100/10,000"	100	100	313c	U215							
+Thallium chloride TlCl	THALLIUMCHLORIDE TICI	7791120	7791-12-0 	"100/10,000"	100	100	313c	U216							
+Thallium Compounds	THALLIUMCOMPOUNDS	1	N760			&	313								
+Thallium(I) nitrate	THALLIUMNITRATE	10102451	10102-45-1 			100	313c	U217							
+Thallium(I) sulfate	THALLIUMSULFATE	7446186	7446-18-6 	"100/10,000"	100	100	313c	P115							
+Thallium sulfate	THALLIUMSULFATE	10031591	10031-59-1 	"100/10,000"	100	100	313c								
+Thallous carbonate	THALLOUS CARBONATE	6533739	6533-73-9 	"100/10,000"	100	100	313c	U215							
+Thallous chloride	THALLOUS CHLORIDE	7791120	7791-12-0 	"100/10,000"	100	100	313c	U216							
+Thallous malonate	THALLOUS MALONATE	2757188	2757-18-8 	"100/10,000"	100										
+Thallous sulfate	THALLOUS SULFATE	7446186	7446-18-6 	"100/10,000"	100	100	313c	P115							
+Thiabendazole	THIABENDAZOLE	148798	148-79-8 				313								
+2-(4-Thiazolyl)-1H-benzimidazole	THIAZOLYLBENZIMIDAZOLE	148798	148-79-8 				X								
+Thioacetamide	THIOACETAMIDE	62555	62-55-5 			10	313	U218							
+Thiobencarb	THIOBENCARB	28249776	28249-77-6 				313								
+Thiocarbazide	THIOCARBAZIDE	2231574	2231-57-4 	"1,000/10,000"	"1,000"										
+"Thiocyanic acid, methyl ester"	THIOCYANICACIDMETHYLESTER	556649	556-64-9 	"10,000"	"10,000"				"20,000"						
+"4,4'-Thiodianiline"	THIODIANILINE	139651	139-65-1 				313								
+Thiodicarb	THIODICARB	59669260	59669-26-0 			100	313	U410							
+Thiofanox	THIOFANOX	39196184	39196-18-4 	"100/10,000"	100	100		P045							
+Thiomethanol	THIOMETHANOL	74931	74-93-1 	500	100	100	X	U153	"10,000"						
+Thionazin	THIONAZIN	297972	297-97-2 	500	100	100		P040							
+Thiophanate ethyl	THIOPHANATEETHYL	23564069	23564-06-9 				313								
+Thiophanate-methyl	THIOPHANATEMETHYL	23564058	23564-05-8 			10	313	U409							
+Thiophenol	THIOPHENOL	108985	108-98-5 	500	100	100		P014							
+Thiosemicarbazide	THIOSEMICARBAZIDE	79196	79-19-6 	"100/10,000"	100	100	313	P116							
+Thiourea	THIOUREA	62566	62-56-6 			10	313	U219							
+"Thiourea, (2-chlorophenyl)-"	"THIOUREA, (2-CHLOROPHENYL)-"	5344821	5344-82-1 	"100/10,000"	100	100		P026							
+"Thiourea, (2-methylphenyl)-"	"THIOUREA, (2-METHYLPHENYL)-"	614788	614-78-8 	"500/10,000"	500										
+"Thiourea, 1-naphthalenyl-"	THIOUREANAPHTHALENYL-	86884	86-88-4 	"500/10,000"	100	100		P072							
+Thiram	THIRAM	137268	137-26-8 			10	313	U244							
+Thorium dioxide	THORIUMDIOXIDE	1314201	1314-20-1 				313								
+Titanium chloride (TiCl4) (T-4)-	TITANIUMCHLORIDE (TICL4) (T-4)-	7550450	7550-45-0 	100	"1,000"	"1,000"	X		"2,500"						
+Titanium tetrachloride	TITANIUMTETRACHLOR	7550450	7550-45-0 	100	"1,000"	"1,000"	313		"2,500"						
+o-Tolidine	TOLIDINE	119937	119-93-7 			10	X	U095							
+o-Tolidine dihydrochloride	TOLIDINEDIHYDROCHLORIDE	612828	612-82-8 				X								
+o-Tolidine dihydrofluoride	TOLIDINEDIHYDROFLUORIDE	41766750	41766-75-0 				X								
+Toluene	TOLUENE	108883	108-88-3 			"1,000"	313	U220							
+Toluenediamine	TOLUENEDIAMINE	25376458	25376-45-8 			10	X	U221							
+"Toluene-2,4-diisocyanate"	TOLUENEDIISOCYANATEA	584849	584-84-9 	500	100	100	313		"10,000"						
+"Toluene-2,6-diisocyanate"	TOLUENEDIISOCYANATEB	91087	91-08-7 	100	100	100	313		"10,000"						
+Toluenediisocyanate (mixed isomers)	TOLUENEDIISOCYANATEM	26471625	26471-62-5 			100	313	U223	"10,000"						
+Toluene diisocyanate (unspecified isomer)	TOLUENEDIISOCYANATEU	26471625	26471-62-5 			100	X	U223	"10,000"						
+o-Toluidine	TOLUIDINE	95534	95-53-4 			100	313	U328							
+p-Toluidine	TOLUIDINE	106490	106-49-0 			100		U353							
+o-Toluidine hydrochloride	TOLUIDINEHYDROCHL	636215	636-21-5 			100	313	U222							
+Toxaphene	TOXAPHENE	8001352	8001-35-2 	"500/10,000"	1	1	313	P123							
+"2,4,5-TP esters"	TP ESTERS	32534955	32534-95-5 			100									
+Triadimefon	TRIADIMEFON	43121433	43121-43-3 				313								
+Triallate	TRIALLATE	2303175	2303-17-5 			100	313	U389							
+Triamiphos	TRIAMIPHOS	1031476	1031-47-6 	"500/10,000"	500										
+Triaziquone	TRIAZIQUONE	68768	68-76-8 				313								
+Triazofos	TRIAZOFOS	24017478	24017-47-8 	500	500										
+Tribenuron methyl	TRIBENURONMETHYL	101200480	101200-48-0 				313								
+Tribromomethane	TRIBROMOMETHANE	75252	75-25-2 			100	X	U225							
+Tributyltin fluoride	TRIBUTYLTINFLUORIDE	1983104	1983-10-4				313								
+Tributyltin methacrylate	TRIBUTYLTINMETHACRYLATE	2155706	2155-70-6 				313								
+"S,S,S-Tributyltrithiophosphate"	TRIBUTYLTRITHIOPHOSPHATE (DEF)	78488	78-48-8 				313								
+Trichlorfon	TRICHLORFON	52686	52-68-6 			100	313								
+Trichloroacetyl chloride	TRICHLOROACETYL CHLORIDE	76028	76-02-8 	500	500		313								
+"1,2,4-Trichlorobenzene"	TRICHLOROBENZE	120821	120-82-1 			100	313								
+Trichloro(chloromethyl)silane	TRICHLOROCHLOROMETHYL)SILANE	1558254	1558-25-4 	100	100										
+Trichloro(dichlorophenyl)silane	TRICHLORODICHLOROPHENYL)SILANE	27137855	27137-85-5 	500	500										
+"1,1,1-Trichloroethane"	TRICHLOROETHANEA	71556	71-55-6 			"1,000"	313	U226							
+"1,1,2-Trichloroethane"	TRICHLOROETHANEB	79005	79-00-5 			100	313	U227							
+Trichloroethylene	TRICHLOROETHYLENE	79016	79-01-6 			100	313	U228							
+Trichloroethylsilane	TRICHLOROETHYLSILANE	115219	115-21-9 	500	500										
+Trichlorofluoromethane	TRICHLOROFLUOROMETHANE	75694	75-69-4 			"5,000"	313	U121							
+Trichloromethanesulfenyl chloride	TRICHLOROMETHANESULFENYL CHLORIDE	594423	594-42-3 	500	100	100	X		"10,000"						
+Trichloromonofluoromethane	TRICHLOROMONOFLUOROMETHANE	75694	75-69-4 			"5,000"	X	U121							
+Trichloronate	TRICHLORONATE	327980	327-98-0 	500	500										
+Trichlorophenol	TRICHLOROPHENOL	25167822	25167-82-2 			10	313c								
+"2,3,4-Trichlorophenol"	TRICHLOROPHENOL-A	15950660	15950-66-0 			10	313c								
+"2,3,5-Trichlorophenol"	TRICHLOROPHENOL-B	933788	933-78-8 			10	313c								
+"2,3,6-Trichlorophenol"	TRICHLOROPHENOL-C	933755	933-75-5 			10	313c								
+"2,4,5-Trichlorophenol"	TRICHLOROPHENOL-D	95954	95-95-4 			10	313								
+"2,4,6-Trichlorophenol"	TRICHLOROPHENOL-E	88062	88-06-2 			10	313								
+"3,4,5-Trichlorophenol"	TRICHLOROPHENOL-F	609198	609-19-8 			10									
+Trichlorophenylsilane	TRICHLOROPHENYLSILANE	98135	98-13-5 	500	500										
+"1,2,3-Trichloropropane"	TRICHLOROPROPANE	96184	96-18-4 				313								
+Trichlorosilane	TRICHLOROSILANE	10025782	10025-78-2 						"10,000"						
+Triclopyr triethylammonium salt	TRICLOPYRTRIETHYLAMMONIUM SALT	57213691	57213-69-1 				313								
+Triethanolamine dodecylbenzene sulfonate	TRIETHANOLAMINE DODECYLBENZENE SULFONATE	27323417	27323-41-7 			"1,000"									
+Triethoxysilane	TRIETHOXYSILANE	998301	998-30-1 	500	500										
+Triethylamine	TRIETHYLAMINE	121448	121-44-8 			"5,000"	313	U404							
+Trifluorochloroethylene	TRIFLUOROCHLOROETHYL	79389	79-38-9 						"10,000"						
+"2-(4-((5-(Trifluoromethyl)-2-pyridinyl)oxy)-phenoxy)propanoic acid, butyl ester"	TRIFLUOROMETHYLPYRIDINYLOXYPHENOXYPROPANOIC	69806504	69806-50-4 				X								
+Trifluralin	TRIFLURALIN	1582098	1582-09-8 			10	313								
+Triforine	TRIFORINE	26644462	26644-46-2 				313								
+Trimethylamine	TRIMETHYLAMINE	75503	75-50-3 			100			"10,000"						
+"1,2,4-Trimethylbenzene"	TRIMETHYLBENZ	95636	95-63-6 				313								
+Trimethylchlorosilane	TRIMETHYLCHLOROSILANE	75774	75-77-4 	"1,000"	"1,000"				"10,000"						
+"2,4,4-Trimethylhexamethylene diisocyanate"	TRIMETHYLHEXAMETHYLENEDIISOCYANATE	15646965	15646-96-5 				313#								
+"2,2,4-Trimethylhexamethylene diisocyanate"	TRIMETHYLHEXAMETHYLENEDIISOCYANATE	16938220	16938-22-0 				313#								
+Trimethylolpropane phosphite	TRIMETHYLOLPROPANE PHOSPHITE	824113	824-11-3 	"100/10,000"	100										
+"2,2,4-Trimethylpentane"	TRIMETHYLPENTANE	540841	540-84-1 			"1,000"									
+"2,3,5-Trimethylphenyl methylcarbamate"	TRIMETHYLPHENYLMETHYLCARBAMATE	2655154	2655-15-4 				313								
+Trimethyltin chloride	TRIMETHYLTIN CHLORIDE	1066451	1066-45-1 	"500/10,000"	500										
+"1,3,5-Trinitrobenzene"	TRINITROBENZENE	99354	99-35-4 			10		U234							
+Triphenyltin chloride	TRIPHENYLTIN CHLORIDE	639587	639-58-7 	"500/10,000"	500		313								
+Triphenyltin hydroxide	TRIPHENYLTINHYDROXIDE	76879	76-87-9 				313								
+Tris(2-chloroethyl)amine	TRIS(2-CHLOROETHYL)AMINE	555771	555-77-1 	100	100										
+"Tris(2,3-dibromopropyl) phosphate"	TRISDIBROMOPROP	126727	126-72-7 			10	313	U235							
+"Tris(dimethylcarbamodithioato-S,S')iron"	"TRISDIMETHYLCARBAMODITHIOATO-S,S')IRON"	14484641	14484-64-1 				X								
+Trypan blue	TRYPAN BLUE	72571	72-57-1 			10	313	U236							
+Uracil mustard	URACIL MUSTARD	66751	66-75-1 			10		U237							
+Uranyl acetate	URANYL ACETATE	541093	541-09-3 			100									
+Uranyl nitrate	URANYL NITRATE	10102064	10102-06-4 			100									
+Uranyl nitrate	URANYL NITRATE	36478769	36478-76-9 			100									
+"Urea, N,N-dimethyl-N'-[3-(trifluoromethyl)phenyl]-"	UREADIMETHYLTRIFLUOROMETHYL)PHENYL]-	2164172	2164-17-2 				X								
+Urethane	URETHANE	51796	51-79-6 			100	313	U238							
+Valinomycin	VALINOMYCIN	2001958	2001-95-8 	"1,000/10,000"	"1,000"										
+Vanadium (except when contained in an alloy)	VANADIUM	7440622	7440-62-2 				313								
+Vanadium Compounds	VANADIUM COMPOUNDS	1	N770				313								
+Vanadium pentoxide	VANADIUM PENTOXIDE	1314621	1314-62-1 	"100/10,000"	"1,000"	"1,000"	313c	P120							
+Vanadyl sulfate	VANADYL SULFATE	27774136	27774-13-6 			"1,000"	313c								
+Vikane	VIKANE	2699798	2699-79-8 				X								
+Vinclozolin	VINCLOZOLIN	50471448	50471-44-8 				313								
+Vinyl acetate	VINYLACETATE	108054	108-05-4 	"1,000"	"5,000"	"5,000"	313		"15,000"						
+Vinyl acetate monomer	VINYLACETATEMONOMER	108054	108-05-4 	"1,000"	"5,000"	"5,000"	X		"15,000"						
+Vinyl acetylene	VINYLACETYLENE	689974	689-97-4 						"10,000"						
+Vinyl bromide	VINYLBROMIDE	593602	593-60-2 			100	313								
+Vinyl chloride	VINYLCHLORIDE	75014	75-01-4 			1	313	U043	"10,000"						
+Vinyl ethyl ether	VINYLETHYLETHER	109922	109-92-2 						"10,000"						
+Vinyl fluoride	VINYLFLUORIDE	75025	75-02-5 				313		"10,000"						
+Vinylidene chloride	VINYLIDENECHLORIDE	75354	75-35-4 			100	313	U078	"10,000"						
+Vinylidene fluoride	VINYLIDENEFLUORIDE	75387	75-38-7 						"10,000"						
+Vinyl methyl ether	VINYLMETHYLETHER	107255	107-25-5 						"10,000"						
+Warfarin	WARFARIN	81812	81-81-2 	"500/10,000"	100	100	X 313c	P001							
+Warfarin and salts	WARFARIN AND SALTS	1	N874				313								
+"Warfarin, & salts, conc.>0.3%"	"WARFARIN SALTS, WHEN PRESENT AT CONCENTRATIONS"	81812	81-81-2 			100	X 313c	P001							
+Warfarin sodium	WARFARIN SODIUM	129066	129-06-6 	"100/10,000"	100	100	313c								
+m-Xylene	XYLENEA	108383	108-38-3 			"1,000"	313	U239							
+o-Xylene	XYLENEB	95476	95-47-6 			"1,000"	313	U239							
+p-Xylene	XYLENEC	106423	106-42-3 			100	313	U239							
+Xylene (mixed isomers)	XYLENEMIXEDISOMER	1330207	1330-20-7 			100	313	U239							
+Xylenol	XYLENOL	1300716	1300-71-6 			"1,000"									
+"2,6-Xylidine"	XYLIDINE	87627	87-62-7 				313								
+Xylylene dichloride	XYLYLENE DICHLORIDE	28347139	28347-13-9 	"100/10,000"	100										
+Zinc (fume or dust)	ZINC	7440666	7440-66-6 			"1,000"	313								
+Zinc	ZINC	7440666	7440-66-6 			"1,000"									
+Zinc acetate	ZINCACETATE	557346	557-34-6 			"1,000"	313c								
+Zinc ammonium chloride	ZINCAMMONIUM CHLORIDE	14639975	14639-97-5 			"1,000"	313c								
+Zinc ammonium chloride	ZINCAMMONIUM CHLORIDE	14639986	14639-98-6 			"1,000"	313c								
+Zinc ammonium chloride	ZINCAMMONIUM CHLORIDE	52628258	52628-25-8 			"1,000"	313c								
+Zinc borate	ZINCBORATE	1332076	1332-07-6 			"1,000"	313c								
+Zinc bromide	ZINCBROMIDE	7699458	7699-45-8 			"1,000"	313c								
+Zinc carbonate	ZINCCARBONATE	3486359	3486-35-9 			"1,000"	313c								
+Zinc chloride	ZINCCHLORIDE	7646857	7646-85-7 			"1,000"	313c								
+Zinc Compounds	ZINCCOMPOUNDS	1	N982			&	313								
+Zinc cyanide	ZINCCYANIDE	557211	557-21-1 			10	313c	P121							
+"Zinc, dichloro(4,4-dimethyl-5((((methylamino)carbonyl)oxy)imino)pentanenitrile)-, (T-4)-"	"ZINCDICHLORO(4,4-DIMETHYL-5((((METHYLAMINO) CARB"	58270089	58270-08-9 	"100/10,000"	100		313c								
+Zinc fluoride	ZINCFLUORIDE	7783495	7783-49-5 			"1,000"	313c								
+Zinc formate	ZINCFORMATE	557415	557-41-5 			"1,000"	313c								
+Zinc hydrosulfite	ZINCHYDROSULFITE	7779864	7779-86-4 			"1,000"	313c								
+Zinc nitrate	ZINCNITRATE	7779886	7779-88-6 			"1,000"	313c								
+Zinc phenolsulfonate	ZINCPHENOLSULFONATE	127822	127-82-2 			"5,000"	313c								
+Zinc phosphide	ZINCPHOSPHIDE	1314847	1314-84-7 	500	100	100	313c	P122							
+Zinc phosphide (conc. <= 10%)	ZINCPHOSPHIDE	1314847	1314-84-7 	500	100	100	313c	U249							
+Zinc phosphide (conc. > 10%)	ZINCPHOSPHIDE	1314847	1314-84-7 	500	100	100	313c	P122							
+Zinc silicofluoride	ZINCSILICOFLUORIDE	16871719	16871-71-9 			"5,000"	313c								
+Zinc sulfate	ZINCSULFATE	7733020	7733-02-0 			"1,000"	313c								
+Zineb	ZINEB	12122677	12122-67-7 				313								
+Ziram	ZIRAM	137304	137-30-4 			10		P205							
+Zirconium nitrate	ZIRCONIUMNITRATE	13746899	13746-89-9 			"5,000"									
+Zirconium potassium fluoride	ZIRCONIUMPOTASSIUM FLUORIDE	16923958	16923-95-8 			"1,000"									
+Zirconium sulfate	ZIRCONIUMSULFATE	14644612	14644-61-2 			"5,000"									
+Zirconium tetrachloride	ZIRCONIUMTETRACHLORIDE	10026116	10026-11-6 			"5,000"									
+															
+THE LIST BELOW CONTAINS RCRA WASTE STREAMS AND UNLISTED HAZARDOUS WASTES.  THE DESCRIPTIONS OF THE WASTE STREAMS HAVE BEEN TRUNCATED.															
+THE FOLLOWING LIST SHOULD BE USED FOR REFERENCE ONLY. COMPLIANCE INFORMATION CAN BE FOUND IN 40 CFR PART 302 AND TABLE 302.4															
+The following spent halogenated solvents used in degreasing: 						10		F001 							
+"(a) Tetrachloroethylene (CAS No. 127-18-4, RCRA Waste No. U210) "						100									
+"(b) Trichloroethylene (CAS No. 79-01-6, RCRA Waste No. U228) "						100									
+"(c) Methylene chloride (CAS No. 75-09-2, RCRA Waste No. U080) "						"1,000"									
+"(d) 1,1,1-Trichloroethane (CAS No. 71-55-6, RCRA Waste No. U226) "						"1,000"									
+"(e) Carbon tetrachloride (CAS No. 56-23-5, RCRA Waste No. U211) "						10									
+(f) Chlorinated fluorocarbons 						"5,000"									
+The following spent halogenated solvents: 						10		F002 							
+"(a) Tetrachloroethylene (CAS No. 127-18-4, RCRA Waste No. U210) "						100									
+"(b) Methylene chloride (CAS No. 75-09-2, RCRA Waste No. U080) "						"1,000"									
+"(c) Trichloroethylene (CAS No. 79-01-6, RCRA Waste No. U228) "						100									
+"(d) 1,1,1-Trichloroethane (CAS No. 71-55-6, RCRA Waste No. U226) "						"1,000"									
+"(e) Chlorobenzene (CAS No. 108-90-7, RCRA Waste No. U037) "						100									
+"(f) 1,1,2-Trichloro-1,2,2-trifluoroethane (CAS No. 76-13-1) "						"5,000"									
+"(g) o-Dichlorobenzene (CAS No. 95-50-1, RCRA Waste No. U070) "						100									
+"(h) Trichlorofluoromethane (CAS No. 75-69-4, RCRA Waste No. U121) "						"5,000"									
+"(i) 1,1,2-Trichloroethane (CAS No. 79-00-5, RCRA Waste No. U227) "						100									
+The following spent non-halogenated solvents and still bottoms from recovery: 						100		F003 							
+"(a) Xylene (CAS No. 1330-20-7, RCRA Waste No. U239) "						"1,000"									
+"(b) Acetone (CAS No. 67-64-1, RCRA Waste No. U002) "						"5,000"									
+"(c) Ethyl acetate (CAS No. 141-78-6, RCRA Waste No. U112) "						"5,000"									
+(d) Ethylbenzene (CAS No. 100-41-4) 						"1,000"									
+"(e) Ethyl ether (CAS No. 60-29-7, RCRA Waste No. U117) "						100									
+"(f) Methyl isobutyl ketone (CAS No. 108-10-1, RCRA Waste No. U161) "						"5,000"									
+"(g) n-Butyl alcohol (CAS No. 71-36-3, RCRA Waste No. U031) "						"5,000"									
+"(h) Cyclohexanone (CAS No. 108-94-1, RCRA Waste No. U057) "						"5,000"									
+"(i) Methanol (CAS No. 67-56-1, RCRA Waste No. U154) "						"5,000"									
+The following spent non-halogenated solvents and still bottoms from recovery: 						100		F004 							
+"(a) Cresols/cresylic acid (CAS No. 1319-77-3, RCRA Waste No. U052) "						100									
+"(b) Nitrobenzene (CAS No. 98-95-3, RCRA Waste No. U169) "						"1,000"									
+The following spent non-halogenated solvents and still bottoms from recovery: 						100		F005 							
+"(a) Toluene (CAS No. 108-88-3, RCRA Waste No. U220) "						"1,000"									
+"(b) Methyl ethyl ketone (CAS No. 78-93-3, RCRA Waste No. U159) "						"5,000"									
+"(c) Carbon disulfide (CAS No. 75-15-0, RCRA Waste No. P022) "						100									
+"(d) Isobutanol (CAS No. 78-83-1, RCRA Waste No. U140) "						"5,000"									
+"(e) Pyridine (CAS No. 110-86-1, RCRA Waste No. U196) "						"1,000"									
+Wastewater treatment sludges from electroplating operations (w/some exceptions) 						10		F006 							
+Spent cyanide plating bath solns. from electroplating 						10		F007 							
+Plating bath residues from electroplating where cyanides are used 						10		F008 							
+Spent stripping/cleaning bath solns. from electroplating where cyanides are used 						10		F009 							
+Quenching bath residues from metal heat treating where cyanides are used 						10		F010 							
+Spent cyanide soln. from salt bath pot cleaning from metal heat treating 						10		F011 							
+Quenching wastewater sludges from metal heat treating where cyanides are used 						10		F012 							
+Wastewater treatment sludges from chemical conversion aluminum coating 						10		F019 							
+Wastes from production or use of tri/tetrachlorophenol or derivative intermediates 						1		F020 							
+Wastes from production or use of pentachlorophenol or intermediates for derivatives 						1		F021 							
+Wastes from use of tetra/penta/hexachlorobenzenes under alkaline conditions 						1		F022 							
+Wastes from mat. production on equipment previously used for tri\tetrachlorophenol 						1		F023 							
+Wastes from production of chlorinated aliphatic hydrocarbons (C1-C5) 						1		F024 							
+"Lights ends, filters from production of chlorinated aliphatic hydrocarbons (C1-C5) "						1		F025 							
+Waste from equipment previously used to production tetra/penta/hexachlorobenzenes 						1		F026 							
+Discarded formulations containing tri/tetra/pentachlorophenols or derivatives 						1		F027 							
+"Residues from incineration of soil contaminated w/ F020,F021,F022,F023,F026,F027 "						1		F028 							
+"Wastewaters, process residuals from wood preserving using chlorophenolic solns. "						1		F032 							
+"Wastewaters, process residuals from wood preserving using creosote formulations "						1		F034 							
+"Wastewaters, process residuals from wood preserving using arsenic or chromium "						1		F035 							
+Petroleum refinery primary oil/water/solids separation sludge 						1		F037 							
+Petroleum refinery secondary (emulsified) oil/water/solids separation sludge 						1		F038 							
+Multisource leachate 						1		F039 							
+Wastewater treatment sludge from creosote/pentachlorophenol wood preserving 						1		K001 							
+Wastewater treatment sludge from production of chrome yellow and orange pigments 						10		K002 							
+Wastewater treatment sludge from production of molybdate orange pigments 						10		K003 							
+Wastewater treatment sludge from production of zinc yellow pigments 						10		K004 							
+Wastewater treatment sludge from production of chrome green pigments 						10		K005 							
+Wastewater treatment sludge from production of chrome oxide green pigments 						10		K006 							
+Wastewater treatment sludge from production of iron blue pigments 						10		K007 							
+Oven residue from production of chrome oxide green pigments 						10		K008 							
+Dist. bottoms from production of acetaldehyde from ethylene 						10		K009 							
+Dist. side cuts from production of acetaldehyde from ethylene 						10		K010 							
+Bottom stream from wastewater stripper in acrylonitrile production 						10		K011 							
+Bottom stream from acetonitrile column in acrylonitrile production 						10		K013 							
+Bottoms from acetonitrile purification column in acrylonitrile production 						"5,000"		K014 							
+Still bottoms from the dist. of benzyl chloride 						10		K015 							
+Heavy ends or dist. residues from production of carbon tetrachloride 						1		K016 							
+Heavy ends from the purification column in epichlorohydrin production 						10		K017 							
+Heavy ends from the fractionation column in ethyl chloride production 						1		K018 							
+Heavy ends from the dist. of ethylene dichloride during its production 						1		K019 							
+Heavy ends from the dist. of vinyl chloride during production of the monomer 						1		K020 							
+Aqueous spent antimony catalyst waste from fluoromethanes production 						10		K021 							
+Dist. bottom tars from production of phenol/acetone from cumene 						1		K022 							
+Dist. light ends from production of phthalic anhydride from naphthalene 						"5,000"		K023 							
+Dist. bottoms from production of phthalic anhydride from naphthalene 						"5,000"		K024 							
+Dist. bottoms from production of nitrobenzene by nitration of benzene 						10		K025 							
+Stripping still tails from the production of methyl ethyl pyridines 						"1,000"		K026 							
+Centrifuge/dist. residues from toluene diisocyanate production 						10		K027 							
+"Spent catalyst from hydrochlorinator reactor in production of 1,1,1-trichloroethane "						1		K028 							
+"Waste from product steam stripper in production of 1,1,1-trichloroethane "						1		K029 							
+Column bottoms/heavy ends from production of trichloroethylene and perchloroethylene 						1		K030 							
+By-product salts generated in the production of MSMA and cacodylic acid 						1		K031 							
+Wastewater treatment sludge from the production of chlordane 						10		K032 							
+Wastewaster/scrubwater from chlorination of cyclopentadiene in chlordane production 						10		K033 							
+Filter solids from filtration of hexachlorocyclopentadiene in chlordane production 						10		K034 							
+Wastewater treatment sludges from the production of creosote 						1		K035 							
+Still bottoms from toluene reclamation distillation in disulfoton production 						1		K036 							
+Wastewater treatment sludges from the production of disulfoton 						1		K037 							
+Wastewater from the washing and stripping of phorate production 						10		K038 							
+Filter cake from filtration of diethylphosphorodithioic adid in phorate production 						10		K039 							
+Wastewater treatment sludge from the production of phorate 						10		K040 							
+Wastewater treatment sludge from the production of toxaphene 						1		K041 							
+"Heavy ends/residues from dist. of tetrachlorobenzene in 2,4,5-T production "						10		K042 							
+"2,6-Dichlorophenol waste from the production of 2,4-D "						10		K043 							
+Wastewater treatment sludge from manuf. and processing of explosives 						10		K044 							
+Spent carbon from treatment of wastewater containing explosives 						10		K045 							
+"Wastewater sludge from manuf.,formulating,loading of lead-based initiating compd "						10		K046 							
+Pink/red water from TNT operations 						10		K047 							
+Dissolved air flotation (DAF) float from the petroleum refining industry 						10		K048 							
+Slop oil emulsion solids from the petroleum refining industry 						10		K049 							
+Heat exchanger bundle cleaning sludge from petroleum refining industry 						10		K050 							
+API separator sludge from the petroleum refining industry 						10		K051 							
+Tank bottoms (leaded) from the petroleum refining industry 						10		K052 							
+Ammonia still lime sludge from coking operations 						1		K060 							
+Emission control dust/sludge from primary production of steel in electric furnaces 						10		K061 							
+Spent pickle liquor generated by steel finishing (SIC codes 331 and 332) 						10		K062 							
+Acid plant blowdown slurry/sludge from blowdown slurry from primary copper production 						10		K064 							
+Surface impoundment solids at primary lead smelting facilities 						10		K065 							
+Sludge from treatment of wastewater/acid plant blowdown from primary zinc production 						10		K066 							
+Emission control dust/sludge from secondary lead smelting 						10		K069 							
+Brine purification muds from mercury cell process in chlorine production 						1		K071 							
+Chlorinated hydrocarbon waste from diaphragm cell process in chlorine production 						10		K073 							
+Distillation bottoms from aniline extraction 						100		K083 							
+Wastewater sludges from production of veterinary pharm. from arsenic compds. 						1		K084 							
+Distillation or fractionation column bottoms in production of chlorobenzenes 						10		K085 							
+Wastes/sludges from production of inks from chromium and lead-containing substances 						10		K086 							
+Decanter tank tar sludge from coking operations 						100		K087 							
+Spent potliners from primary aluminum reduction 						10		K088 							
+Emission control dust/sludge from ferrochromiumsilicon production 						10		K090 							
+Emission control dust/sludge from ferrochromium production 						10		K091 							
+Dist. light ends from production of phthalic anhydride by ortho-xylene 						"5,000"		K093 							
+Dist. bottoms in production of phthalic anhydride by ortho-xylene 						"5,000"		K094 							
+"Distillation bottoms in production of 1,1,1-trichloroethane "						100		K095 							
+"Heavy ends from dist. column in production of 1,1,1-trichloroethane "						100		K096 							
+Vacuum stripper discharge from the chlordane chlorinator in production of chlordane 						1		K097 							
+Untreated process wastewater from the production of toxaphene 						1		K098 							
+"Untreated wastewater from the production of 2,4-D "						10		K099 							
+Waste leaching soln from emission control dust/sludge in secondary lead smelting 						10		K100 							
+Dist. tar residue from aniline in production of veterinary pharm. from arsenic compd. 						1		K101 							
+Residue from activated carbon in production of veterinary pharm. from arsenic compds. 						1		K102 							
+Process residues from aniline extraction from the production of aniline 						100		K103 							
+Combined wastewater streams generated from production of nitrobenzene/aniline 						10		K104 							
+Aqueous stream from washing in production of chlorobenzenes 						10		K105 							
+Wastewater treatment sludge from mercury cell process in chlorine production 						1		K106 							
+Column bottoms from separation in production of UDMH from carboxylic acid hydrazides 						10		K107 							
+Condensed column overheads and vent gas from production of UDMH from -COOH hydrazides 						10		K108 							
+Spent filter cartridges from purif. of UDMH production from carboxylic acid hydrazides 						10		K109 							
+Condensed column overheads from separation in UDMH production from -COOH hydrazides 						10		K110 							
+Product washwaters from production of dinitrotoluene via nitration of toluene						10		K111 							
+Reaction by-product water from drying in toluenediamine prod from dinitrotoluene  						10		K112 							
+Condensed liquid light ends from purification of toluenediamine during its production 						10		K113 							
+Vicinals from purification of toluenediamine during its production from dinitrotoluene						10		K114 							
+Heavy ends from toluenediamine purification during production from dinitrotoluene  						10		K115 							
+Organic condensate from solvent recovery system in production of toluene diisocyanate						10		K116 							
+Wastewater from vent gas scrubber in ethylene bromide prod by ethene bromination  						1		K117 							
+Spent absorbent solids in purification of ethylene dibromide in its production						1		K118 							
+Process wastewater from the production of ethylenebisdithiocarbamic acid and salts						10		K123 							
+Reactor vent scrubber water from prod of ethylenebisdithiocarbamic acid and salts						10		K124 							
+Filtration/other solids from production of ethylenebisdithiocarbamic acid and salts						10		K125 							
+Dust/sweepings from the production of ethylenebisdithiocarbamic acid and salts						10		K126 							
+Wastewater and spent sulfuric acid from the production of methyl bromide						100		K131 							
+Spent absorbent and wastewater solids from the production of methyl bromide						"1,000"		K132 							
+Still bottoms from ethylene dibromide purif. in production by ethene bromination						1		K136 							
+Process residues from coal tar recovery in coking						1		K141 							
+Tar storage tank residues from coke production from coal or recovery of coke by-prods						1		K142 							
+Process residues from recovery of light oil in coking						1		K143 							
+Wastewater residues from light oil refining in coking						1		K144 							
+Residues from naphthalene collection and recovery from coke by-products						1		K145 							
+Tar storage tank residues from coal tar refining in coking						1		K147 							
+"Residues from coal tar distillation, including still bottoms, in coking"						1		K148 							
+Distillation bottoms from the production of chlorinated toluenes/benzoyl chlorides						10		K149 							
+Organic residuals from Cl gas and HCl recovery from chlorinated toluene production						10		K150 							
+Wastewater treatment sludge from production of chlorotoluenes/benzoyl chlorides						10		K151 							
+Organic waste from production of carbamates and carbamoyl oximes						10		K156 							
+Wastewaters from production of carbamates and carbamoyl oximes (not sludges)						10		K157 							
+"Bag house dusts & filter/separation solids from prod of carbamates, carb oximes "						10		K158 							
+Organics from treatment of thiocarbamate waste						10		K159 							
+Purif. solids/bag house dust/sweepings from prod of dithiocarbamate acids/salts 						1		K161 							
+Crude oil storage tank sediment from refining operations						10		K169 							
+Clarified slurry oil tank sediment of in-line filter/separation solids						1		K170 							
+Spent hydrotreating catalyst 						1		K171 							
+Spent hydrorefining catalyst						1		K172 							
+"Wastewater treatment sludges from the production of ethylene dichloride or vinyl chloride monomer, (including sludges that result from commingled EDC or VCM wastewater and other wastewater), unless the sludges meet certain disposal conditions. (See 40 CFR 261.32)"						1		K174 							
+Wastewater treatment sludges from the production vinyl chloride monomer using mercuric chloride catalyst in an acetylene-based process (See 40 CFR 261.32)						1		K175 							
+"Baghouse filters from the production of antimony oxide, including filters from the production of intermediates (e.g., antimony metal or crude antimony oxide)"						1		K176							
+"Slag from the production of antimony oxide that is speculatively accumulated or disposed, including slag from the production of intermediates (e.g., antimony metal or crude antimony oxide)"						5000		K177							
+Residues from manufacturing and manufacturing-site storage of ferric chloride from acids formed during the production of titanium dioxide using the chloride-ilmenite process								K178							
+"Non-wastewaters generated from the production of certain dyes, pigments, and FD&C colorants, exceeding constituent mass loading levels, subject to disposal exceptions in 40 CFR 261.32"						1*		K181 							
+Unlisted hazardous wastes characteristic of ignitability						100		D001  							
+Unlisted hazardous wastes characteristic of corrosivity						100		D002  							
+Unlisted hazardous wastes characteristic of reactivity						100		D003  							
+Unlisted hazardous wastes characteristic of toxicity:															
+Arsenic  						1		D004  							
+Barium 						"1,000"		D005 							
+Cadmium  						10		D006  							
+Chromium 						10		D007 							
+Lead 						10		D008  							
+Mercury 						1		D009 							
+Selenium						10		D010							
+Silver 						1		D011 							
+Endrin 						1		D012 							
+Lindane  						1		D013 							
+Methoxychlor 						1		D014 							
+Toxaphene  						1		D015 							
+"2,4-D "						100		D016 							
+"2,4,5-TP "						100		D017 							
+Benzene  						10		D018 							
+Carbon tetrachloride  						10		D019 							
+Chlordane  						1		D020 							
+Chlorobenzene  						100		D021 							
+Chloroform  						10		D022 							
+o-Cresol  						100		D023 							
+m-Cresol  						100		D024 							
+p-Cresol  						100		D025 							
+Cresol  						100		D026 							
+"1,4-Dichlorobenzene  "						100		D027 							
+"1,2-Dichloroethane  "						100		D028 							
+"1,1-Dichloroethylene  "						100		D029 							
+"2,4-Dinitrotoluene  "						10		D030 							
+Heptachlor (and epoxide)  						1		D031 							
+Hexachlorobenzene  						10		D032 							
+Hexachlorobutadiene  						1		D033 							
+Hexachloroethane  						100		D034 							
+Methyl ethyl ketone 						"5,000"		D035 							
+Nitrobenzene 						"1,000"		D036 							
+Pentachlorophenol  						10		D037 							
+Pyridine 						"1,000"		D038 							
+Tetrachloroethylene  						100		D039 							
+Trichloroethylene  						100		D040 							
+"2,4,5-Trichlorophenol  "						10		D041 							
+"2,4,6-Trichlorophenol  "						10		D042 							
+Vinyl chloride 						1		D043 							

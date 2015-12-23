@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GreenScopeChemCad</RootNamespace>
     <AssemblyName>GreenScopeChemCad</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -39,6 +39,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -48,6 +49,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
@@ -64,9 +66,11 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
     <Reference Include="System.Net" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
@@ -77,6 +81,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompoundData.cs" />
     <Compile Include="CompPPData.cs" />
     <Compile Include="Flowsheet.cs" />
     <Compile Include="Form1.cs">
@@ -93,14 +98,27 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="SelectChemicalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectChemicalForm.Designer.cs">
+      <DependentUpon>SelectChemicalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellAidXMLSchema.cs" />
     <Compile Include="Stream.cs" />
     <Compile Include="StreamComponent.cs" />
     <Compile Include="StreamInfo.cs" />
     <Compile Include="StreamProperty.cs" />
+    <Compile Include="SynonymXMLSchema.cs" />
     <Compile Include="UnitOperation.cs" />
     <Compile Include="UnitOperationInfo.cs" />
     <Compile Include="UnitOpSpecUnitConversion.cs" />
     <Compile Include="VBServerWrapper.cs" />
+    <Compile Include="Web References\gov.nih.nlm.chemspell\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -108,6 +126,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectChemicalForm.resx">
+      <DependentUpon>SelectChemicalForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="GRNS data entries for v1_2 12-14.xlsm" />
     <None Include="GRNS-LCI v1_2 05-15.xlsm" />
@@ -124,6 +145,17 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <None Include="Resources\GRNS-LCI v1_2 05-15.xlsm" />
+    <None Include="SpellAidXMLSchema.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SynonymXMLSchema.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\gov.nih.nlm.chemspell\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\gov.nih.nlm.chemspell\SpellAid.wsdl" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -148,10 +180,30 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="tri_chemical_list_for_ry15_11_5_2015_1.txt" />
+    <None Include="2015 ERPG Levels.txt" />
+    <None Include="ICSCnumberByCAS.txt" />
+    <None Include="idlh.txt" />
+    <None Include="list_of_lists.txt" />
     <Content Include="Resources\species.txt" />
     <Content Include="species.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://chemspell.nlm.nih.gov/axis/SpellAid.jws%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\gov.nih.nlm.chemspell\</RelPath>
+      <UpdateFromURL>http://chemspell.nlm.nih.gov/axis/SpellAid.jws%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>GreenScopeChemCad_gov_nih_nlm_chemspell_SpellAidService</CachedSettingsPropName>
+    </WebReferenceUrl>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

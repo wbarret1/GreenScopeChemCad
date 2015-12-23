@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:intf="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" xmlns:impl="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws-impl" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:complexType name="ArrayOf_xsd_string">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="soapenc:Array">
+            <xsd:attribute wsdl:arrayType="xsd:string[]" ref="soapenc:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:element name="ArrayOf_xsd_string" nillable="true" type="intf:ArrayOf_xsd_string" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="mainResponse" />
+  <wsdl:message name="mainRequest">
+    <wsdl:part name="args" type="intf:ArrayOf_xsd_string" />
+  </wsdl:message>
+  <wsdl:message name="getSugListRequest">
+    <wsdl:part name="name" type="xsd:string" />
+    <wsdl:part name="src" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getSugListResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="SpellAid">
+    <wsdl:operation name="getSugList" parameterOrder="name src">
+      <wsdl:input name="getSugListRequest" message="intf:getSugListRequest" />
+      <wsdl:output name="getSugListResponse" message="intf:getSugListResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="main" parameterOrder="args">
+      <wsdl:input name="mainRequest" message="intf:mainRequest" />
+      <wsdl:output name="mainResponse" message="intf:mainResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SpellAidSoapBinding" type="intf:SpellAid">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="getSugList">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getSugListRequest">
+        <wsdlsoap:body use="encoded" namespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getSugListResponse">
+        <wsdlsoap:body use="encoded" namespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="main">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="mainRequest">
+        <wsdlsoap:body use="encoded" namespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="mainResponse">
+        <wsdlsoap:body use="encoded" namespace="http://chemspell.nlm.nih.gov/axis/SpellAid.jws/axis/SpellAid.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SpellAidService">
+    <wsdl:port name="SpellAid" binding="intf:SpellAidSoapBinding">
+      <wsdlsoap:address location="http://chemspell.nlm.nih.gov/axis/SpellAid.jws" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

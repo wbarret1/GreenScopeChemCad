@@ -11,6 +11,9 @@ namespace GreenScopeChemCad
     {
         //CHEMCAD.ICHEMCADVBServer p_IServer;
         IDispatch p_IDispatch;
+        StreamComponent[] m_Components;
+        int[] m_ComponentIDs;
+        string[] m_ComponentNames;
 
         const int LOCALE_SYSTEM_DEFAULT = 2048;
         const int DISPATCH_METHOD = 0x1;
@@ -70,6 +73,32 @@ namespace GreenScopeChemCad
             if (p_IDispatch != null)
                 System.Runtime.InteropServices.Marshal.FinalReleaseComObject(p_IDispatch);
             disposed = true;
+        }
+
+        public StreamComponent[] Components
+        {
+            get
+            {
+                return m_Components;
+            }
+
+        }
+
+        public string[] ComponentNames
+        {
+            get
+            {
+                return m_ComponentNames;
+            }
+
+        }
+
+        public int[] ComponentIDs
+        {
+            get
+            {
+                return m_ComponentIDs;
+            }
         }
 
         public bool LoadJob(string bstrJobPath)
@@ -133,6 +162,19 @@ namespace GreenScopeChemCad
 
             if (hrRet == 0)
             {
+                Flowsheet sheet = this.GetFlowsheet();
+                StreamInfo p_StreamInfo = this.GetStreamInfo();
+                int[] ids = sheet.AllStreamIDs;
+                int numComps = p_StreamInfo.NumberOfComponents;
+                m_Components = new StreamComponent[numComps];
+                m_ComponentIDs = new int[numComps];
+                m_ComponentNames = new string[numComps];
+                for (int i = 0; i < numComps; i++)
+                {
+                    m_Components[i] = new StreamComponent(ids[0], i, this);
+                    m_ComponentIDs[i] = p_StreamInfo.GetComponentIDByPos(i);
+                    m_ComponentNames[i] = p_StreamInfo.GetComponentNameByPos(i);
+                }
                 return (bool)varResult;
             }
             return false;

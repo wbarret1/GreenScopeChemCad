@@ -275,23 +275,9 @@ namespace GreenScopeChemCad
             m_CompMoleFraction = (double[])compFlows;
             p_StreamInfo.GetStreamCost(m_StreamID, ref m_CostType, ref m_Cost);
             p_StreamProperty.GetStreamPropertiesInUserUnits(m_StreamID, ref m_StreamPropertyValues, ref m_StreamPropertyUnits);
-            int numComps = p_StreamInfo.NumberOfComponents;
-            m_Components = new StreamComponent[numComps];
-            m_ComponentIDs = new int[numComps];
-            m_ComponentNames = new string[numComps];
-            for (int i = 0; i < numComps; i++)
-            {
-                m_Components[i] = new StreamComponent(m_StreamID, i, vbServer);
-                m_ComponentIDs[i] = p_StreamInfo.GetComponentIDByPos(i);
-                m_ComponentNames[i] = p_StreamInfo.GetComponentNameByPos(i);
-            }
-            //p_StreamInfo.GetStreamByID(m_StreamID, ref m_TempR, ref m_PressPsia, ref m_MoleVapFrac, ref m_Enth_BTUHR, ref m_CompFlowLbMolHr);
-            //p_Flash = (IDispatch)vbServer.GetFlash();
-            //this.defineFeedStream(m_TempR, m_PressPsia, m_Enth_BTUHR, m_CompFlowLbMolHr);
-            //this.CalculateHPFlash(m_PressPsia, m_Enth_BTUHR);
-            //this.GetVaporStream(ref m_TempR, ref m_PressPsia, ref m_Enth_BTUHR, ref m_MoleVapFrac, ref m_VaporCompFlowLbMolHr);
-            //this.GetLiquidStream(ref m_TempR, ref m_PressPsia, ref m_Enth_BTUHR, ref m_MoleVapFrac, ref m_LiquidCompFlowLbMolHr);
-
+            m_Components = vbServer.Components;
+            m_ComponentNames = vbServer.ComponentNames;
+            m_ComponentIDs = vbServer.ComponentIDs;
         }
 
         void defineFeedStream(double tempR, double pressPsia, double enth_BTUHR, double[] CompFlowLbMolHr)
@@ -657,13 +643,68 @@ namespace GreenScopeChemCad
         {
             get
             {
-                return this.m_ComponentNames.Length;
+                return this.m_Components.Length;
             }
         }
 
         public string casNumber(int index)
         {
             return this.m_Components[index].CASNumber;
+        }
+
+        public string ERPG2(int index)
+        {
+            return this.m_Components[index].ERPG2;
+        }
+
+        public string ERPG3(int index)
+        {
+            return this.m_Components[index].ERPG3;
+        }
+
+        public string IDLH(int index)
+        {
+            return this.m_Components[index].IDLHvalue;
+        }
+
+        public string MAK(int index)
+        {
+            return this.m_Components[index].MAK;
+        }
+
+        public bool IsHazarous(int index)
+        {
+            return this.m_Components[index].Hazarous;
+        }
+
+        public bool OnTRIList(int index)
+        {
+            return this.m_Components[index].IsOnTRIList;
+        }
+
+        public bool IsPBTList(int index)
+        {
+            return this.m_Components[index].IsPBT;
+        }
+
+        public string EC_Class(int index)
+        {
+            return this.m_Components[index].EC_Class;
+        }
+
+        public string R_Phrase(int index)
+        {
+            return this.m_Components[index].RPhrase;
+        }
+
+        public string NFPA_Flammable(int index)
+        {
+            return this.m_Components[index].NFPAFlammability;
+        }
+
+        public string NFPA_Reactive(int index)
+        {
+            return this.m_Components[index].NFPAReactivity;
         }
 
         public string MolecularFormula(int index)
@@ -676,6 +717,76 @@ namespace GreenScopeChemCad
             return this.m_Components[index].MolecularWeight;
         }
 
+        public string FlashPoint(int index)
+        {
+            return this.m_Components[index].FlashPoint;
+        }
+
+        public string HeatOfCombustion(int index)
+        {
+            return this.m_Components[index].heatOfCombustion;
+        }
+
+        public string HeatOfVaporization(int index)
+        {
+            return this.m_Components[index].HeatOfVaporization;
+        }
+
+        public string Density(int index)
+        {
+            return this.m_Components[index].Density;
+        }
+
+        public string VaporPressure(int index)
+        {
+            return this.m_Components[index].VaporPressure;
+        }
+
+        public int NumberOfCarbonAtoms(int index)
+        {
+            return this.m_Components[index].CarbonAtoms;
+        }
+
+        public int NumberOfHydrogenAtoms(int index)
+        {
+            return this.m_Components[index].HydrogenAtoms;
+        }
+
+        public int NumberOfNitrogenAtoms(int index)
+        {
+            return this.m_Components[index].NitrogenAtoms;
+        }
+
+        public int NumberOfChlorineAtoms(int index)
+        {
+            return this.m_Components[index].ChlorineAtoms;
+        }
+
+        public int NumberOfSodiumAtoms(int index)
+        {
+            return this.m_Components[index].SodiumAtoms;
+        }
+
+        public int NumberOfOxygenAtoms(int index)
+        {
+            return this.m_Components[index].OxygenAtoms;
+        }
+
+        public int NumberOfPhosphorousAtoms(int index)
+        {
+            return this.m_Components[index].Phosphoroustoms;
+        }
+
+        public int NumberOfSulfurAtoms(int index)
+        {
+            return this.m_Components[index].SulfurAtoms;
+        }
+
+        public double AccentricFactor(int index)
+        {
+            return this.m_Components[index].AccentricFactor;
+        }
+
         public double CriticalTemperature(int index)
         {
             return this.m_Components[index].CriticalTemperature;
@@ -686,14 +797,14 @@ namespace GreenScopeChemCad
             return this.m_Components[index].CriticalPressure;
         }
 
-        public double AccentricFactor(int index)
-        {
-            return this.m_Components[index].AccentricFactor;
-        }
-
         public double boilingPoint(int index)
         {
-            return this.m_Components[index].boilingPoint-273.15;
+            return this.m_Components[index].boilingPoint;
+        }
+
+        public string meltingPoint(int index)
+        {
+            return this.m_Components[index].MeltingPoint;
         }
 
         public double IdealGasHeatOfFormation(int index)
@@ -1127,22 +1238,6 @@ namespace GreenScopeChemCad
             get
             {
                 return m_Cost;
-            }
-        }
-
-        public double FlashPoint
-        {
-            get
-            {
-                return m_StreamPropertyValues[18];
-            }
-        }
-
-        public string FlashPointUnit
-        {
-            get
-            {
-                return m_StreamPropertyUnits[18];
             }
         }
     }

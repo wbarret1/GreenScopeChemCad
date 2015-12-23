@@ -248,20 +248,20 @@ namespace GreenScopeChemCad
             this.dataGridView5.DataSource = unitOpTable;
             this.dataGridView6.DataSource = reactionsTable;
 
-            System.IO.FileStream writer = new System.IO.FileStream("jsonTest.txt", System.IO.FileMode.Create);
-            System.Runtime.Serialization.Json.DataContractJsonSerializer unitOpSerializer =
-                new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(UnitOperation[]));
-            //foreach (UnitOperation unitOp in unitOps)
-            //{
-            unitOpSerializer.WriteObject(writer, unitOps);
-            //}
-            System.Runtime.Serialization.Json.DataContractJsonSerializer streamSerializer =
-               new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(Stream[]));
-            //foreach (Stream stream in allStreams)
-            //{
-            streamSerializer.WriteObject(writer, allStreams);
-            //}
-            writer.Close();
+            //System.IO.FileStream writer = new System.IO.FileStream("jsonTest.txt", System.IO.FileMode.Create);
+            //System.Runtime.Serialization.Json.DataContractJsonSerializer unitOpSerializer =
+            //    new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(UnitOperation[]));
+            ////foreach (UnitOperation unitOp in unitOps)
+            ////{
+            //unitOpSerializer.WriteObject(writer, unitOps);
+            ////}
+            //System.Runtime.Serialization.Json.DataContractJsonSerializer streamSerializer =
+            //   new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(Stream[]));
+            ////foreach (Stream stream in allStreams)
+            ////{
+            //streamSerializer.WriteObject(writer, allStreams);
+            ////}
+            //writer.Close();
 
 
             //Perform 'save as'
@@ -1046,7 +1046,36 @@ namespace GreenScopeChemCad
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "E", i + 32, stream.MolecularFormula(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "F", i + 32, stream.MolecularWeight(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "G", i + 32, stream.casNumber(i));
+                int solid = 0;
+                if (!string.IsNullOrEmpty(stream.meltingPoint(i)))
+                    if (Convert.ToDouble(stream.meltingPoint(i)) < 25.0) solid = 1;
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "V", i + 262, solid);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "Y", i + 262, stream.ERPG2(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "Z", i + 262, stream.ERPG3(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AA", i + 262, stream.IDLH(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AB", i + 262, stream.MAK(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AM", i + 262, stream.IsHazarous(i) ? "1": "0");
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AN", i + 262, stream.OnTRIList(i) ? "1": "0");
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AO", i + 262, stream.IsPBTList(i) ? "1": "0");
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AP", i + 262, stream.EC_Class(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AR", i + 262, stream.R_Phrase(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AV", i + 262, stream.NFPA_Flammable(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AW", i + 262, stream.NFPA_Reactive(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AY", i + 262, stream.boilingPoint(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AZ", i + 262, stream.meltingPoint(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BA", i + 262, stream.FlashPoint(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BB", i + 262, stream.HeatOfCombustion(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BG", i + 262, stream.HeatOfVaporization(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BH", i + 262, stream.Density(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BI", i + 262, stream.VaporPressure(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CH", i + 262, stream.NumberOfCarbonAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CI", i + 262, stream.NumberOfHydrogenAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CJ", i + 262, stream.NumberOfNitrogenAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CK", i + 262, stream.NumberOfChlorineAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CL", i + 262, stream.NumberOfSodiumAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CM", i + 262, stream.NumberOfOxygenAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CN", i + 262, stream.NumberOfPhosphorousAtoms(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "CO", i + 262, stream.NumberOfSulfurAtoms(i));
             }
         }
 

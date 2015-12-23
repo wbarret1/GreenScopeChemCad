@@ -1,0 +1,693 @@
+71751-41-2	Abamectin [Avermectin B1]	1.0		
+30560-19-1	"Acephate (Acetylphosphoramidothioic acid O,S-dimethyl ester)"	1.0		
+75-07-0	Acetaldehyde	0.1		
+60-35-5	Acetamide	0.1		
+75-05-8	Acetonitrile	1.0		
+98-86-2	Acetophenone	1.0		
+53-96-3	2-Acetylaminofluorene	0.1		
+62476-59-9	"Acifluorfen, sodium salt [5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid, sodium salt]"	1.0		
+107-02-8	Acrolein	1.0		
+79-06-1	Acrylamide	0.1		
+79-10-7	Acrylic acid	1.0		
+107-13-1	Acrylonitrile	0.1		
+15972-60-8	Alachlor	1.0		
+116-06-3	Aldicarb	1.0		
+309-00-2	"Aldrin [1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-(1.alpha.,4.alpha.,4a.beta., 5.alpha.,8.alpha.,8a.beta.)-]"	*		
+28057-48-9	d-trans-Allethrin [d-trans-Chrysanthemic acid of d-allethrone]	1.0		
+107-18-6	Allyl alcohol	1.0		
+107-11-9	Allylamine	1.0		
+107-05-1	Allyl chloride	1.0		
+7429-90-5	Aluminum (fume or dust)	1.0		
+20859-73-8	Aluminum phosphide	1.0		
+1344-28-1	Aluminum oxide (fibrous forms)	1.0		
+834-12-8	"Ametryn (N-Ethyl-N=-(1-methylethyl)-6-(methylthio)-1,3,5,-triazine-2,4-diamine)"	1.0		
+117-79-3	2-Aminoanthraquinone	0.1		
+60-09-3	4-Aminoazobenzene	0.1		
+92-67-1	4-Aminobiphenyl	0.1		
+82-28-0	1-Amino-2-methylanthraquinone	0.1		
+81-49-2	"1-Amino-2,4-dibromoanthraquinone "	0.1		
+33089-61-1	Amitraz	1.0		
+61-82-5	Amitrole	0.1		
+7664-41-7	Ammonia (includes anhydrous ammonia and aqueous ammonia from water dissociable ammonium salts and other sources; 10 percent of total aqueous ammonia is reportable under this listing)	1.0		
+101-05-3	"Anilazine [4,6-Dichloro-N-(2-chlorophenyl)-1,3,5-triazin-2-amine]"	1.0		
+62-53-3	Aniline	1.0		
+90-04-0	o-Anisidine	0.1		
+104-94-9	p-Anisidine	1.0		
+134-29-2	o-Anisidine hydrochloride	0.1		
+120-12-7	Anthracene	1.0		
+7440-36-0	Antimony	1.0		
+7440-38-2	Arsenic	0.1		
+1332-21-4	Asbestos (friable)	0.1		
+1912-24-9	"Atrazine (6-Chloro-N-ethyl-N=-(1-methylethyl)-1,3,5-triazine-2,4-diamine)"	1.0		
+7440-39-3	Barium	1.0		
+22781-23-3	"Bendiocarb [2,2-Dimethyl-1,3-benzodioxol-4-ol methylcarbamate]"	1.0		
+1861-40-1	"Benfluralin (N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)benzenamine)"	1.0		
+17804-35-2	Benomyl	1.0		
+98-87-3	Benzal chloride	1.0		
+55-21-0	Benzamide	1.0		
+71-43-2	Benzene	0.1		
+92-87-5	Benzidine	0.1		
+98-07-7	Benzoic trichloride (Benzotrichloride)	0.1		
+191-24-2	"Benzo(g,h,i)perylene"	*		
+98-88-4	Benzoyl chloride	1.0		
+94-36-0	Benzoyl peroxide	1.0		
+100-44-7	Benzyl chloride	1.0		
+7440-41-7	Beryllium	0.1		
+82657-04-3	Bifenthrin	1.0		
+92-52-4	Biphenyl	1.0		
+3296-90-0	"2,2-bis(Bromomethyl)-1,3-propanediol "	0.1		
+111-91-1	Bis(2-chloroethoxy) methane	1.0		
+111-44-4	Bis(2-chloroethyl) ether	1.0		
+542-88-1	Bis(chloromethyl) ether	0.1		
+108-60-1	Bis(2-chloro-1-methylethyl)ether	1.0		
+56-35-9	Bis(tributyltin) oxide	1.0		
+10294-34-5	Boron trichloride	1.0		
+7637-07-2	Boron trifluoride	1.0		
+314-40-9	"Bromacil (5-Bromo-6-methyl-3-(1-methylpropyl)-2,4(1H,3H)-pyrimidinedione)"	1.0		
+53404-19-6	"Bromacil, lithium salt [2,4(1H,3H)-Pyrimidinedione,5-bromo-6-methyl-3-(1-methylpropyl), lithium salt]"	1.0		
+7726-95-6	Bromine	1.0		
+35691-65-7	"1-Bromo-1-(bromomethyl)- 1,3-propanedicarbonitrile"	1.0		
+353-59-3	Bromochlorodifluoromethane (Halon 1211)	1.0		
+75-25-2	Bromoform (Tribromomethane)	1.0		
+74-83-9	Bromomethane (Methyl bromide)	1.0		
+75-63-8	Bromotrifluoromethane (Halon 1301)	1.0		
+1689-84-5	"Bromoxynil (3,5-Dibromo-4-hydroxybenzonitrile)"	1.0		
+1689-99-2	"Bromoxynil octanoate (Octanoic acid, 2,6-dibromo-4-cyanophenylester)"	1.0		
+357-57-3	Brucine	1.0		
+106-99-0	"1,3-Butadiene"	0.1		
+141-32-2	Butyl acrylate	1.0		
+71-36-3	n-Butyl alcohol	1.0		
+78-92-2	sec-Butyl alcohol	1.0		
+75-65-0	tert-Butyl alcohol	1.0		
+106-88-7	"1,2-Butylene oxide"	0.1		
+123-72-8	Butyraldehyde	1.0		
+7440-43-9	Cadmium	0.1		
+156-62-7	Calcium cyanamide	1.0		
+133-06-2	"Captan [1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-]"	1.0		
+63-25-2	"Carbaryl [1-Naphthalenol, methylcarbamate]"	1.0		
+1563-66-2	Carbofuran	1.0		
+75-15-0	Carbon disulfide	1.0		
+56-23-5	Carbon tetrachloride	0.1		
+463-58-1	Carbonyl sulfide	1.0		
+5234-68-4	"Carboxin (5,6-Dihydro-2-methyl-N- phenyl-1,4-oxathiin-3-carboxamide)"	1.0		
+120-80-9	Catechol	0.1		
+2439-01-2	"Chinomethionat [6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one]"	1.0		
+133-90-4	"Chloramben [Benzoic acid, 3-amino-2,5-dichloro-]"	1.0		
+57-74-9	"Chlordane [4,7-Methanoindan, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-]"	*		
+115-28-6	Chlorendic acid	0.1		
+90982-32-4	Chlorimuron ethyl [Ethyl-2-[[[[(4-chloro-6-methoxyprimidin-2-yl)amino]carbonyl]amino]sulfonyl] benzoate]	1.0		
+7782-50-5	Chlorine	1.0		
+10049-04-4	Chlorine dioxide	1.0		
+79-11-8	Chloroacetic acid	1.0		
+532-27-4	2-Chloroacetophenone	1.0		
+4080-31-3	"1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride"	1.0		
+106-47-8	p-Chloroaniline	0.1		
+108-90-7	Chlorobenzene	1.0		
+510-15-6	"Chlorobenzilate [Benzeneacetic acid, 4-chloro-.alpha.- (4-chlorophenyl)-.alpha.-hydroxy-, ethyl ester]"	1.0		
+75-68-3	"1-Chloro-1,1-difluoroethane (HCFC-142b)"	1.0		
+75-45-6	Chlorodifluoromethane (HCFC-22)	1.0		
+75-00-3	Chloroethane (Ethyl chloride)	1.0		
+67-66-3	Chloroform	0.1		
+74-87-3	Chloromethane (Methyl chloride)	1.0		
+107-30-2	Chloromethyl methyl ether	0.1		
+563-47-3	3-Chloro-2-methyl-1-propene	0.1		
+104-12-1	p-Chlorophenyl isocyanate	1.0		
+76-06-2	Chloropicrin	1.0		
+126-99-8	Chloroprene	0.1		
+542-76-7	3-Chloropropionitrile	1.0		
+63938-10-3	Chlorotetrafluoroethane	1.0		
+354-25-6	"1-Chloro-1,1,2,2- tetrafluoroethane (HCFC-124a)"	1.0		
+2837-89-0	"2-Chloro-1,1,1,2- tetrafluoroethane (HCFC-124)"	1.0		
+1897-45-6	"Chlorothalonil [1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-]"	0.1		
+95-69-2	p-Chloro-o-toluidine	0.1		
+75-88-7	"2-Chloro-1,1,1- trifluoroethane (HCFC-133a)"	1.0		
+75-72-9	Chlorotrifluoromethane (CFC-13)	1.0		
+460-35-5	"3-Chloro-1,1,1- trifluoropropane (HCFC-253fb)"	1.0		
+5598-13-0	"Chlorpyrifos methyl [O,O-Dimethyl-O-(3,5,6-trichloro-2-pyridyl)phosphorothioate]"	1.0		
+64902-72-3	"Chlorsulfuron [2-Chloro-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl] benzenesulfonamide]"	1.0		
+7440-47-3	Chromium	1.0		
+4680-78-8	C.I. Acid Green 3	1.0		
+6459-94-5	C.I. Acid Red 114	0.1		
+569-64-2	C.I. Basic Green 4	1.0		
+989-38-8	C.I. Basic Red 1	1.0		
+1937-37-7	C.I. Direct Black 38	0.1		
+2602-46-2	C.I. Direct Blue 6	0.1		
+28407-37-6	C.I. Direct Blue 218	1.0		
+16071-86-6	C.I. Direct Brown 95	0.1		
+2832-40-8	C.I. Disperse Yellow 3	1.0		
+3761-53-3	C.I. Food Red 5	0.1		
+81-88-9	C.I. Food Red 15	1.0		
+3118-97-6	C.I. Solvent Orange 7	1.0		
+97-56-3	C.I. Solvent Yellow 3	0.1		
+842-07-9	C.I. Solvent Yellow 14	1.0		
+492-80-8	C.I. Solvent Yellow 34 (Auramine)	0.1		
+128-66-5	C.I. Vat Yellow 4	1.0		
+7440-48-4	Cobalt	0.1		
+7440-50-8	Copper	1.0		
+8001-58-9	Creosote	0.1		
+120-71-8	p-Cresidine	0.1		
+108-39-4	m-Cresol	1.0		
+95-48-7	o-Cresol	1.0		
+106-44-5	p-Cresol	1.0		
+1319-77-3	Cresol (mixed isomers)	1.0		
+4170-30-3	Crotonaldehyde	1.0		
+98-82-8	Cumene	1.0		
+80-15-9	Cumene hydroperoxide	1.0		
+135-20-6	"Cupferron [Benzeneamine, N-hydroxy- N-nitroso, ammonium salt]"	0.1		
+21725-46-2	Cyanazine	1.0		
+1134-23-2	Cycloate	1.0		
+110-82-7	Cyclohexane	1.0		
+108-93-0	Cyclohexanol	1.0		
+68359-37-5	"Cyfluthrin [3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, cyano(4-fluoro-3-phenoxyphenyl) methyl ester]"	1.0		
+68085-85-8	"Cyhalothrin [3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropane-carboxylic acid cyano(3-phenoxyphenyl)methyl ester]"	1.0		
+94-75-7	"2,4-D [Acetic acid, (2,4-dichlorophenoxy)-]"	0.1		
+533-74-4	"Dazomet (Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione)"	1.0		
+53404-60-7	"Dazomet, sodium salt [Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione, ion(1-), sodium]"	1.0		
+94-82-6	"2,4-DB"	1.0		
+1929-73-3	"2,4-D butoxyethyl ester"	0.1		
+94-80-4	"2,4-D butyl ester"	0.1		
+2971-38-2	"2,4-D chlorocrotyl ester"	0.1		
+1163-19-5	Decabromodiphenyl oxide	1.0		
+13684-56-5	Desmedipham	1.0		
+1928-43-4	"2,4-D 2-ethylhexyl ester"	0.1		
+53404-37-8	"2,4-D 2-ethyl-4- methylpentyl  ester"	0.1		
+2303-16-4	"Diallate [Carbamothioic acid, bis(1-methylethyl)-S-(2,3-dichloro-2-propenyl) ester]"	1.0		
+615-05-4	"2,4-Diaminoanisole"	0.1		
+39156-41-7	"2,4-Diaminoanisole sulfate"	0.1		
+101-80-4	"4,4'-Diaminodiphenyl ether"	0.1		
+95-80-7	"2,4-Diaminotoluene"	0.1		
+25376-45-8	Diaminotoluene (mixed isomers)	0.1		
+333-41-5	Diazinon	1.0		
+334-88-3	Diazomethane	1.0		
+132-64-9	Dibenzofuran	1.0		
+96-12-8	"1,2-Dibromo-3- chloropropane (DBCP)"	0.1		
+106-93-4	"1,2-Dibromoethane (Ethylene dibromide)"	0.1		
+124-73-2	Dibromotetrafluoroethane (Halon 2402)	1.0		
+84-74-2	Dibutyl phthalate	1.0		
+1918-00-9	"Dicamba (3,6-Dichloro-2-methoxybenzoic acid)"	1.0		
+99-30-9	"Dichloran [2,6-Dichloro-4-nitroaniline]"	1.0		
+95-50-1	"1,2-Dichlorobenzene"	1.0		
+541-73-1	"1,3-Dichlorobenzene"	1.0		
+106-46-7	"1,4-Dichlorobenzene"	0.1		
+25321-22-6	Dichlorobenzene (mixed isomers)	0.1		
+91-94-1	"3,3'-Dichlorobenzidine"	0.1		
+612-83-9	"3,3'-Dichlorobenzidine dihydrochloride"	0.1		
+64969-34-2	"3,3'-Dichlorobenzidine sulfate"	0.1		
+75-27-4	Dichlorobromomethane	0.1		
+764-41-0	"1,4-Dichloro-2-butene"	1.0		
+110-57-6	"trans-1,4-Dichloro-2-butene"	1.0		
+1649-08-7	"1,2-Dichloro-1,1- difluoroethane (HCFC-132b)"	1.0		
+75-71-8	Dichlorodifluoromethane (CFC-12)	1.0		
+107-06-2	"1,2-Dichloroethane (Ethylene dichloride)"	0.1		
+540-59-0	"1,2-Dichloroethylene"	1.0		
+1717-00-6	"1,1-Dichloro-1-fluoroethane (HCFC-141b)"	1.0		
+75-43-4	Dichlorofluoromethane (HCFC-21)	1.0		
+75-09-2	Dichloromethane (Methylene chloride)	0.1		
+127564-92-5	Dichloropentafluoropropane	1.0		
+13474-88-9	"1,1-Dichloro-1,2,2,3,3- pentafluoropropane (HCFC-225cc)"	1.0		
+111512-56-2	"1,1-Dichloro-1,2,3,3,3- pentafluoropropane (HCFC-225eb)"	1.0		
+422-44-6	"1,2-Dichloro-1,1,2,3,3- pentafluoropropane (HCFC-225bb)"	1.0		
+431-86-7	"1,2-Dichloro-1,1,3,3,3- pentafluoropropane (HCFC-225da)"	1.0		
+507-55-1	"1,3-Dichloro-1,1,2,2,3- pentafluoropropane (HCFC-225cb)"	1.0		
+136013-79-1	"1,3-Dichloro-1,1,2,3,3- pentafluoropropane (HCFC-225ea)"	1.0		
+128903-21-9	"2,2-Dichloro-1,1,1,3,3- pentafluoropropane (HCFC-225aa)"	1.0		
+422-48-0	pentafluoropropane (HCFC-225ba)    	1.0		
+422-56-0	"3,3-Dichloro-1,1,1,2,2- pentafluoropropane (HCFC-225ca)"	1.0		
+97-23-4	"Dichlorophene [2,2'-Methylenebis(4-chlorophenol)]"	1.0		
+120-83-2	"2,4-Dichlorophenol"	1.0		
+78-87-5	"1,2-Dichloropropane"	1.0		
+10061-02-6	"trans-1,3-Dichloropropene"	0.1		
+78-88-6	"2,3-Dichloropropene"	1.0		
+542-75-6	"1,3-Dichloropropylene"	0.1		
+76-14-2	Dichlorotetrafluoroethane (CFC-114)	1.0		
+34077-87-7	Dichlorotrifluoroethane	1.0		
+90454-18-5	"Dichloro-1,1,2-trifluoroethane"	1.0		
+812-04-4	"1,1-Dichloro-1,2,2- trifluoroethane (HCFC-123b)"	1.0		
+354-23-4	"1,2-Dichloro-1,1,2- trifluoroethane (HCFC-123a)"	1.0		
+306-83-2	"2,2-Dichloro-1,1,1- trifluoroethane (HCFC-123)"	1.0		
+62-73-7	"Dichlorvos [Phosphoric acid, 2,2-dichloroethenyl dimethyl ester]"	0.1		
+51338-27-3	"Diclofop methyl [2-[4-(2,4-Dichlorophenoxy)phenoxy] propanoic acid, methyl ester]"	1.0		
+115-32-2	"Dicofol [Benzenemethanol, 4-chloro-.alpha"	1.0		
+77-73-6	Dicyclopentadiene	1.0		
+1464-53-5	Diepoxybutane	0.1		
+111-42-2	Diethanolamine	1.0		
+38727-55-8	Diethatyl ethyl	1.0		
+117-81-7	Di(2-ethylhexyl) phthalate (DEHP)	0.1		
+64-67-5	Diethyl sulfate	0.1		
+35367-38-5	Diflubenzuron	1.0		
+101-90-6	Diglycidyl resorcinol ether	0.1		
+94-58-6	Dihydrosafrole	0.1		
+55290-64-7	"Dimethipin [2,3-Dihydro-5,6-dimethyl-1,4-dithiin 1,1,4,4-tetraoxide]"	1.0		
+60-51-5	Dimethoate	1.0		
+119-90-4	"3,3'-Dimethoxybenzidine"	0.1		
+20325-40-0	"3,3'-Dimethoxybenzidine dihydrochloride (o-Dianisidine dihydrochloride)"	0.1		
+111984-09-9	"3,3'-Dimethoxybenzidine hydrochloride (o-Dianisidine hydrochloride)"	0.1		
+124-40-3	Dimethylamine	1.0		
+2300-66-5	Dimethylamine dicamba	1.0		
+60-11-7	4-Dimethylaminoazobenzene	0.1		
+121-69-7	"N,N-Dimethylaniline"	1.0		
+119-93-7	"3,3'-Dimethylbenzidine (o-Tolidine)"	0.1		
+612-82-8	"3,3'-Dimethylbenzidine dihydrochloride (o-Tolidine dihydrochloride)"	0.1		
+41766-75-0	"3,3'-Dimethylbenzidine dihydrofluoride (o-Tolidine dihydrofluoride)"	0.1		
+79-44-7	Dimethylcarbamyl chloride	0.1		
+2524-03-0	Dimethyl chlorothiophosphate	1.0		
+68-12-2	"N,N-Dimethylformamide"	1.0		
+57-14-7	"1,1-Dimethyl hydrazine"	0.1		
+105-67-9	"2,4-Dimethylphenol"	1.0		
+131-11-3	Dimethyl phthalate	1.0		
+77-78-1	Dimethyl sulfate	0.1		
+99-65-0	m-Dinitrobenzene	1.0		
+528-29-0	o-Dinitrobenzene	1.0		
+100-25-4	p-Dinitrobenzene	1.0		
+88-85-7	Dinitrobutyl phenol (Dinoseb)	1.0		
+534-52-1	"4,6-Dinitro-o-cresol"	1.0		
+51-28-5	"2,4-Dinitrophenol"	1.0		
+121-14-2	"2,4-Dinitrotoluene"	0.1		
+606-20-2	"2,6-Dinitrotoluene"	0.1		
+25321-14-6	Dinitrotoluene (mixed isomers)	1.0		
+39300-45-3	Dinocap	1.0		
+123-91-1	"1,4-Dioxane"	0.1		
+957-51-7	Diphenamid	1.0		
+122-39-4	Diphenylamine	1.0		
+122-66-7	"1,2-Diphenylhydrazine (Hydrazobenzene)"	0.1		
+2164-07-0	"Dipotassium endothall [7-Oxabicyclo(2.2.1)heptane-2,3-dicarboxylic acid, dipotassium salt]"	1.0		
+136-45-8	Dipropyl isocinchomeronate	1.0		
+138-93-2	Disodium cyanodithioimidocarbonate	1.0		
+94-11-1	"2,4-D isopropyl ester"	0.1		
+541-53-7	"2,4-Dithiobiuret"	1.0		
+330-54-1	Diuron	1.0		
+2439-10-3	Dodine [Dodecylguanidine monoacetate]	1.0		
+120-36-5	"2,4-DP"	0.1		
+1320-18-9	"2,4-D propylene glycol butyl ether ester"	0.1		
+2702-72-9	"2,4-D sodium salt"	0.1		
+106-89-8	Epichlorohydrin	0.1		
+13194-48-4	"Ethoprop [Phosphorodithioic acid O-ethyl S,S-dipropyl ester]"	1.0		
+110-80-5	2-Ethoxyethanol	1.0		
+140-88-5	Ethyl acrylate	0.1		
+100-41-4	Ethylbenzene	0.1		
+541-41-3	Ethyl chloroformate	1.0		
+759-94-4	Ethyl dipropylthiocarbamate (EPTC)	1.0		
+74-85-1	Ethylene	1.0		
+107-21-1	Ethylene glycol	1.0		
+151-56-4	Ethyleneimine (Aziridine)	0.1		
+75-21-8	Ethylene oxide	0.1		
+96-45-7	Ethylene thiourea	0.1		
+75-34-3	Ethylidene dichloride	1.0		
+52-85-7	Famphur	1.0		
+60168-88-9	Fenarimol [.alpha.-(2-Chlorophenyl)-.alpha.-(4-chlorophenyl)-5-pyrimidinemethanol]	1.0		
+13356-08-6	Fenbutatin oxide (Hexakis(2-methyl-2-phenylpropyl) distannoxane)	1.0		
+66441-23-4	"Fenoxaprop ethyl [2-(4-((6-Chloro-2-benzoxazolylen)oxy)phenoxy)propanoic acid, ethyl ester]"	1.0		
+72490-01-8	Fenoxycarb [[2-(4-Phenoxyphenoxy)ethyl]carbamic acid ethyl ester]	1.0		
+39515-41-8	"Fenpropathrin [2,2,3,3-Tetramethylcyclopropane carboxylic acid cyano(3-phenoxyphenyl)methyl ester]"	1.0		
+55-38-9	"Fenthion [O,O-Dimethyl O-[3-methyl-4-(methylthio)phenyl] ester, phosphorothioic acid]"	1.0		
+51630-58-1	Fenvalerate [4-Chloro-alpha-(1-methylethyl) benzeneacetic acid cyano (3-phenoxyphenyl) methyl ester]	1.0		
+14484-64-1	"Ferbam [Tris(dimethylcarbamodithioato- S,S’)iron]"	1.0		
+69806-50-4	"Fluazifop butyl [2-[4-[[5-(Trifluoromethyl)-2-pyridinyl]oxy]phenoxy]propanoic acid, butyl ester]"	1.0		
+2164-17-2	"Fluometuron [Urea, N,N-dimethyl-N=-[3-(trifluoromethyl)phenyl]-]"	1.0		
+7782-41-4	Fluorine	1.0		
+51-21-8	Fluorouracil (5-Fluorouracil)	1.0		
+69409-94-5	Fluvalinate [N-[2-Chloro-4-(trifluoromethyl)phenyl]-DL-valine(+)-cyano(3-phenoxyphenyl)methyl ester]	1.0		
+133-07-3	Folpet	1.0		
+72178-02-0	Fomesafen [5-(2-Chloro-4-(trifluoromethyl)phenoxy)-N-methylsulfonyl-2-nitrobenzamide]	1.0		
+50-00-0	Formaldehyde	0.1		
+64-18-6	Formic acid	1.0		
+76-13-1	"Freon 113 [Ethane, 1,1,2-trichloro-1,2,2,-trifluoro-]"	1.0		
+110-00-9	Furan  	0.1		
+556-52-5	Glycidol   	0.1		
+76-44-8	"Heptachlor [1,4,5,6,7,8,8-Heptachloro-3a, 4,7,7a-tetrahydro-4,7-methano-1H-indene]"	*		
+118-74-1	Hexachlorobenzene	*		
+87-68-3	"Hexachloro-1,3-butadiene"	1.0		
+319-84-6	alpha-Hexachlorocyclohexane	0.1		
+77-47-4	Hexachlorocyclopentadiene	1.0		
+67-72-1	Hexachloroethan	0.1		
+1335-87-1	Hexachloronaphthalene	1.0		
+70-30-4	Hexachlorophene	1.0		
+680-31-9	Hexamethylphosphoramide	0.1		
+110-54-3	n-Hexane	1.0		
+51235-04-2	Hexazinone	1.0		
+67485-29-4	"Hydramethylnon [Tetrahydro-5,5-dimethyl-2(1H)-pyrimidinone[3-[4-(trifluoromethyl)phenyl]-1-[2-[4-(trifluoromethyl)phenyl]ethenyl]-2-propenylidene]hydrazone]"	1.0		
+302-01-2	Hydrazine	0.1		
+10034-93-2	Hydrazine sulfate	0.1		
+7647-01-0	"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)"	1.0		
+74-90-8	Hydrogen cyanide	1.0		
+7664-39-3	Hydrogen fluoride	1.0		
+7783-06-4	Hydrogen sulfide	1.0		
+123-31-9	Hydroquinone	1.0		
+35554-44-0	"Imazalil [1-[2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole]"	1.0		
+55406-53-6	3-Iodo-2-propynyl butylcarbamate	1.0		
+13463-40-6	Iron pentacarbonyl	1.0		
+78-84-2	Isobutyraldehyde	1.0		
+465-73-6	Isodrin	*		
+25311-71-1	Isofenphos[2-[[Ethoxyl[(1- methylethyl)amino]phosphinothioyl]oxy] benzoic acid 1-methylethyl ester]	1.0		
+78-79-5	Isoprene	0.1		
+67-63-0	"Isopropyl alcohol (only persons who manufacture by the strong acid process are subject, no supplier notification)"	1.0		
+80-05-7	"4,4'-Isopropylidenediphenol"	1.0		
+120-58-1	Isosafrole	1.0		
+77501-63-4	"Lactofen [Benzoic acid, 5-[2-Chloro-4-(trifluoromethyl)phenoxy]-2-nitro-, 2-ethoxy-1-methyl-2-oxoethyl ester]  "	1.0		
+7439-92-1	"Lead (when lead is contained in stainless steel, brass or bronze alloys the de minimis level is 0.1)"	*		
+58-89-9	"Lindane [Cyclohexane, 1,2,3,4,5,6-hexachloro-, (1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha., 6.beta.)-]"	0.1		
+330-55-2	Linuron	1.0		
+554-13-2	Lithium carbonate	1.0		
+121-75-5	Malathion	1.0		
+108-31-6	Maleic anhydride	1.0		
+109-77-3	Malononitrile	1.0		
+12427-38-2	"Maneb [Carbamodithioic acid, 1,2-ethanediylbis-, manganese complex]"	1.0		
+7439-96-5	Manganese	1.0		
+93-65-2	Mecoprop	0.1		
+149-30-4	2-Mercaptobenzothiazole (MBT)	1.0		
+7439-97-6	Mercury	*		
+150-50-5	Merphos	1.0		
+126-98-7	Methacrylonitrile	1.0		
+137-42-8	Metham sodium (Sodium methyldithiocarbamate)	1.0		
+67-56-1	Methanol	1.0		
+20354-26-1	"Methazole [2-(3,4-Dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione]"	1.0		
+2032-65-7	Methiocarb	1.0		
+94-74-6	Methoxone ((4-Chloro-2-methylphenoxy) acetic acid) (MCPA)	0.1		
+3653-48-3	Methoxone sodium salt ((4-Chloro-2-methylphenoxy) acetate sodium salt)	0.1		
+72-43-5	"Methoxychlor [Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-methoxy-]"	*		
+109-86-4	2-Methoxyethanol	1.0		
+96-33-3	Methyl acrylate	1.0		
+1634-04-4	Methyl tert-butyl ether	1.0		
+79-22-1	Methyl chlorocarbonate	1.0		
+101-14-4	"4,4'-Methylenebis(2-chloroaniline) (MBOCA)"	0.1		
+101-61-1	"4,4'-Methylenebis(N,N-dimethyl) benzenamine"	0.1		
+74-95-3	Methylene bromide	1.0		
+101-77-9	"4,4'-Methylenedianiline"	0.1		
+93-15-2	Methyleugenol	0.1		
+60-34-4	Methyl hydrazine	1.0		
+74-88-4	Methyl iodide	1.0		
+108-10-1	Methyl isobutyl ketone	1.0		
+624-83-9	Methyl isocyanate	1.0		
+556-61-6	Methyl isothiocyanate [Isothiocyanatomethane]	1.0		
+75-86-5	2-Methyllactonitrile	1.0		
+80-62-6	Methyl methacrylate	1.0		
+924-42-5	N-Methylolacrylamide	1.0		
+298-00-0	Methyl parathion	1.0		
+109-06-8	2-Methylpyridine	1.0		
+872-50-4	N-Methyl-2-pyrrolidone	1.0		
+9006-42-2	Metiram	1.0		
+21087-64-9	Metribuzin	1.0		
+7786-34-7	Mevinphos	1.0		
+90-94-8	Michler’s ketone	0.1		
+2212-67-1	"Molinate (1H-Azepine-1-carbothioic acid, hexahydro-, S-ethyl ester)"	1.0		
+1313-27-5	Molybdenum trioxide	1.0		
+76-15-3	(CFC-115)	1.0		
+150-68-5	Monuron	1.0		
+505-60-2	"Mustard gas [Ethane, 1,1'-thiobis[2-chloro-]"	0.1		
+88671-89-0	"Myclobutanil [.alpha.-Butyl-.alpha.-(4-chlorophenyl)-1H-1,2,4-triazole-1-propanenitrile]"	1.0		
+142-59-6	Nabam	1.0		
+300-76-5	Naled	1.0		
+91-20-3	Naphthalene	0.1		
+134-32-7	alpha-Naphthylamine	0.1		
+91-59-8	beta-Naphthylamine	0.1		
+7440-02-0	Nickel	0.1		
+1929-82-4	Nitrapyrin (2-Chloro-6-(trichloromethyl)pyridine)	1.0		
+7697-37-2	Nitric acid	1.0		
+139-13-9	Nitrilotriacetic acid	0.1		
+100-01-6	p-Nitroaniline	1.0		
+91-23-6	o-Nitroanisole	0.1		
+99-59-2	5-Nitro-o-anisidine	1.0		
+98-95-3	Nitrobenzene	0.1		
+92-93-3	4-Nitrobiphenyl	0.1		
+1836-75-5	"Nitrofen [Benzene, 2,4-dichloro-1-(4-nitrophenoxy)-]"	0.1		
+51-75-2	Nitrogen mustard [2-Chloro-N-(2-chloroethyl)-N-methylethanamine]	0.1		
+55-63-0	Nitroglycerin	1.0		
+75-52-5	Nitromethane 	0.1		
+88-75-5	2-Nitrophenol	1.0		
+100-02-7	4-Nitrophenol	1.0		
+79-46-9	2-Nitropropane	0.1		
+924-16-3	N-Nitrosodi-n-butylamine	0.1		
+55-18-5	N-Nitrosodiethylamine	0.1		
+62-75-9	N-Nitrosodimethylamine	0.1		
+86-30-6	N-Nitrosodiphenylamine	1.0		
+156-10-5	p-Nitrosodiphenylamine	1.0		
+621-64-7	N-Nitrosodi-n-propylamine	0.1		
+759-73-9	N-Nitroso-N-ethylurea	0.1		
+684-93-5	N-Nitroso-N-methylurea	0.1		
+4549-40-0	N-Nitrosomethylvinylamine	0.1		
+59-89-2	N-Nitrosomorpholine	0.1		
+16543-55-8	N-Nitrosonornicotine	0.1		
+100-75-4	N-Nitrosopiperidine	0.1		
+88-72-2	o-Nitrotoluene	0.1		
+99-55-8	5-Nitro-o-toluidine	1.0		
+27314-13-2	Norflurazon [4-Chloro-5-(methylamino)-2-[3-(trifluoromethyl)phenyl]-3(2H)-pyridazinone]	1.0		
+2234-13-1	Octachloronaphthalene	1.0		
+29082?74?4	Octachlorostyrene	*		
+19044-88-3	"Oryzalin [4-(Dipropylamino)-3,5-dinitrobenzene sulfonamide]"	1.0		
+20816-12-0	Osmium tetroxide	1.0		
+301-12-2	"Oxydemeton methyl [S-(2-(Ethylsulfinyl)ethyl) O,O-dimethyl ester phosphorothioic acid]"	1.0		
+19666-30-9	"Oxydiazon [3-[2,4-Dichloro-5-(1-methylethoxy)phenyl]- 5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one]"	1.0		
+42874-03-3	Oxyfluorfen	1.0		
+10028-15-6	Ozone	1.0		
+123-63-7	Paraldehyde	1.0		
+1910-42-5	Paraquat dichloride	1.0		
+56-38-2	"Parathion [Phosphorothioic acid, O,O-diethyl-O-(4-nitrophenyl)ester]"	1.0		
+1114-71-2	Pebulate [Butylethylcarbamothioic acid S-propyl ester]	1.0		
+40487-42-1	"Pendimethalin [N-(1-Ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine]"	*		
+608?93?5	Pentachlorobenzene	*		
+76-01-7	Pentachloroethane	1.0		
+87-86-5	Pentachlorophenol (PCP)	0.1		
+57-33-0	Pentobarbital sodium	1.0		
+79-21-0	Peracetic acid	1.0		
+594-42-3	Perchloromethyl mercaptan	1.0		
+52645-53-1	"Permethrin [3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-phenoxyphenyl) methyl ester]"	1.0		
+85-01-8	Phenanthrene	1.0		
+108-95-2	Phenol	1.0		
+77-09-8	Phenolphthalein	0.1		
+26002-80-2	"Phenothrin [2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester]"	1.0		
+95-54-5	"1,2-Phenylenediamine"	1.0		
+108-45-2	"1,3-Phenylenediamine"	1.0		
+106-50-3	p-Phenylenediamine	1.0		
+615-28-1	"1,2-Phenylenediamine dihydro-chloride"	1.0		
+624-18-0	"1,4-Phenylenediamine dihydro-chloride"	1.0		
+90-43-7	2-Phenylphenol	1.0		
+57-41-0	Phenytoin	0.1		
+75-44-5	Phosgene	1.0		
+7803-51-2	Phosphine	1.0		
+7723-14-0	Phosphorus (yellow or white)	1.0		
+85-44-9	Phthalic anhydride	1.0		
+1918-02-1	Picloram	1.0		
+88-89-1	Picric acid	1.0		
+51-03-6	Piperonyl butoxide	1.0		
+29232-93-7	"Pirimiphos methyl [O-(2-(Diethylamino)-6-methyl-4-pyrimidinyl)-O,O-dimethylphosphorothioate]"	1.0		
+1336-36-3	Polychlorinated biphenyls (PCBs)	*		
+7758-01-2	Potassium bromate	0.1		
+128-03-0	Potassium dimethyldithio-carbamate	1.0		
+137-41-7	Potassium N-methyldithio-carbamate	1.0		
+41198-08-7	Profenofos [O-(4-Bromo-2-chlorophenyl)-O-ethyl-S-propyl phosphorothioate]	1.0		
+7287-19-6	"Prometryn [N,N’-Bis(1-methylethyl)-6-methylthio-1,3,5-triazine-2,4-diamine]"	1.0		
+23950-58-5	Pronamide	1.0		
+1918-16-7	Propachlor [2-Chloro-N-(1-methylethyl)-N-phenylacetamide]	1.0		
+1120-71-4	Propane sultone	0.1		
+709-98-8	"[N-(3,4-Dichlorophenyl)propanamide]"	1.0		
+2312-35-8	Propargite	1.0		
+107-19-7	Propargyl alcohol	1.0		
+31218-83-4	"Propetamphos [3-[(Ethylamino)methoxyphosphinothioyl] oxy]-2-butenoic acid, 1-methylethyl ester]"	1.0		
+60207-90-1	"Propiconazole [1-[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]-methyl-1H-1,2,4,-triazole]"	1.0		
+57-57-8	beta-Propiolactone	0.1		
+123-38-6	Propionaldehyde	1.0		
+114-26-1	"Propoxur [Phenol, 2-(1-methylethoxy)-, methylcarbamate]"	1.0		
+115-07-1	Propylene (Propene)	1.0		
+75-55-8	Propyleneimine	0.1		
+75-56-9	Propylene oxide	0.1		
+110-86-1	Pyridine	1.0		
+91-22-5	Quinoline	1.0		
+106-51-4	Quinone	1.0		
+82-68-8	Quintozene (Pentachloronitrobenzene)	1.0		
+76578-14-8	Quizalofop-ethyl [2-[4-[(6-Chloro-2-quinoxalinyl)oxy]phenoxy] propanoic acid ethyl ester]	1.0		
+10453-86-8	"Resmethrin [[5-(Phenylmethyl)-3-furanyl]methyl-2,2-dimethyl-3-(2-methyl-1-propenyl) cyclopropanecarboxylate]"	1.0		
+81-07-2	"Saccharin (only persons who manufacture are subject, no supplier notification)"	1.0		
+94-59-7	Safrole	0.1		
+7782-49-2	Selenium	1.0		
+74051-80-2	Sethoxydim [2-[1-(Ethoxyimino)butyl]-5-[2-(ethylthio)propyl]-3-hydroxyl-2-cyclohexen-1-one]	1.0		
+7440-22-4	Silver	1.0		
+122-34-9	Simazine	1.0		
+26628-22-8	Sodium azide	1.0		
+1982-69-0	"Sodium dicamba [3,6-Dichloro-2-methoxybenzoic acid, sodium salt]"	1.0		
+128-04-1	Sodium dimethyldithiocarbamate	1.0		
+62-74-8	Sodium fluoroacetate	1.0		
+7632-00-0	Sodium nitrite	1.0		
+131-52-2	Sodium pentachlorophenate	1.0		
+132-27-4	Sodium o-phenylphenoxide	0.1		
+100-42-5	Styrene	0.1		
+96-09-3	Styrene oxide	0.1		
+7664-93-9	"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)"	1.0		
+2699-79-8	Sulfuryl fluoride (Vikane)	1.0		
+35400-43-2	Sulprofos [O-Ethyl O-[4-(methylthio)phenyl] phosphorodithioic acid S-propylester]	1.0		
+34014-18-1	"Tebuthiuron [N-[5-(1,1-Dimethylethyl)-1,3,4-thiadiazol-2-yl]-N,N’-dimethylurea]"	1.0		
+3383-96-8	Temephos	1.0		
+5902-51-2	"Terbacil [5-Chloro-3-(1,1-dimethylethyl)-6-methyl-2,4(1H,3H)-pyrimidinedione]"	1.0		
+79?94?7	Tetrabromobisphenol A	*		
+630-20-6	"1,1,1,2-Tetrachloroethane"	1.0		
+79-34-5	"1,1,2,2-Tetrachloroethane"	1.0		
+127-18-4	Tetrachloroethylene (Perchloroethylene)	0.1		
+354-11-0	"1,1,1,2-Tetrachloro-2-fluoroethane (HCFC-121a)"	1.0		
+354-14-3	"1,1,2,2-Tetrachloro-1-fluoroethane (HCFC-121)"	1.0		
+961-11-5	"Tetrachlorvinphos [Phosphoric acid, 2-chloro-1-(2,4,5-trichlorophenyl) ethenyl dimethyl ester]"	1.0		
+64-75-5	Tetracycline hydrochloride	1.0		
+116-14-3	Tetrafluoroethylene	0.1		
+509-14-8	Tetranitromethane 	0.1		
+7696-12-0	"Tetramethrin [2,2-Dimethyl-3-(2-methyl-1-propenyl) cyclopropanecarboxylic acid (1,3,4,5,6,7-hexahydro-1,3-dioxo-2H-isoindol-2-yl)methyl ester]"	1.0		
+7440-28-0	Thallium	1.0		
+148-79-8	Thiabendazole [2-(4-Thiazolyl)-1H-benzimidazole]	1.0		
+62-55-5	Thioacetamide	0.1		
+28249-77-6	"Thiobencarb [Carbamic acid, diethylthio-, S-(p-chlorobenzyl)ester]"	1.0		
+139-65-1	"4,4'-Thiodianiline"	0.1		
+59669-26-0	Thiodicarb	1.0		
+23564-06-9	"Thiophanate ethyul [[1,2-Phenylenebis(iminocarbonothioyl)] biscarbamic acid diethylester]"	1.0		
+23564-05-8	Thiophanate methyl	1.0		
+79-19-6	Thiosemicarbazide	1.0		
+62-56-6	Thiourea	0.1		
+137-26-8	Thiram	1.0		
+1314-20-1	Thorium dioxide	1.0		
+7550-45-0	Titanium tetrachloride	1.0		
+108-88-3	Toluene	1.0		
+584-84-9	"Toluene-2,4-diisocyanate"	0.1		
+91-08-7	"Toluene-2,6-diisocyanate"	0.1		
+26471-62-5	Toluene diisocyanate (mixed isomers)	0.1		
+95-53-4	o-Toluidine	0.1		
+636-21-5	o-Toluidine hydrochloride	0.1		
+8001-35-2	Toxaphene	*		
+43121-43-3	"Triadimefon [1-(4-Chlorophenoxy)-3,3-di-methyl-1-(1H-1,2,4- triazol-1-yl)-2-butanone]"	1.0		
+2303-17-5	Triallate	1.0		
+68-76-8	"Triaziquone [2,5-Cyclohexadiene-1,4-dione, 2,3,5-tris(1-aziridinyl)-]"	1.0		
+101200-48-0	"Tribenuron methyl [2-[[[[(4-Methoxy-6-methyl-1,3,5-triazin-2-yl)-methylamino]-carbonyl]amino]sulfonyl] benzoic acid methyl ester)"	1.0		
+1983-10-4	Tributyltin fluoride	1.0		
+2155-70-6	Tributyltin methacrylate	1.0		
+78-48-8	"S,S,S-Tributyltrithio- phosphate (DEF)"	1.0		
+52-68-6	"Trichlorfon [Phosphoric acid,(2,2,2-trichloro-l-hydroxy-ethyl)-, dimethyl ester]"	1.0		
+76-02-8	Trichloroacetyl chloride	1.0		
+120-82-1	"1,2,4-Trichlorobenzene"	1.0		
+71-55-6	"1,1,1-Trichloroethane (Methyl chloroform)"	1.0		
+79-00-5	"1,1,2-Trichloroethane"	1.0		
+79-01-6	Trichloroethylene	0.1		
+75-69-4	Trichlorofluoromethane (CFC-11)	1.0		
+95-95-4	"2,4,5-Trichlorophenol"	1.0		
+88-06-2	"2,4,6-Trichlorophenol"	0.1		
+96-18-4	"1,2,3-Trichloropropane"	0.1		
+57213-69-1	Triclopyr triethylammonium salt	1.0		
+121-44-8	Triethylamine	1.0		
+1582-09-8	"Trifluralin [Benezeneamine, 2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)-]"	*		
+26644-46-2	"Triforine [N,N’-[1,4-Piperazinediylbis-(2,2,2-trichloroethylidene)]bisformamide]"	1.0		
+95-63-6	"1,2,4-Trimethylbenzene"	1.0		
+2655-15-4	"2,3,5-Trimethylphenyl methylcarbamate"	1.0		
+639-58-7	Triphenyltin chloride	1.0		
+76-87-9	 Triphenyltin hydroxide	1.0		
+126-72-7	"Tris(2,3-dibromopropyl) phosphate"	0.1		
+72-57-1	Trypan blue	0.1		
+51-79-6	Urethane (Ethyl carbamate)	0.1		
+7440-62-2	Vanadium (except when contained in an alloy)	1.0		
+50471-44-8	"Vinclozolin [3-(3,5-Dichlorophenyl)-5-ethenyl-5-methyl-2,4-oxazolidinedione]"	1.0		
+108-05-4	Vinyl acetate	0.1		
+593-60-2	Vinyl bromide	0.1		
+75-01-4	Vinyl chloride	0.1		
+75-02-5	Vinyl fluoride	0.1		
+75-35-4	Vinylidene chloride	1.0		
+108-38-3	m-Xylene	1.0		
+95-47-6	o-Xylene	1.0		
+106-42-3	p-Xylene	1.0		
+1330-20-7	Xylene (mixed isomers)	1.0		
+87-62-7	"2,6-Xylidine"	0.1		
+7440-66-6	Zinc (fume or dust)	1.0		
+12122-67-7	"Zineb [Carbamodithioic acid, 1,2-ethanediyibis-, zinc complex]"	1.0		
+N010	Antimony compounds	1.0	Includes any unique chemical substance that contains antimony as part of that chemical’s infrastructure.	
+N020	Arsenic compounds	See notes	Includes any unique chemical substance that contains arsenic as part of that chemical’s infrastructure.	
+N040	Barium compounds (except for barium sulfate (CAS No. 7727-43-7))	1.0	Includes any unique chemical substance that contains barium as part of that chemical’s infrastructure. 	
+N050	Beryllium compounds	0.1	Includes any unique chemical substance that contains beryllium as part of that chemical’s infrastructure.	
+N078	Cadmium compounds	0.1	Includes any unique chemical substance that contains cadmium as part of that chemical’s infrastructure.	
+N084	Chlorophenols	0.1	Defined by chemical structure. Phenol with Clx and H(5-x) where x = 1 to 5	
+N090	"Chromium compounds (except for chromite ore mined in the Transvaal Region of South Africa and the unreacted ore component of the chromite ore processing residue (COPR).  COPR is the solid waste remaining after aqueous extraction of oxidized chromite ore that has been combined with soda ash and kiln roasted at approximately 2,000 oF.) "	See notes	Includes any unique chemical substance that contains chromium as part of that chemical’s infrastructure.	
+N096	Cobalt compounds	See notes	Includes any unique chemical substance that contains cobalt as part of that chemical’s infrastructure.	
+N100	"Copper compounds (this category does not include copper phthalocyanine compounds that are substituted with only hydrogen, and/or chlorine, and/or bromine.)"	1.0	Includes any unique chemical substance that contains copper as part of that chemical’s infrastructure.	
+N106	Cyanide compounds	1.0	X+CN- where X = H+ or any other group where a formal dissociation can be made. For example KCN or Ca(CN)2	
+N120	Diisocyanates (includes 20 specific compounds)	1.0	"All members are listed below and marked as ""diisocyanate"" in column E"	
+N150	Dioxin and dioxin-like compounds (Manufacturing; and the processing or otherwise use of dioxin and dioxin like compounds if the dioxin and dioxin like compounds are present as contaminants in a chemical and if they were created during the manufacturing of that chemical.)(includes 17 specific compounds)	*	"All members are listed below and marked as ""dioxin"" in column E"	
+N171	"Ethylenebisdithiocarbamic acid, salts and esters"	1.0	Includes any unique chemical substance that contains an EBDC or an EBDC salt as part of that chemical’s infrastructure.	
+N230	Certain glycol ethers	1.0	"R - (OCH2CH2)n - OR’ where: n = 1, 2, or 3; R = Alkyl C7 or less; or
+R = phenyl or alkyl substituted phenyl; R’ = H or alkyl C7 or less; or
+OR’ consisting of carboxylic acid ester, sulfate, phosphate, nitrate, or sulfonate."	
+N420	Lead compounds	*	Includes any unique chemical substance that contains lead as part of that    chemical's infrastructure.	
+N450	Manganese compounds	1.0	Includes any unique chemical substance that contains manganese as part of that chemical’s infrastructure.	
+N458	Mercury compounds	*	Includes any unique chemical substance that contains mercury as part of that chemical’s infrastructure.	
+N495	Nickel compounds	0.1	Includes any unique chemical substance that contains nickel as part of that chemical’s infrastructure.	
+N503	Nicotine and salts	1.0	Includes any unique chemical substance that contains nicotine or a nicotine salt as part of that chemical’s infrastructure.	
+N511	Nitrate compounds (water dissociable; reportable only when in aqueous solution)	1.0		
+N530	Nonylphenol	1.0	"All members are listed below and marked as ""NP"" in column E"	
+N575	Polybrominated biphenyls (PBBs)	0.1	Defined by chemical structure. Biphenyl with Brx and H(10-x) where x = 1 to 10.	
+N583	Polychlorinated alkanes (C10-C13)	See notes	CxH2x-y+2Cly; Where x = 10 to 13; y = 3 to 12; and where the average chlorine content ranges from 40-70% with the limiting molecular formulas C10H19Cl3 and C13H16Cl12	
+N590	Polycyclic aromatic compounds (includes 25 specific compounds)	*	"All members are listed below and marked as ""PAC"" in column E"	
+N725	Selenium compounds	1.0	Includes any unique chemical substance that contains selenium as part of that chemical’s infrastructure.	
+N740	Silver compounds	1.0	Includes any unique chemical substance that contains silver as part of that chemical’s infrastructure.	
+N746	Strychnine and salts	1.0	Includes any unique chemical substance that contains strychnine or a strychnine salt as part of that chemical’s infrastructure.	
+N760	Thallium compounds	1.0	Includes any unique chemical substance that contains thallium as part of that chemical’s infrastructure.	
+N770	Vanadium compounds	1.0	Includes any unique chemical substance that contains vanadium as part of that chemical's infrastructure.	
+N874	Warfarin and salts	1.0	Includes any unique chemical substance that contains warfarin or a warfarin salt as part of that chemical’s infrastructure.	
+N982	Zinc compounds	1.0	Includes any unique chemical substance that contains zinc as part of that chemical’s infrastructure.	
+56-55-3	Benz(a)anthracene	*		PAC
+205-99-2	Benzo(b)fluoranthene	*		PAC
+205-82-3	Benzo(j)fluoranthene	*		PAC
+207-08-9	Benzo(k)fluoranthene	*		PAC
+206-44-0	"Benzo(j,k)fluorene"	*		PAC
+189-55-9	"Benzo(r,s,t)pentaphene"	*		PAC
+218-01-9	Benzo(a)phenanthrene	*		PAC
+50-32-8	Benzo(a)pyrene	*		PAC
+226-36-8	"Dibenz(a,h)acridine"	*		PAC
+224-42-0	"Dibenz(a,j)acridine"	*		PAC
+53-70-3	"Dibenzo(a,h)anthracene"	*		PAC
+194-59-2	"7H-Dibenzo(c,g)carbazole"	*		PAC
+5385-75-1	"Dibenzo(a,e)fluoranthene"	*		PAC
+192-65-4	"Dibenzo(a,e)pyrene"	*		PAC
+189-64-0	"Dibenzo(a,h)pyrene"	*		PAC
+191-30-0	"Dibenzo(a,l)pyrene"	*		PAC
+57-97-6	"7,12-Dimethylbenz(a)-anthracene"	*		PAC
+42397-64-8	"1,6-Dinitropyrene"	*		PAC
+42397-65-9	"1,8-Dinitropyrene"	*		PAC
+193-39-5	"Indeno(1,2,3-cd)pyrene"	*		PAC
+56-49-5	3-Methylcholanthrene	*		PAC
+3697-24-3	5-Methylchrysene	*		PAC
+7496-02-8	6-Nitrochrysene	*		PAC
+5522-43-0	1-Nitropyrene	*		PAC
+57835-92-4	4-Nitropyrene	*		PAC
+38661-72-2	"1,3-Bis(methylisocyanate) - cyclohexane"	1.0		Diisocyanate
+10347-54-3	"1,4-Bis(methylisocyanate)-cyclohexane"	1.0		Diisocyanate
+2556-36-7	"1,4-Cyclohexane diisocyanate"	1.0		Diisocyanate
+134190-37-7	Diethyldiisocyanatobenzene  	1.0		Diisocyanate
+4128-73-8	"4,4'-Diisocyanatodiphenyl ether"	1.0		Diisocyanate
+75790-87-3	"2,4'-Diisocyanatodiphenyl  sulfide"	1.0		Diisocyanate
+91-93-0	"3,3'-Dimethoxybenzidine-4,4'-diisocyanate"	1.0		Diisocyanate
+91-97-4	"3,3'-Dimethyl-4,4'-diphenylene diisocyanate"	1.0		Diisocyanate
+139-25-3	"3,3'-Dimethyldiphenylmethane-4,4'-diisocyanate"	1.0		Diisocyanate
+822-06-0	"Hexamethylene-1,6-diisocyanate"	1.0		Diisocyanate
+4098-71-9	Isophorone diisocyanate       	1.0		Diisocyanate
+75790-84-0	"4-Methyldiphenylmethane-3,4-diisocyanate     "	1.0		Diisocyanate
+5124-30-1	"1,1-Methylenebis(4-isocyanatocyclohexane)      "	1.0		Diisocyanate
+101-68-8	Methylenebis(phenylisocyanate) (MDI)	1.0		Diisocyanate
+3173-72-6	"1,5-Naphthalene diisocyanate"	1.0		Diisocyanate
+123-61-5	"1,3-Phenylene diisocyanate"	1.0		Diisocyanate
+104-49-4	"1,4-Phenylene diisocyanate"	1.0		Diisocyanate
+9016-87-9	Polymeric diphenylmethane diisocyanate	1.0		Diisocyanate
+16938-22-0	"2,2,4-Trimethylhexamethylene diisocyanate"	1.0		Diisocyanate
+15646-96-5	"2,4,4-Trimethylhexamethylene diisocyanate"	1.0		Diisocyanate
+1746-01-6	"2,3,7,8-Tetrachlorodibenzo-p-dioxin"	*		Dioxin
+40321-76-4	"1,2,3,7,8?Pentachlorodibenzo-p-dioxin"	*		Dioxin
+39227-28-6	"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin"	*		Dioxin
+57653-85-7	"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin"	*		Dioxin
+19408-74-3	"1,2,3,7,8,9?Hexachlorodibenzo-p-dioxin"	*		Dioxin
+35822-46-9	"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin"	*		Dioxin
+3268-87-9	"1,2,3,4,6,7,8,9?Octachlorodibenzo-p-dioxin"	*		Dioxin
+51207-31-9	"2,3,7,8-Tetrachlorodibenzofuran"	*		Dioxin
+57117-41-6	"1,2,3,7,8- Pentachlorodibenzofuran"	*		Dioxin
+57117-31-4	"2,3,4,7,8?Pentachlorodibenzofuran"	*		Dioxin
+70648-26-9	"1,2,3,4,7,8?Hexachlorod-benzofuran"	*		Dioxin
+57117-44-9	"1,2,3,6,7,8?Hexachlorodibenzofuran"	*		Dioxin
+72918-21-9	"1,2,3,7,8,9?Hexachlorodibenzofuran"	*		Dioxin
+60851-34-5	"2,3,4,6,7,8?Hexachlorodibenzofuran"	*		Dioxin
+67562-39-4	"1,2,3,4,6,7,8-Heptachlorodibenzofuran"	*		Dioxin
+55673-89-7	"1,2,3,4,7,8,9?Heptachlorodibenzofuran"	*		Dioxin
+39001-02-0	"1,2,3,4,6,7,8,9?Octachlorodibenzofuran"	*		Dioxin
+104-40-5	4-Nonylphenol	1.0		NP
+11066-49-2 	Isononylphenol	1.0		NP
+25154-52-3	Nonylphenol	1.0		NP
+26543-97-5	4-Isononylphenol	1.0		NP
+84852-15-3	"4-Nonylphenol, branched"	1.0		NP
+90481-04-2	"Nonylphenol, branched."	1.0		NP
