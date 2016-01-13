@@ -139,4 +139,7 @@
   <data name="tri_chemical_list_for_ry15_11_5_2015_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\tri_chemical_list_for_ry15_11_5_2015_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="DE_Hazardous_Water_AID_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\DE_Hazardous_Water_AID_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
 </root>

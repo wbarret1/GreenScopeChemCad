@@ -1,0 +1,1560 @@
+Acetaldehyd	1084805	75-07-0	1541	1	WGK 1: low hazard to waters
+Acetamid	1084806	60-35-5	1541	1	WGK 1: low hazard to waters
+Acetanhydrid	1084807	108-24-7	1541	1	WGK 1: low hazard to waters
+Acetessigsureethylester	1084808	141-97-9	1541	1	WGK 1: low hazard to waters
+Acetessigsuremethylester	1084809	105-45-3	1541	1	WGK 1: low hazard to waters
+Aceton	1084810	67-64-1	1541	1	WGK 1: low hazard to waters
+Acetoncyanhydrin	1084811	75-86-5	1541	3	WGK 3: severe hazard to waters
+Acetonitril	1084812	75-05-8	1541	2	WGK 2: hazard to waters
+Acrolein	1084813	107-02-8	1541	3	WGK 3: severe hazard to waters
+Acrylnitril	1084814	107-13-1	1541	3	WGK 3: severe hazard to waters
+Acrylsure	1084815	79-10-7	1541	1	WGK 1: low hazard to waters
+Acrylsure-n-butylester	1084816	141-32-2	1541	1	WGK 1: low hazard to waters
+Acrylsure-2-ethylhexylester	1084817	103-11-7	1541	1	WGK 1: low hazard to waters
+Allylamin	1084818	107-11-9	1541	2	WGK 2: hazard to waters
+Allylchlorid	1084819	107-05-1	1541	2	WGK 2: hazard to waters
+N-Allylthioharnstoff	1084820	109-57-9	1541	2	WGK 2: hazard to waters
+Essigsure-n-amylester	1084821	628-63-7	1541	1	WGK 1: low hazard to waters
+n-Amylalkohol	1084822	71-41-0	1541	1	WGK 1: low hazard to waters
+tert.-Amylalkohol	1084823	75-85-4	1541	1	WGK 1: low hazard to waters
+Anilin	1084824	62-53-3	1541	2	WGK 2: hazard to waters
+Anisol	1084825	100-66-3	1541	2	WGK 2: hazard to waters
+Kaliumantimonat (V)	1084826	14459-60-0	1541	3	WGK 3: severe hazard to waters
+Natriumarsenat	1084827	7631-89-2	1541	3	WGK 3: severe hazard to waters
+Atrazin	1084828	1912-24-9	1541	3	WGK 3: severe hazard to waters
+Bariumchlorid	1084829	10361-37-2	1541	1	WGK 1: low hazard to waters
+Benzaldehyd	1084830	100-52-7	1541	2	WGK 2: hazard to waters
+Benzol	1084832	71-43-2	1541	3	WGK 3: severe hazard to waters
+Benzoesure	1084833	65-85-0	1541	1	WGK 1: low hazard to waters
+Benzonitril	1084834	100-47-0	1541	2	WGK 2: hazard to waters
+Benzotrichlorid	1084835	98-07-7	1541	3	WGK 3: severe hazard to waters
+Benzylchlorid	1084836	100-44-7	1541	3	WGK 3: severe hazard to waters
+Berylliumnitrat	1084837	13597-99-4	1541	2	WGK 2: hazard to waters
+Bleitetraethyl	1084838	78-00-2	1541	3	WGK 3: severe hazard to waters
+Natriumtetraborat	1084839	1330-43-4	1541	1	WGK 1: low hazard to waters
+Natriumbromid	1084840	7647-15-6	1541	1	WGK 1: low hazard to waters
+n-Butanol	1084841	71-36-3	1541	1	WGK 1: low hazard to waters
+sek.-Butanol	1084842	78-92-2	1541	1	WGK 1: low hazard to waters
+n-Buttersure	1084843	107-92-6	1541	1	WGK 1: low hazard to waters
+Essigsure-n-butylester	1084844	123-86-4	1541	1	WGK 1: low hazard to waters
+Essigsure-tert.-butylester	1084845	540-88-5	1541	1	WGK 1: low hazard to waters
+n-Butylamin	1084846	109-73-9	1541	1	WGK 1: low hazard to waters
+tert.-Butylbenzol	1084847	98-06-6	1541	1	WGK 1: low hazard to waters
+Diethylenglykolmono-n-butylether	1084848	112-34-5	1541	1	WGK 1: low hazard to waters
+Ethylenglykolmono-n-butylether	1084849	111-76-2	1541	1	WGK 1: low hazard to waters
+n-Butylaldehyd	1084850	123-72-8	1541	1	WGK 1: low hazard to waters
+Cadmiumnitrat	1084851	10325-94-7	1541	3	WGK 3: severe hazard to waters
+Carbaryl	1084852	63-25-2	1541	3	WGK 3: severe hazard to waters
+Chloralhydrat	1084853	302-17-0	1541	2	WGK 2: hazard to waters
+Kaliumchlorat	1084854	4/9/3811	1541	2	WGK 2: hazard to waters
+Chlorbenzol	1084855	108-90-7	1541	2	WGK 2: hazard to waters
+Chloroform	1084856	67-66-3	1541	3	WGK 3: severe hazard to waters
+2-Chlortoluol	1084857	95-49-8	1541	2	WGK 2: hazard to waters
+Natriumdichromat	1084858	10588-01-9	1541	3	WGK 3: severe hazard to waters
+Citronensure	1084859	77-92-9	1541	1	WGK 1: low hazard to waters
+Cumol	1084860	98-82-8	1541	1	WGK 1: low hazard to waters
+Cumolhydroperoxid	1084861	80-15-9	1541	2	WGK 2: hazard to waters
+Natriumcyanid	1084862	143-33-9	1541	3	WGK 3: severe hazard to waters
+Cycloheptan	1084863	291-64-5	1541	1	WGK 1: low hazard to waters
+Cyclohepten	1084864	628-92-2	1541	1	WGK 1: low hazard to waters
+Cyclohexan	1084865	110-82-7	1541	2	WGK 2: hazard to waters
+Cyclohexanon	1084866	108-94-1	1541	1	WGK 1: low hazard to waters
+Cyclohexen	1084867	110-83-8	1541	1	WGK 1: low hazard to waters
+Essigsurecyclohexylester	1084868	622-45-7	1541	1	WGK 1: low hazard to waters
+Cyclohexylamin	1084869	108-91-8	1541	1	WGK 1: low hazard to waters
+Cyclopentanol	1084870	96-41-3	1541	1	WGK 1: low hazard to waters
+Cyclopentanon	1084871	120-92-3	1541	1	WGK 1: low hazard to waters
+"p,p'-DDT"	1084872	50-29-3	1541	3	WGK 3: severe hazard to waters
+n-Decanol	1084873	112-30-1	1541	1	WGK 1: low hazard to waters
+Diacetonalkohol	1084874	123-42-2	1541	1	WGK 1: low hazard to waters
+Di-n-butylether	1084875	142-96-1	1541	2	WGK 2: hazard to waters
+"1,2-Dichlorbenzol"	1084876	95-50-1	1541	2	WGK 2: hazard to waters
+"2,3-Dichlorphenol"	1084877	576-24-9	1541	3	WGK 3: severe hazard to waters
+Dieselkraftstoff	1084878	68476-30-2	1541	2	WGK 2: hazard to waters
+Diethanolamin	1084879	111-42-2	1541	1	WGK 1: low hazard to waters
+"1,2-Diethylbenzol"	1084880	135-01-3	1541	2	WGK 2: hazard to waters
+Diethylenglykol	1084881	111-46-6	1541	1	WGK 1: low hazard to waters
+Diethylether	1084882	60-29-7	1541	1	WGK 1: low hazard to waters
+Oxalsurediethylester	1084883	95-92-1	1541	1	WGK 1: low hazard to waters
+"2,4-Dimethylanilin"	1084884	95-68-1	1541	2	WGK 2: hazard to waters
+Dimethylformamid	1084885	68-12-2	1541	1	WGK 1: low hazard to waters
+"1,3-Dinitrobenzol"	1084886	99-65-0	1541	3	WGK 3: severe hazard to waters
+Dinoseb	1084887	88-85-7	1541	2	WGK 2: hazard to waters
+"1,4-Dioxan"	1084888	123-91-1	1541	2	WGK 2: hazard to waters
+Diphenylether	1084889	101-84-8	1541	2	WGK 2: hazard to waters
+Diphenylmethan	1084890	101-81-5	1541	2	WGK 2: hazard to waters
+Epichlorhydrin	1084892	106-89-8	1541	3	WGK 3: severe hazard to waters
+Essigsure	1084893	64-19-7	1541	1	WGK 1: low hazard to waters
+Ethanolamin	1084894	141-43-5	1541	1	WGK 1: low hazard to waters
+Essigsureethylester	1084895	141-78-6	1541	1	WGK 1: low hazard to waters
+Ethanol10	1084896	64-17-5	1541	1	WGK 1: low hazard to waters
+Ethylamin	1084897	75-04-7	1541	1	WGK 1: low hazard to waters
+Ethyl-n-amylketon	1084898	106-68-3	1541	1	WGK 1: low hazard to waters
+Ethylbenzol	1084899	100-41-4	1541	1	WGK 1: low hazard to waters
+n-Buttersureethylester	1084900	105-54-4	1541	1	WGK 1: low hazard to waters
+Diethylenglykolmonoethylether	1084901	111-90-0	1541	1	WGK 1: low hazard to waters
+"1,2-Dichlorethan"	1084902	107-06-2	1541	3	WGK 3: severe hazard to waters
+Ethylendiamin	1084903	107-15-3	1541	2	WGK 2: hazard to waters
+Ethylendiamintetraessigsure mit Natrium- und Kaliumsalzen	1084904	60-00-4	1541	2	WGK 2: hazard to waters
+Ethylenglykol	1084905	107-21-1	1541	1	WGK 1: low hazard to waters
+Essigsure-2-ethoxyethylester	1084906	111-15-9	1541	1	WGK 1: low hazard to waters
+Ethylenglykolmonomethylether	1084907	109-86-4	1541	1	WGK 1: low hazard to waters
+Ethylenimin	1084908	151-56-4	1541	3	WGK 3: severe hazard to waters
+2-Ethylhexylamin-1	1084909	104-75-6	1541	2	WGK 2: hazard to waters
+Propionsureethylester	1084910	105-37-3	1541	1	WGK 1: low hazard to waters
+Natriumfluorid	1084911	7681-49-4	1541	1	WGK 1: low hazard to waters
+Formaldehyd	1084912	50-00-0	1541	2	WGK 2: hazard to waters
+Furfural	1084913	98-01-1	1541	2	WGK 2: hazard to waters
+Furfurylalkohol	1084914	98-00-0	1541	1	WGK 1: low hazard to waters
+Phthalsuredi-(2-ethylhexyl)ester	1084915	117-81-7	1541	1	WGK 1: low hazard to waters
+Glycerin	1084916	56-81-5	1541	1	WGK 1: low hazard to waters
+Glykolsure-n-butylester	1084917	7397-62-8	1541	1	WGK 1: low hazard to waters
+Harnstoff	1084918	57-13-6	1541	1	WGK 1: low hazard to waters
+Heptan und Isomere	1084920	142-82-5	1541	2	WGK 2: hazard to waters
+n-Heptanol-1	1084921	111-70-6	1541	1	WGK 1: low hazard to waters
+n-Hepten-1	1084922	592-76-7	1541	1	WGK 1: low hazard to waters
+Hexachlorbutadien	1084923	87-68-3	1541	3	WGK 3: severe hazard to waters
+n-Hexan	1084924	110-54-3	1541	2	WGK 2: hazard to waters
+n-Hexanol-1	1084925	111-27-3	1541	1	WGK 1: low hazard to waters
+n-Hexanol-2	1084926	626-93-7	1541	1	WGK 1: low hazard to waters
+Hydrochinonmonomethylether	1084928	150-76-5	1541	1	WGK 1: low hazard to waters
+Hydrazin	1084929	302-01-2	1541	3	WGK 3: severe hazard to waters
+Isobutanol	1084930	78-83-1	1541	1	WGK 1: low hazard to waters
+Essigsureisobutylester	1084932	110-19-0	1541	1	WGK 1: low hazard to waters
+2-Ethylhexanol-1	1084933	104-76-7	1541	2	WGK 2: hazard to waters
+Isopropanol	1084934	67-63-0	1541	1	WGK 1: low hazard to waters
+Essigsureisopropylester	1084935	108-21-4	1541	1	WGK 1: low hazard to waters
+Methylisobutylketon	1084936	108-10-1	1541	1	WGK 1: low hazard to waters
+Natriumjodid	1084937	7681-82-5	1541	1	WGK 1: low hazard to waters
+m-Kresol	1084939	108-39-4	1541	2	WGK 2: hazard to waters
+Kupfer(II)-sulfat	1084940	7758-98-7	1541	2	WGK 2: hazard to waters
+Natriumhydroxid	1084941	1310-73-2	1541	1	WGK 1: low hazard to waters
+Lindan	1084942	58-89-9	1541	3	WGK 3: severe hazard to waters
+Methanol	1084944	67-56-1	1541	1	WGK 1: low hazard to waters
+Essigsuremethylester	1084945	79-20-9	1541	1	WGK 1: low hazard to waters
+Acrylsuremethylester	1084946	96-33-3	1541	2	WGK 2: hazard to waters
+2-Methylcyclohexanon	1084947	583-60-8	1541	1	WGK 1: low hazard to waters
+Dichlormethan	1084948	75-09-2	1541	2	WGK 2: hazard to waters
+Methylethylketon	1084949	78-93-3	1541	1	WGK 1: low hazard to waters
+2-Methylfuran	1084950	534-22-5	1541	1	WGK 1: low hazard to waters
+Methylisoamylketon	1084951	110-12-3	1541	1	WGK 1: low hazard to waters
+Propionsuremethylester	1084952	554-12-1	1541	1	WGK 1: low hazard to waters
+Methacrylsuremethylester	1084953	80-62-6	1541	1	WGK 1: low hazard to waters
+Fluoressigsure	1084955	144-49-0	1541	3	WGK 3: severe hazard to waters
+Monolinuron	1084956	1746-81-2	1541	3	WGK 3: severe hazard to waters
+Morpholin	1084957	110-91-8	1541	2	WGK 2: hazard to waters
+Natriumnitrit	1084959	7632-00-0	1541	2	WGK 2: hazard to waters
+4-Nitroanilin	1084960	100-01-6	1541	2	WGK 2: hazard to waters
+Nitrobenzol	1084961	98-95-3	1541	2	WGK 2: hazard to waters
+2-Nitrotoluol	1084962	88-72-2	1541	3	WGK 3: severe hazard to waters
+n-Octanol-1	1084963	111-87-5	1541	1	WGK 1: low hazard to waters
+Oxalsure	1084964	144-62-7	1541	1	WGK 1: low hazard to waters
+Parathionethyl	1084965	56-38-2	1541	3	WGK 3: severe hazard to waters
+"2,4-Pentandion"	1084966	123-54-6	1541	1	WGK 1: low hazard to waters
+Kaliumperchlorat	1084967	7778-74-7	1541	1	WGK 1: low hazard to waters
+Phenol	1084968	108-95-2	1541	2	WGK 2: hazard to waters
+Essigsurephenylester	1084969	122-79-2	1541	2	WGK 2: hazard to waters
+Trinatriumphosphat	1084970	7601-54-9	1541	1	WGK 1: low hazard to waters
+Phthalsurediallylester	1084971	131-17-9	1541	2	WGK 2: hazard to waters
+Phthalsurediethylester	1084972	84-66-2	1541	2	WGK 2: hazard to waters
+Pikrinsure	1084973	88-89-1	1541	2	WGK 2: hazard to waters
+n-Propanol	1084974	71-23-8	1541	1	WGK 1: low hazard to waters
+Propargylalkohol	1084975	107-19-7	1541	2	WGK 2: hazard to waters
+Essigsure-n-propylester	1084976	109-60-4	1541	1	WGK 1: low hazard to waters
+Pyridin	1084977	110-86-1	1541	2	WGK 2: hazard to waters
+Quecksilber(II)-chlorid	1084978	7487-94-7	1541	3	WGK 3: severe hazard to waters
+Salicylaldehyd	1084979	90-02-8	1541	2	WGK 2: hazard to waters
+Schwefelsure8	1084980	7664-93-9	1541	1	WGK 1: low hazard to waters
+Schwefelkohlenstoff	1084981	75-15-0	1541	2	WGK 2: hazard to waters
+Natriumselenit	1084982	10102-18-8	1541	2	WGK 2: hazard to waters
+Silbernitrat8	1084983	7761-88-8	1541	3	WGK 3: severe hazard to waters
+Phthalsuredi-n-butylester	1084984	84-74-2	1541	2	WGK 2: hazard to waters
+Styrol	1084985	100-42-5	1541	2	WGK 2: hazard to waters
+Natriumsulfid8	1084986	1313-82-2	1541	2	WGK 2: hazard to waters
+Tetrachlorkohlenstoff	1084987	56-23-5	1541	3	WGK 3: severe hazard to waters
+Tetrahydrofuran	1084988	109-99-9	1541	1	WGK 1: low hazard to waters
+"1,2,4,5-Tetramethylbenzol"	1084989	95-93-2	1541	1	WGK 1: low hazard to waters
+Thallium(I)-nitrat	1084990	10102-45-1	1541	2	WGK 2: hazard to waters
+Ammoniumthiosulfat	1084991	7783-18-8	1541	1	WGK 1: low hazard to waters
+Toluol	1084992	108-88-3	1541	2	WGK 2: hazard to waters
+2-Methylanilin	1084993	95-53-4	1541	3	WGK 3: severe hazard to waters
+Phosphorsuretri-n-butylester	1084994	126-73-8	1541	2	WGK 2: hazard to waters
+Trichloressigsure	1084995	76-03-9	1541	2	WGK 2: hazard to waters
+"1,1,1-Trichlorethan"	1084996	71-55-6	1541	3	WGK 3: severe hazard to waters
+Trichlorethen	1084997	79-01-6	1541	3	WGK 3: severe hazard to waters
+"2,4,5-Trichlorphenoxyessigsure"	1084998	93-76-5	1541	3	WGK 3: severe hazard to waters
+Triethanolamin	1084999	102-71-6	1541	1	WGK 1: low hazard to waters
+Triethylenglykol	1085000	112-27-6	1541	1	WGK 1: low hazard to waters
+Essigsurevinylester	1085001	108-05-4	1541	2	WGK 2: hazard to waters
+"Ottokraftstoffe, als krebserzeugend (R45) gekennzeichnet"	1085002	106602-80-6	1541	3	WGK 3: severe hazard to waters
+Phthalsuredimethylester	1085003	131-11-3	1541	1	WGK 1: low hazard to waters
+Xylol (alle Isomere)	1085004	1330-20-7	1541	2	WGK 2: hazard to waters
+Acrylsureethylester	1085005	140-88-5	1541	2	WGK 2: hazard to waters
+Adipinsuredinitril	1085006	111-69-3	1541	1	WGK 1: low hazard to waters
+Ameisensure	1085007	64-18-6	1541	1	WGK 1: low hazard to waters
+Ammoniak	1085008	7664-41-7	1541	2	WGK 2: hazard to waters
+Ammoniumnitrat	1085009	6484-52-2	1541	1	WGK 1: low hazard to waters
+Ammoniumchlorid	1085010	12125-02-9	1541	1	WGK 1: low hazard to waters
+Arsenwasserstoff	1085011	7784-42-1	1541	3	WGK 3: severe hazard to waters
+Benzolsulfonylchlorid	1085012	98-09-9	1541	1	WGK 1: low hazard to waters
+Benzylalkohol	1085013	100-51-6	1541	1	WGK 1: low hazard to waters
+Bromwasserstoff	1085014	10035-10-6	1541	1	WGK 1: low hazard to waters
+"1,3-Butadien"	1085015	106-99-0	1541	2	WGK 2: hazard to waters
+tert.-Butanol	1085016	75-65-0	1541	1	WGK 1: low hazard to waters
+Calciumchlorid	1085017	10043-52-4	1541	1	WGK 1: low hazard to waters
+epsilon-Caprolactam	1085018	105-60-2	1541	1	WGK 1: low hazard to waters
+Natriumcarbonat	1085019	497-19-8	1541	1	WGK 1: low hazard to waters
+Chlor	1085020	7782-50-5	1541	2	WGK 2: hazard to waters
+4-Chloranilin	1085021	106-47-8	1541	3	WGK 3: severe hazard to waters
+2-Chlorbenzoesure	1085022	118-91-2	1541	2	WGK 2: hazard to waters
+4-Chlorbenzoesure	1085023	74-11-3	1541	2	WGK 2: hazard to waters
+Chloressigsure	1085024	79-11-8	1541	2	WGK 2: hazard to waters
+Chloressigsuremethylester	1085025	96-34-4	1541	2	WGK 2: hazard to waters
+2-Chlorethanol	1085026	107-07-3	1541	3	WGK 3: severe hazard to waters
+Kaliumchlorid	1085027	7447-40-7	1541	1	WGK 1: low hazard to waters
+4-Chlor-3-methylphenol	1085028	59-50-7	1541	2	WGK 2: hazard to waters
+1-Chlornaphthalin	1085029	90-13-1	1541	2	WGK 2: hazard to waters
+4-Chlornitrobenzol	1085030	100-00-5	1541	2	WGK 2: hazard to waters
+2-Chlorphenol	1085031	95-57-8	1541	2	WGK 2: hazard to waters
+3-Chlorpropionsure	1085032	107-94-8	1541	1	WGK 1: low hazard to waters
+4-Chlortoluol	1085033	106-43-4	1541	2	WGK 2: hazard to waters
+Chlorwasserstoff	1085034	7647-01-0	1541	1	WGK 1: low hazard to waters
+Crotonaldehyd	1085035	4170-30-3	1541	3	WGK 3: severe hazard to waters
+Cyclohexanol	1085036	108-93-0	1541	1	WGK 1: low hazard to waters
+"1,2-Dibromethan"	1085037	106-93-4	1541	3	WGK 3: severe hazard to waters
+"2,4-Dichlorphenol"	1085038	120-83-2	1541	3	WGK 3: severe hazard to waters
+"1,3-Dichlorpropen (cis und trans)"	1085039	542-75-6	1541	3	WGK 3: severe hazard to waters
+"2,3-Dichlorpropen"	1085040	78-88-6	1541	3	WGK 3: severe hazard to waters
+Dicyandiamid	1085041	461-58-5	1541	1	WGK 1: low hazard to waters
+Diethylamin	1085042	109-89-7	1541	1	WGK 1: low hazard to waters
+Dimethoat	1085043	60-51-5	1541	3	WGK 3: severe hazard to waters
+Dimethylamin	1085044	124-40-3	1541	2	WGK 2: hazard to waters
+"2,4-Dinitrotoluol"	1085045	121-14-2	1541	3	WGK 3: severe hazard to waters
+N-Ethylanilin	1085046	103-69-5	1541	1	WGK 1: low hazard to waters
+Ethylenoxid	1085047	75-21-8	1541	2	WGK 2: hazard to waters
+Kaliumsulfat	1085048	7778-80-5	1541	1	WGK 1: low hazard to waters
+Kohlenstoffmonoxid	1085049	630-08-0	1541	1	WGK 1: low hazard to waters
+Linuron	1085050	330-55-2	1541	3	WGK 3: severe hazard to waters
+Magnesiumchlorid	1085051	7786-30-3	1541	1	WGK 1: low hazard to waters
+Maleinsure	1085052	110-16-7	1541	1	WGK 1: low hazard to waters
+Maleinsureanhydrid	1085053	108-31-6	1541	1	WGK 1: low hazard to waters
+Mesityloxid	1085054	141-79-7	1541	1	WGK 1: low hazard to waters
+Methylamin	1085055	74-89-5	1541	2	WGK 2: hazard to waters
+Methylbromid	1085056	74-83-9	1541	3	WGK 3: severe hazard to waters
+Methylchlorid	1085057	74-87-3	1541	2	WGK 2: hazard to waters
+Methylisothiocyanat	1085058	556-61-6	1541	3	WGK 3: severe hazard to waters
+Natriumchlorid	1085059	7647-14-5	1541	1	WGK 1: low hazard to waters
+Nitrosylchlorid	1085060	2696-92-6	1541	2	WGK 2: hazard to waters
+4-Nonylphenol	1085061	104-40-5	1541	3	WGK 3: severe hazard to waters
+Omethoat	1085062	1113-02-6	1541	3	WGK 3: severe hazard to waters
+Parathionmethyl	1085063	298-00-0	1541	3	WGK 3: severe hazard to waters
+Pentachlorphenol	1085064	87-86-5	1541	3	WGK 3: severe hazard to waters
+Pentaerythrit	1085065	115-77-5	1541	1	WGK 1: low hazard to waters
+Phosphorwasserstoff	1085066	7803-51-2	1541	2	WGK 2: hazard to waters
+Phthalsurebenzyl-n-butylester	1085067	85-68-7	1541	2	WGK 2: hazard to waters
+Polyethylenglykol (mit 4 EO)	1085068	25322-68-3	1541	1	WGK 1: low hazard to waters
+"1,2-Propylenglykol"	1085069	57-55-6	1541	1	WGK 1: low hazard to waters
+Salicylsure	1085070	69-72-7	1541	1	WGK 1: low hazard to waters
+Natriumsulfit	1085071	7757-83-7	1541	1	WGK 1: low hazard to waters
+Schwefelwasserstoff	1085072	6/4/7783	1541	2	WGK 2: hazard to waters
+Selenwasserstoff	1085073	7/5/7783	1541	3	WGK 3: severe hazard to waters
+Natriumsulfat	1085075	7757-82-6	1541	1	WGK 1: low hazard to waters
+Tetrachlorethen	1085076	127-18-4	1541	3	WGK 3: severe hazard to waters
+Wasserstoffperoxid	1085077	7722-84-1	1541	1	WGK 1: low hazard to waters
+Ammoniumarsenat	1085078	7784-44-3	1541	3	WGK 3: severe hazard to waters
+Ammoniumdichromat	1085079	9/5/7789	1541	3	WGK 3: severe hazard to waters
+Ammoniumfluorid	1085080	12125-01-8	1541	1	WGK 1: low hazard to waters
+Ammoniumhydrogenfluorid	1085081	1341-49-7	1541	1	WGK 1: low hazard to waters
+Ammoniumhydrogensulfat	1085082	7803-63-6	1541	1	WGK 1: low hazard to waters
+Ammoniumperchlorat	1085083	7790-98-9	1541	1	WGK 1: low hazard to waters
+Ammoniumpikrat	1085084	131-74-8	1541	2	WGK 2: hazard to waters
+Ammoniumsulfat	1085085	7783-20-2	1541	1	WGK 1: low hazard to waters
+Ammoniumsulfid	1085086	12135-76-1	1541	2	WGK 2: hazard to waters
+Anilinhydrochlorid	1085087	142-04-1	1541	2	WGK 2: hazard to waters
+Arsen(III)-oxid	1085088	1327-53-3	1541	3	WGK 3: severe hazard to waters
+Arsen(V)-oxid	1085089	12355-85-0	1541	3	WGK 3: severe hazard to waters
+Arsensure	1085090	7778-39-4	1541	3	WGK 3: severe hazard to waters
+Bariumchlorat	1085091	13477-00-4	1541	2	WGK 2: hazard to waters
+Bariumcyanid	1085092	542-62-1	1541	3	WGK 3: severe hazard to waters
+Bariumnitrat	1085093	10022-31-8	1541	1	WGK 1: low hazard to waters
+Bariumoxid	1085094	1304-28-5	1541	1	WGK 1: low hazard to waters
+Bariumperchlorat	1085095	13465-95-7	1541	1	WGK 1: low hazard to waters
+Bariumperoxid	1085096	1304-29-6	1541	1	WGK 1: low hazard to waters
+Blausure	1085097	74-90-8	1541	3	WGK 3: severe hazard to waters
+Blei(II)-arsenat	1085098	14034-76-5	1541	3	WGK 3: severe hazard to waters
+Blei(II)-arsenit	1085099	10031-13-7	1541	3	WGK 3: severe hazard to waters
+Blei(II)-cyanid	1085100	592-05-2	1541	3	WGK 3: severe hazard to waters
+Borsure	1085101	10043-35-3	1541	1	WGK 1: low hazard to waters
+Calciumarsenit	1085102	52740-16-6	1541	3	WGK 3: severe hazard to waters
+Calciumchlorat	1085103	10137-74-3	1541	2	WGK 2: hazard to waters
+Calciumcyanid	1085104	592-01-8	1541	3	WGK 3: severe hazard to waters
+Calciumhydroxid	1085105	1305-62-0	1541	1	WGK 1: low hazard to waters
+Calciumnitrat	1085106	10124-37-5	1541	1	WGK 1: low hazard to waters
+Calciumoxid	1085107	1305-78-8	1541	1	WGK 1: low hazard to waters
+Calciumperchlorat	1085108	13477-36-6	1541	1	WGK 1: low hazard to waters
+Calciumperoxid	1085109	1305-79-9	1541	1	WGK 1: low hazard to waters
+Calciumsulfat	1085110	7778-18-9	1541	1	WGK 1: low hazard to waters
+Chromschwefelsure	1085111	14489-25-9	1541	3	WGK 3: severe hazard to waters
+Chromtrioxid (Chromsure)	1085112	7738-94-5	1541	3	WGK 3: severe hazard to waters
+Chromylchlorid	1085113	14977-61-8	1541	3	WGK 3: severe hazard to waters
+Dinatriumhydrogenphosphat	1085114	148560-76-3	1541	1	WGK 1: low hazard to waters
+Jodwasserstoff	1085115	10034-85-2	1541	1	WGK 1: low hazard to waters
+Kaliumantimonyltartrat	1085117	28300-74-5	1541	3	WGK 3: severe hazard to waters
+Kaliumarsenat	1085118	7784-41-0	1541	3	WGK 3: severe hazard to waters
+Kaliumarsenit	1085119	10124-50-2	1541	3	WGK 3: severe hazard to waters
+Kaliumcarbonat	1085120	584-08-7	1541	1	WGK 1: low hazard to waters
+Kaliumcyanid	1085121	151-50-8	1541	3	WGK 3: severe hazard to waters
+Kaliumdichromat	1085122	7778-50-9	1541	3	WGK 3: severe hazard to waters
+Kaliumfluoracetat	1085123	23745-86-0	1541	3	WGK 3: severe hazard to waters
+Kaliumfluorid	1085124	7789-23-3	1541	1	WGK 1: low hazard to waters
+Kaliumhydrogenfluorid	1085125	7789-29-9	1541	1	WGK 1: low hazard to waters
+Kaliumhydrogensulfat	1085126	7646-93-7	1541	1	WGK 1: low hazard to waters
+Kaliumhydrogensulfid	1085127	1310-61-8	1541	2	WGK 2: hazard to waters
+Kaliumhydroxid	1085128	1310-58-3	1541	1	WGK 1: low hazard to waters
+Kaliumnitrat	1085129	7757-79-1	1541	1	WGK 1: low hazard to waters
+Kaliumnitrit	1085130	7758-09-0	1541	2	WGK 2: hazard to waters
+Kaliumoxid	1085131	12136-45-7	1541	1	WGK 1: low hazard to waters
+Kaliumperoxid	1085132	17014-71-0	1541	1	WGK 1: low hazard to waters
+Kaliumsulfid	1085133	1313-82-2	1541	2	WGK 2: hazard to waters
+Kaliumtetracyanomercurat (II)	1085134	591-89-9	1541	3	WGK 3: severe hazard to waters
+Kaliumtetrajodomercurat (II)	1085135	7783-33-7	1541	3	WGK 3: severe hazard to waters
+Knigswasser	1085136	8007-56-5	1541	2	WGK 2: hazard to waters
+Kupfer(II)-arsenit	1085137	10290-12-7	1541	3	WGK 3: severe hazard to waters
+Kupfer(II)-chlorat	1085139	26506-47-8	1541	2	WGK 2: hazard to waters
+Kupfer(I)-chlorid	1085140	7758-89-6	1541	2	WGK 2: hazard to waters
+Kupfer(II)-chlorid	1085141	7447-39-4	1541	2	WGK 2: hazard to waters
+Calciumarsenat	1085142	7778-44-1	1541	3	WGK 3: severe hazard to waters
+Magnesiumarsenat	1085143	10103-50-1	1541	3	WGK 3: severe hazard to waters
+Magnesiumchlorat	1085144	10326-21-3	1541	2	WGK 2: hazard to waters
+Magnesiumnitrat	1085145	10377-60-3	1541	1	WGK 1: low hazard to waters
+Magnesiumperchlorat	1085146	10034-81-8	1541	1	WGK 1: low hazard to waters
+Magnesiumperoxid	1085147	1335-26-8	1541	1	WGK 1: low hazard to waters
+Magnesiumsulfat	1085148	7487-88-9	1541	1	WGK 1: low hazard to waters
+Natriumacetat	1085149	127-09-3	1541	1	WGK 1: low hazard to waters
+Natriumarsenit	1085150	7784-46-5	1541	3	WGK 3: severe hazard to waters
+Natriumchloracetat	1085151	3926-62-3	1541	2	WGK 2: hazard to waters
+Natriumchlorat	1085152	9/9/7775	1541	2	WGK 2: hazard to waters
+Natriumdihydrogenphosphat	1085153	7558-80-7	1541	1	WGK 1: low hazard to waters
+Natriumfluoracetat	1085154	62-74-8	1541	3	WGK 3: severe hazard to waters
+Natriumformiat	1085155	141-53-7	1541	1	WGK 1: low hazard to waters
+Natriumhydrogencarbonat	1085156	144-55-8	1541	1	WGK 1: low hazard to waters
+Natriumhydrogenfluorid	1085157	1333-83-1	1541	1	WGK 1: low hazard to waters
+Natriumhydrogensulfat	1085158	7681-38-1	1541	1	WGK 1: low hazard to waters
+Natriumhydrogensulfid	1085159	16721-80-5	1541	2	WGK 2: hazard to waters
+Natriumnitrat	1085160	7631-99-4	1541	1	WGK 1: low hazard to waters
+Natriumoxalat	1085161	62-76-0	1541	1	WGK 1: low hazard to waters
+Natriumoxid	1085162	1313-59-3	1541	1	WGK 1: low hazard to waters
+Natriumpentachlorphenolat	1085163	131-52-2	1541	3	WGK 3: severe hazard to waters
+Natriumperchlorat	1085164	7601-89-0	1541	1	WGK 1: low hazard to waters
+Natriumperoxid	1085165	1313-60-6	1541	1	WGK 1: low hazard to waters
+Natriumphenolat	1085166	139-02-6	1541	2	WGK 2: hazard to waters
+Natriumselenat	1085167	13410-01-0	1541	2	WGK 2: hazard to waters
+Natriumthiosulfat	1085168	7772-98-7	1541	1	WGK 1: low hazard to waters
+Perchlorsure	1085170	7601-90-3	1541	1	WGK 1: low hazard to waters
+Phosphorpentoxid	1085171	1314-56-3	1541	1	WGK 1: low hazard to waters
+Phosphorsure	1085172	7664-38-2	1541	1	WGK 1: low hazard to waters
+Quecksilber	1085173	7439-97-6	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-acetat	1085174	1600-27-7	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-arsenat	1085175	7784-37-4	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-benzoat	1085176	583-15-3	1541	3	WGK 3: severe hazard to waters
+Quecksilber(I)-bromid	1085177	15385-58-7	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-bromid	1085178	7789-47-1	1541	3	WGK 3: severe hazard to waters
+Quecksilber(I)-chlorid	1085179	10112-91-1	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-cyanid	1085180	592-04-1	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-jodid	1085184	7774-29-0	1541	3	WGK 3: severe hazard to waters
+Quecksilber(I)-nitrat	1085185	10415-75-5	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-nitrat	1085186	10045-94-0	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-oleat	1085187	1191-80-6	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-oxid	1085188	21908-53-2	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-oxidcyanid	1085189	1335-31-5	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-salicylat	1085190	5970-32-1	1541	3	WGK 3: severe hazard to waters
+Quecksilber(I)-sulfat	1085191	7783-36-0	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-sulfat	1085192	7783-35-9	1541	3	WGK 3: severe hazard to waters
+Quecksilber(II)-thiocyanat	1085193	592-85-8	1541	3	WGK 3: severe hazard to waters
+Salpetersure (auer rauchende)	1085194	7697-37-2	1541	1	WGK 1: low hazard to waters
+Salpetersure (rauchende)	1085195	7697-37-2	1541	2	WGK 2: hazard to waters
+Schwefeldioxid8	1085196	9/5/7446	1541	1	WGK 1: low hazard to waters
+Schweflige Sure	1085197	7782-99-2	1541	1	WGK 1: low hazard to waters
+Selendioxid	1085198	8/4/7446	1541	2	WGK 2: hazard to waters
+Selensure	1085199	8/6/7783	1541	2	WGK 2: hazard to waters
+Silberarsenit	1085200	8/9/7784	1541	3	WGK 3: severe hazard to waters
+Thallium(I)-chlorat	1085201	13453-30-0	1541	2	WGK 2: hazard to waters
+Thallium(III)-nitrat	1085202	10102-45-1	1541	2	WGK 2: hazard to waters
+Zinkarsenat	1085203	13464-44-3	1541	3	WGK 3: severe hazard to waters
+Zinkarsenit	1085204	10326-24-6	1541	3	WGK 3: severe hazard to waters
+Zinkchlorat	1085205	10361-95-2	1541	2	WGK 2: hazard to waters
+Zinkcyanid	1085206	557-21-1	1541	3	WGK 3: severe hazard to waters
+Allylalkohol	1085216	107-18-6	1541	2	WGK 2: hazard to waters
+Dibutylzinnoxid	1085217	818-08-6	1541	3	WGK 3: severe hazard to waters
+"1,2-Dichlorpropan"	1085218	78-87-5	1541	3	WGK 3: severe hazard to waters
+Diethylammoniumchlorid	1085219	660-68-4	1541	1	WGK 1: low hazard to waters
+Trichlorfluormethan	1085220	75-69-4	1541	2	WGK 2: hazard to waters
+Tetraethylsilikat	1085222	78-10-4	1541	1	WGK 1: low hazard to waters
+Cyhexatin	1085223	13121-70-5	1541	3	WGK 3: severe hazard to waters
+n-Pentan	1085224	109-66-0	1541	2	WGK 2: hazard to waters
+3-Methylanilin	1085225	108-44-1	1541	2	WGK 2: hazard to waters
+"2,4,5-Trichlorphenol"	1085226	95-95-4	1541	3	WGK 3: severe hazard to waters
+Phosphorsuretriethylester	1085227	78-40-0	1541	1	WGK 1: low hazard to waters
+Dimethylammoniumchlorid	1085228	506-59-2	1541	1	WGK 1: low hazard to waters
+"1,1,2-Trichlortrifluorethan"	1085229	76-13-1	1541	2	WGK 2: hazard to waters
+Methylammoniumchlorid	1085230	593-51-1	1541	1	WGK 1: low hazard to waters
+	1085231	75-50-3	1541	2	WGK 2: hazard to waters
+Trimethylammoniumchlorid	1085232	593-81-7	1541	1	WGK 1: low hazard to waters
+Vinylchlorid	1085233	75-01-4	1541	2	WGK 2: hazard to waters
+"2,2-Dimethylpropan"	1085234	463-82-1	1541	1	WGK 1: low hazard to waters
+Aldrin	1085235	309-00-2	1541	3	WGK 3: severe hazard to waters
+"p,p'-DDD"	1085236	72-54-8	1541	3	WGK 3: severe hazard to waters
+"p,p'-DDE"	1085237	72-55-9	1541	3	WGK 3: severe hazard to waters
+Dieldrin	1085238	60-57-1	1541	3	WGK 3: severe hazard to waters
+"alpha,beta-Endosulfan"	1085239	115-29-7	1541	3	WGK 3: severe hazard to waters
+Endrin	1085240	72-20-8	1541	3	WGK 3: severe hazard to waters
+Hexachlorbenzol	1085241	118-74-1	1541	3	WGK 3: severe hazard to waters
+Polychlorierte Biphenyle und Terphenyle	1085242	1336-36-3	1541	3	WGK 3: severe hazard to waters
+Triethanolammoniumchlorid	1085243	102-71-6	1541	1	WGK 1: low hazard to waters
+Adipinsure	1085244	124-04-9	1541	1	WGK 1: low hazard to waters
+Natriumadipat	1085245	124-04-9	1541	1	WGK 1: low hazard to waters
+Bernsteinsure	1085246	110-15-6	1541	1	WGK 1: low hazard to waters
+Natriumsuccinat	1085247	150-90-3	1541	1	WGK 1: low hazard to waters
+Cyclopentan	1085248	287-92-3	1541	1	WGK 1: low hazard to waters
+n-Oktan und Isomere	1085249	111-65-9	1541	2	WGK 2: hazard to waters
+n-Octen-1	1085250	111-66-0	1541	1	WGK 1: low hazard to waters
+Phthalsure	1085251	88-99-3	1541	1	WGK 1: low hazard to waters
+Natriumphthalat	1085252	827-27-0	1541	1	WGK 1: low hazard to waters
+Propionsure	1085253	79-09-4	1541	1	WGK 1: low hazard to waters
+Natriumpropionat	1085254	137-40-6	1541	1	WGK 1: low hazard to waters
+Thioglykolsure	1085255	68-11-1	1541	1	WGK 1: low hazard to waters
+Aluminiumsulfat	1085256	10043-01-3	1541	1	WGK 1: low hazard to waters
+Natriumchlorit	1085257	7758-19-2	1541	2	WGK 2: hazard to waters
+Ethylpolysilikat	1085258	11099-06-2	1541	1	WGK 1: low hazard to waters
+Kaliumhexacyanoferrat (II)	1085259	14459-95-1	1541	2	WGK 2: hazard to waters
+Kaliumhexacyanoferrat (III)	1085260	13746-66-2	1541	2	WGK 2: hazard to waters
+Hexafluorkieselsure	1085261	16961-83-4	1541	2	WGK 2: hazard to waters
+Jod	1085262	7553-56-2	1541	1	WGK 1: low hazard to waters
+Kobalt(II)-chlorid	1085263	7646-79-9	1541	2	WGK 2: hazard to waters
+Mangan(II)-chlorid	1085264	1/5/7773	1541	1	WGK 1: low hazard to waters
+Zinn(II)-chlorid	1085265	7772-99-8	1541	1	WGK 1: low hazard to waters
+Braunkohlenteer	1085266	101316-83-0	1541	3	WGK 3: severe hazard to waters
+Talll	1085267	8002-26-4	1541	2	WGK 2: hazard to waters
+Tetrabutylzinn	1085268	1461-25-2	1541	3	WGK 3: severe hazard to waters
+Tributylzinnacetat	1085269	56-36-0	1541	3	WGK 3: severe hazard to waters
+Tributylzinnchlorid	1085270	1461-22-9	1541	3	WGK 3: severe hazard to waters
+Tributylzinnoxid	1085271	56-35-9	1541	3	WGK 3: severe hazard to waters
+Triphenylzinnacetat	1085272	900-95-8	1541	3	WGK 3: severe hazard to waters
+Triphenylzinnchlorid	1085273	639-58-7	1541	3	WGK 3: severe hazard to waters
+Triphenylzinnfluorid	1085274	379-52-2	1541	3	WGK 3: severe hazard to waters
+Triphenylzinnhydroxid	1085275	76-87-9	1541	3	WGK 3: severe hazard to waters
+Aluminiumchlorid	1085276	7446-70-0	1541	1	WGK 1: low hazard to waters
+Aluminiumhydroxychlorid	1085277	1327-41-9	1541	1	WGK 1: low hazard to waters
+Aluminiumnitrat	1085278	13473-90-0	1541	1	WGK 1: low hazard to waters
+Kaliumalaun	1085279	10043-01-3	1541	1	WGK 1: low hazard to waters
+"2,4-Toluylendiisocyanat"	1085280	584-84-9	1541	2	WGK 2: hazard to waters
+"2,6-Toluylendiisocyanat"	1085281	91-08-7	1541	2	WGK 2: hazard to waters
+Ammoniumeisen(II)-sulfat	1085282	10045-89-3	1541	1	WGK 1: low hazard to waters
+Eisen(II)-sulfat	1085283	7720-78-7	1541	1	WGK 1: low hazard to waters
+Eisen(III)-chlorid	1085284	7705-08-0	1541	1	WGK 1: low hazard to waters
+Eisen(III)-nitrat	1085285	7782-61-8	1541	1	WGK 1: low hazard to waters
+Kaliumhexafluorsilikat	1085286	16871-90-2	1541	2	WGK 2: hazard to waters
+Magnesiumhexafluorsilikat	1085287	16949-65-8	1541	2	WGK 2: hazard to waters
+Natriumhexafluorsilikat	1085288	16893-85-9	1541	2	WGK 2: hazard to waters
+Kobalt(II)-nitrat	1085289	10141-05-6	1541	2	WGK 2: hazard to waters
+Kobalt(II)-sulfat	1085290	10124-43-3	1541	2	WGK 2: hazard to waters
+Mangan(II)-sulfat	1085291	7785-87-7	1541	1	WGK 1: low hazard to waters
+Polychlorierte Naphthaline	1085292	70776-03-3	1541	3	WGK 3: severe hazard to waters
+Eisen(II)-chlorid	1085293	7758-94-3	1541	1	WGK 1: low hazard to waters
+Allylammoniumchlorid	1085294	10017-11-5	1541	2	WGK 2: hazard to waters
+n-Butylammoniumchlorid	1085296	100501-97-1	1541	1	WGK 1: low hazard to waters
+Cyclohexylammoniumchlorid	1085297	4998-76-9	1541	1	WGK 1: low hazard to waters
+Fenbutatinoxid	1085300	13356-08-6	1541	3	WGK 3: severe hazard to waters
+Ethanolammoniumchlorid	1085301	2002-24-6	1541	1	WGK 1: low hazard to waters
+Azocyclotin	1085302	41083-11-8	1541	3	WGK 3: severe hazard to waters
+Ethylendiamin-Hydrochlorid	1085303	15467-15-9	1541	2	WGK 2: hazard to waters
+2-Ethylhexylammoniumchlorid	1085305	26392-49-4	1541	2	WGK 2: hazard to waters
+Bleitetramethyl	1085306	75-74-1	1541	3	WGK 3: severe hazard to waters
+"2,4,6-Trimercaptotriazin"	1085308	1929-82-4	1541	2	WGK 2: hazard to waters
+Ammoniumhexafluorsilikat	1085311	16919-19-0	1541	2	WGK 2: hazard to waters
+Tributylzinnfluorid	1085312	10/4/1983	1541	3	WGK 3: severe hazard to waters
+Tributylzinnbenzoat	1085313	4342-36-3	1541	3	WGK 3: severe hazard to waters
+Tributylzinnaphthenat	1085315	85409-17-2	1541	3	WGK 3: severe hazard to waters
+Tributylzinnlinoleat	1085316	24124-25-2	1541	3	WGK 3: severe hazard to waters
+Tributylzinnoleat	1085317	3090-35-5	1541	3	WGK 3: severe hazard to waters
+Aluminiumphosphid	1085318	20859-73-8	1541	2	WGK 2: hazard to waters
+Magnesiumphosphid	1085319	12057-74-8	1541	2	WGK 2: hazard to waters
+Tetraphenylzinn	1085320	595-90-4	1541	3	WGK 3: severe hazard to waters
+Tetraoctylzinn	1085321	3590-84-9	1541	2	WGK 2: hazard to waters
+Thallium(I)-sulfat	1085322	10031-59-1	1541	2	WGK 2: hazard to waters
+Triethylamin	1085323	121-44-8	1541	1	WGK 1: low hazard to waters
+Ethylammoniumchlorid	1085325	557-66-4	1541	1	WGK 1: low hazard to waters
+Triethylammoniumchlorid	1085326	554-68-7	1541	1	WGK 1: low hazard to waters
+Cadmiumsulfat	1085328	10124-36-4	1541	3	WGK 3: severe hazard to waters
+Dioctylzinndichlorid	1085333	3542-36-7	1541	2	WGK 2: hazard to waters
+Dioctylzinnoxid	1085334	870-08-6	1541	2	WGK 2: hazard to waters
+Butylstannonsure	1085341	2273-43-0	1541	1	WGK 1: low hazard to waters
+Butylthiostannonsure	1085342	26410-42-4	1541	1	WGK 1: low hazard to waters
+Monobutylzinntrichlorid	1085343	1118-46-3	1541	1	WGK 1: low hazard to waters
+Octylstannonsure	1085345	13356-20-2	1541	1	WGK 1: low hazard to waters
+Monooctylzinntrichlorid	1085346	3091-25-6	1541	1	WGK 1: low hazard to waters
+Nitroethan	1085353	79-24-3	1541	2	WGK 2: hazard to waters
+Nitromethan	1085354	75-52-5	1541	2	WGK 2: hazard to waters
+Methylpropylketon	1085355	107-87-9	1541	1	WGK 1: low hazard to waters
+Diisobutylketon	1085356	108-83-8	1541	1	WGK 1: low hazard to waters
+(2-Butoxyethyl)acetat	1085357	112-07-2	1541	1	WGK 1: low hazard to waters
+butylamin	1085358	111-92-2	1541	1	WGK 1: low hazard to waters
+Tri-n-butylamin	1085359	102-82-9	1541	2	WGK 2: hazard to waters
+"3,4-Dimethylanilin"	1085360	95-64-7	1541	2	WGK 2: hazard to waters
+"2,3-Dimethylanilin"	1085361	87-59-2	1541	2	WGK 2: hazard to waters
+Isoamylalkohol	1085362	123-51-3	1541	1	WGK 1: low hazard to waters
+Diisopropylether	1085363	108-20-3	1541	1	WGK 1: low hazard to waters
+Chlorhexidin	1085367	55-56-1	1541	3	WGK 3: severe hazard to waters
+Terbutylazin	1085368	5915-41-3	1541	2	WGK 2: hazard to waters
+Diisopropylammoniumchlorid	1085369	819-79-4	1541	2	WGK 2: hazard to waters
+Phthalsurediisodecylester	1085370	26761-40-0	1541	1	WGK 1: low hazard to waters
+Demeton-S-methylsulphon	1085371	17040-19-6	1541	2	WGK 2: hazard to waters
+Oxidemeton-methyl	1085372	301-12-2	1541	3	WGK 3: severe hazard to waters
+Diazinon	1085373	333-41-5	1541	3	WGK 3: severe hazard to waters
+Di-n-butylammoniumchlorid	1085374	6287-40-7	1541	1	WGK 1: low hazard to waters
+Terbutryn	1085376	886-50-0	1541	2	WGK 2: hazard to waters
+Prometon	1085377	1610-18-0	1541	2	WGK 2: hazard to waters
+Diisopropylamin	1085378	108-18-9	1541	2	WGK 2: hazard to waters
+Malathion	1085379	121-75-5	1541	3	WGK 3: severe hazard to waters
+Fenthion	1085380	55-38-9	1541	3	WGK 3: severe hazard to waters
+Bromophos	1085381	2104-96-3	1541	3	WGK 3: severe hazard to waters
+Bromophos-ethyl	1085382	4824-78-6	1541	3	WGK 3: severe hazard to waters
+Chlorthiophos	1085383	60238-56-4	1541	3	WGK 3: severe hazard to waters
+Disulfoton	1085384	298-04-4	1541	3	WGK 3: severe hazard to waters
+Terbufos	1085385	13071-79-9	1541	3	WGK 3: severe hazard to waters
+Chlorpyrifos	1085386	2921-88-2	1541	3	WGK 3: severe hazard to waters
+Etrimphos	1085387	38260-54-7	1541	3	WGK 3: severe hazard to waters
+Pyrazophos	1085388	13457-18-6	1541	3	WGK 3: severe hazard to waters
+Triazophos	1085389	24017-47-8	1541	3	WGK 3: severe hazard to waters
+Adipinsuredi-2-ethylhexylester	1085390	103-23-1	1541	1	WGK 1: low hazard to waters
+Azinphos-ethyl	1085391	2642-71-9	1541	3	WGK 3: severe hazard to waters
+Azinphos-methyl	1085392	86-50-0	1541	3	WGK 3: severe hazard to waters
+Dialifos	1085393	10311-84-9	1541	3	WGK 3: severe hazard to waters
+Phosalon	1085394	2310-17-0	1541	3	WGK 3: severe hazard to waters
+Chlorfenvinphos	1085395	470-90-6	1541	3	WGK 3: severe hazard to waters
+Dichlorvos	1085396	62-73-7	1541	3	WGK 3: severe hazard to waters
+Mevinphos	1085397	7786-34-7	1541	3	WGK 3: severe hazard to waters
+Trichlorfon	1085398	52-68-6	1541	3	WGK 3: severe hazard to waters
+Diphenylmethandiisocyanat	1085399	101-68-8	1541	1	WGK 1: low hazard to waters
+Natriumazid	1085400	26228-22-8	1541	2	WGK 2: hazard to waters
+Ammoniummolybdat	1085401	12027-67-7	1541	1	WGK 1: low hazard to waters
+Natriummolybdat	1085402	7631-95-0	1541	1	WGK 1: low hazard to waters
+Chloramin T	1085404	127-65-1	1541	2	WGK 2: hazard to waters
+"1,3-Dichlorbenzol"	1085405	541-73-1	1541	2	WGK 2: hazard to waters
+"1,4-Dichlorbenzol"	1085406	106-46-7	1541	2	WGK 2: hazard to waters
+3-Nitrotoluol	1085407	99-08-1	1541	2	WGK 2: hazard to waters
+4-Nitrotoluol	1085408	99-99-0	1541	2	WGK 2: hazard to waters
+"2,5-Dinitrotoluol"	1085409	619-15-8	1541	3	WGK 3: severe hazard to waters
+"2,6-Dinitrotoluol"	1085410	606-20-2	1541	3	WGK 3: severe hazard to waters
+2-Nitroanisol	1085411	91-23-6	1541	3	WGK 3: severe hazard to waters
+Isopentan	1085412	78-78-4	1541	2	WGK 2: hazard to waters
+Chloralkane (C10 - C13)	1085413	85535-84-8	1541	3	WGK 3: severe hazard to waters
+Ethoprophos	1085414	13194-48-4	1541	3	WGK 3: severe hazard to waters
+Heptenophos	1085415	23560-59-0	1541	3	WGK 3: severe hazard to waters
+Phosphamidon	1085416	13171-21-6	1541	3	WGK 3: severe hazard to waters
+Methidathion	1085417	950-37-8	1541	3	WGK 3: severe hazard to waters
+Demeton-S-methyl	1085418	867-27-6	1541	3	WGK 3: severe hazard to waters
+Nonylphenolethoxylate	1085429	9016-45-9	1541	2	WGK 2: hazard to waters
+Pirimiphos-methyl	1085434	29232-93-7	1541	3	WGK 3: severe hazard to waters
+Acephat	1085435	30560-19-1	1541	2	WGK 2: hazard to waters
+Cyfluthrin	1085436	68359-37-5	1541	3	WGK 3: severe hazard to waters
+Cypermethrin	1085437	52315-07-8	1541	3	WGK 3: severe hazard to waters
+Deltamethrin	1085438	52918-63-5	1541	3	WGK 3: severe hazard to waters
+Fenpropathrin	1085439	39515-41-8	1541	3	WGK 3: severe hazard to waters
+Fenvalerat	1085440	51630-58-1	1541	3	WGK 3: severe hazard to waters
+Permethrin	1085441	52645-53-1	1541	3	WGK 3: severe hazard to waters
+Isofenphos	1085442	25311-71-1	1541	3	WGK 3: severe hazard to waters
+Tolclofos-methyl	1085443	57018-04-9	1541	3	WGK 3: severe hazard to waters
+Phoxim	1085444	14816-18-3	1541	3	WGK 3: severe hazard to waters
+Sulfotepp	1085445	3689-24-5	1541	3	WGK 3: severe hazard to waters
+Methamidophos	1085446	10265-92-6	1541	3	WGK 3: severe hazard to waters
+Ethephon	1085447	16672-87-0	1541	2	WGK 2: hazard to waters
+Talllfettsuren (Harzsuregehalt &lt;2 %)	1085450	880424-00-0	1541	1	WGK 1: low hazard to waters
+4-Methylanilin	1085451	106-49-0	1541	2	WGK 2: hazard to waters
+2-Chloranilin	1085452	95-51-2	1541	2	WGK 2: hazard to waters
+3-Chloranilin	1085453	108-42-9	1541	2	WGK 2: hazard to waters
+"2,3-Dichloranilin"	1085454	608-27-5	1541	3	WGK 3: severe hazard to waters
+"2,4-Dichloranilin"	1085455	554-00-7	1541	3	WGK 3: severe hazard to waters
+"2,5-Dichloranilin"	1085456	95-82-9	1541	3	WGK 3: severe hazard to waters
+"2,6-Dichloranilin"	1085457	608-31-1	1541	3	WGK 3: severe hazard to waters
+"3,4-Dichloranilin"	1085458	95-76-1	1541	3	WGK 3: severe hazard to waters
+"2,4,6-Trichloranilin"	1085459	634-93-5	1541	3	WGK 3: severe hazard to waters
+2-Nitroanilin	1085460	88-74-4	1541	2	WGK 2: hazard to waters
+3-Nitroanilin	1085461	99-09-2	1541	2	WGK 2: hazard to waters
+"2,4-Dinitroanilin"	1085462	97-02-9	1541	2	WGK 2: hazard to waters
+4-Chlor-2-nitroanilin	1085463	89-63-4	1541	2	WGK 2: hazard to waters
+"1,4-Dinitrobenzol"	1085464	100-25-4	1541	3	WGK 3: severe hazard to waters
+"1,2-Dinitrobenzol"	1085465	528-29-0	1541	3	WGK 3: severe hazard to waters
+3-Chlornitrobenzol	1085466	121-73-3	1541	2	WGK 2: hazard to waters
+2-Chlornitrobenzol	1085467	88-73-3	1541	2	WGK 2: hazard to waters
+Bentazon	1085468	25057-89-0	1541	2	WGK 2: hazard to waters
+Thiabendazol	1085469	148-79-8	1541	2	WGK 2: hazard to waters
+Dimethylether	1085470	115-10-6	1541	1	WGK 1: low hazard to waters
+Acrylamid	1085471	79-06-1	1541	3	WGK 3: severe hazard to waters
+Bis-(2-chlorethyl)ether	1085473	111-44-4	1541	2	WGK 2: hazard to waters
+3-Chlor-4-methylanilin	1085474	95-74-9	1541	2	WGK 2: hazard to waters
+Ditolylether	1085475	28299-41-4	1541	2	WGK 2: hazard to waters
+Eisen(III)-chloridsulfat	1085476	12410-14-9	1541	1	WGK 1: low hazard to waters
+Phthalimid	1085477	85-41-6	1541	1	WGK 1: low hazard to waters
+Terephthalsuredimethylester	1085478	120-61-6	1541	1	WGK 1: low hazard to waters
+"2,6-Di-tert.-butyl-4-methylphenol"	1085479	128-37-0	1541	1	WGK 1: low hazard to waters
+4-Nitroanisol	1085480	100-17-4	1541	1	WGK 1: low hazard to waters
+Diphenylamin	1085481	122-39-4	1541	3	WGK 3: severe hazard to waters
+Diisopropylnaphthalin (DIPN)	1085482	38640-62-9	1541	1	WGK 1: low hazard to waters
+Bromessigsure	1085483	79-08-3	1541	2	WGK 2: hazard to waters
+Trifluoressigsure	1085484	76-05-1	1541	2	WGK 2: hazard to waters
+Natriumtrichloracetat	1085485	650-51-1	1541	2	WGK 2: hazard to waters
+"2,2-Dichlorpropionsure, Natriumsalz"	1085486	127-20-8	1541	1	WGK 1: low hazard to waters
+Phthalsureanhydrid	1085487	85-44-9	1541	1	WGK 1: low hazard to waters
+Ameisensuremethylester	1085488	107-31-3	1541	1	WGK 1: low hazard to waters
+Dimethylsulfat	1085489	77-78-1	1541	2	WGK 2: hazard to waters
+Acetophenon	1085490	98-86-2	1541	1	WGK 1: low hazard to waters
+"N-(3,4-Dichlorphenyl)-propionamid"	1085491	709-98-8	1541	3	WGK 3: severe hazard to waters
+L(+)-Ascorbinsure	1085492	50-81-7	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylaminoethanol"	1085493	108-01-0	1541	1	WGK 1: low hazard to waters
+"2,2-Dimethylpropan-1,3-diol"	1085496	126-30-7	1541	1	WGK 1: low hazard to waters
+2-sek.-Butylphenol	1085497	89-72-5	1541	2	WGK 2: hazard to waters
+Diethylenglykolmonomethylether	1085498	111-77-3	1541	1	WGK 1: low hazard to waters
+Diethylketon	1085499	96-22-0	1541	1	WGK 1: low hazard to waters
+"1,2-Dichlor-3-nitrobenzol"	1085500	3209-22-1	1541	3	WGK 3: severe hazard to waters
+"Schwefel, kolloidal"	1085501	7704-34-9	1541	1	WGK 1: low hazard to waters
+Kolophonium	1085502	118817-23-5	1541	1	WGK 1: low hazard to waters
+Chlormequat-chlorid	1085503	999-81-5	1541	2	WGK 2: hazard to waters
+Natriummethylallylsulfonat	1085504	1561-92-8	1541	1	WGK 1: low hazard to waters
+Kaliumacetat	1085505	127-08-2	1541	1	WGK 1: low hazard to waters
+N-Cyclohexyldiazeniumdioxy-Kalium	1085506	66603-10-9	1541	2	WGK 2: hazard to waters
+(Bis-(N-Cyclohexyldiazeniumdioxy))-Kupfer	1085507	312600-89-8	1541	3	WGK 3: severe hazard to waters
+N-Methylmorpholin	1085509	109-02-4	1541	1	WGK 1: low hazard to waters
+N-Methylmorpholin-N-oxid	1085510	7529-22-8	1541	1	WGK 1: low hazard to waters
+Lachgas	1085511	10024-97-2	1541	1	WGK 1: low hazard to waters
+Tetraethylenglykoldiheptanoat	1085513	70729-68-9	1541	1	WGK 1: low hazard to waters
+Triethylenglykolmonobutylether	1085515	143-22-6	1541	1	WGK 1: low hazard to waters
+Fluorsulfonsure	1085516	7789-21-1	1541	1	WGK 1: low hazard to waters
+"Hexabromcyclododecan, 1,2,5,6,9,10-"	1085518	3194-55-6	1541	1	WGK 1: low hazard to waters
+Tripropylenglykol	1085519	24800-44-0	1541	1	WGK 1: low hazard to waters
+"2,4,4-Trimethylpenten"	1085520	25167-70-8	1541	2	WGK 2: hazard to waters
+Bromtrifluormethan	1085521	75-63-8	1541	1	WGK 1: low hazard to waters
+Isatosureanhydrid	1085522	118-48-9	1541	1	WGK 1: low hazard to waters
+Acetylchlorid	1085523	75-36-5	1541	1	WGK 1: low hazard to waters
+Benzoguanamin	1085524	91-76-9	1541	2	WGK 2: hazard to waters
+Thioharnstoff	1085525	62-56-6	1541	2	WGK 2: hazard to waters
+Guanidinnitrat	1085526	506-93-4	1541	1	WGK 1: low hazard to waters
+Guanidinhydrochlorid	1085527	50-01-1	1541	1	WGK 1: low hazard to waters
+Cyanamid	1085528	420-04-2	1541	2	WGK 2: hazard to waters
+Calciumcyanamid	1085529	156-62-7	1541	2	WGK 2: hazard to waters
+Calciumcarbid	1085530	75-20-7	1541	1	WGK 1: low hazard to waters
+Chlorethan	1085531	75-00-3	1541	2	WGK 2: hazard to waters
+"1,1-Dichlorethen"	1085532	75-35-4	1541	3	WGK 3: severe hazard to waters
+"1,2-Dichlorethen (cis und trans)"	1085533	540-59-0	1541	2	WGK 2: hazard to waters
+"1,1,2-Trichlorethan"	1085534	79-00-5	1541	3	WGK 3: severe hazard to waters
+"1,1,2,2-Tetrachlorethan"	1085535	79-34-5	1541	3	WGK 3: severe hazard to waters
+Hexachlorethan	1085536	67-72-1	1541	3	WGK 3: severe hazard to waters
+Hexachlorcyclopentadien	1085537	77-47-4	1541	3	WGK 3: severe hazard to waters
+Calciumfluorid	1085539	7789-75-5	1541	1	WGK 1: low hazard to waters
+"Kieselsure, Aluminium-Natriumsalz (zeolithisch, nicht kalziniert)"	1085540	1344-00-9	1541	1	WGK 1: low hazard to waters
+"Chrom(III)-chlorid, Hexahydrat"	1085541	10060-12-5	1541	2	WGK 2: hazard to waters
+"Chrom(III)-kaliumsulfat, Dodecahydrat"	1085542	7788-99-0	1541	2	WGK 2: hazard to waters
+"Chrom(III)-sulfat, basisch"	1085543	12336-95-7	1541	2	WGK 2: hazard to waters
+"Chrom(III)-nitrat, Nonahydrat"	1085544	2/8/7789	1541	2	WGK 2: hazard to waters
+Natriumhypochlorit	1085549	7681-52-9	1541	2	WGK 2: hazard to waters
+Phosphonsurediethylester	1085550	762-04-9	1541	1	WGK 1: low hazard to waters
+Indigo	1085551	482-89-3	1541	1	WGK 1: low hazard to waters
+"Ottokraftstoffe, nicht als krebserzeugend (R45) gekennzeichnet"	1085553	106602-80-6	1541	2	WGK 2: hazard to waters
+o-Phenylendiamin	1085554	95-54-5	1541	3	WGK 3: severe hazard to waters
+1-Naphthylamin	1085555	134-32-7	1541	2	WGK 2: hazard to waters
+Tridecylamin	1085556	2869-34-3	1541	3	WGK 3: severe hazard to waters
+Trimethylhexamethylendiamin	1085557	25620-58-0	1541	2	WGK 2: hazard to waters
+"1,2-Propylendiamin"	1085558	78-90-0	1541	1	WGK 1: low hazard to waters
+Diisopropanolamin	1085560	110-97-4	1541	1	WGK 1: low hazard to waters
+"Carboxymethylzellulose, Natriumsalz"	1085562	9004-32-4	1541	1	WGK 1: low hazard to waters
+Methyldistearylamin	1085563	4088-22-6	1541	2	WGK 2: hazard to waters
+Isononanol (Isomerengemisch)	1085564	27458-94-2	1541	2	WGK 2: hazard to waters
+1-Hexen	1085565	592-41-6	1541	1	WGK 1: low hazard to waters
+"2-Naphthylamin-5,7-disulfonsure"	1085566	118-33-2	1541	2	WGK 2: hazard to waters
+Metamitron	1085568	41394-05-2	1541	2	WGK 2: hazard to waters
+Ammoniumperoxodisulfat	1085569	7727-54-0	1541	1	WGK 1: low hazard to waters
+Oxydiethylenbis(chlorformiat)	1085570	106-75-2	1541	2	WGK 2: hazard to waters
+"3-Chlor-2-hydroxypropyl-N,N,N-trimethylammoniumchlorid"	1085571	3327-22-8	1541	2	WGK 2: hazard to waters
+"Chrom(III)-sulfat, wasserfrei"	1085573	10588-01-9	1541	1	WGK 1: low hazard to waters
+"Strontiumchlorid, Hexahydrat"	1085574	10025-70-4	1541	1	WGK 1: low hazard to waters
+"Chrom(III)-chlorid, wasserfrei"	1085575	10025-73-7	1541	1	WGK 1: low hazard to waters
+"3,4-Dichlor-1-nitrobenzol"	1085576	99-54-7	1541	3	WGK 3: severe hazard to waters
+Natriummetasilikat	1085577	6834-92-0	1541	1	WGK 1: low hazard to waters
+4-Benzylbiphenyl	1085578	613-42-3	1541	1	WGK 1: low hazard to waters
+Cadmiumacetat	1085580	543-90-8	1541	3	WGK 3: severe hazard to waters
+Chlorhexidindigluconat	1085581	18472-51-0	1541	3	WGK 3: severe hazard to waters
+"2-Methylthio-4,6-dichloro-1,3,5-triazin"	1085582	13705-05-0	1541	3	WGK 3: severe hazard to waters
+"1,1,1-Trichlor-2-methyl-2-propanol"	1085584	57-15-8	1541	3	WGK 3: severe hazard to waters
+Vanadin(IV)-oxidsulfat	1085585	27774-13-6	1541	3	WGK 3: severe hazard to waters
+Kupferron	1085587	135-20-6	1541	3	WGK 3: severe hazard to waters
+Mitomycin C	1085588	50-07-7	1541	3	WGK 3: severe hazard to waters
+Cyclophosphamid	1085589	50-18-0	1541	3	WGK 3: severe hazard to waters
+6-Mercaptopurin	1085590	50-44-2	1541	3	WGK 3: severe hazard to waters
+Clonitralid	1085591	1420-04-8	1541	3	WGK 3: severe hazard to waters
+Actinomycin C-1	1085592	50-76-0	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolamin	1085593	51-34-3	1541	3	WGK 3: severe hazard to waters
+Epinephrinhydrogentartrat	1085594	51-42-3	1541	3	WGK 3: severe hazard to waters
+(-)-Epinephrin	1085595	51-43-4	1541	3	WGK 3: severe hazard to waters
+Atropin	1085596	51-55-8	1541	3	WGK 3: severe hazard to waters
+Homatropinhydrobromid	1085597	51-56-9	1541	3	WGK 3: severe hazard to waters
+Atropinmethonitrat	1085598	52-88-0	1541	3	WGK 3: severe hazard to waters
+Indomethacin	1085599	53-86-1	1541	3	WGK 3: severe hazard to waters
+Aminopterin	1085600	54-62-6	1541	3	WGK 3: severe hazard to waters
+Merthiolat	1085601	54-64-8	1541	3	WGK 3: severe hazard to waters
+Pilocarpinhydrochlorid	1085602	54-71-7	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolaminhydrochlorid	1085603	55-16-3	1541	3	WGK 3: severe hazard to waters
+(-)-Epinephrinhydrochlorid	1085604	55-31-2	1541	3	WGK 3: severe hazard to waters
+Atropinsulfat	1085605	55-48-1	1541	3	WGK 3: severe hazard to waters
+Busulfan	1085606	55-98-1	1541	3	WGK 3: severe hazard to waters
+Natriumpentobarbital	1085607	57-33-0	1541	3	WGK 3: severe hazard to waters
+Physostigmin	1085608	57-47-6	1541	3	WGK 3: severe hazard to waters
+Physostigminsalicylat	1085609	57-64-7	1541	3	WGK 3: severe hazard to waters
+"2,3,4,6-Tetrachlorphenol"	1085610	58-90-2	1541	3	WGK 3: severe hazard to waters
+"2,3-Mercaptopropanol-1"	1085611	59-52-9	1541	3	WGK 3: severe hazard to waters
+Phenylhydrazinhydrochlorid	1085612	27140-08-5	1541	3	WGK 3: severe hazard to waters
+2-Mercaptoethanol	1085613	60-24-2	1541	3	WGK 3: severe hazard to waters
+Phenylquecksilberacetat	1085614	62-38-4	1541	3	WGK 3: severe hazard to waters
+Tetramethylammoniumbromid	1085615	64-20-0	1541	3	WGK 3: severe hazard to waters
+Physostigminsulfat	1085616	64-47-1	1541	3	WGK 3: severe hazard to waters
+Colchicin	1085617	64-86-8	1541	3	WGK 3: severe hazard to waters
+Strophanthidin	1085618	66-28-4	1541	3	WGK 3: severe hazard to waters
+Cycloheximid	1085619	66-81-9	1541	3	WGK 3: severe hazard to waters
+Parafuchsin	1085620	569-61-9	1541	3	WGK 3: severe hazard to waters
+Digitoxin	1085621	71-63-6	1541	3	WGK 3: severe hazard to waters
+Tetraethylammoniumbromid	1085622	71-91-0	1541	3	WGK 3: severe hazard to waters
+Propanthiol-2	1085623	75-33-2	1541	3	WGK 3: severe hazard to waters
+"1,1-Dichlorethan"	1085624	75-34-3	1541	3	WGK 3: severe hazard to waters
+Propylenimin	1085625	75-55-8	1541	3	WGK 3: severe hazard to waters
+"Cacodylsure, Natriumsalz"	1085626	124-65-2	1541	3	WGK 3: severe hazard to waters
+Thiosemicarbazid	1085627	79-19-6	1541	3	WGK 3: severe hazard to waters
+Homatropinmethylbromid	1085628	80-49-9	1541	3	WGK 3: severe hazard to waters
+Anisotropinmethylbromid	1085629	80-50-2	1541	3	WGK 3: severe hazard to waters
+Homatropin	1085630	87-00-3	1541	3	WGK 3: severe hazard to waters
+"3,3'-Dichlorbenzidin"	1085631	91-94-1	1541	3	WGK 3: severe hazard to waters
+Pilocarpin	1085632	92-13-7	1541	3	WGK 3: severe hazard to waters
+Benzidin	1085633	92-87-5	1541	3	WGK 3: severe hazard to waters
+o-Fluortoluol	1085634	95-52-3	1541	3	WGK 3: severe hazard to waters
+"3,4-Dichlorphenol"	1085635	95-77-2	1541	3	WGK 3: severe hazard to waters
+"2,4-Toluoldiamin"	1085636	95-80-7	1541	3	WGK 3: severe hazard to waters
+Monothioglycerol	1085637	96-27-5	1541	3	WGK 3: severe hazard to waters
+Phenylarsonsure	1085638	98-05-5	1541	3	WGK 3: severe hazard to waters
+Anilazin	1085639	101-05-3	1541	3	WGK 3: severe hazard to waters
+(-)-Hyoscyamin	1085640	101-31-5	1541	3	WGK 3: severe hazard to waters
+"4,4'-Diaminodiphenylmethan"	1085641	101-77-9	1541	3	WGK 3: severe hazard to waters
+Phenylmercuriborat	1085642	102-98-7	1541	3	WGK 3: severe hazard to waters
+Diethylthioharnstoff	1085643	105-55-5	1541	2	WGK 2: hazard to waters
+4-Chlorthiophenol	1085644	106-54-7	1541	3	WGK 3: severe hazard to waters
+Propargylbromid	1085645	106-96-7	1541	3	WGK 3: severe hazard to waters
+Thiophenol	1085646	108-98-5	1541	3	WGK 3: severe hazard to waters
+1-Brom-3-chlorpropan	1085647	109-70-6	1541	3	WGK 3: severe hazard to waters
+Thiophen	1085648	110-02-1	1541	3	WGK 3: severe hazard to waters
+Propoxur	1085649	114-26-1	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolaminhydrobromid	1085650	6533-68-2	1541	3	WGK 3: severe hazard to waters
+Fensulfothion	1085651	115-90-2	1541	3	WGK 3: severe hazard to waters
+Tropin	1085652	120-29-6	1541	3	WGK 3: severe hazard to waters
+Fenitrothion	1085653	122-14-5	1541	3	WGK 3: severe hazard to waters
+N-Ethylmaleinimid	1085654	128-53-0	1541	3	WGK 3: severe hazard to waters
+Dipikrylamin	1085655	131-73-7	1541	3	WGK 3: severe hazard to waters
+Fenaminosulf	1085657	140-56-7	1541	3	WGK 3: severe hazard to waters
+Digitoxigenin	1085658	143-62-4	1541	3	WGK 3: severe hazard to waters
+Pilocarpinnitrat	1085659	148-72-1	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolamin-n-butylbromid	1085660	149-64-4	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolaminmethylbromid	1085662	155-41-9	1541	3	WGK 3: severe hazard to waters
+(-)-Hyoscyaminhydrobromid	1085663	306-03-6	1541	3	WGK 3: severe hazard to waters
+Emetin-Dihydrochlorid	1085664	316-42-7	1541	3	WGK 3: severe hazard to waters
+6-Methylmercaptopurinribosid	1085666	342-69-8	1541	3	WGK 3: severe hazard to waters
+p-Fluortoluol	1085667	352-32-9	1541	3	WGK 3: severe hazard to waters
+Brucin	1085668	357-57-3	1541	3	WGK 3: severe hazard to waters
+Cymarol	1085669	465-84-9	1541	3	WGK 3: severe hazard to waters
+Neriifolin	1085670	466-07-9	1541	3	WGK 3: severe hazard to waters
+Colcemid	1085671	477-30-5	1541	3	WGK 3: severe hazard to waters
+Scopolin	1085672	487-27-4	1541	3	WGK 3: severe hazard to waters
+Kaliumdicyanoargentat	1085673	506-61-6	1541	3	WGK 3: severe hazard to waters
+Bromcyan	1085674	506-68-3	1541	3	WGK 3: severe hazard to waters
+Chlorcyan	1085675	506-77-4	1541	3	WGK 3: severe hazard to waters
+Thioessigsure	1085676	507-09-5	1541	3	WGK 3: severe hazard to waters
+Cymarin	1085677	508-77-0	1541	3	WGK 3: severe hazard to waters
+Evomonosid	1085678	508-93-0	1541	3	WGK 3: severe hazard to waters
+Gitaloxigenin	1085679	514-21-6	1541	3	WGK 3: severe hazard to waters
+Tropinon	1085680	532-24-1	1541	3	WGK 3: severe hazard to waters
+Nortropin	1085681	538-09-0	1541	3	WGK 3: severe hazard to waters
+2-Bromethanol	1085682	540-51-2	1541	3	WGK 3: severe hazard to waters
+Bis-(chlormethyl)ether	1085683	542-88-1	1541	3	WGK 3: severe hazard to waters
+Gitoxigenin	1085684	545-26-6	1541	3	WGK 3: severe hazard to waters
+Carbonylcyanid-m-chlorphenylhydrazon	1085685	555-60-2	1541	3	WGK 3: severe hazard to waters
+Strophanthidol	1085686	560-54-3	1541	3	WGK 3: severe hazard to waters
+6-Thioinosin	1085687	574-25-4	1541	3	WGK 3: severe hazard to waters
+"1,3-Dimercaptopropanol-2"	1085688	584-04-3	1541	3	WGK 3: severe hazard to waters
+Stropesid	1085689	595-21-1	1541	3	WGK 3: severe hazard to waters
+"2,4-Diaminoanisol"	1085690	615-05-4	1541	3	WGK 3: severe hazard to waters
+Hyoscyaminsulfat	1085691	620-61-1	1541	3	WGK 3: severe hazard to waters
+2-Methoxyethylchlorid	1085692	627-42-9	1541	3	WGK 3: severe hazard to waters
+Strophanthin-G	1085693	630-60-4	1541	3	WGK 3: severe hazard to waters
+Helveticosid	1085694	630-64-8	1541	3	WGK 3: severe hazard to waters
+Homatropinhydrochlorid	1085695	637-21-8	1541	3	WGK 3: severe hazard to waters
+Acovenosid-A	1085696	663-95-6	1541	3	WGK 3: severe hazard to waters
+Tolylfluanid	1085698	731-27-1	1541	3	WGK 3: severe hazard to waters
+1-Brom-2-fluorethan	1085699	762-49-2	1541	3	WGK 3: severe hazard to waters
+"1,4-Dichlor-2-buten"	1085700	764-41-0	1541	3	WGK 3: severe hazard to waters
+Dichlofluanid	1085701	1085-98-9	1541	3	WGK 3: severe hazard to waters
+Digitoxigenon	1085702	1102-88-1	1541	3	WGK 3: severe hazard to waters
+alpha-Acetyldigitoxin	1085703	1111-39-3	1541	3	WGK 3: severe hazard to waters
+"1,3-Propansulton"	1085704	1120-71-4	1541	3	WGK 3: severe hazard to waters
+4-Nitropyridin-N-oxid	1085705	1124-33-0	1541	3	WGK 3: severe hazard to waters
+Antimon(III)-oxid	1085706	1309-64-4	1541	2	WGK 2: hazard to waters
+Gitalin	1085707	1391-75-9	1541	3	WGK 3: severe hazard to waters
+Amphotericin B	1085708	1397-89-3	1541	3	WGK 3: severe hazard to waters
+Antimycin A	1085709	1397-94-0	1541	3	WGK 3: severe hazard to waters
+Oligomycin	1085710	1404-19-9	1541	3	WGK 3: severe hazard to waters
+Carbofuran	1085711	1563-66-2	1541	3	WGK 3: severe hazard to waters
+Tetrabutylammoniumbromid	1085712	1643-19-2	1541	3	WGK 3: severe hazard to waters
+Digoxigenin	1085713	1672-46-4	1541	3	WGK 3: severe hazard to waters
+Acetylthiocholinjodid	1085714	1866-15-5	1541	3	WGK 3: severe hazard to waters
+Tetrapropylammoniumbromid	1085715	1941-30-6	1541	3	WGK 3: severe hazard to waters
+Valinomycin	1085716	2001-95-8	1541	3	WGK 3: severe hazard to waters
+"2,6-Dichlorbenzylchlorid"	1085717	2014-83-7	1541	3	WGK 3: severe hazard to waters
+Mercaptodimethur	1085718	2032-65-7	1541	3	WGK 3: severe hazard to waters
+3-Nitrophenacylbromid	1085719	2227-64-7	1541	3	WGK 3: severe hazard to waters
+Chinomethionat	1085720	1/2/2439	1541	3	WGK 3: severe hazard to waters
+Triglycidylisocyanurat	1085721	2451-62-9	1541	3	WGK 3: severe hazard to waters
+Promecarb	1085722	2631-37-0	1541	3	WGK 3: severe hazard to waters
+Oxideprofos	1085723	2674-91-1	1541	3	WGK 3: severe hazard to waters
+Muscimol	1085724	2763-96-4	1541	3	WGK 3: severe hazard to waters
+Atropinmethylbromid	1085725	2870-71-5	1541	3	WGK 3: severe hazard to waters
+Hexadecylmercaptan	1085726	2917-26-2	1541	3	WGK 3: severe hazard to waters
+"1,4-Diaminocyclohexan"	1085727	2615-25-0	1541	3	WGK 3: severe hazard to waters
+Gitaloxin	1085728	3261-53-8	1541	3	WGK 3: severe hazard to waters
+Tetramethylsuccinodinitril	1085729	3333-52-6	1541	3	WGK 3: severe hazard to waters
+Dihydro-Digitoxin	1085731	3786-76-3	1541	3	WGK 3: severe hazard to waters
+Clonidinhydrochlorid	1085732	4205-91-8	1541	3	WGK 3: severe hazard to waters
+Triphenylsulfoniumchlorid	1085733	4270-70-6	1541	3	WGK 3: severe hazard to waters
+Tetrodotoxin	1085734	4368-28-9	1541	3	WGK 3: severe hazard to waters
+Dihydro-Digitoxigenin	1085735	4427-85-4	1541	3	WGK 3: severe hazard to waters
+Dihydro-Digoxigenin	1085736	4442-12-0	1541	3	WGK 3: severe hazard to waters
+Gitoxin	1085738	4562-36-1	1541	3	WGK 3: severe hazard to waters
+Norscopolamin	1085739	24676-80-0	1541	3	WGK 3: severe hazard to waters
+Digoxigenin-Bisdigitoxosid	1085740	5/2/5297	1541	3	WGK 3: severe hazard to waters
+Dihydro-Digoxin	1085741	10/9/5297	1541	3	WGK 3: severe hazard to waters
+beta-Acetyldigoxin	1085742	5355-48-6	1541	3	WGK 3: severe hazard to waters
+alpha-Acetyldigoxin	1085743	5511-98-8	1541	3	WGK 3: severe hazard to waters
+Cumatetralyl	1085744	5836-29-3	1541	3	WGK 3: severe hazard to waters
+(-)-Hyoscyaminhydrochlorid	1085746	5934-50-9	1541	3	WGK 3: severe hazard to waters
+Dihydroergotamintartrat	1085747	5989-77-5	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolaminmethylnitrat	1085748	6106-46-3	1541	3	WGK 3: severe hazard to waters
+(-)-Scopolamin-N-oxidhydrobromid	1085749	6106-81-6	1541	3	WGK 3: severe hazard to waters
+Uranylacetatdihydrat	1085750	6159-44-0	1541	3	WGK 3: severe hazard to waters
+Acetylstrophanthidin-3	1085751	60-38-8	1541	3	WGK 3: severe hazard to waters
+"Tubocurarin-dichloride, Pentahydrat"	1085752	6989-98-6	1541	3	WGK 3: severe hazard to waters
+Cyclopropylmethylbromid	1085753	7051-34-5	1541	3	WGK 3: severe hazard to waters
+Chromomycin A	1085754	7059-24-7	1541	3	WGK 3: severe hazard to waters
+Erysimosid	1085755	7082-34-0	1541	3	WGK 3: severe hazard to waters
+Pentaacetylgitoxin	1085756	4/8/7242	1541	3	WGK 3: severe hazard to waters
+Acetylgitoxin-16	1085757	7242-40-2	1541	3	WGK 3: severe hazard to waters
+"Silber, kolloidal"	1085758	7440-22-4	1541	3	WGK 3: severe hazard to waters
+Natriummonochromat	1085759	11/3/7775	1541	3	WGK 3: severe hazard to waters
+Cadmiumjodid	1085761	7790-80-9	1541	3	WGK 3: severe hazard to waters
+Pyrethrin	1085762	8003-34-7	1541	3	WGK 3: severe hazard to waters
+Bromelain	1085763	9001-00-7	1541	3	WGK 3: severe hazard to waters
+Trospiumchlorid	1085764	10405-02-4	1541	3	WGK 3: severe hazard to waters
+Strophanthin-K	1085765	11005-63-3	1541	3	WGK 3: severe hazard to waters
+Erysimosol	1085766	11006-14-7	1541	3	WGK 3: severe hazard to waters
+Digitonin	1085767	11024-24-1	1541	3	WGK 3: severe hazard to waters
+alpha-Bungarotoxin	1085768	11032-79-4	1541	3	WGK 3: severe hazard to waters
+Tunicamycin	1085769	11089-65-9	1541	3	WGK 3: severe hazard to waters
+beta-Bungarotoxin	1085770	11032-79-4	1541	3	WGK 3: severe hazard to waters
+"N,N-Dimethylsulfamoylchlorid"	1085771	13360-57-1	1541	3	WGK 3: severe hazard to waters
+Dihydrazinsulfat	1085772	13464-80-7	1541	3	WGK 3: severe hazard to waters
+Quinalphos	1085773	13593-03-8	1541	3	WGK 3: severe hazard to waters
+Digitoxigenin-Bisdigitoxosid	1085774	16479-50-8	1541	3	WGK 3: severe hazard to waters
+Edifenphos	1085775	17109-49-8	1541	3	WGK 3: severe hazard to waters
+Phalloidin	1085776	17466-45-4	1541	3	WGK 3: severe hazard to waters
+Lanatosid A	1085777	17575-20-1	1541	3	WGK 3: severe hazard to waters
+Lanatosid C	1085778	17575-22-3	1541	3	WGK 3: severe hazard to waters
+Desacetyl-Lanatosid C	1085779	17598-65-1	1541	3	WGK 3: severe hazard to waters
+3-Diphenylmethoxy-8-isopropyl-8-azoniabicyclo-[3.2.1]octanmethansulfonat	1085780	17616-19-2	1541	3	WGK 3: severe hazard to waters
+Adonitoxin	1085781	17651-61-5	1541	3	WGK 3: severe hazard to waters
+(-)-Methylscopolaminmethylsulfat	1085782	18067-13-5	1541	3	WGK 3: severe hazard to waters
+Digitoxigenin-Monodigitoxosid	1085783	18404-43-8	1541	3	WGK 3: severe hazard to waters
+Benzoxoniumchlorid	1085785	19379-90-9	1541	3	WGK 3: severe hazard to waters
+Digoxin	1085786	20830-75-5	1541	3	WGK 3: severe hazard to waters
+Acetyldigoxin-12	1085787	5511-98-8	1541	3	WGK 3: severe hazard to waters
+Plifenate	1085788	21757-82-4	1541	3	WGK 3: severe hazard to waters
+Fenamiphos	1085789	22224-92-6	1541	3	WGK 3: severe hazard to waters
+Ipratropiumbromid	1085790	22254-24-6	1541	3	WGK 3: severe hazard to waters
+alpha-Amanitin	1085791	23109-05-9	1541	3	WGK 3: severe hazard to waters
+Formetanat	1085792	22259-30-9	1541	3	WGK 3: severe hazard to waters
+Formetanat-hydrochlorid	1085793	23422-53-9	1541	3	WGK 3: severe hazard to waters
+tert.-Dodecanthiol	1085794	25103-58-6	1541	2	WGK 2: hazard to waters
+Digoxigenin-Monodigitoxosid	1085796	5352-63-6	1541	3	WGK 3: severe hazard to waters
+Oxitropiumbromid	1085797	30286-75-0	1541	3	WGK 3: severe hazard to waters
+Methyldigoxin	1085798	30685-43-9	1541	3	WGK 3: severe hazard to waters
+Strophanthosid-K	1085800	33279-57-1	1541	3	WGK 3: severe hazard to waters
+Prothiofos	1085801	34643-46-4	1541	3	WGK 3: severe hazard to waters
+Sulprofos	1085802	35400-43-2	1541	3	WGK 3: severe hazard to waters
+Flubenzimin	1085804	37893-02-0	1541	3	WGK 3: severe hazard to waters
+Climbazol	1085805	38083-17-9	1541	3	WGK 3: severe hazard to waters
+Digitoxigenin-Glucomethylosid	1085806	40950-57-0	1541	3	WGK 3: severe hazard to waters
+Cimetropiumbromid	1085807	51598-60-8	1541	3	WGK 3: severe hazard to waters
+Acetyl-beta-methyldigoxin-12	1085808	51740-69-3	1541	3	WGK 3: severe hazard to waters
+Acemetacin	1085809	53164-05-9	1541	3	WGK 3: severe hazard to waters
+Dihydro-beta-methyldigoxin	1085810	53626-67-8	1541	3	WGK 3: severe hazard to waters
+Neodigoxin	1085812	55576-67-5	1541	3	WGK 3: severe hazard to waters
+Flutropiumbromid	1085815	63516-07-4	1541	3	WGK 3: severe hazard to waters
+Myxothiazol	1085821	76706-55-3	1541	3	WGK 3: severe hazard to waters
+5-Chlor-2-methyl-4-isothiazolin-3-on	1085824	26172-55-4	1541	3	WGK 3: severe hazard to waters
+Dibenzoylperoxid	1085826	94-36-0	1541	1	WGK 1: low hazard to waters
+Dilauroylperoxid	1085827	105-74-8	1541	1	WGK 1: low hazard to waters
+Dicumylperoxid	1085828	80-43-3	1541	2	WGK 2: hazard to waters
+Di-tert.-butylperoxid	1085829	110-05-4	1541	1	WGK 1: low hazard to waters
+tert.-Butylperbenzoat	1085831	614-45-9	1541	2	WGK 2: hazard to waters
+tert.-Butylhydroperoxid	1085832	75-91-2	1541	3	WGK 3: severe hazard to waters
+Dimyristylperoxydicarbonat	1085833	53220-22-7	1541	1	WGK 1: low hazard to waters
+Methylethylketonperoxid	1085834	1338-23-4	1541	1	WGK 1: low hazard to waters
+1-Hydroxy-1-hydroxyperoxy-dicyclohexylperoxid	1085835	78-18-2	1541	1	WGK 1: low hazard to waters
+"Bis-(2,4-dichlorbenzoyl)peroxid"	1085836	133-14-2	1541	2	WGK 2: hazard to waters
+"[Phenylenbis(1-methylethyliden)]-bis(1,1-dimethylethyl)peroxid"	1085837	68527-48-0	1541	1	WGK 1: low hazard to waters
+p-Chlorbenzotrifluorid	1085838	98-56-6	1541	2	WGK 2: hazard to waters
+Phenazon	1085839	60-80-0	1541	1	WGK 1: low hazard to waters
+"1,1,2,2-Tetrafluor-1,2-dichlorethan"	1085840	76-14-2	1541	1	WGK 1: low hazard to waters
+Chlorpentafluorethan	1085841	76-15-3	1541	1	WGK 1: low hazard to waters
+Kampfer	1085842	76-22-2	1541	1	WGK 1: low hazard to waters
+2-Anisidin	1085843	90-04-0	1541	3	WGK 3: severe hazard to waters
+4-Aminobenzoesureethylester	1085844	94-09-7	1541	2	WGK 2: hazard to waters
+"1-Chlor-2,4-dinitrobenzol"	1085845	97-00-7	1541	2	WGK 2: hazard to waters
+"2',4'-Dimethylacetoacetanilid"	1085846	97-36-9	1541	1	WGK 1: low hazard to waters
+Trifluormethylbenzol	1085847	98-08-8	1541	1	WGK 1: low hazard to waters
+3-Trifluormethylanilin	1085848	98-16-8	1541	2	WGK 2: hazard to waters
+4-Nitrophenol	1085849	100-02-7	1541	2	WGK 2: hazard to waters
+Acetoacetanilid	1085850	102-01-2	1541	1	WGK 1: low hazard to waters
+"3,4-Dichlorphenylisocyanat"	1085851	102-36-3	1541	2	WGK 2: hazard to waters
+4-Toluolsulfonsure	1085852	104-15-4	1541	1	WGK 1: low hazard to waters
+4-Anisidin	1085853	104-94-9	1541	2	WGK 2: hazard to waters
+Chloressigsureethylester	1085854	105-39-5	1541	2	WGK 2: hazard to waters
+Glyoxal	1085855	107-22-2	1541	1	WGK 1: low hazard to waters
+Sorbinsure	1085856	110-44-1	1541	1	WGK 1: low hazard to waters
+"D,L-alpha-Tocopherolacetat"	1085857	7695-91-2	1541	1	WGK 1: low hazard to waters
+Phenylethanol	1085858	60-12-8	1541	1	WGK 1: low hazard to waters
+Cholinchlorid	1085859	67-48-1	1541	1	WGK 1: low hazard to waters
+Linalool	1085860	78-70-6	1541	1	WGK 1: low hazard to waters
+Isobutyraldehyd	1085861	78-84-2	1541	1	WGK 1: low hazard to waters
+Isopropanolamin	1085862	78-96-6	1541	1	WGK 1: low hazard to waters
+Chlorameisensuremethylester	1085863	79-22-1	1541	2	WGK 2: hazard to waters
+Isobuttersure	1085864	79-31-2	1541	1	WGK 1: low hazard to waters
+Mucochlorsure	1085865	87-56-9	1541	2	WGK 2: hazard to waters
+"N,N'-Dimethylharnstoff"	1085866	96-31-1	1541	1	WGK 1: low hazard to waters
+3-Ethylamino-p-toluolsulfonsure	1085867	98-40-8	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylcyclohexylamin"	1085868	98-94-2	1541	1	WGK 1: low hazard to waters
+3-Methyl-2-butenal	1085869	107-86-8	1541	2	WGK 2: hazard to waters
+Vinylisobutylether	1085870	109-53-5	1541	1	WGK 1: low hazard to waters
+Ethylenglykolmonomethyletheracetat	1085871	110-49-6	1541	1	WGK 1: low hazard to waters
+"1,4-Butendiol"	1085872	110-64-5	1541	1	WGK 1: low hazard to waters
+"1,4-Butindiol"	1085873	110-65-6	1541	2	WGK 2: hazard to waters
+2-Methyl-3-buten-2-ol	1085874	115-18-4	1541	1	WGK 1: low hazard to waters
+2-Methyl-3-butin-2-ol	1085875	115-19-5	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylanilin"	1085876	121-69-7	1541	2	WGK 2: hazard to waters
+2-Ethylhexanal	1085877	123-05-7	1541	1	WGK 1: low hazard to waters
+Triisopropanolamin	1085878	122-20-3	1541	1	WGK 1: low hazard to waters
+Natriummethylat	1085879	124-41-4	1541	1	WGK 1: low hazard to waters
+"3-Nitrobenzolsulfonsure, Natriumsalz"	1085880	127-68-4	1541	1	WGK 1: low hazard to waters
+3-Methyl-2-buten-1-ol	1085882	556-82-1	1541	1	WGK 1: low hazard to waters
+2-Ethylhexansurechlorid	1085884	760-67-8	1541	1	WGK 1: low hazard to waters
+3-Methyl-3-buten-1-ol	1085885	763-32-6	1541	1	WGK 1: low hazard to waters
+6-Methyl-2-heptanon	1085886	928-68-7	1541	1	WGK 1: low hazard to waters
+Hydroxypivalinsureneopentylglykolester	1085887	1115-20-4	1541	1	WGK 1: low hazard to waters
+4-Chlor-2-methylphenol	1085888	1570-64-5	1541	2	WGK 2: hazard to waters
+"4,5-Dichlor-2-phenyl-3(2H)pyridazinon"	1085889	1698-53-9	1541	2	WGK 2: hazard to waters
+"4,5-Dihydroxy-1,3-bis-(hydroxymethyl)-2-imidazolidinon"	1085890	1854-26-8	1541	1	WGK 1: low hazard to waters
+Anisaldehyddimethylacetal	1085891	2186-92-7	1541	1	WGK 1: low hazard to waters
+Isobutylidendiharnstoff	1085892	6104-30-9	1541	1	WGK 1: low hazard to waters
+Natriumdisulfit	1085893	15771-29-6	1541	1	WGK 1: low hazard to waters
+Natriumdithionit	1085894	7775-14-6	1541	1	WGK 1: low hazard to waters
+2-Aminobutan	1085895	13952-84-6	1541	2	WGK 2: hazard to waters
+Isotridecanol (Isomerengemisch)	1085896	27458-92-0	1541	2	WGK 2: hazard to waters
+Citral	1085897	5392-40-5	1541	1	WGK 1: low hazard to waters
+"6,7-Dihydrolinalool"	1085898	18479-49-7	1541	1	WGK 1: low hazard to waters
+2-Methyl-4-chlorphenoxyessigsure	1085900	94-74-6	1541	2	WGK 2: hazard to waters
+"2,4-Dichlorphenoxyessigsure"	1085901	94-75-7	1541	2	WGK 2: hazard to waters
+"2-(2,4-Dichlorphenoxy)-propionsure"	1085902	120-36-5	1541	2	WGK 2: hazard to waters
+2-Ethylhexansure	1085903	149-57-5	1541	1	WGK 1: low hazard to waters
+Dazomet	1085904	533-74-4	1541	3	WGK 3: severe hazard to waters
+N-Methylpyrrolidon	1085905	872-50-4	1541	1	WGK 1: low hazard to waters
+Phthalsurediisobutylester	1085906	84-69-5	1541	2	WGK 2: hazard to waters
+4-tert.-Butyltoluol	1085907	98-51-1	1541	2	WGK 2: hazard to waters
+4-tert.-Butylcyclohexanol	1085908	98-52-2	1541	1	WGK 1: low hazard to waters
+4-tert.-Butylphenol	1085909	98-54-4	1541	2	WGK 2: hazard to waters
+Malonsurediethylester	1085910	105-53-3	1541	1	WGK 1: low hazard to waters
+Maleinsuredi-n-butylester	1085911	105-76-0	1541	1	WGK 1: low hazard to waters
+1-Chlorbutan	1085912	109-69-3	1541	2	WGK 2: hazard to waters
+Fumarsure	1085913	110-17-8	1541	1	WGK 1: low hazard to waters
+1-Chloroctan	1085914	111-85-3	1541	2	WGK 2: hazard to waters
+Tetrahydronaphthalin	1085915	119-64-2	1541	2	WGK 2: hazard to waters
+ortho-Ameisensuretriethylester	1085916	122-51-0	1541	1	WGK 1: low hazard to waters
+Methallylchlorid	1085917	563-47-3	1541	2	WGK 2: hazard to waters
+Laurinlactam	1085918	947-04-6	1541	1	WGK 1: low hazard to waters
+Methyl-tert.butylether	1085919	1634-04-4	1541	1	WGK 1: low hazard to waters
+Isophorondiamin	1085920	2855-13-2	1541	1	WGK 1: low hazard to waters
+Isophorondiisocyanat	1085921	4098-71-9	1541	2	WGK 2: hazard to waters
+"1,5,9-Cyclododecatrien"	1085922	4904-61-4	1541	2	WGK 2: hazard to waters
+Aluminiumdiethylmonochlorid	1085923	96-10-6	1541	1	WGK 1: low hazard to waters
+Aluminiumethylsesquichlorid	1085924	12075-68-2	1541	1	WGK 1: low hazard to waters
+Paracetamol	1085925	103-90-2	1541	1	WGK 1: low hazard to waters
+Pentanatriumtriphosphat	1085926	7758-29-4	1541	1	WGK 1: low hazard to waters
+Amitrol	1085927	61-82-5	1541	2	WGK 2: hazard to waters
+Trimethylolpropan	1085928	77-99-6	1541	1	WGK 1: low hazard to waters
+Phosphorsuretris-(2-ethylhexyl)-ester	1085929	78-42-2	1541	2	WGK 2: hazard to waters
+"4,4'-Diaminostilben-2,2'-disulfonsure"	1085930	81-11-8	1541	1	WGK 1: low hazard to waters
+2-Naphthylamin-1-sulfonsure	1085931	81-16-3	1541	1	WGK 1: low hazard to waters
+1-Aminoanthrachinon	1085932	82-45-1	1541	1	WGK 1: low hazard to waters
+"1,5-Naphthalindiol"	1085933	83-56-7	1541	2	WGK 2: hazard to waters
+Anthrachinon	1085934	84-65-1	1541	1	WGK 1: low hazard to waters
+1-Nitronaphthalin	1085935	86-57-7	1541	2	WGK 2: hazard to waters
+7-Amino-4-hydroxy-2-naphthalinsulfonsure	1085936	87-02-5	1541	1	WGK 1: low hazard to waters
+Thymol	1085937	89-83-8	1541	2	WGK 2: hazard to waters
+"4,4'-Dihydroxybiphenyl"	1085939	92-88-6	1541	2	WGK 2: hazard to waters
+o-Kresol	1085940	95-48-7	1541	2	WGK 2: hazard to waters
+"2,4-Dichlortoluol"	1085941	95-73-8	1541	2	WGK 2: hazard to waters
+Benzalchlorid	1085942	98-87-3	1541	3	WGK 3: severe hazard to waters
+Dicyclohexylamin	1085943	101-83-7	1541	2	WGK 2: hazard to waters
+Diphenylcarbonat	1085944	102-09-0	1541	1	WGK 1: low hazard to waters
+N-Phenylformamid	1085945	103-70-8	1541	2	WGK 2: hazard to waters
+n-Buttersureanhydrid	1085946	106-31-0	1541	1	WGK 1: low hazard to waters
+Phosphorsuredi-n-butylester	1085947	107-66-4	1541	1	WGK 1: low hazard to waters
+Diethylentriamin	1085948	111-40-0	1541	2	WGK 2: hazard to waters
+Phosphorsuretriphenylester	1085949	115-86-6	1541	2	WGK 2: hazard to waters
+"2,6-Dichlortoluol"	1085950	118-69-4	1541	2	WGK 2: hazard to waters
+Phosphorigsuretrimethylester	1085951	121-45-9	1541	1	WGK 1: low hazard to waters
+Propionsureanhydrid	1085952	123-62-6	1541	1	WGK 1: low hazard to waters
+Phosphorsurebis-(2-ethylhexyl)-ester	1085953	298-07-7	1541	1	WGK 1: low hazard to waters
+Calciumformiat	1085954	544-17-2	1541	1	WGK 1: low hazard to waters
+Phosphorsuretrikresylester	1085957	1241-94-7	1541	2	WGK 2: hazard to waters
+Thiophosphorylchlorid	1085958	3982-91-0	1541	2	WGK 2: hazard to waters
+"4-Amino-5-hydroxy-2,7-naphthalindisulfonsure, Mononatriumsalz"	1085959	312693-54-2	1541	1	WGK 1: low hazard to waters
+Thionylchlorid	1085961	9/7/7719	1541	1	WGK 1: low hazard to waters
+Phosphortrichlorid	1085962	12/2/7719	1541	1	WGK 1: low hazard to waters
+2-Ethyl-6-methylanilin	1085964	24549-06-2	1541	2	WGK 2: hazard to waters
+Phosphorsurediphenylkresylester	1085965	26444-49-5	1541	2	WGK 2: hazard to waters
+Methacrylamid	1085968	79-39-0	1541	1	WGK 1: low hazard to waters
+Methacrylsure	1085969	79-41-4	1541	1	WGK 1: low hazard to waters
+Methacrylsureisobutylester	1085970	97-86-9	1541	1	WGK 1: low hazard to waters
+Methacrylsure-n-butylester	1085971	97-88-1	1541	1	WGK 1: low hazard to waters
+Methacrylsure-2-hydroxyethylester	1085972	868-77-9	1541	1	WGK 1: low hazard to waters
+Methacrylsurehydroxypropylester	1085973	27813-02-1	1541	1	WGK 1: low hazard to waters
+Methacrylsure-2-(dimethylamino)ethylester	1085974	2867-47-2	1541	1	WGK 1: low hazard to waters
+Bis-(2-methoxyethyl)ether	1085975	111-96-6	1541	1	WGK 1: low hazard to waters
+Dodecyldimethylamin	1085976	112-18-5	1541	2	WGK 2: hazard to waters
+2-Chlor-4-nitrotoluol	1085977	121-86-8	1541	2	WGK 2: hazard to waters
+2-Chlor-4-nitroanilin	1085978	121-87-9	1541	2	WGK 2: hazard to waters
+2-(2-Butoxyethoxy)ethylacetat	1085979	124-17-4	1541	1	WGK 1: low hazard to waters
+2-Naphthol	1085980	135-19-3	1541	2	WGK 2: hazard to waters
+p-Chlorbenzotrichlorid	1085982	5216-25-1	1541	3	WGK 3: severe hazard to waters
+Sulfamidsure	1085983	5329-14-6	1541	1	WGK 1: low hazard to waters
+Zinntetrachlorid	1085984	7646-78-8	1541	1	WGK 1: low hazard to waters
+"N,N'-Ethylenbis-(N-acetylacetamid)"	1085985	10543-57-4	1541	1	WGK 1: low hazard to waters
+Phosphonsure	1085986	13598-36-2	1541	1	WGK 1: low hazard to waters
+N-[4-[(2-Hydroxyethyl)-sulfonyl]phenyl]acetamid	1085987	27375-52-6	1541	1	WGK 1: low hazard to waters
+p-Isopropylphenylisocyanat	1085988	31027-31-3	1541	1	WGK 1: low hazard to waters
+Octadecylamin	1085989	124-30-1	1541	2	WGK 2: hazard to waters
+Essigsureisobornylester	1085990	125-12-2	1541	1	WGK 1: low hazard to waters
+"1,3-Dichlor-4-nitrobenzol"	1085991	611-06-3	1541	3	WGK 3: severe hazard to waters
+Kalium-O-pentyldithiocarbonat	1085992	2720-73-2	1541	3	WGK 3: severe hazard to waters
+Isononansure (Isomerengemisch)	1085994	26896-18-4	1541	1	WGK 1: low hazard to waters
+Talg(C14 - C18)nitril	1085995	61790-28-1	1541	2	WGK 2: hazard to waters
+Natriumamid	1085997	7782-92-5	1541	2	WGK 2: hazard to waters
+Phosphonsuredimethylester	1085998	868-85-9	1541	1	WGK 1: low hazard to waters
+Methabenzthiazuron	1085999	18691-97-9	1541	2	WGK 2: hazard to waters
+"1,5-Naphthylendiamin"	1086000	2243-62-1	1541	2	WGK 2: hazard to waters
+Natriumbenzoat	1086001	532-32-1	1541	1	WGK 1: low hazard to waters
+"2-Methyl-1,3-butadien"	1086002	78-79-5	1541	1	WGK 1: low hazard to waters
+-Butyrolacton	1086003	96-48-0	1541	1	WGK 1: low hazard to waters
+Diketen	1086004	674-82-8	1541	1	WGK 1: low hazard to waters
+Diethylethanolamin	1086005	100-37-8	1541	1	WGK 1: low hazard to waters
+Dimethylacetamid	1086006	127-19-5	1541	1	WGK 1: low hazard to waters
+2-Pyrrolidon	1086007	616-45-5	1541	1	WGK 1: low hazard to waters
+Isodecanol (Isomerengemisch)	1086008	25339-17-7	1541	1	WGK 1: low hazard to waters
+Essigsureisopropenylester	1086009	108-22-5	1541	1	WGK 1: low hazard to waters
+Natriumhexacyanoferrat (II)	1086010	13601-19-9	1541	2	WGK 2: hazard to waters
+Diuron	1086011	330-54-1	1541	3	WGK 3: severe hazard to waters
+Phthalsurediisononylester (Isomerengemisch)	1086012	28553-12-0	1541	1	WGK 1: low hazard to waters
+Glutarsure	1086013	110-94-1	1541	1	WGK 1: low hazard to waters
+Triethylentetramin	1086014	112-24-3	1541	2	WGK 2: hazard to waters
+Propineb	1086015	12071-83-9	1541	2	WGK 2: hazard to waters
+Chinolin	1086016	91-22-5	1541	2	WGK 2: hazard to waters
+Tetrafluoroborsure	1086017	16872-11-0	1541	1	WGK 1: low hazard to waters
+Pentachlorthiophenol	1086018	133-49-3	1541	3	WGK 3: severe hazard to waters
+Phenylisocyanat	1086019	103-71-9	1541	2	WGK 2: hazard to waters
+4-Hydroxybenzoesure	1086020	99-96-7	1541	1	WGK 1: low hazard to waters
+Phosgen	1086021	75-44-5	1541	2	WGK 2: hazard to waters
+Triadimefon	1086022	43121-43-3	1541	2	WGK 2: hazard to waters
+"2-Phosphonobutan-1,2,4-tricarbonsure"	1086023	37971-36-1	1541	1	WGK 1: low hazard to waters
+Triadimenol	1086024	55219-65-3	1541	2	WGK 2: hazard to waters
+Diphenyl	1086026	92-52-4	1541	2	WGK 2: hazard to waters
+2-Phenylphenol	1086027	132-27-4	1541	2	WGK 2: hazard to waters
+"1,2,4,5-Tetrachlorbenzol"	1086028	95-94-3	1541	3	WGK 3: severe hazard to waters
+m-Phenylendiamin	1086029	108-45-2	1541	2	WGK 2: hazard to waters
+Fettsuren (C8 - C10) Trimethylolpropan-Neopentylglykolester	1086030	97281-24-8	1541	1	WGK 1: low hazard to waters
+"Kieselsure, Natriumsalz"	1086031	1344-09-8	1541	1	WGK 1: low hazard to waters
+"Kieselsure, Kaliumsalz"	1086032	1312-76-1	1541	1	WGK 1: low hazard to waters
+Triethanolaminlaurylsulfat	1086033	139-96-8	1541	2	WGK 2: hazard to waters
+"2,2,4-Trimethyl-1,2-dihydrochinolin, Polymer"	1086034	26780-96-1	1541	2	WGK 2: hazard to waters
+p-Phenetidin	1086038	156-43-4	1541	1	WGK 1: low hazard to waters
+6-Aminopenicillansure	1086039	551-16-6	1541	2	WGK 2: hazard to waters
+Maleinsuredimethylester	1086040	624-48-6	1541	1	WGK 1: low hazard to waters
+"Naphthalin-1,5-disulfonsure, Dinatriumsalz"	1086041	1655-29-4	1541	1	WGK 1: low hazard to waters
+N-Methylformamid	1086044	123-39-7	1541	1	WGK 1: low hazard to waters
+Hydrodehydrolinalool	1086045	1604-26-8	1541	2	WGK 2: hazard to waters
+Kaliumperoxomonosulfat	1086046	37222-66-5	1541	1	WGK 1: low hazard to waters
+Natriumperborat	1086047	4/4/7632	1541	1	WGK 1: low hazard to waters
+"N-Phenyl-N'-isopropyl-1,4-phenylendiamin"	1086050	101-72-4	1541	3	WGK 3: severe hazard to waters
+"N,N'-Diphenylguanidin"	1086051	102-06-7	1541	2	WGK 2: hazard to waters
+"1,4-Butandiol"	1086052	110-63-4	1541	1	WGK 1: low hazard to waters
+"N,N-Diethylanilin"	1086053	91-66-7	1541	2	WGK 2: hazard to waters
+"1,2,4-Triazol"	1086054	288-88-0	1541	2	WGK 2: hazard to waters
+Adipinsure-Hexamethylendiaminsalz	1086055	3323-53-3	1541	1	WGK 1: low hazard to waters
+Natriumaluminat	1086056	1302-42-7	1541	1	WGK 1: low hazard to waters
+Kupfer(II)-nitrat	1086057	3251-23-8	1541	2	WGK 2: hazard to waters
+Kaliumperoxodisulfat	1086058	7727-21-1	1541	1	WGK 1: low hazard to waters
+Natriumperoxodisulfat	1086059	7775-27-1	1541	1	WGK 1: low hazard to waters
+"1,1'-Azobiscarbamid"	1086060	123-77-3	1541	1	WGK 1: low hazard to waters
+Hexamethylendiamin	1086061	124-09-4	1541	1	WGK 1: low hazard to waters
+Isovaleraldehyd	1086062	590-86-3	1541	1	WGK 1: low hazard to waters
+Natriumcyanat	1086063	917-61-3	1541	1	WGK 1: low hazard to waters
+Natriumperoxocarbonat	1086069	15630-89-4	1541	1	WGK 1: low hazard to waters
+"2,3-Epoxypropyl-N,N,N-trimethylammoniumchlorid"	1086070	3033-77-0	1541	3	WGK 3: severe hazard to waters
+Natriumcumolsulfonat	1086071	28348-53-0	1541	1	WGK 1: low hazard to waters
+"3,5-Dimethylphenol"	1086072	108-68-9	1541	2	WGK 2: hazard to waters
+Nicotinsure	1086073	59-67-6	1541	1	WGK 1: low hazard to waters
+Dimethylaminoboran	1086074	1838-13-7	1541	2	WGK 2: hazard to waters
+Peroxyessigsure	1086076	79-21-0	1541	2	WGK 2: hazard to waters
+Theobromin	1086077	83-67-0	1541	1	WGK 1: low hazard to waters
+2-Ethylanthrachinon	1086078	84-51-5	1541	1	WGK 1: low hazard to waters
+Tetrahydrophthalsureanhydrid	1086079	85-43-8	1541	1	WGK 1: low hazard to waters
+2-Ethylaminobenzoesure	1086080	89-50-9	1541	1	WGK 1: low hazard to waters
+Benzothiazol	1086081	95-16-9	1541	2	WGK 2: hazard to waters
+4-Chlorphenylisocyanat	1086082	104-12-1	1541	3	WGK 3: severe hazard to waters
+"Allyl-2,3-epoxypropylether"	1086083	106-92-3	1541	3	WGK 3: severe hazard to waters
+2-Methylaminoethanol	1086084	109-83-1	1541	1	WGK 1: low hazard to waters
+Dimethoxymethan	1086085	109-87-5	1541	1	WGK 1: low hazard to waters
+Linalylacetat	1086086	115-95-7	1541	1	WGK 1: low hazard to waters
+"1,3,3-Trimethyl-2-methylenindol"	1086087	118-12-7	1541	2	WGK 2: hazard to waters
+"4, 4'-Methylen-bis(2,6-di-tert.-butylphenol)"	1086088	118-82-1	1541	1	WGK 1: low hazard to waters
+7-Anilino-4-hydroxynaphthalin-2-sulfonsure	1086089	119-40-4	1541	2	WGK 2: hazard to waters
+"N,N-Di(2-hydroxyethyl)anilin"	1086090	120-07-0	1541	2	WGK 2: hazard to waters
+"N,N-Dimethyl-m-toluidin"	1086091	121-72-2	1541	2	WGK 2: hazard to waters
+Calcium-D-pantothenat	1086092	137-08-6	1541	1	WGK 1: low hazard to waters
+"2,4-Dichlorbenzotrifluorid"	1086094	320-60-5	1541	2	WGK 2: hazard to waters
+p-Fluorbenzotrichlorid	1086095	5216-25-1	1541	2	WGK 2: hazard to waters
+Pantolacton	1086096	79-50-5	1541	1	WGK 1: low hazard to waters
+N-Methylbenzamid	1086097	613-93-4	1541	1	WGK 1: low hazard to waters
+"1,6-Hexandiol"	1086098	629-11-8	1541	1	WGK 1: low hazard to waters
+Octandinitril	1086099	629-40-3	1541	1	WGK 1: low hazard to waters
+Cyclohexylmethylketon	1086100	823-76-7	1541	1	WGK 1: low hazard to waters
+4-Nitro-N-phenylanilin	1086102	836-30-6	1541	3	WGK 3: severe hazard to waters
+Diphenylphosphinchlorid	1086103	1079-66-9	1541	2	WGK 2: hazard to waters
+Trioctylamin	1086104	1116-76-3	1541	2	WGK 2: hazard to waters
+Kupfer(II)-oxid	1086105	1317-38-0	1541	1	WGK 1: low hazard to waters
+p-Anissure	1086106	100-09-4	1541	1	WGK 1: low hazard to waters
+"2,3,3-Trimethylindol"	1086107	1640-39-7	1541	1	WGK 1: low hazard to waters
+2-Amino-4-methoxy-6-methyl-s-triazin	1086108	1668-54-8	1541	1	WGK 1: low hazard to waters
+2-Hydroxy-1-naphthoesure	1086109	8/1/2283	1541	2	WGK 2: hazard to waters
+"N,N-Dimethyl-n-octadecyl-(2-hydroxy-3-chlorpropyl)-ammoniumchlorid"	1086111	3001-63-6	1541	3	WGK 3: severe hazard to waters
+"1,2,4-Butantriol"	1086112	3068-00-6	1541	1	WGK 1: low hazard to waters
+Octadecyltrimethoxysilan	1086113	3069-42-9	1541	1	WGK 1: low hazard to waters
+Geranylaceton	1086114	3796-70-1	1541	2	WGK 2: hazard to waters
+"Perfluoroctansure, Ammoniumsalz"	1086115	3825-26-1	1541	2	WGK 2: hazard to waters
+beta-D-Galactosepentaacetat	1086116	4163-60-4	1541	1	WGK 1: low hazard to waters
+"2-Methoxy-2,3-dihydro-4H-pyran"	1086117	5/1/4454	1541	1	WGK 1: low hazard to waters
+N-(4-Aminophenyl)-carbaminsuremethylester	1086119	3/8/6465	1541	2	WGK 2: hazard to waters
+beta-Carotin	1086120	7235-40-7	1541	1	WGK 1: low hazard to waters
+Polyglycerin	1086123	25618-55-7	1541	1	WGK 1: low hazard to waters
+Paraformaldehyd	1086124	110-88-3	1541	2	WGK 2: hazard to waters
+Bezafibrat	1086125	41859-67-0	1541	1	WGK 1: low hazard to waters
+Ultramarinblau	1086127	57455-37-5	1541	1	WGK 1: low hazard to waters
+"N,N'-Bis(2,2,6,6-tetramethyl-4-piperidinyl)-1,6-hexandiamin"	1086128	61260-55-7	1541	2	WGK 2: hazard to waters
+6-Nitro-1-diazo-2-naphthol-4-sulfonsure	1086129	5366-84-7	1541	2	WGK 2: hazard to waters
+Cefodizim-Dinatriumsalz	1086136	86329-79-5	1541	2	WGK 2: hazard to waters
+Aminoguanidinbicarbonat	1086137	2582-30-1	1541	2	WGK 2: hazard to waters
+Natriumthiocyanat	1086138	540-72-7	1541	1	WGK 1: low hazard to waters
+Ammoniumthiocyanat	1086139	1762-95-4	1541	1	WGK 1: low hazard to waters
+Benzildimethylketal	1086140	24650-42-8	1541	2	WGK 2: hazard to waters
+Diphenylphosphinoxid	1086141	4559-70-0	1541	2	WGK 2: hazard to waters
+1H-Imidazol	1086144	288-32-4	1541	1	WGK 1: low hazard to waters
+Di-(2-methylbenzoyl)-peroxid	1086146	1712-87-4	1541	1	WGK 1: low hazard to waters
+Didecanoylperoxid	1086147	762-12-9	1541	1	WGK 1: low hazard to waters
+Dioctanoylperoxid	1086148	762-16-3	1541	1	WGK 1: low hazard to waters
+"Di-(3,5,5-trimethylhexanoyl)-peroxid"	1086149	3851-87-4	1541	1	WGK 1: low hazard to waters
+tert.-Butylcumylperoxid	1086151	3457-61-2	1541	2	WGK 2: hazard to waters
+tert.-Butylperoxyisobutyrat	1086154	109-13-7	1541	2	WGK 2: hazard to waters
+tert.-Butylperoxyneodecanoat	1086155	26748-41-4	1541	2	WGK 2: hazard to waters
+tert.-Butylperoxyacetat	1086156	107-71-1	1541	2	WGK 2: hazard to waters
+"tert.-Butylperoxy-3,5,5,-trimethylhexanoat"	1086157	13122-18-4	1541	2	WGK 2: hazard to waters
+tert.-Butylperoxypivalat	1086158	927-07-1	1541	2	WGK 2: hazard to waters
+tert.-Amylperoxyneodecanoat	1086159	68299-16-1	1541	2	WGK 2: hazard to waters
+tert.-Amylperoxypivalat21	1086160	29240-17-3	1541	2	WGK 2: hazard to waters
+tert.-Amylperoxy-2-ethylhexanoat	1086161	686-31-7	1541	2	WGK 2: hazard to waters
+Cumylperoxyneodecanoat	1086164	26748-47-0	1541	2	WGK 2: hazard to waters
+tert.-Butylperoxy-2-methylbenzoat	1086166	22313-62-8	1541	2	WGK 2: hazard to waters
+Dicetylperoxydicarbonat	1086167	26322-14-5	1541	1	WGK 1: low hazard to waters
+Di-(2-ethylhexyl)-peroxydicarbonat	1086168	16111-62-9	1541	2	WGK 2: hazard to waters
+Di-(p-chlorbenzoyl)-peroxid	1086170	94-17-7	1541	2	WGK 2: hazard to waters
+"1-Brom-3,5-difluorbenzol"	1086171	461-96-1	1541	2	WGK 2: hazard to waters
+1-Dodecanol	1086173	112-53-8	1541	1	WGK 1: low hazard to waters
+Natriumbutyrat	1086175	156-54-7	1541	1	WGK 1: low hazard to waters
+4-Methylimidazol	1086176	822-36-6	1541	2	WGK 2: hazard to waters
+Ferrocen	1086178	102-54-5	1541	2	WGK 2: hazard to waters
+Acetylacetonperoxid	1086180	37187-22-7	1541	1	WGK 1: low hazard to waters
+Di-(4-tert.-butylcyclohexyl)-peroxydicarbonat	1086182	15520-11-3	1541	1	WGK 1: low hazard to waters
+Diisopropylperoxydicarbonat	1086183	105-64-6	1541	1	WGK 1: low hazard to waters
+Methylisobutylketonperoxid	1086184	28056-59-9	1541	1	WGK 1: low hazard to waters
+"2-Ethyl-4-methyl-1,3-dioxolan (cis/trans-Gemisch)"	1086186	4359-46-0	1541	1	WGK 1: low hazard to waters
+Dipropylentriamin	1086189	56-18-8	1541	2	WGK 2: hazard to waters
+Folsure	1086190	59-30-3	1541	1	WGK 1: low hazard to waters
+4-Nitrobenzoesure	1086191	62-23-7	1541	1	WGK 1: low hazard to waters
+2-Phenylethylamin	1086192	64-04-0	1541	1	WGK 1: low hazard to waters
+Capronaldehyd	1086193	66-25-1	1541	1	WGK 1: low hazard to waters
+p-Toluolsulfonamid	1086194	70-55-3	1541	1	WGK 1: low hazard to waters
+Formamid	1086195	75-12-7	1541	1	WGK 1: low hazard to waters
+tert.-Butylamin	1086196	75-64-9	1541	1	WGK 1: low hazard to waters
+Neopentylalkohol	1086197	75-84-3	1541	1	WGK 1: low hazard to waters
+Pivalinsure	1086198	75-98-9	1541	1	WGK 1: low hazard to waters
+"2,2,3,3-Tetrafluorpropanol-1"	1086199	76-37-9	1541	1	WGK 1: low hazard to waters
+3-Methyl-1-pentin-3-ol	1086200	77-75-8	1541	1	WGK 1: low hazard to waters
+"2,6-Dimethyl-6-octanol"	1086201	78-69-3	1541	1	WGK 1: low hazard to waters
+Chloracetamid	1086202	79-07-2	1541	2	WGK 2: hazard to waters
+"Naphthalin-1,8-dicarbonsureimid"	1086203	81-83-4	1541	1	WGK 1: low hazard to waters
+beta-Naphthochinaldin	1086204	85-02-9	1541	2	WGK 2: hazard to waters
+Hexahydrophthalsureanhydrid	1086205	85-42-7	1541	1	WGK 1: low hazard to waters
+"2,6-Dimethylanilin"	1086206	87-62-7	1541	2	WGK 2: hazard to waters
+2-Ethylbuttersure	1086207	88-09-5	1541	1	WGK 1: low hazard to waters
+2-Amino-1-trifluormethylbenzol	1086208	88-17-5	1541	1	WGK 1: low hazard to waters
+2-tert.-Butylphenol	1086209	88-18-6	1541	2	WGK 2: hazard to waters
+o-Toluolsulfonamid	1086210	88-19-7	1541	2	WGK 2: hazard to waters
+2-Amino-4-chlorphenol-6-sulfonsure	1086211	88-23-3	1541	2	WGK 2: hazard to waters
+"2,5-Diaminobenzolsulfonsure"	1086212	88-45-9	1541	2	WGK 2: hazard to waters
+2-tert.-Butyl-5-methylphenol	1086215	88-60-8	1541	2	WGK 2: hazard to waters
+"1,3-Phenylendiamin-4-sulfonsure"	1086216	88-63-1	1541	2	WGK 2: hazard to waters
+3-Aminoacetanilid-4-sulfonsure	1086217	88-64-2	1541	2	WGK 2: hazard to waters
+1-Chlor-2-(dichlormethyl)-benzol	1086218	638-49-3	1541	2	WGK 2: hazard to waters
+2-Aminobenzamid	1086219	88-68-6	1541	1	WGK 1: low hazard to waters
+2-Hydroxy-5-methyl-benzoesure	1086220	89-56-5	1541	1	WGK 1: low hazard to waters
+5-Aminosalicylsure	1086221	89-57-6	1541	2	WGK 2: hazard to waters
+"2,4-Dihydroxybenzoesure"	1086222	89-86-1	1541	1	WGK 1: low hazard to waters
+"4,4'-Bis-(diethylamino)-benzophenon"	1086223	90-93-7	1541	2	WGK 2: hazard to waters
+3-Diethylaminophenol	1086224	91-68-9	1541	2	WGK 2: hazard to waters
+N-Chlorethyl-N-ethylanilin	1086225	92-49-9	1541	2	WGK 2: hazard to waters
+N-Hydroxyethyl-N-ethylanilin	1086226	92-50-2	1541	2	WGK 2: hazard to waters
+N-Phenylmorpholin	1086227	92-53-5	1541	2	WGK 2: hazard to waters
+N-Ethyl-N-benzylanilin	1086228	92-59-1	1541	2	WGK 2: hazard to waters
+2-Aminonaphthalin-6-sulfonsure	1086229	93-00-5	1541	1	WGK 1: low hazard to waters
+2-Phenylpropanal	1086230	93-53-8	1541	1	WGK 1: low hazard to waters
+Benzoesuremethylester	1086231	93-58-3	1541	1	WGK 1: low hazard to waters
+N-Hydroxyethyl-N-methylanilin	1086233	93-90-3	1541	2	WGK 2: hazard to waters
+N-Ethyl-o-toluidin	1086235	94-68-8	1541	1	WGK 1: low hazard to waters
+"2,4-Dichlorbenzylchlorid"	1086237	94-99-5	1541	3	WGK 3: severe hazard to waters
+2-Aminophenol	1086238	95-55-6	1541	2	WGK 2: hazard to waters
+2-Methylhydrochinon	1086239	95-71-6	1541	2	WGK 2: hazard to waters
+"3,4-Dichlortoluol"	1086240	95-75-0	1541	2	WGK 2: hazard to waters
+2-Amino-4-methylphenol	1086241	95-84-1	1541	2	WGK 2: hazard to waters
+Methylethylketoxim	1086242	96-29-7	1541	1	WGK 1: low hazard to waters
+2-Amino-4-nitrophenol-6-sulfonsure	1086243	96-67-3	1541	2	WGK 2: hazard to waters
+4-Aminoacetanilid-3-sulfonsure	1086244	96-78-6	1541	1	WGK 1: low hazard to waters
+Diisopropylethanolamin	1086245	96-80-0	1541	2	WGK 2: hazard to waters
+Diethylmetanilsure	1086246	97-20-1	1541	1	WGK 1: low hazard to waters
+2-Diethylaminoethylamin	1086247	100-36-7	1541	1	WGK 1: low hazard to waters
+Cyclohexylmethanol	1086248	100-49-2	1541	1	WGK 1: low hazard to waters
+N-Methylcyclohexylamin	1086249	100-60-7	1541	1	WGK 1: low hazard to waters
+Cyclohexanonoxim	1086250	100-64-1	1541	1	WGK 1: low hazard to waters
+N-Ethylmorpholin	1086251	100-74-3	1541	1	WGK 1: low hazard to waters
+Hexamethylentetramin	1086252	100-97-0	1541	1	WGK 1: low hazard to waters
+Triallylcyanurat	1086253	101-37-1	1541	2	WGK 2: hazard to waters
+Tri-n-propylamin	1086254	102-69-2	1541	2	WGK 2: hazard to waters
+Butyldiethanolamin	1086255	102-79-4	1541	1	WGK 1: low hazard to waters
+Dibutylethanolamin	1086256	102-81-8	1541	1	WGK 1: low hazard to waters
+Benzylisobutyrat	1086257	103-28-6	1541	1	WGK 1: low hazard to waters
+2-Phenylethylacetat	1086258	103-45-7	1541	1	WGK 1: low hazard to waters
+N-Methylbenzylamin	1086259	103-67-3	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylbenzylamin"	1086260	103-83-3	1541	2	WGK 2: hazard to waters
+Hydrochinon-bis(2-hydroxyethyl)ether	1086262	104-38-1	1541	1	WGK 1: low hazard to waters
+N-(3-Diethylaminopropyl)amin	1086263	104-78-9	1541	1	WGK 1: low hazard to waters
+p-Tolylaldehyd	1086265	104-87-0	1541	1	WGK 1: low hazard to waters
+4-Chlorbenzaldehyd	1086266	104-88-1	1541	2	WGK 2: hazard to waters
+4-Nitrosophenol	1086267	104-91-6	1541	2	WGK 2: hazard to waters
+4-Methoxytoluol	1086268	104-93-8	1541	1	WGK 1: low hazard to waters
+4-Methoxybenzylalkohol	1086269	105-13-5	1541	1	WGK 1: low hazard to waters
+Vinylpropionat	1086270	105-38-4	1541	1	WGK 1: low hazard to waters
+N-Methyldiethanolamin	1086271	105-59-9	1541	1	WGK 1: low hazard to waters
+Di-(2-ethylhexyl)amin	1086272	106-20-7	1541	2	WGK 2: hazard to waters
+Citronellol	1086273	106-22-9	1541	1	WGK 1: low hazard to waters
+Citronellal	1086274	106-23-0	1541	1	WGK 1: low hazard to waters
+p-Kresol	1086275	106-44-5	1541	2	WGK 2: hazard to waters
+4-Chlorphenol	1086276	106-48-9	1541	2	WGK 2: hazard to waters
+p-Phenylendiamin	1086277	106-50-3	1541	3	WGK 3: severe hazard to waters
+Isobutylacrylat	1086278	106-63-8	1541	2	WGK 2: hazard to waters
+Propionitril	1086279	107-12-0	1541	1	WGK 1: low hazard to waters
+Methylproxitol	1086280	107-98-2	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylamino-2-propanol"	1086281	108-16-7	1541	1	WGK 1: low hazard to waters
+Resorcin	1086282	108-46-3	1541	1	WGK 1: low hazard to waters
+Cyanurchlorid	1086283	108-77-0	1541	1	WGK 1: low hazard to waters
+3-Methylpyridin	1086284	108-99-6	1541	1	WGK 1: low hazard to waters
+N-Methylpiperazin	1086285	109-01-3	1541	2	WGK 2: hazard to waters
+2-Methylpyridin	1086286	109-06-8	1541	1	WGK 1: low hazard to waters
+"1,3-Diaminopropan"	1086288	109-76-2	1541	2	WGK 2: hazard to waters
+Vinylethylether	1086289	109-92-2	1541	1	WGK 1: low hazard to waters
+Ethylformiat	1086290	109-94-4	1541	1	WGK 1: low hazard to waters
+Pentylamin	1086291	110-58-7	1541	1	WGK 1: low hazard to waters
+Monoethylethanolamin	1086292	109-83-1	1541	1	WGK 1: low hazard to waters
+2-Ethylthioethanol	1086293	110-77-0	1541	2	WGK 2: hazard to waters
+n-Propylisocyanat	1086294	110-78-1	1541	1	WGK 1: low hazard to waters
+2-Methylhepten-2-on-6	1086295	110-93-0	1541	1	WGK 1: low hazard to waters
+Tetramethylpropylendiamin	1086296	110-95-2	1541	2	WGK 2: hazard to waters
+n-Hexylamin	1086297	111-26-2	1541	1	WGK 1: low hazard to waters
+"1,5-Pentandiol"	1086298	111-29-5	1541	1	WGK 1: low hazard to waters
+Aminoethylethanolamin	1086299	111-41-1	1541	1	WGK 1: low hazard to waters
+Butylmonoethanolamin	1086300	111-75-1	1541	1	WGK 1: low hazard to waters
+n-Octylamin	1086301	111-86-4	1541	2	WGK 2: hazard to waters
+Ethyldiglykolacetat	1086302	112-15-2	1541	1	WGK 1: low hazard to waters
+Tetraethylenpentamin	1086303	112-57-2	1541	2	WGK 2: hazard to waters
+Dimethyltetradecylamin	1086304	112-75-4	1541	3	WGK 3: severe hazard to waters
+Hydroxyaceton	1086305	116-09-6	1541	1	WGK 1: low hazard to waters
+Bisphenol-A-propoxylat	1086306	37353-75-6	1541	2	WGK 2: hazard to waters
+1-Amino-2-brom-4-hydroxyanthrachinon	1086307	116-82-5	1541	1	WGK 1: low hazard to waters
+"1,8-Dihydroxyanthrachinon"	1086308	117-10-2	1541	1	WGK 1: low hazard to waters
+2-Hydroxy-dibenzofuran-3-carbonsure	1086309	118-36-5	1541	2	WGK 2: hazard to waters
+"3,4,5-Trimethoxybenzoesure"	1086310	118-41-2	1541	1	WGK 1: low hazard to waters
+N-Ethyl-alpha-naphthylamin	1086311	118-44-5	1541	2	WGK 2: hazard to waters
+1-Amino-7-naphthol	1086312	118-46-7	1541	2	WGK 2: hazard to waters
+4-Hydroxy-6-(phenylamino)-naphthalin-2-sulfonsure	1086313	119-19-7	1541	2	WGK 2: hazard to waters
+2-Ethylamino-5-sulfobenzoesure	1086314	119-22-2	1541	2	WGK 2: hazard to waters
+8-Amino-naphthalin-2-sulfonsure	1086315	119-28-8	1541	2	WGK 2: hazard to waters
+4-Methyl-2-nitrophenol	1086316	119-33-5	1541	2	WGK 2: hazard to waters
+2-Cyclohexylphenol	1086317	119-42-6	1541	3	WGK 3: severe hazard to waters
+N-Acetyl-N-methyl-p-phenylendiamin	1086318	119-63-1	1541	1	WGK 1: low hazard to waters
+5-Amino-naphthalin-2-sulfonsure	1086320	119-79-9	1541	1	WGK 1: low hazard to waters
+N-Ethyl-N-benzyl-m-toluidin	1086321	119-94-8	1541	2	WGK 2: hazard to waters
+2-Amino-5-benzoylaminohydrochinondiethylether	1086322	120-00-3	1541	2	WGK 2: hazard to waters
+p-Diethylaminobenzaldehyd	1086323	120-21-8	1541	2	WGK 2: hazard to waters
+2-Benzyl-4-chlorphenol	1086324	120-32-1	1541	2	WGK 2: hazard to waters
+3-Ethylamino-4-kresol	1086325	120-37-6	1541	2	WGK 2: hazard to waters
+Methylbenzylpropionat	1086326	120-45-6	1541	1	WGK 1: low hazard to waters
+Ethylenharnstoff	1086327	120-93-4	1541	1	WGK 1: low hazard to waters
+Metanilsure	1086328	121-47-1	1541	1	WGK 1: low hazard to waters
+2-Amino-5-nitrophenol	1086329	121-88-0	1541	2	WGK 2: hazard to waters
+p-Aminoacetanilid	1086330	122-80-5	1541	1	WGK 1: low hazard to waters
+2-Phenoxyethanol	1086331	122-99-6	1541	1	WGK 1: low hazard to waters
+4-(3-Aminopropyl)-morpholin	1086332	123-00-2	1541	2	WGK 2: hazard to waters
+Propionaldehyd	1086333	123-38-6	1541	1	WGK 1: low hazard to waters
+Essigsureisopentylester	1086334	123-92-2	1541	1	WGK 1: low hazard to waters
+1-Dodecylamin	1086335	124-22-1	1541	2	WGK 2: hazard to waters
+Methansulfonylchlorid	1086336	124-63-0	1541	2	WGK 2: hazard to waters
+"Tetrahydrothiophen-1,1-dioxid"	1086337	126-33-0	1541	1	WGK 1: low hazard to waters
+"1,5-Dihydroxy-4,8-dinitroanthrachinon"	1086338	128-91-6	1541	1	WGK 1: low hazard to waters
+2-Chloranthrachinon	1086340	131-09-9	1541	1	WGK 1: low hazard to waters
+n-Butylmalonsurediethylester	1086341	133-08-4	1541	1	WGK 1: low hazard to waters
+2-Aminobenzoesuremethylester	1086342	134-20-3	1541	1	WGK 1: low hazard to waters
+Aminoethylpiperazin	1086343	140-31-8	1541	2	WGK 2: hazard to waters
+2-Amino-5-diethylaminopentan	1086344	140-80-7	1541	1	WGK 1: low hazard to waters
+Hydroxycitronellaldimethylacetal	1086346	141-92-4	1541	2	WGK 2: hazard to waters
+Capronsure	1086347	142-62-1	1541	1	WGK 1: low hazard to waters
+Di-n-propylamin	1086348	142-84-7	1541	1	WGK 1: low hazard to waters
+Di-n-hexylamin	1086349	143-16-8	1541	2	WGK 2: hazard to waters
+3-Aminopropan-1-ol	1086351	156-87-6	1541	1	WGK 1: low hazard to waters
+3-Trifluormethyl-phenylisocyanat	1086352	329-01-1	1541	2	WGK 2: hazard to waters
+"2,5-Dimethoxy-2,5-dihydrofuran"	1086353	332-77-4	1541	1	WGK 1: low hazard to waters
+p-Fluorbenzylchlorid	1086354	403-43-0	1541	2	WGK 2: hazard to waters
+"1,8-Oktandiamin"	1086355	373-44-4	1541	2	WGK 2: hazard to waters
+"1,3-Propandiol"	1086356	504-63-2	1541	1	WGK 1: low hazard to waters
+Butandiolformal	1086357	505-65-7	1541	1	WGK 1: low hazard to waters
+3-Hydroxy-2-butanon	1086358	513-86-0	1541	1	WGK 1: low hazard to waters
+"6-Methyl-1,3,5-triazin-2,4-diyldiamin"	1086360	542-02-9	1541	2	WGK 2: hazard to waters
+N-Methylphthalimid	1086361	550-44-7	1541	1	WGK 1: low hazard to waters
+o-Methylbenzylchlorid	1086362	552-45-4	1541	2	WGK 2: hazard to waters
+"2,3-Epoxypropan-1-ol"	1086363	556-52-5	1541	3	WGK 3: severe hazard to waters
+3-Methyl-2-butanon	1086364	563-80-4	1541	1	WGK 1: low hazard to waters
+"1,7-Dihydroxynaphthalin"	1086365	575-38-2	1541	2	WGK 2: hazard to waters
+"1,6-Dihydroxynaphthalin"	1086366	575-44-0	1541	2	WGK 2: hazard to waters
+"2,6-Dimethylphenol"	1086367	576-26-1	1541	2	WGK 2: hazard to waters
+"2,6-Diethylanilin"	1086368	579-66-8	1541	2	WGK 2: hazard to waters
+"2,6-Dihydroxynaphthalin"	1086369	581-43-1	1541	2	WGK 2: hazard to waters
+"2,7-Dihydroxynaphthalin"	1086370	582-17-2	1541	2	WGK 2: hazard to waters
+Acetyl-m-aminobenzoesure	1086371	587-48-4	1541	1	WGK 1: low hazard to waters
+2-Chlorpropionsure	1086372	598-78-7	1541	1	WGK 1: low hazard to waters
+"2,3-Pentandion"	1086373	600-14-6	1541	1	WGK 1: low hazard to waters
+o-Chlorbenzoylchlorid	1086374	609-65-4	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethyl-o-toluidin"	1086375	609-72-3	1541	1	WGK 1: low hazard to waters
+"N,N'-Dimethyl-N,N'-diphenylharnstoff"	1086377	611-92-7	1541	2	WGK 2: hazard to waters
+"1,2-Bis-(chlormethyl)-benzol"	1086378	612-12-4	1541	2	WGK 2: hazard to waters
+"N,N-Dibutylanilin"	1086379	613-29-6	1541	2	WGK 2: hazard to waters
+Benzoylcyanid	1086380	613-90-1	1541	3	WGK 3: severe hazard to waters
+N-Methyl-N-benzylanilin	1086381	614-30-2	1541	2	WGK 2: hazard to waters
+2-Methylphenylisocyanat	1086382	614-68-6	1541	3	WGK 3: severe hazard to waters
+2-Amino-5-nitrobenzoesure	1086383	616-79-5	1541	2	WGK 2: hazard to waters
+"N,N-Diethylformamid"	1086384	617-84-5	1541	1	WGK 1: low hazard to waters
+3-Chlorbenzoylchlorid	1086385	618-46-2	1541	1	WGK 1: low hazard to waters
+m-Methylbenzylchlorid	1086386	620-19-9	1541	2	WGK 2: hazard to waters
+3-Methylphenylisocyanat	1086387	621-29-4	1541	2	WGK 2: hazard to waters
+"m-Aminoacetanilid, Hydrochlorid"	1086388	621-35-2	1541	2	WGK 2: hazard to waters
+4-(2-Hydroxyethyl)-morpholin	1086389	622-40-2	1541	1	WGK 1: low hazard to waters
+p-Chlorbenzonitril	1086390	623-03-0	1541	2	WGK 2: hazard to waters
+2-Methyl-2-penten-1-al	1086391	623-36-9	1541	1	WGK 1: low hazard to waters
+3-Chlor-1-propin	1086392	624-65-7	1541	2	WGK 2: hazard to waters
+Dimethyladipat	1086393	627-93-0	1541	1	WGK 1: low hazard to waters
+"2,5-Dimethoxytetrahydrofuran"	1086395	696-59-3	1541	1	WGK 1: low hazard to waters
+Rolitetracyclin	1086396	751-97-3	1541	1	WGK 1: low hazard to waters
+Methylphosphonsuredimethylester	1086397	756-79-6	1541	2	WGK 2: hazard to waters
+"N,N-Dibutylformamid"	1086398	761-65-9	1541	1	WGK 1: low hazard to waters
+N-Ethylpiperidin	1086399	766-09-6	1541	1	WGK 1: low hazard to waters
+"4-Phenyl-1,3-dioxan"	1086400	772-00-9	1541	1	WGK 1: low hazard to waters
+2-Hydroxyethylacrylat	1086401	818-61-1	1541	2	WGK 2: hazard to waters
+Triacetonamin	1086403	826-36-8	1541	1	WGK 1: low hazard to waters
+o-Chlorbenzonitril	1086404	873-32-5	1541	2	WGK 2: hazard to waters
+p-Cyanobenzylchlorid	1086405	874-86-2	1541	2	WGK 2: hazard to waters
+"2,2-bis-(p-Hydroxyethoxphenyl)propan"	1086406	24448-20-2	1541	1	WGK 1: low hazard to waters
+3-Aminopropyltriethoxysilan	1086407	919-30-2	1541	1	WGK 1: low hazard to waters
+2-2'-Aminoethoxyethanol	1086408	929-06-6	1541	1	WGK 1: low hazard to waters
+p-tert.-Butylbenzaldehyd	1086409	939-97-9	1541	2	WGK 2: hazard to waters
+2-Phenoxypropionsure	1086410	940-31-8	1541	1	WGK 1: low hazard to waters
+"N,N-Dimethylisopropylamin"	1086411	996-35-0	1541	2	WGK 2: hazard to waters
+p-Fluorbenzalchlorid	1086412	456-19-9	1541	1	WGK 1: low hazard to waters
+Trimethoxypropylsilan	1086413	1067-25-0	1541	1	WGK 1: low hazard to waters
+3-Methylxanthin	1086414	1076-22-8	1541	1	WGK 1: low hazard to waters
+Farnesylaceton	1086415	762-29-8	1541	1	WGK 1: low hazard to waters
+"1,2-Dodecandiol"	1086416	1119-87-5	1541	1	WGK 1: low hazard to waters
+Cadmiumsulfid	1086417	1306-23-6	1541	3	WGK 3: severe hazard to waters
+Methylcyclohexanon (Isomerengemisch)	1086418	1331-22-2	1541	1	WGK 1: low hazard to waters
+5-Methyl-2-(1-methylethyl)cyclohexanol	1086419	1490-04-6	1541	1	WGK 1: low hazard to waters
+"2-Hydroxyethansulfonsure, Natriumsalz"	1086420	1562-00-1	1541	1	WGK 1: low hazard to waters
+"4,4'-Dimethyldiphenylether"	1086421	1579-40-4	1541	2	WGK 2: hazard to waters
+2-Methoxypropanol-1	1086422	1589-47-5	1541	1	WGK 1: low hazard to waters
+4-Acetyl-morpholin	1086423	1696-20-4	1541	1	WGK 1: low hazard to waters
+Chloridazon	1086424	1698-60-8	1541	2	WGK 2: hazard to waters
+3-Methylbenzoylchlorid	1086425	1711-06-4	1541	1	WGK 1: low hazard to waters
+"2-(1,1-Dimethylethyl)-cyclohexanon"	1086426	1728-46-7	1541	1	WGK 1: low hazard to waters
+Isopropylisocyanat	1086428	1795-48-8	1541	1	WGK 1: low hazard to waters
+"2,2'-Dihydroxybiphenyl"	1086429	1806-29-7	1541	2	WGK 2: hazard to waters
+"1,3-Propylendiamintetraessigsure"	1086430	1939-36-2	1541	2	WGK 2: hazard to waters
+2-(4-Morpholinyl)ethylamin	1086431	3/1/2038	1541	2	WGK 2: hazard to waters
+"Diphenyl-4-sulfonsure, Natriumsalz"	1086433	6152-67-6	1541	2	WGK 2: hazard to waters
+"2,3,6-Trimethylphenol"	1086434	2416-94-6	1541	1	WGK 1: low hazard to waters
+Diethylaminoethylacrylat	1086435	2426-54-2	1541	2	WGK 2: hazard to waters
+Dimethylaminoethylacrylat	1086436	2439-35-2	1541	2	WGK 2: hazard to waters
+2-Chlor-5-nitrobenzoesure	1086438	2516-96-3	1541	1	WGK 1: low hazard to waters
+3-Chlorpropyltrimethoxysilan	1086439	2530-87-2	1541	1	WGK 1: low hazard to waters
+Di-n-Butylformal	1086440	2568-90-3	1541	1	WGK 1: low hazard to waters
+p-Nitro-m-kresol	1086441	2581-34-2	1541	3	WGK 3: severe hazard to waters
+Diisobutylformamid	1086442	2591-76-6	1541	2	WGK 2: hazard to waters
+N-Methyl-N-phenyl-carbaminsure-ethylester	1086443	2621-79-6	1541	2	WGK 2: hazard to waters
+Trimethoxyvinylsilan	1086444	2/7/2768	1541	1	WGK 1: low hazard to waters
+"1-Hydroxyethan-1,1-diphosphonsure"	1086447	2809-21-4	1541	2	WGK 2: hazard to waters
+"1,4-Dichlor-5,8-dihydroxyanthrachinon"	1086448	2832-30-6	1541	1	WGK 1: low hazard to waters
+2-Cyclohexylaminoethanol	1086449	2842-38-8	1541	1	WGK 1: low hazard to waters
+Decyloxiran	1086450	2855-19-8	1541	1	WGK 1: low hazard to waters
+"1,2,4-Trivinylcyclohexan"	1086451	2855-27-8	1541	2	WGK 2: hazard to waters
+3-Isopropoxypropylamin	1086452	12/9/2906	1541	1	WGK 1: low hazard to waters
+Triethoxyoctylsilan	1086453	7399-00-0	1541	1	WGK 1: low hazard to waters
+"1,1,4,7,7-Pentamethyldiethylentriamin"	1086454	3030-47-5	1541	2	WGK 2: hazard to waters
+"3-Hexin-2,5-diol"	1086455	3031-66-1	1541	2	WGK 2: hazard to waters
+Trimethoxyoctylsilan	1086456	3069-40-7	1541	1	WGK 1: low hazard to waters
+3-Dimethylaminopropanol	1086457	3179-63-3	1541	1	WGK 1: low hazard to waters
+N-Vinyl-N-methylacetamid	1086458	3195-78-6	1541	1	WGK 1: low hazard to waters
+Dodecyloxiran	1086459	3234-28-4	1541	1	WGK 1: low hazard to waters
+Pivaloylchlorid	1086460	3282-30-2	1541	1	WGK 1: low hazard to waters
+Crotonsure	1086461	3724-65-0	1541	1	WGK 1: low hazard to waters
+Natriumbenzolphosphinat	1086462	4297-95-4	1541	1	WGK 1: low hazard to waters
+Methyldiisopropanolamin	1086463	4402-30-6	1541	1	WGK 1: low hazard to waters
+"3,4-Hexandion"	1086464	4437-51-8	1541	1	WGK 1: low hazard to waters
+1-(2-Bromethoxy)-2-methoxy-benzol	1086465	4463-59-6	1541	3	WGK 3: severe hazard to waters
+"3,4,5-Trimethoxybenzoylchlorid"	1086466	4521-61-3	1541	1	WGK 1: low hazard to waters
+"4-Nitro-1,3-phenylendiamin"	1086468	5131-58-8	1541	2	WGK 2: hazard to waters
+"2-Nitro-1,4-phenylendiamin"	1086469	5307-14-2	1541	2	WGK 2: hazard to waters
+3-Methoxypropylamin	1086472	5332-73-0	1541	1	WGK 1: low hazard to waters
+"1,2-Pentandiol"	1086473	5343-92-0	1541	1	WGK 1: low hazard to waters
+"8-Amino-naphthalin-1,3,6-trisulfonsure, Dinatriumsalz"	1086474	5398-34-5	1541	1	WGK 1: low hazard to waters
+"1-Naphthol-5-sulfonsure, Natriumsalz"	1086475	79873-34-0	1541	1	WGK 1: low hazard to waters
+2-Amino-4-chlorphenol Hydrochlorid	1086476	5471-76-1	1541	2	WGK 2: hazard to waters
+"2-Amino-4,6-dichlorphenol, Hydrochlorid"	1086479	5959-39-7	1541	2	WGK 2: hazard to waters
+3-Amino-2-hydroxy-5-sulfobenzoesure	1086481	6201-86-1	1541	1	WGK 1: low hazard to waters
+2-Amino-6-nitrobenzothiazol	1086482	6285-57-0	1541	2	WGK 2: hazard to waters
+3-Ethoxypropylamin	1086483	6291-85-6	1541	1	WGK 1: low hazard to waters
+"3-Amino-4,N',N'-trimethylbenzolsulfonamid"	1086484	6331-68-6	1541	2	WGK 2: hazard to waters
+2-Ethoxy-5-methyl-anilin	1086485	6331-70-0	1541	2	WGK 2: hazard to waters
+"2,3-Dichlorbenzaldehyd"	1086486	6334-18-5	1541	2	WGK 2: hazard to waters
+"4-Chlor-6-nitro-2-aminophenol, Hydrochlorid"	1086487	67815-68-3	1541	2	WGK 2: hazard to waters
+"1-Naphthylamin-3,7-disulfonsure"	1086488	5/6/6362	1541	2	WGK 2: hazard to waters
+2-Acetylamino-4-methylphenol	1086489	6375-17-3	1541	1	WGK 1: low hazard to waters
+3-Diethylaminoacetanilid	1086490	6375-46-8	1541	1	WGK 1: low hazard to waters
+3-Amino-4-methoxyacetanilid	1086491	6375-47-9	1541	1	WGK 1: low hazard to waters
+Aminotrimethylenphosphonsure	1086494	6419-19-8	1541	1	WGK 1: low hazard to waters
+1-Acetamino-7-hydroxynaphthalin	1086496	6470-18-4	1541	1	WGK 1: low hazard to waters
+"cis-2,6-Dimethylmorpholin"	1086497	6485-55-8	1541	2	WGK 2: hazard to waters
+2-Cyan-N-[(methylamino)carbonyl]acetamid	1086498	6972-77-6	1541	1	WGK 1: low hazard to waters
+Mecoprop	1086499	7085-19-0	1541	2	WGK 2: hazard to waters
+"N,N'-Dimethylpropylenharnstoff"	1086500	7226-23-5	1541	2	WGK 2: hazard to waters
+N-Methyldicyclohexylamin	1086501	7560-83-0	1541	2	WGK 2: hazard to waters
+Trimethylsilylcyanid	1086502	7677-24-9	1541	3	WGK 3: severe hazard to waters
+Bariumselenat	1086503	7787-41-9	1541	2	WGK 2: hazard to waters
+Pankreatin	1086504	8049-47-6	1541	1	WGK 1: low hazard to waters
+"Sorbitanmonolaurat, ethoxyliert, 20-EO"	1086506	9005-64-5	1541	1	WGK 1: low hazard to waters
+Glibenclamid	1086507	10238-21-8	1541	2	WGK 2: hazard to waters
+Tetrabenzylthiuramdisulfid	1086509	10591-85-2	1541	2	WGK 2: hazard to waters
+Zinkselenit	1086510	13597-46-1	1541	2	WGK 2: hazard to waters
+"Tris(1,3-dichlorisopropyl)phosphat"	1086511	13674-87-8	1541	2	WGK 2: hazard to waters
+Bariumselenit	1086512	13718-59-7	1541	2	WGK 2: hazard to waters
+1-Chlor-4-(dichlormethyl)-benzol	1086513	13940-94-8	1541	2	WGK 2: hazard to waters
+Vossenblau	1086514	14038-43-8	1541	1	WGK 1: low hazard to waters
+Morpholincarbonylchlorid	1086515	15159-40-7	1541	3	WGK 3: severe hazard to waters
+Trimethylolpropantriacrylat	1086516	15625-89-5	1541	1	WGK 1: low hazard to waters
+N-(2-Ethyl-2-(3-methoxyphenyl)butyl)-4-hydroxy-butanamid	1086517	15687-14-6	1541	2	WGK 2: hazard to waters
+Trimethoxyhexadecylsilan	1086518	16415-12-6	1541	1	WGK 1: low hazard to waters
+2-Chlorpropionsuremethylester	1086519	17639-93-9	1541	1	WGK 1: low hazard to waters
+Isobutyltrimethoxysilan	1086520	18395-30-7	1541	1	WGK 1: low hazard to waters
+Tetrakis(2-butoxyethoxy)silan	1086521	18765-38-3	1541	1	WGK 1: low hazard to waters
+4-Methylhexahydrophthalsureanhydrid	1086522	34090-76-1	1541	1	WGK 1: low hazard to waters
+1-Methyl-3-phenylpropylamin	1086524	22374-89-6	1541	2	WGK 2: hazard to waters
+2-Ethylhexylchlorformiat	1086525	24468-13-1	1541	2	WGK 2: hazard to waters
+"2,6-Diethyl-4-methylanilin"	1086526	24544-08-9	1541	2	WGK 2: hazard to waters
+Methylcyclohexanol	1086527	25639-42-3	1541	1	WGK 1: low hazard to waters
+2-Ethylhexenal	1086528	26266-68-2	1541	1	WGK 1: low hazard to waters
+Di-(Methylcyclohexyl)-phthalat	1086530	27987-25-3	1541	1	WGK 1: low hazard to waters
+3-Thiocyanatopropyltriethoxysilan	1086533	34708-08-2	1541	2	WGK 2: hazard to waters
+Bis(3-triethoxysilylpropyl)-tetrasulfan	1086534	40372-72-3	1541	1	WGK 1: low hazard to waters
+trans-Nerolidol	1086535	40716-66-3	1541	1	WGK 1: low hazard to waters
+Quab 342	1086537	41892-01-7	1541	2	WGK 2: hazard to waters
+Tripropylenglykoldiacrylat	1086538	42978-66-5	1541	2	WGK 2: hazard to waters
+4-Aminotoluol-2-sulfethylanilid	1086540	51123-09-2	1541	2	WGK 2: hazard to waters
+"2-(4-(2',4'-Dichlorphenoxy)phenoxy)-propionsuremethylester"	1086541	51338-27-3	1541	2	WGK 2: hazard to waters
+2-Amino-5-aminomethylnaphthalin-1-sulfonsure	1086543	52084-84-1	1541	2	WGK 2: hazard to waters
+O-Methylisoharnstoffsulfat	1086544	52328-05-9	1541	1	WGK 1: low hazard to waters
+"4,4'-Diaminodiphenylaminsulfat"	1086546	53760-27-3	1541	2	WGK 2: hazard to waters
+Isononansurechlorid (Isomerengemisch)	1086550	57077-36-8	1541	1	WGK 1: low hazard to waters
+Dipropylenglykoldiacrylat	1086551	57472-68-1	1541	2	WGK 2: hazard to waters
+"2-Methoxy-4-nitroanilin-5-sulfonsure, Natriumsalz"	1086553	59312-73-1	1541	2	WGK 2: hazard to waters
+"m-Aminophenylharnstoff, Hydrochlorid"	1086554	59690-88-9	1541	2	WGK 2: hazard to waters
+Kokos(C8 - C18)alkylamin	1086555	61788-46-3	1541	2	WGK 2: hazard to waters
+2-Chlor-6-fluorbenzalchlorid	1086557	62476-62-4	1541	2	WGK 2: hazard to waters
+"6-Chlor-4-nitro-2-aminophenol, Hydrochlorid"	1086558	62625-14-3	1541	2	WGK 2: hazard to waters
+"N-(2-Acetoxyethyl)-1,2,3,4-tetrahydro-2,2,4-trimethylchinolin"	1086560	63817-40-3	1541	2	WGK 2: hazard to waters
+"2,4-Xylidin-6-sulfonsure, Natriumsalz"	1086561	64501-85-5	1541	2	WGK 2: hazard to waters
+Diethyltoluylendiamin	1086566	68479-98-1	1541	2	WGK 2: hazard to waters
+Koratin MAT	1086575	81989-40-4	1541	1	WGK 1: low hazard to waters
+Iohexol	1086586	66108-95-0	1541	1	WGK 1: low hazard to waters
+Iopentol	1086587	89797-00-2	1541	1	WGK 1: low hazard to waters
+Iodixanol	1086588	92339-11-2	1541	1	WGK 1: low hazard to waters
+Calciumacetat	1086592	62-54-4	1541	1	WGK 1: low hazard to waters
+Magnesiumacetat	1086593	142-72-3	1541	1	WGK 1: low hazard to waters
+2-Ethylhexylnitrat	1086596	27247-96-7	1541	2	WGK 2: hazard to waters
+Calciumthioglykolat-Trihydrat	1086606	65208-41-5	1541	1	WGK 1: low hazard to waters
+Natriumthioglykolat	1086609	2836-32-0	1541	1	WGK 1: low hazard to waters
+Kaliumthioglykolat	1086610	34452-51-2	1541	1	WGK 1: low hazard to waters
+"3-Methyl-1,5-pentandiol"	1086615	4457-71-0	1541	1	WGK 1: low hazard to waters
+Calciumaluminat	1086617	12042-78-3	1541	1	WGK 1: low hazard to waters
+"1,2-Butadien"	1086620	590-19-2	1541	1	WGK 1: low hazard to waters
+Cyclooctan	1086621	292-64-8	1541	2	WGK 2: hazard to waters
+Remazol-Brillantblau R spez.	1086622	2580-78-1	1541	1	WGK 1: low hazard to waters
+Methoxyessigsure	1086624	625-45-6	1541	1	WGK 1: low hazard to waters
+Natriumgluconat	1086626	527-07-1	1541	1	WGK 1: low hazard to waters
+Ammoniumthioglykolat	1086627	5421-46-5	1541	1	WGK 1: low hazard to waters
+Monoethanolaminthioglykolat	1086630	126-97-6	1541	1	WGK 1: low hazard to waters
+"Polyacrylamide, nicht ionisch mit einem Restmonomergehalt &lt;0,1 %8"	1086641	5/8/9003	1541	1	WGK 1: low hazard to waters
+Vinylmethylether	1086642	107-25-5	1541	1	WGK 1: low hazard to waters
+Hexafluorpropen	1086651	116-15-4	1541	1	WGK 1: low hazard to waters
+Mangandioxid	1086652	1313-13-9	1541	1	WGK 1: low hazard to waters
+"Nickel, metallisch"	1086654	7440-02-0	1541	2	WGK 2: hazard to waters

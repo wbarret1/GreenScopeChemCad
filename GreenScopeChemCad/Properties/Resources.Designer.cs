@@ -80,6 +80,22 @@ namespace GreenScopeChemCad.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Acetaldehyd	1084805	75-07-0	1541	1	WGK 1: low hazard to waters
+        ///Acetamid	1084806	60-35-5	1541	1	WGK 1: low hazard to waters
+        ///Acetanhydrid	1084807	108-24-7	1541	1	WGK 1: low hazard to waters
+        ///Acetessigsureethylester	1084808	141-97-9	1541	1	WGK 1: low hazard to waters
+        ///Acetessigsuremethylester	1084809	105-45-3	1541	1	WGK 1: low hazard to waters
+        ///Aceton	1084810	67-64-1	1541	1	WGK 1: low hazard to waters
+        ///Acetoncyanhydrin	1084811	75-86-5	1541	3	WGK 3: severe hazard to waters
+        ///Acetonitril	1084812	75-05-8	1541	2	 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string DE_Hazardous_Water_AID_1 {
+            get {
+                return ResourceManager.GetString("DE_Hazardous_Water_AID_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] GRNS_LCI_v1_2_05_15 {

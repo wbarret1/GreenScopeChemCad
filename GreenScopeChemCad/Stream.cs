@@ -144,6 +144,10 @@ namespace GreenScopeChemCad
 
         [System.Runtime.Serialization.DataMember]
         string m_StreamName;
+        bool m_Renewable;
+        bool m_Product;
+        bool m_EcoProduct;
+        bool m_Polluted;
 
         [System.Runtime.Serialization.DataMember]
         StreamComponent[] m_Components;
@@ -243,12 +247,17 @@ namespace GreenScopeChemCad
         const int DISPID_PROPERTYPUT = -3;
 
 
-        public Stream(int StreamID, VBServerWrapper vbServer)
+        public Stream(int StreamID, VBServerWrapper vbServer, bool renewable, bool product, bool ecoProduct, bool polluted)
         {
             m_StreamID = StreamID;
+            m_Renewable = renewable;
+            m_Product = product;
+            m_EcoProduct = ecoProduct;
+            m_Polluted = polluted;
             p_StreamInfo = vbServer.GetStreamInfo();
             p_Flowsheet = vbServer.GetFlowsheet();
             p_StreamProperty = vbServer.GetStreamProperty();
+            p_Flash = (IDispatch)vbServer.GetFlash();
             m_StreamName = p_StreamInfo.GetStreamLabelByID(m_StreamID);
             p_Flowsheet.GetSourceAndTargetForStream(m_StreamID, ref m_SourceUnitOperation, ref m_TargetUnitOperation);
             double[] compFlows = null;
@@ -623,6 +632,38 @@ namespace GreenScopeChemCad
             }
         }
 
+        public bool Renewable
+        {
+            get
+            {
+                return m_Renewable;
+            }
+        }
+
+        public bool Product
+        {
+            get
+            {
+                return m_Product;
+            }
+        }
+
+        public bool EcoProduct
+        {
+            get
+            {
+                return m_EcoProduct;
+            }
+        }
+
+        public bool Polluted
+        {
+            get
+            {
+                return m_Polluted;
+            }
+        }
+
         public int[] ComponentIDs
         {
             get
@@ -670,6 +711,11 @@ namespace GreenScopeChemCad
         public string MAK(int index)
         {
             return this.m_Components[index].MAK;
+        }
+
+        public string logKow(int index)
+        {
+            return this.m_Components[index].LogKOW;
         }
 
         public bool IsHazarous(int index)
@@ -722,6 +768,10 @@ namespace GreenScopeChemCad
             return this.m_Components[index].FlashPoint;
         }
 
+        public string HeatOfCombustionKjPerKg(int index)
+        {
+            return this.m_Components[index].heatOfCombustionKgPerKg;
+        }
         public string HeatOfCombustion(int index)
         {
             return this.m_Components[index].heatOfCombustion;
@@ -732,6 +782,16 @@ namespace GreenScopeChemCad
             return this.m_Components[index].HeatOfVaporization;
         }
 
+        public string HeatOfVaporizationKjPerKg(int index)
+        {
+            return this.m_Components[index].heatOfVaporizationKjPerKg;
+        }
+
+        public string pH(int index)
+        {
+            return this.m_Components[index].pH;
+        }
+
         public string Density(int index)
         {
             return this.m_Components[index].Density;
@@ -740,6 +800,46 @@ namespace GreenScopeChemCad
         public string VaporPressure(int index)
         {
             return this.m_Components[index].VaporPressure;
+        }
+
+        public string LC50Value(int index)
+        {
+            return this.m_Components[index].LC50Value;
+        }
+
+        public string LC50Reference(int index)
+        {
+            return this.m_Components[index].LC50Reference;
+        }
+
+        public string LD50DermalValue(int index)
+        {
+            return this.m_Components[index].LD50DermalValue;
+        }
+
+        public string LD50DermalSpecies(int index)
+        {
+            return this.m_Components[index].LD50DermalSpecies;
+        }
+
+        public string LD50DermalReference(int index)
+        {
+            return this.m_Components[index].LD50DermalReference;
+        }
+
+        public string LD50OralReference(int index)
+        {
+            return this.m_Components[index].LD50OralReference;
+        }
+
+        public string LD50OralSpecies(int index)
+        {
+            return this.m_Components[index].LD50OralSpecies;
+        }
+
+        public string LD50OralValue(int index)
+        {
+            return this.m_Components[index].LD50OralValue;
         }
 
         public int NumberOfCarbonAtoms(int index)
@@ -782,22 +882,7 @@ namespace GreenScopeChemCad
             return this.m_Components[index].SulfurAtoms;
         }
 
-        public double AccentricFactor(int index)
-        {
-            return this.m_Components[index].AccentricFactor;
-        }
-
-        public double CriticalTemperature(int index)
-        {
-            return this.m_Components[index].CriticalTemperature;
-        }
-
-        public double CriticalPressure(int index)
-        {
-            return this.m_Components[index].CriticalPressure;
-        }
-
-        public double boilingPoint(int index)
+         public string boilingPoint(int index)
         {
             return this.m_Components[index].boilingPoint;
         }

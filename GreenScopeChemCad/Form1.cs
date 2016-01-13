@@ -22,13 +22,11 @@ namespace GreenScopeChemCad
         double referenceTemperature = 25;
         double referencePressure = 101.325;
         DataTable feedStreamsTable;
-        int[] feedStreamIds = new int[0];
-        string[] feedStreamRenewables = new string[0];
-        int[] productStreamIds = new int[0];
-        string[] productStreamProductOrWastes = new string[0];
-        string[] productStreamEcoProducts = new string[0];
-        string[] productStreamPollutedNonPolluteds = new string[0];
-        string[] productStreamRenewables = new string[0];
+        int[] m_FeedRenewableStreamIds = new int[0];
+        int[] m_ProductStreamIds = new int[0];
+        int[] m_ProductStreamProductOrWastes = new int[0];
+        int[] m_ProductStreamEcoProducts = new int[0];
+        int[] m_ProductStreamRenewables = new int[0];
         DataTable productStreamsTable;
         int mainGlobalReaction = 0;
         int mainGlobalProduct = 0;
@@ -53,8 +51,8 @@ namespace GreenScopeChemCad
             {
                 DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(excelFileName, true);
                 this.GetReferenceConditionsFromSpreadsheet(spreadsheet);
-                this.GetFeedStreamRenewableFromSpreadsheet(spreadsheet, ref feedStreamIds, ref feedStreamRenewables);
-                this.GetProductStreamInformationFromSpreadsheet(spreadsheet, ref productStreamIds, ref productStreamProductOrWastes, ref productStreamEcoProducts, ref productStreamPollutedNonPolluteds, ref productStreamRenewables);
+                this.GetFeedStreamRenewableFromSpreadsheet(spreadsheet, ref m_FeedRenewableStreamIds);
+                this.GetProductStreamInformationFromSpreadsheet(spreadsheet, ref m_ProductStreamIds, ref m_ProductStreamProductOrWastes, ref m_ProductStreamEcoProducts, ref m_ProductStreamRenewables);
                 this.GetReactionInformationFromSpreadsheet(spreadsheet, ref mainGlobalReaction, ref mainGlobalProduct, ref mainGlobalProductStream, ref stoichiometry);
                 spreadsheet.Close();
             }
@@ -83,8 +81,6 @@ namespace GreenScopeChemCad
 
             DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet;
             DocumentFormat.OpenXml.Packaging.SpreadsheetDocument greenScopeTemplate;
-
-
             if (System.IO.File.Exists(excelFileName))
             {
                 string message = "Excel File Exists. Do you want to replace it?.";
@@ -111,15 +107,10 @@ namespace GreenScopeChemCad
                 {
                     DocumentFormat.OpenXml.Packaging.OpenXmlPart newPart = spreadsheet.AddPart<DocumentFormat.OpenXml.Packaging.OpenXmlPart>(part);
                 }
-
                 //Close template
                 greenScopeTemplate.Close();
             }
-
             this.progressBar1.Value = 10;
-
-            //this.ClearComponentSpreadsheet(spreadsheet);
-            //this.ClearUnitOpSpreadsheet(spreadsheet);
 
             VBServerWrapper server = new VBServerWrapper();
             if (!server.LoadJob(chemCadFileName))
@@ -130,8 +121,6 @@ namespace GreenScopeChemCad
                 return;
             }
 
-            this.UpdateSpreadsheetChangeLog(spreadsheet, chemCadFileName, excelFileName);
-            this.UpdateReferenceConditionsInSpreadsheet(spreadsheet);
             this.progressBar1.Value = 20;
             Flowsheet flowsheet = server.GetFlowsheet();
             int numStreams = flowsheet.NumberofStreams;
@@ -148,7 +137,31 @@ namespace GreenScopeChemCad
             Stream[] allStreams = new Stream[numStreams];
             for (int i = 0; i < numStreams; i++)
             {
-                allStreams[i] = new Stream(streamIDS[i], server);
+                bool renewable = false;
+                bool product = false;
+                bool ecoProduct = false;
+                bool polluted = false;
+                foreach (int id in m_FeedRenewableStreamIds)
+                {
+                    if (id == streamIDS[i]) renewable = true;
+                }
+                foreach (int id in m_ProductStreamRenewables)
+                {
+                    if (id == streamIDS[i]) renewable = true;
+                }
+                foreach (int id in m_ProductStreamIds)
+                {
+                    if (id == streamIDS[i]) product = true;
+                }
+                foreach (int id in m_ProductStreamEcoProducts)
+                {
+                    if (id == streamIDS[i]) ecoProduct = true;
+                }
+                foreach (int id in m_FeedRenewableStreamIds)
+                {
+                    if (id == streamIDS[i]) renewable = true;
+                }
+                allStreams[i] = new Stream(streamIDS[i], server, renewable, product, ecoProduct, polluted);
                 streamNames[i] = allStreams[i].StreamName;
             }
             Stream[] feedStreams = new Stream[numFeedStreams];
@@ -179,9 +192,6 @@ namespace GreenScopeChemCad
             DataTable allStreamsTable = this.CreateAllStreamsDataTable("AllStreams", allStreams, componentTable);
             feedStreamsTable = this.CreateFeedStreamsDataTable("FeedStreams", feedStreams, null);
             productStreamsTable = this.CreateProductStreamsDataTable("ProductStreams", productStreams, null);
-
-            AddInputStreamsToSpreadsheet(spreadsheet, feedStreams);
-            AddOutputStreamsToSpreadsheet(spreadsheet, productStreams);
 
             //DataTable inletStreams;
             UnitOperation[] unitOps = new UnitOperation[flowsheet.NumberOfUnitOps];
@@ -219,8 +229,6 @@ namespace GreenScopeChemCad
                 else other.Add(unitOps[i]);
             }
 
-            this.AddReactionsToSpreadsheet(spreadsheet, reactors, allStreams[0]);
-
             this.progressBar1.Value = 70;
             server.CloseSimulation();
             server.Dispose();
@@ -228,6 +236,11 @@ namespace GreenScopeChemCad
             this.progressBar1.Value = 80;
             DataTable unitOpTable = this.CreateUnitOperationDataTable(unitOps);
             DataTable reactionsTable = this.CreateReactionsTable(allStreams, reactors.ToArray<UnitOperation>());
+            this.UpdateSpreadsheetChangeLog(spreadsheet, chemCadFileName, excelFileName);
+            this.UpdateReferenceConditionsInSpreadsheet(spreadsheet);
+            AddInputStreamsToSpreadsheet(spreadsheet, feedStreams);
+            AddOutputStreamsToSpreadsheet(spreadsheet, productStreams);
+            this.AddReactionsToSpreadsheet(spreadsheet, reactors, allStreams[0]);
             this.AddMPumpUnitOpsToSpreadsheet(spreadsheet, pumps.ToArray<UnitOperation>());
             this.AddMixerUnitOpsToSpreadsheet(spreadsheet, mixers.ToArray<UnitOperation>());
             this.AddDistillationUnitOpsToSpreadsheet(spreadsheet, distillationColumns.ToArray<UnitOperation>());
@@ -304,9 +317,6 @@ namespace GreenScopeChemCad
                 row["CAS Number"] = streams[0].casNumber(i);
                 row["Formula"] = streams[0].MolecularFormula(i);
                 row["MolecularWeight"] = streams[0].MolecularWeight(i);
-                row["criticalTemperature"] = streams[0].CriticalTemperature(i);
-                row["criticalPressure"] = streams[0].CriticalPressure(i);
-                row["accentricFactor"] = streams[0].AccentricFactor(i);
                 row["boilingPoint"] = streams[0].boilingPoint(i);
                 row["idealGasHeatofFormation"] = streams[0].IdealGasHeatOfFormation(i);
                 row["idealGasGibbsFreeEnergyOfFormation"] = streams[0].IdealGasGibbsFreeEnergyOfFormation(i);
@@ -472,10 +482,8 @@ namespace GreenScopeChemCad
             DataGridViewTextBoxColumn streamName = new DataGridViewTextBoxColumn();
             streamName.HeaderText = "StreamName";
             streamName.DataPropertyName = "StreamName";
-            streamsTable.Columns.Add(new DataColumn("Renewable", typeof(System.String)));
-            DataGridViewComboBoxColumn renewable = new DataGridViewComboBoxColumn();
-            List<string> renewableOptions = new List<string>() { "", "yes", "no" };
-            renewable.DataSource = renewableOptions;
+            streamsTable.Columns.Add(new DataColumn("Renewable", typeof(bool)));
+            DataGridViewCheckBoxColumn renewable = new DataGridViewCheckBoxColumn();
             renewable.HeaderText = "Renewable";
             renewable.DataPropertyName = "Renewable";
             streamsTable.Columns.Add(new DataColumn("SourceUnit", typeof(System.Int32)));
@@ -569,15 +577,7 @@ namespace GreenScopeChemCad
                 row = streamsTable.NewRow();
                 row["StreamId"] = stream.StreamID;
                 row["StreamName"] = stream.StreamName;
-                string renewableStream = "no";
-                for (int i = 0; i < feedStreamIds.Length; i++)
-                {
-                    if (feedStreamIds[i] == stream.StreamID)
-                    {
-                        renewableStream = feedStreamRenewables[i];
-                    }
-                }
-                row["Renewable"] = renewableStream;
+                row["Renewable"] = stream.Renewable;
                 row["SourceUnit"] = stream.SourceUnitOperation;
                 row["TargetUnit"] = stream.TargetUnitOperation;
                 row["Temperature"] = stream.Temperature;
@@ -615,28 +615,21 @@ namespace GreenScopeChemCad
             DataGridViewTextBoxColumn streamName = new DataGridViewTextBoxColumn();
             streamName.HeaderText = "StreamName";
             streamName.DataPropertyName = "StreamName";
-            streamsTable.Columns.Add(new DataColumn("ProductOrWaste", typeof(System.String)));
-            DataGridViewComboBoxColumn productOrWaste = new DataGridViewComboBoxColumn();
+            streamsTable.Columns.Add(new DataColumn("ProductOrWaste", typeof(bool)));
+            DataGridViewCheckBoxColumn productOrWaste = new DataGridViewCheckBoxColumn();
             List<string> productOrWasteOptions = new List<string>() { "", "N/A", "yes", "no" };
-            productOrWaste.DataSource = productOrWasteOptions;
-            productOrWaste.HeaderText = "ProductOrWaste";
-            productOrWaste.DataPropertyName = "ProductOrWaste";
-            streamsTable.Columns.Add(new DataColumn("EcoProduct", typeof(System.String)));
-            DataGridViewComboBoxColumn ecoProduct = new DataGridViewComboBoxColumn();
-            List<string> ecoProductOptions = new List<string>() { "", "N/A", "yes", "no" };
-            ecoProduct.DataSource = ecoProductOptions;
+            productOrWaste.HeaderText = "Product";
+            productOrWaste.DataPropertyName = "Product";
+            streamsTable.Columns.Add(new DataColumn("EcoProduct", typeof(bool)));
+            DataGridViewCheckBoxColumn ecoProduct = new DataGridViewCheckBoxColumn();
             ecoProduct.HeaderText = "EcoProduct";
             ecoProduct.DataPropertyName = "EcoProduct";
-            streamsTable.Columns.Add(new DataColumn("Polluted/NonPolluted", typeof(System.String)));
-            DataGridViewComboBoxColumn pollutedOrNonPolluted = new DataGridViewComboBoxColumn();
-            List<string> pollutedOrNonPollutedOptions = new List<string>() { "", "N/A", "yes", "no" };
-            pollutedOrNonPolluted.DataSource = pollutedOrNonPollutedOptions;
-            pollutedOrNonPolluted.HeaderText = "Polluted/NonPolluted";
-            pollutedOrNonPolluted.DataPropertyName = "Polluted/NonPolluted";
-            streamsTable.Columns.Add(new DataColumn("Renewable", typeof(System.String)));
-            DataGridViewComboBoxColumn renewable = new DataGridViewComboBoxColumn();
-            List<string> renewableOptions = new List<string>() { "", "yes", "no" };
-            renewable.DataSource = renewableOptions;
+            streamsTable.Columns.Add(new DataColumn("Polluted", typeof(bool)));
+            DataGridViewCheckBoxColumn pollutedOrNonPolluted = new DataGridViewCheckBoxColumn();
+            pollutedOrNonPolluted.HeaderText = "Polluted";
+            pollutedOrNonPolluted.DataPropertyName = "Polluted";
+            streamsTable.Columns.Add(new DataColumn("Renewable", typeof(bool)));
+            DataGridViewCheckBoxColumn renewable = new DataGridViewCheckBoxColumn();
             renewable.HeaderText = "Renewable";
             renewable.DataPropertyName = "Renewable";
             streamsTable.Columns.Add(new DataColumn("SourceUnit", typeof(System.Int32)));
@@ -731,24 +724,10 @@ namespace GreenScopeChemCad
                 row = streamsTable.NewRow();
                 row["StreamId"] = stream.StreamID;
                 row["StreamName"] = stream.StreamName;
-                string productOrWasteValue = "";
-                string ecoProductValue = "";
-                string pollutedOrNonPollutedValue = "";
-                string renewableValue = "no";
-                for (int i = 0; i < productStreamIds.Length; i++)
-                {
-                    if (productStreamIds[i] == stream.StreamID)
-                    {
-                        productOrWasteValue = productStreamProductOrWastes[i];
-                        ecoProductValue = productStreamEcoProducts[i];
-                        pollutedOrNonPollutedValue = productStreamPollutedNonPolluteds[i];
-                        renewableValue = productStreamRenewables[i];
-                    }
-                }
-                row["ProductOrWaste"] = productOrWasteValue;
-                row["EcoProduct"] = ecoProductValue;
-                row["Polluted/NonPolluted"] = pollutedOrNonPollutedValue;
-                row["Renewable"] = renewableValue;
+                row["ProductOrWaste"] = stream.Product;
+                row["EcoProduct"] = stream.EcoProduct;
+                row["Polluted"] = stream.Polluted;
+                row["Renewable"] = stream.Renewable;
                 row["SourceUnit"] = stream.SourceUnitOperation;
                 row["TargetUnit"] = stream.TargetUnitOperation;
                 row["Temperature"] = stream.Temperature;
@@ -1054,20 +1033,41 @@ namespace GreenScopeChemCad
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "Z", i + 262, stream.ERPG3(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AA", i + 262, stream.IDLH(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AB", i + 262, stream.MAK(i));
-                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AM", i + 262, stream.IsHazarous(i) ? "1": "0");
+                // Half Life - SetSpreadsheetCellValue(worksheetPart.Worksheet, "AC", i + 262, stream.MAK(i));
+                // OECD28d - SetSpreadsheetCellValue(worksheetPart.Worksheet, "AD", i + 262, stream.MAK(i));
+                // BCF - SetSpreadsheetCellValue(worksheetPart.Worksheet, "AE", i + 262, stream.MAK(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AF", i + 262, stream.logKow(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AG", i + 262, stream.LC50Value(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AH", i + 262, stream.LC50Reference(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AI", i + 262, stream.LD50OralValue(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AJ", i + 262, (String.IsNullOrEmpty(stream.LD50OralValue(i)))? string.Empty : stream.LD50OralSpecies(i) +"; Reference: " + stream.LD50OralReference(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AK", i + 262, stream.LD50DermalValue(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AL", i + 262, (String.IsNullOrEmpty(stream.LD50DermalValue(i))) ? string.Empty : stream.LD50DermalSpecies(i) + "; Reference: " + stream.LD50DermalReference(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AM", i + 262, stream.IsHazarous(i) ? "1" : "0");
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AN", i + 262, stream.OnTRIList(i) ? "1": "0");
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AO", i + 262, stream.IsPBTList(i) ? "1": "0");
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AP", i + 262, stream.EC_Class(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AR", i + 262, stream.R_Phrase(i));
+                // GK - SetSpreadsheetCellValue(worksheetPart.Worksheet, "AT", i + 262, stream.NFPA_Flammable(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AV", i + 262, stream.NFPA_Flammable(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AW", i + 262, stream.NFPA_Reactive(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "AX", i + 262, GermanWGKSubstanceList.WGK(stream.casNumber(i)));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AY", i + 262, stream.boilingPoint(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "AZ", i + 262, stream.meltingPoint(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "BA", i + 262, stream.FlashPoint(i));
-                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BB", i + 262, stream.HeatOfCombustion(i));
-                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BG", i + 262, stream.HeatOfVaporization(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BB", i + 262, stream.HeatOfCombustionKjPerKg(i));
+                // Decomp Temp - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BC", i + 262, stream.HeatOfCombustionKjPerKg(i));
+                // delta H decomp - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BD", i + 262, stream.HeatOfCombustionKjPerKg(i));
+                // delta H RXN - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BE", i + 262, stream.HeatOfCombustionKjPerKg(i));
+                // ideal gas heat capicity - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BF", i + 262, stream.HeatOfCombustionKjPerKg(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BG", i + 262, stream.HeatOfVaporizationKjPerKg(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "BH", i + 262, stream.Density(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "BI", i + 262, stream.VaporPressure(i));
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, "BJ", i + 262, stream.pH(i));
+                // Emergy - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BK", i + 262, stream.pH(i));
+                // Ex - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BL", i + 262, stream.pH(i));
+                // Heat of Formation - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BM", i + 262, stream.pH(i));
+                // Enthalpy of Formation - SetSpreadsheetCellValue(worksheetPart.Worksheet, "BN", i + 262, stream.pH(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "CH", i + 262, stream.NumberOfCarbonAtoms(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "CI", i + 262, stream.NumberOfHydrogenAtoms(i));
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, "CJ", i + 262, stream.NumberOfNitrogenAtoms(i));
@@ -1129,7 +1129,7 @@ namespace GreenScopeChemCad
             SetSpreadsheetCellValue(worksheetPart.Worksheet, "F", 21, referencePressure);
         }
 
-        private void GetFeedStreamRenewableFromSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, ref int[] streams, ref string[] renewables)
+        private void GetFeedStreamRenewableFromSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, ref int[] renewableStreams)
         {
             IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet> sheets = spreadsheet.WorkbookPart.Workbook.GetFirstChild<DocumentFormat.OpenXml.Spreadsheet.Sheets>().Elements<DocumentFormat.OpenXml.Spreadsheet.Sheet>().Where(s => s.Name == "I. Stream & Compound Data");
             if (sheets.Count() == 0)
@@ -1141,26 +1141,23 @@ namespace GreenScopeChemCad
             DocumentFormat.OpenXml.Packaging.WorksheetPart worksheetPart = (DocumentFormat.OpenXml.Packaging.WorksheetPart)spreadsheet.WorkbookPart.GetPartById(relationshipId);
             string[] streamColumns = { "I", "L", "O", "R", "U", "X", "AA", "AD", "AG", "AJ", "AM", "AP", "AS", "AV", "AY", "BB", "BE", "BH", "BK", "BN", "BQ", "BT", "BW", "BZ", "CC", "CF", "CI", "CL", "CO", "CR", "CU", "CX", "DA", "DD", "DG", "DJ", "DM", "DP", "DS", "DV" };
             List<int> streamList = new List<int>();
-            List<string> renewableList = new List<string>();
+            List<bool> renewableList = new List<bool>();
             foreach (string column in streamColumns)
             {
                 DocumentFormat.OpenXml.Spreadsheet.Cell streamIdCell = this.GetSpreadsheetCell(worksheetPart.Worksheet, column, (uint)28);
                 DocumentFormat.OpenXml.Spreadsheet.Cell renewableCell = this.GetSpreadsheetCell(worksheetPart.Worksheet, column, (uint)30);
                 if (streamIdCell.CellValue != null)
                 {
-                    streamList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     if (renewableCell.CellValue != null)
                     {
-                        renewableList.Add(renewableCell.CellValue.Text);
+                        if (renewableCell.CellValue.Text == "yes") streamList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     }
-                    else renewableList.Add("no");
                 }
             }
-            streams = streamList.ToArray<int>();
-            renewables = renewableList.ToArray<string>();
+            renewableStreams = streamList.ToArray();
         }
 
-        private void GetProductStreamInformationFromSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, ref int[] streams, ref string[] productOrWastes, ref string[] ecoProducts, ref string[] pollutedNotPolluted, ref string[] renewables)
+        private void GetProductStreamInformationFromSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, ref int[] products, ref int[] ecoProducts, ref int[] polluted, ref int[] renewables)
         {
             IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet> sheets = spreadsheet.WorkbookPart.Workbook.GetFirstChild<DocumentFormat.OpenXml.Spreadsheet.Sheets>().Elements<DocumentFormat.OpenXml.Spreadsheet.Sheet>().Where(s => s.Name == "I. Stream & Compound Data");
             if (sheets.Count() == 0)
@@ -1171,11 +1168,10 @@ namespace GreenScopeChemCad
             string relationshipId = sheets.First().Id.Value;
             DocumentFormat.OpenXml.Packaging.WorksheetPart worksheetPart = (DocumentFormat.OpenXml.Packaging.WorksheetPart)spreadsheet.WorkbookPart.GetPartById(relationshipId);
             string[] streamColumns = { "I", "L", "O", "R", "U", "X", "AA", "AD", "AG", "AJ", "AM", "AP", "AS", "AV", "AY", "BB", "BE", "BH", "BK", "BN", "BQ", "BT", "BW", "BZ", "CC", "CF", "CI", "CL", "CO", "CR", "CU", "CX", "DA", "DD", "DG", "DJ", "DM", "DP", "DS", "DV" };
-            List<int> streamList = new List<int>();
-            List<string> productOrWasteList = new List<string>();
-            List<string> ecoProductList = new List<string>();
-            List<string> pollutedOrNonpollutedProductList = new List<string>();
-            List<string> renewableList = new List<string>();
+            List<int> productOrWasteList = new List<int>();
+            List<int> ecoProductList = new List<int>();
+            List<int> pollutedOrNonpollutedProductList = new List<int>();
+            List<int> renewableList = new List<int>();
             for (uint i = 0; i < streamColumns.Length; i++)
             {
                 DocumentFormat.OpenXml.Spreadsheet.Cell streamIdCell = this.GetSpreadsheetCell(worksheetPart.Worksheet, streamColumns[i], (uint)178);
@@ -1185,45 +1181,28 @@ namespace GreenScopeChemCad
                 DocumentFormat.OpenXml.Spreadsheet.Cell renewableCell = this.GetSpreadsheetCell(worksheetPart.Worksheet, streamColumns[i], (uint)183);
                 if (streamIdCell.CellValue != null)
                 {
-                    streamList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     if (productOrWasteCell.CellValue != null)
                     {
-                        if (Convert.ToInt32(productOrWasteCell.CellValue.Text) == 0)
-                            productOrWasteList.Add("Waste");
-                        if (Convert.ToInt32(productOrWasteCell.CellValue.Text) == 1)
-                            productOrWasteList.Add("Product");
+                        if (Convert.ToInt32(productOrWasteCell.CellValue.Text) == 1) productOrWasteList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     }
-                    else productOrWasteList.Add("N/A");
                     if (ecoProductCell.CellValue != null)
                     {
-                        if (Convert.ToInt32(ecoProductCell.CellValue.Text) == 0)
-                            ecoProductList.Add("No");
-                        if (Convert.ToInt32(ecoProductCell.CellValue.Text) == 1)
-                            ecoProductList.Add("Yes");
-                        //else ecoProductList.Add("N/A");
+                        if (Convert.ToInt32(ecoProductCell.CellValue.Text) == 1) ecoProductList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     }
-                    else ecoProductList.Add("N/A");
                     if (pollutedORNotPollutedCell.CellValue != null)
                     {
-                        if (Convert.ToInt32(pollutedORNotPollutedCell.CellValue.Text) == 0)
-                            pollutedOrNonpollutedProductList.Add("Polluted");
-                        if (Convert.ToInt32(pollutedORNotPollutedCell.CellValue.Text) == 1)
-                            pollutedOrNonpollutedProductList.Add("NonPolluted");
-                        //else pollutedOrNonpollutedProductList.Add("N/A");
+                        if (Convert.ToInt32(pollutedORNotPollutedCell.CellValue.Text) == 1) pollutedOrNonpollutedProductList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     }
-                    else pollutedOrNonpollutedProductList.Add("N/A");
                     if (renewableCell.CellValue != null)
                     {
-                        renewableList.Add(renewableCell.CellValue.Text);
+                        if (renewableCell.CellValue.Text == "yes") pollutedOrNonpollutedProductList.Add(Convert.ToInt32(streamIdCell.CellValue.Text));
                     }
-                    else renewableList.Add("no");
                 }
             }
-            streams = streamList.ToArray<int>();
-            productOrWastes = productOrWasteList.ToArray<string>();
-            ecoProducts = ecoProductList.ToArray<string>();
-            pollutedNotPolluted = pollutedOrNonpollutedProductList.ToArray<string>();
-            renewables = renewableList.ToArray<string>();
+            products = productOrWasteList.ToArray();
+            ecoProducts = ecoProductList.ToArray();
+            polluted = pollutedOrNonpollutedProductList.ToArray();
+            renewables = renewableList.ToArray();
         }
 
         private void GetReactionInformationFromSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, ref int mainReaction, ref int mainProduct, ref int mainProductStream, ref double[] reactionStoich)
@@ -1286,6 +1265,7 @@ namespace GreenScopeChemCad
             {
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 28, streams[i].StreamID);
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 29, streams[i].StreamName);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 30, streams[i].Renewable? "yes": "no");
                 for (int j = 0; j < streams[i].ComponentMassFlowRatesKGH.Length; j++)
                 {
                     SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], j + 32, streams[i].ComponentMassFlowRatesKGH[j]);
@@ -1334,7 +1314,11 @@ namespace GreenScopeChemCad
             for (uint i = 0; i < streams.Length; i++)
             {
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 178, streams[i].StreamID);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 179, streams[i].Product ? 1 : 0);
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 180, streams[i].StreamName);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 181, streams[i].EcoProduct ? 1 : 0);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 182, streams[i].Polluted ? 1 : 0);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, streamColumns[i], 183, streams[i].Renewable ? 1 : 0);
                 for (int j = 0; j < streams[i].ComponentMassFlowRatesKGH.Length; j++)
                 {
                     SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], j + 186, streams[i].ComponentMassFlowRatesKGH[j]);

@@ -189,6 +189,7 @@
     <None Include="ICSCnumberByCAS.txt" />
     <None Include="idlh.txt" />
     <None Include="list_of_lists.txt" />
+    <None Include="DE_Hazardous_Water_AID_1.txt" />
     <Content Include="Resources\species.txt" />
     <Content Include="species.txt" />
   </ItemGroup>
