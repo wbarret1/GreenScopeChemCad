@@ -50,6 +50,10 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.tabPage8 = new System.Windows.Forms.TabPage();
+            this.label7 = new System.Windows.Forms.Label();
+            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
+            this.tabPage9 = new System.Windows.Forms.TabPage();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.tabPage2 = new System.Windows.Forms.TabPage();
@@ -65,15 +69,12 @@
             this.splitter1 = new System.Windows.Forms.Splitter();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.label3 = new System.Windows.Forms.Label();
-            this.tabPage8 = new System.Windows.Forms.TabPage();
-            this.tabPage9 = new System.Windows.Forms.TabPage();
-            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
-            this.label7 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            this.tabPage8.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.tabPage2.SuspendLayout();
@@ -86,7 +87,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).BeginInit();
             this.tabPage7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
-            this.tabPage8.SuspendLayout();
             this.SuspendLayout();
             // 
             // button1
@@ -167,7 +167,7 @@
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.Filter = "ChemCAD files (*.cc6)|*.cc6|All files (*.*)|*.*";
+            this.openFileDialog1.Filter = "ChemCAD files (*.cc7)|*.cc7|All files (*.*)|*.*";
             // 
             // saveFileDialog1
             // 
@@ -355,6 +355,43 @@
             this.label4.TabIndex = 0;
             this.label4.Text = "Process Reference Temperature:";
             // 
+            // tabPage8
+            // 
+            this.tabPage8.Controls.Add(this.label7);
+            this.tabPage8.Controls.Add(this.checkedListBox1);
+            this.tabPage8.Location = new System.Drawing.Point(4, 22);
+            this.tabPage8.Name = "tabPage8";
+            this.tabPage8.Size = new System.Drawing.Size(701, 338);
+            this.tabPage8.TabIndex = 7;
+            this.tabPage8.Text = "Input Streams";
+            this.tabPage8.UseVisualStyleBackColor = true;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(73, 30);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(165, 13);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "Select Renewable Feed Streams:";
+            // 
+            // checkedListBox1
+            // 
+            this.checkedListBox1.FormattingEnabled = true;
+            this.checkedListBox1.Location = new System.Drawing.Point(104, 56);
+            this.checkedListBox1.Name = "checkedListBox1";
+            this.checkedListBox1.Size = new System.Drawing.Size(442, 169);
+            this.checkedListBox1.TabIndex = 0;
+            // 
+            // tabPage9
+            // 
+            this.tabPage9.Location = new System.Drawing.Point(4, 22);
+            this.tabPage9.Name = "tabPage9";
+            this.tabPage9.Size = new System.Drawing.Size(701, 338);
+            this.tabPage9.TabIndex = 8;
+            this.tabPage9.Text = "Output Streams";
+            this.tabPage9.UseVisualStyleBackColor = true;
+            // 
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.dataGridView1);
@@ -497,43 +534,6 @@
             this.label3.TabIndex = 12;
             this.label3.Text = "Extraction Progress";
             // 
-            // tabPage8
-            // 
-            this.tabPage8.Controls.Add(this.label7);
-            this.tabPage8.Controls.Add(this.checkedListBox1);
-            this.tabPage8.Location = new System.Drawing.Point(4, 22);
-            this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Size = new System.Drawing.Size(701, 338);
-            this.tabPage8.TabIndex = 7;
-            this.tabPage8.Text = "Input Streams";
-            this.tabPage8.UseVisualStyleBackColor = true;
-            // 
-            // tabPage9
-            // 
-            this.tabPage9.Location = new System.Drawing.Point(4, 22);
-            this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Size = new System.Drawing.Size(701, 338);
-            this.tabPage9.TabIndex = 8;
-            this.tabPage9.Text = "Output Streams";
-            this.tabPage9.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox1
-            // 
-            this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Location = new System.Drawing.Point(104, 56);
-            this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(442, 169);
-            this.checkedListBox1.TabIndex = 0;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(73, 30);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(165, 13);
-            this.label7.TabIndex = 1;
-            this.label7.Text = "Select Renewable Feed Streams:";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -560,6 +560,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            this.tabPage8.ResumeLayout(false);
+            this.tabPage8.PerformLayout();
             this.tabPage1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.tabPage2.ResumeLayout(false);
@@ -572,8 +574,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).EndInit();
             this.tabPage7.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).EndInit();
-            this.tabPage8.ResumeLayout(false);
-            this.tabPage8.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 

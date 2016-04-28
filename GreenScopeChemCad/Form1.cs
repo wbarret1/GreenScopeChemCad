@@ -283,6 +283,7 @@ namespace GreenScopeChemCad
             spreadsheet.Close();
             this.progressBar1.Value = 100;
             this.Cursor = oldCursor;
+            System.Windows.Forms.MessageBox.Show(this, "You can now browse the information or close the application.", "Extraction Complete." );
         }
 
         private void button4_Click(object sender, EventArgs e)

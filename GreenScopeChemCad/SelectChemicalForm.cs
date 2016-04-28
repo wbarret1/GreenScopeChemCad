@@ -11,42 +11,72 @@ namespace GreenScopeChemCad
 {
     public partial class SelectChemicalForm : Form
     {
-        List<SpellAidChemical> chemicalList;
-        int selected;
+        int m_Selected = -1;
 
         public SelectChemicalForm(SpellAid aid, string desiredCompoundName)
         {
             InitializeComponent();
-            chemicalList = new List<SpellAidChemical>();
-            foreach (SpellAidChemical chemical in aid.Chemical)
+            this.imageList1.Images.Clear();
+            this.listView1.Columns.Add("Name", -2, HorizontalAlignment.Left);
+            this.listView1.Columns.Add("CAS Number", -2, HorizontalAlignment.Left);
+            this.AddChemicalsToList(aid);
+            this.Text = desiredCompoundName + " not found. Please Select the Desired Chemical From the List Below:";
+        }
+
+        public string SelectedChemicalName
+        {
+            get
             {
-                chemicalList.Add(chemical);
+                if (m_Selected < 0) return string.Empty;
+                return ((SpellAidChemical)(this.listView1.Items[m_Selected].Tag)).Name;
             }
-            this.dataGridView1.DataSource = chemicalList;
-            this.label1.Text = "Select a chemical below that matches: " + desiredCompoundName;
+        }
+
+        public string SelectedChemicalCAS
+        {
+            get
+            {
+                if (m_Selected < 0) return string.Empty;
+                return ((SpellAidChemical)(this.listView1.Items[m_Selected].Tag)).CAS;
+            }
+        }
+
+        void AddChemicalsToList(SpellAid chemicals)
+        {
+            int i = 0;
+            foreach (SpellAidChemical chemical in chemicals.Chemical)
+            {
+                ListViewItem item = new ListViewItem(chemical.Name, i++);
+                item.Tag = chemical;
+                item.SubItems.Add(chemical.CAS);
+                this.listView1.Items.Add(item);
+                this.imageList1.Images.Add(this.PUGGetCompoundImage(chemical.Name, chemical.CAS));
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (this.dataGridView1.SelectedCells.Count != 0)
-            {
-                selected = this.dataGridView1.SelectedCells[0].RowIndex;
-                this.Close();
-            }
-        }
-
-        private void dataGridView1_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
-        {
-            selected = this.dataGridView1.SelectedCells[0].RowIndex;
+            m_Selected = -1;
+            if (this.listView1.SelectedIndices.Count != 0)
+                m_Selected = this.listView1.SelectedIndices[0];
             this.Close();
         }
 
-        public SpellAidChemical SelectedChemical
+        Image PUGGetCompoundImage(string compoundName, string casNo)
         {
-            get
+            string imageReference = "http://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + compoundName + "/PNG";
+            System.Net.HttpWebRequest request = (System.Net.HttpWebRequest)System.Net.WebRequest.Create(imageReference);
+            try
             {
-                return chemicalList[selected];
+                System.Net.WebResponse response = request.GetResponse();
+                return Image.FromStream(response.GetResponseStream());
+            }
+            catch (System.Exception p_Ex)
+            {
+                return null;//Properties.Resources.Image1;
             }
         }
+
+
     }
 }

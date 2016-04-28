@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GreenScopeChemCad
 {
- 
+
     [Serializable]
     static class NISTChemicalList
     {
@@ -13,7 +13,8 @@ namespace GreenScopeChemCad
         static NISTChemicalList()
         {
             speciesList = new System.Collections.Generic.List<Species>();
-            try {
+            try
+            {
                 System.IO.StringReader reader = new System.IO.StringReader(Properties.Resources.species);
                 string nextLine = reader.ReadLine();
                 while (nextLine != null)
@@ -90,11 +91,11 @@ namespace GreenScopeChemCad
                             return retVal;
                         }
                     }
-                SelectChemicalForm form = new SelectChemicalForm(aid, compoundName);
-                form.ShowDialog();
-                retVal[0] = form.SelectedChemical.CAS;
-                retVal[1] = form.SelectedChemical.Name;
-                return retVal;
+                    SelectChemicalForm form = new SelectChemicalForm(aid, compoundName);
+                    form.ShowDialog();
+                    retVal[0] = form.SelectedChemicalCAS;
+                    retVal[1] = form.SelectedChemicalName;
+                    return retVal;
                 }
             }
             return retVal;
@@ -122,7 +123,7 @@ namespace GreenScopeChemCad
         public Species(string line)
         {
             char tab = '\t';
-            string[]  parts = line.Split(tab);
+            string[] parts = line.Split(tab);
             SpeciesName = parts[0];
             SpeciesFormula = parts[1];
             CASNumber = parts[2];
