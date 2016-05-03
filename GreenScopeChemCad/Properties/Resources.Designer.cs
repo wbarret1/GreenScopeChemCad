@@ -96,6 +96,16 @@ namespace GreenScopeChemCad.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon epaicon_new_small_shortcut {
+            get {
+                object obj = ResourceManager.GetObject("epaicon_new_small_shortcut", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] GRNS_LCI_v1_2_05_15 {

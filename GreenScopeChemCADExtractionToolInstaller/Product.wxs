@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.0.0" Manufacturer="U.S. EPA" UpgradeCode="79af5a6a-0eb0-4cee-8b5e-48a2204e5fd3">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perUser" />
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <Media Id='1' Cabinet='product.cab' EmbedCab='yes' />
+    <Feature Id="ProductFeature" Title="GreenScopeChemCADExtractionToolInstaller" Level="1">
+      <ComponentRef Id="ProductComponents" />
+      <ComponentRef Id="ApplicationShortcut" />
+    </Feature>
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="LocalAppDataFolder">
+        <Directory Id="INSTALLDIR" Name="GreenScopeChemCADExtractionToolInstaller" />
+      </Directory>
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="GreenScope ChemCAD Extraction Tool"/>
+      </Directory>
+    </Directory>
+  </Fragment>
+
+  <Fragment>
+    <DirectoryRef Id="INSTALLDIR">
+      <Component Id="ProductComponents" Guid="5F568E7A-1B76-40B2-BA8F-6D84380C7AA4">
+        <File Source="$(var.GreenScopeChemCad.TargetPath)" />
+        <RemoveFolder Id="LocalAppDataFolder" On="uninstall"/>
+        <RegistryValue Root="HKCU" Key="Software\Microsoft\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+      </Component>
+    </DirectoryRef>
+  </Fragment>
+
+  <Fragment>
+    <DirectoryRef Id="ApplicationProgramsFolder">
+      <Component Id="ApplicationShortcut" Guid="928F8D3C-A0E8-4175-95BB-44D10E6D2E77">
+        <Shortcut Id="ApplicationStartMenuShortcut"
+                  Name="GreenScope ChemCAD Extraction Tool"
+                  Description="Extracts GREENSCOPE Data from a ChemCAD Flowsheet."
+                  Target="[#$(var.GreenScopeChemCad.TargetFileName)]"
+                  WorkingDirectory="APPLICATIONROOTDIRECTORY"/>
+        <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>
+        <RegistryValue Root="HKCU" Key="Software\Microsoft\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+      </Component>
+    </DirectoryRef>
+  </Fragment>
+</Wix>

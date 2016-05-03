@@ -1,0 +1,6 @@
+C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCADExtractionToolInstaller\bin\Debug\GreenScopeChemCADExtractionToolInstaller.msi
+C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCADExtractionToolInstaller\bin\Debug\GreenScopeChemCADExtractionToolInstaller.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\GreenScopeChemCADExtractionToolInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\GreenScopeChemCADExtractionToolInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\GreenScopeChemCADExtractionToolInstaller.wixproj.BindBuiltOutputsFileListnull.txt

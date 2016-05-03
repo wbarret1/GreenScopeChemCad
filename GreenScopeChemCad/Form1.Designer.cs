@@ -553,7 +553,7 @@
             this.Controls.Add(this.splitter1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Extract ChemCAD (cc6) File into GREENSCOPE Excel Template";
+            this.Text = "Extract ChemCAD (cc7) File into GREENSCOPE Excel Template";
             this.tabControl1.ResumeLayout(false);
             this.tabPage6.ResumeLayout(false);
             this.tabPage6.PerformLayout();

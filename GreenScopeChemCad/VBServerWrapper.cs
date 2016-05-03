@@ -163,6 +163,14 @@ namespace GreenScopeChemCad
             if (hrRet == 0)
             {
                 Flowsheet sheet = this.GetFlowsheet();
+                if (sheet == null)
+                {
+                    // There is no flowsheet available. Maybe there is no available ChemCAD license...
+                    // Let the user know and tell them to check.
+                    System.Windows.Forms.MessageBox.Show("The ChemCAD Flowsheet did not load. Make sure there is a license available. You may need to close ChemCAD on the local machine.", "No Flowsheet!!");
+                    this.CloseSimulation();
+                    return false;
+                }
                 StreamInfo p_StreamInfo = this.GetStreamInfo();
                 int[] ids = sheet.AllStreamIDs;
                 int numComps = p_StreamInfo.NumberOfComponents;
@@ -178,6 +186,114 @@ namespace GreenScopeChemCad
                 return (bool)varResult;
             }
             return false;
+        }
+
+        public string GetJobAt(int jobIndex)
+        {
+            Guid IID_NULL = new Guid("00000000-0000-0000-0000-000000000000");
+            string[] rgsNames = new string[1] { "GetJobAt" };
+            int[] rgDispId = new int[1] { 0 };
+
+            int hrRet = p_IDispatch.GetIDsOfNames
+            (
+                ref IID_NULL,
+                rgsNames,
+                1,
+                LOCALE_SYSTEM_DEFAULT,
+                rgDispId
+            );
+            object varResult = null;
+
+            if (hrRet == 0)
+            {
+                System.Runtime.InteropServices.ComTypes.EXCEPINFO ExcepInfo = new System.Runtime.InteropServices.ComTypes.EXCEPINFO();
+                UInt32 pArgErr = 0;
+
+                Variant[] v = new Variant[1];
+                v[0].vt = 0x0002;
+                v[0].iVal = (short)jobIndex;
+                System.Runtime.InteropServices.GCHandle rgvarg = System.Runtime.InteropServices.GCHandle.Alloc(v, System.Runtime.InteropServices.GCHandleType.Pinned);
+
+                var dispParams = new System.Runtime.InteropServices.ComTypes.DISPPARAMS()
+                {
+                    cArgs = 1,
+                    cNamedArgs = 0,
+                    rgdispidNamedArgs = IntPtr.Zero,
+                    rgvarg = rgvarg.AddrOfPinnedObject()
+                };
+
+                hrRet = p_IDispatch.Invoke
+                (
+                    rgDispId[0],
+                    ref IID_NULL,
+                    LOCALE_SYSTEM_DEFAULT,
+                    DISPATCH_METHOD,
+                    ref dispParams,
+                    ref varResult,
+                    ref ExcepInfo,
+                    out pArgErr
+                );
+                rgvarg.Free();
+            }
+
+            if (hrRet == 0)
+            {
+                return (string)varResult;
+            }
+            return string.Empty;
+        }
+
+        public string GetWorkDir()
+        {
+            Guid IID_NULL = new Guid("00000000-0000-0000-0000-000000000000");
+            string[] rgsNames = new string[1] { "GetWorkDir" };
+            int[] rgDispId = new int[1] { 0 };
+
+            int hrRet = p_IDispatch.GetIDsOfNames
+            (
+                ref IID_NULL,
+                rgsNames,
+                1,
+                LOCALE_SYSTEM_DEFAULT,
+                rgDispId
+            );
+            object varResult = null;
+
+            if (hrRet == 0)
+            {
+                System.Runtime.InteropServices.ComTypes.EXCEPINFO ExcepInfo = new System.Runtime.InteropServices.ComTypes.EXCEPINFO();
+                UInt32 pArgErr = 0;
+
+                Variant[] v = new Variant[0];
+                System.Runtime.InteropServices.GCHandle rgvarg = System.Runtime.InteropServices.GCHandle.Alloc(v, System.Runtime.InteropServices.GCHandleType.Pinned);
+
+                var dispParams = new System.Runtime.InteropServices.ComTypes.DISPPARAMS()
+                {
+                    cArgs = 0,
+                    cNamedArgs = 0,
+                    rgdispidNamedArgs = IntPtr.Zero,
+                    rgvarg = rgvarg.AddrOfPinnedObject()
+                };
+
+                hrRet = p_IDispatch.Invoke
+                (
+                    rgDispId[0],
+                    ref IID_NULL,
+                    LOCALE_SYSTEM_DEFAULT,
+                    DISPATCH_METHOD,
+                    ref dispParams,
+                    ref varResult,
+                    ref ExcepInfo,
+                    out pArgErr
+                );
+                rgvarg.Free();
+            }
+
+            if (hrRet == 0)
+            {
+                return (string)varResult;
+            }
+            return string.Empty;
         }
 
         public bool TakeProcessSnapShot(string bstrJobPath)

@@ -77,6 +77,12 @@ namespace GreenScopeChemCad
             }
         }
 
-
+        private void listView1_DoubleClick(object sender, EventArgs e)
+        {
+            m_Selected = -1;
+            if (this.listView1.SelectedIndices.Count != 0)
+                m_Selected = this.listView1.SelectedIndices[0];
+            this.Close();
+        }
     }
 }

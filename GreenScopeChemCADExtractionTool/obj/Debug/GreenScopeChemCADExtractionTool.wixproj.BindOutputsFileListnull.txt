@@ -1,2 +1,0 @@
-C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCADExtractionTool\bin\Debug\GreenScopeChemCADExtractionTool.msi
-C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCADExtractionTool\bin\Debug\GreenScopeChemCADExtractionTool.wixpdb
