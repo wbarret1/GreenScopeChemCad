@@ -8,6 +8,7 @@
       <ComponentRef Id="ProductComponents" />
       <ComponentRef Id="ApplicationShortcut" />
     </Feature>
+    <Icon Id="greenscopeIcons" SourceFile="$(var.GreenScopeChemCad.TargetPath)"/>
   </Product>
 
   <Fragment>
@@ -26,7 +27,7 @@
       <Component Id="ProductComponents" Guid="5F568E7A-1B76-40B2-BA8F-6D84380C7AA4">
         <File Source="$(var.GreenScopeChemCad.TargetPath)" />
         <RemoveFolder Id="LocalAppDataFolder" On="uninstall"/>
-        <RegistryValue Root="HKCU" Key="Software\Microsoft\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+        <RegistryValue Root="HKCU" Key="Software\USEPA\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
       </Component>
     </DirectoryRef>
   </Fragment>
@@ -38,9 +39,11 @@
                   Name="GreenScope ChemCAD Extraction Tool"
                   Description="Extracts GREENSCOPE Data from a ChemCAD Flowsheet."
                   Target="[#$(var.GreenScopeChemCad.TargetFileName)]"
-                  WorkingDirectory="APPLICATIONROOTDIRECTORY"/>
+                  WorkingDirectory="APPLICATIONROOTDIRECTORY"
+                  Icon="greenscopeIcons"
+                  IconIndex="0"/>
         <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>
-        <RegistryValue Root="HKCU" Key="Software\Microsoft\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+        <RegistryValue Root="HKCU" Key="Software\USEPA\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
       </Component>
     </DirectoryRef>
   </Fragment>

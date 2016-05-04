@@ -11,6 +11,7 @@ C:\Users\WBARRETT\Desktop\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenSco
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\Interop.CHEMCAD.dll
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.csproj.ResolveComReference.cache
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.Form1.resources
+C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.Properties.Resources.resources
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.SelectChemicalForm.resources
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.csproj.GenerateResource.Cache
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\GreenScopeChemCad.exe.config
@@ -18,7 +19,5 @@ C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\G
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\GreenScopeChemCad.pdb
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\DocumentFormat.OpenXml.dll
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\DocumentFormat.OpenXml.xml
-C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.Properties.Resources.resources
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.exe
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.pdb
-C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.csprojResolveAssemblyReference.cache
