@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.0.0" Manufacturer="U.S. EPA" UpgradeCode="79af5a6a-0eb0-4cee-8b5e-48a2204e5fd3">
+  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.0.1" Manufacturer="U.S. EPA" UpgradeCode="79af5a6a-0eb0-4cee-8b5e-48a2204e5fd3">
     <Package InstallerVersion="200" Compressed="yes" InstallScope="perUser" />
     <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
     <Media Id='1' Cabinet='product.cab' EmbedCab='yes' />
     <Feature Id="ProductFeature" Title="GreenScopeChemCADExtractionToolInstaller" Level="1">
       <ComponentRef Id="ProductComponents" />
       <ComponentRef Id="ApplicationShortcut" />
+      <ComponentRef Id="OpenOfficeXML" />
     </Feature>
     <Icon Id="greenscopeIcons" SourceFile="$(var.GreenScopeChemCad.TargetPath)"/>
   </Product>
@@ -24,7 +25,16 @@
 
   <Fragment>
     <DirectoryRef Id="INSTALLDIR">
-      <Component Id="ProductComponents" Guid="5F568E7A-1B76-40B2-BA8F-6D84380C7AA4">
+      <Component Id="OpenOfficeXML" Guid="5F568E7A-1B76-40B2-BA8F-6D84380C7AA4">
+        <File Source="$(var.GreenScopeChemCad.TargetDir)\DocumentFormat.OpenXml.dll"/>
+        <RegistryValue Root="HKCU" Key="Software\USEPA\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+      </Component>
+    </DirectoryRef>
+  </Fragment>
+
+  <Fragment>
+    <DirectoryRef Id="INSTALLDIR">
+      <Component Id="ProductComponents" Guid="268B57D3-833E-485D-A1E4-24F9A701E03D">
         <File Source="$(var.GreenScopeChemCad.TargetPath)" />
         <RemoveFolder Id="LocalAppDataFolder" On="uninstall"/>
         <RegistryValue Root="HKCU" Key="Software\USEPA\GreenScopeChemCADExtractionTool" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
@@ -39,7 +49,7 @@
                   Name="GreenScope ChemCAD Extraction Tool"
                   Description="Extracts GREENSCOPE Data from a ChemCAD Flowsheet."
                   Target="[#$(var.GreenScopeChemCad.TargetFileName)]"
-                  WorkingDirectory="APPLICATIONROOTDIRECTORY"
+                  WorkingDirectory="INSTALLDIR"
                   Icon="greenscopeIcons"
                   IconIndex="0"/>
         <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>

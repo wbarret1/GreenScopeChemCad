@@ -664,30 +664,27 @@ namespace GreenScopeChemCad
 
                 string pattern1 = "Symbol: (?<1>\\S+)</span>";
                 System.Text.RegularExpressions.Match m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled
+                           );
                 ecClass = m1.Groups[1].Value;
                 ecClassReference = m_iloChemicalSafetyCardURL;
 
 
                 pattern1 = "R: (?<1>\\S+)</span>;";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 rPhrase = m1.Groups[1].Value;
                 rPhraseReference = m_iloChemicalSafetyCardURL;
 
                 pattern1 = "MAK: Carcinogen category: (?<1>\\S+);</span> Germ cell mutagen group: (?<2>\\S+);</span>";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 MAKcarcinogenCategory = m1.Groups[1].Value;
                 MAKcellMutantGroup = m1.Groups[2].Value;
 
                 pattern1 = "MAK: (?<1>\\S+) ppm</span>, (?<2>\\S+) mg/m³;";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 MAKppmValue = m1.Groups[1].Value;
                 MAmgm3Value = m1.Groups[2].Value;
 
@@ -695,8 +692,7 @@ namespace GreenScopeChemCad
                 {
                     pattern1 = "MAK \\(respirable fraction\\)</span>: (?<1>\\S+) ppm</span>, (?<2>\\S+) mg/m³;</span>";
                     m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                     MAKppmValue = m1.Groups[1].Value;
                     MAmgm3Value = m1.Groups[2].Value;
                 }
@@ -704,38 +700,33 @@ namespace GreenScopeChemCad
 
                 pattern1 = "Boiling point: (?<1>\\S+)</span>°(?<2>\\S+) <br />";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 bpValue = m1.Groups[1].Value;
                 bpUnit = m1.Groups[2].Value;
                 bpReference = m_iloChemicalSafetyCardURL;
 
                 pattern1 = "Melting point: (?<1>\\S+)</span>°(?<2>\\S+) <br />";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 mpValue = m1.Groups[1].Value;
                 mpUnit = m1.Groups[2].Value;
                 mpReference = m_iloChemicalSafetyCardURL;
 
                 pattern1 = "Density: (?<1>\\S+)</span> (?<2>\\S+)<br />";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 densityValue = m1.Groups[1].Value;
                 densityUnit = m1.Groups[2].Value;
 
                 pattern1 = "Relative density \\(water = 1\\): (?<1>\\S+)</span>";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 relativeDensityValue = m1.Groups[1].Value;
                 densityReference = m_iloChemicalSafetyCardURL;
 
                 pattern1 = "Vapour pressure, (?<1>\\S+) at (?<2>\\S+)</span>°C: (?<3>\\S+)</span> ";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 vaporPressUnit = m1.Groups[1].Value;
                 vaporPressTemp = m1.Groups[2].Value;
                 vaporPress = m1.Groups[3].Value;
@@ -743,16 +734,14 @@ namespace GreenScopeChemCad
 
                 pattern1 = "Flash point: (?<1>\\S+)</span>°(?<2>\\S+) c.c.<br />";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 flashPtValue = m1.Groups[1].Value;
                 flashPtUnit = m1.Groups[2].Value;
                 flashPtReference = m_iloChemicalSafetyCardURL;
 
                 pattern1 = "NFPA Code: H(?<1>\\S+); F(?<2>\\S+); R(?<3>\\S+)</span>";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 nfpaHealth = m1.Groups[1].Value;
                 nfpaHealthReference = m_iloChemicalSafetyCardURL;
                 nfpaFire = m1.Groups[2].Value;
@@ -762,8 +751,7 @@ namespace GreenScopeChemCad
 
                 pattern1 = "Octanol/water partition coefficient as log Pow: (?<1>\\S+)</span>";
                 m1 = System.Text.RegularExpressions.Regex.Match(output, pattern1,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 logKow = m1.Groups[1].Value;
                 logKowReference = m_iloChemicalSafetyCardURL;
             }
@@ -808,8 +796,7 @@ namespace GreenScopeChemCad
             // pH
             string pattern = "pH:\\s*(?<1>\\S+)\\s*(?<2>[^\\n]*)\\s*<NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
             System.Text.RegularExpressions.Match m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                      TimeSpan.FromSeconds(1));
+                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             m_pH = m.Groups[1].Value;
             m_pHAdditional = m.Groups[2].Value;
             m_pHReference = m.Groups[3].Value;
@@ -817,21 +804,18 @@ namespace GreenScopeChemCad
             // heat of vaporization: 
             pattern = "Heat of Vaporization:</h3>\\s*<br>\\s*Latent:\\s*(?<1>\\S+)\\s*(?<2>\\S+)\\s*(?<4>[^\\n]*)<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>"; ;
             m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                      TimeSpan.FromSeconds(1));
+                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             if (m.Groups.Count == 1)
             {
                 pattern = "Heat of Vaporization:</h3>\\s*<br>\\s*Enthalpy of vaporization:\\s*(?<1>\\S+)\\s*(?<2>\\S+)\\s*(?<4>[^\\n]*)<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             }
             if (m.Groups.Count == 1)
             {
                 pattern = "Heat of Vaporization:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*(?<2>\\S+)\\s*(?<4>[^\\n]*)<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             }
             m_HeatOfVaporization = m.Groups[1].Value;
             m_HeatOfVaporizationUnit = m.Groups[2].Value;
@@ -846,14 +830,12 @@ namespace GreenScopeChemCad
             // heat of combustion: 
             pattern = "Heat of Combustion:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*(?<2>\\S+)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
             m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                      TimeSpan.FromSeconds(1));
+                       System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             if (m.Groups.Count == 1)
             {
                 pattern = "Heat of Combustion:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*(?<2>\\S+)\\s*(?<3>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
             }
             m_HeatOfCombustion = m.Groups[1].Value;
             m_HeatOfCombustionUnit = m.Groups[2].Value;
@@ -865,8 +847,7 @@ namespace GreenScopeChemCad
                 // owpc: 
                 pattern = "log\\s*Kow\\s*=\\s*(?<1>\\S+)<br><code><NOINDEX>(?<2>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 logKow = m.Groups[1].Value;
                 logKowReference = m.Groups[2].Value;
             }
@@ -877,14 +858,12 @@ namespace GreenScopeChemCad
                 // Chemical Properties 
                 pattern = "Flash Point:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*deg\\s*(?<2>\\S+),\\s*(?<5>\\S+)\\s*deg\\s*(?<6>\\S+)\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 if (m.Groups.Count == 1)
                 {
                     pattern = "Flash Point:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*deg\\s*(?<2>\\S+)\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                     m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                                   System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                                  TimeSpan.FromSeconds(1));
+                                   System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 }
                 if (m.Groups[2].Value == "C")
                 {
@@ -904,14 +883,12 @@ namespace GreenScopeChemCad
             {
                 pattern = "Vapor Pressure:</h3>\\s*<br><\\s*(?<1>\\S+)\\s*(?<2>[^\"']*) at (?<3>\\S+) deg (?<4>\\S+)\\s*(?<5>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 if (m.Groups.Count == 1)
                 {
                     pattern = "Vapor Pressure:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*(?<2>[^\"']*) at (?<3>\\S+) deg (?<4>\\S+)\\s*(?<5>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                     m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 }
                 vaporPress = m.Groups[1].Value.ToLower();
                 if (vaporPress.Contains("x"))
@@ -930,14 +907,12 @@ namespace GreenScopeChemCad
             {
                 pattern = "Boiling Point:</h3>\\s*<br>\\s*(?<1>\\S+) deg (?<2>\\S+)<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 if (m.Groups.Count == 1)
                 {
                     pattern = "Boiling Point:</h3>\\s*<br>\\s*(?<1>\\S+) deg (?<2>\\S+)\\s*(?<4>[^\\n]*)<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                     m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 }
                 bpValue = m.Groups[1].Value;
                 bpUnit = m.Groups[2].Value;
@@ -949,8 +924,7 @@ namespace GreenScopeChemCad
             {
                 pattern = "Melting Point:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*deg\\s*(?<2>\\S+)\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<3>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 mpValue = m.Groups[1].Value;
                 mpUnit = m.Groups[2].Value;
                 mpReference = m.Groups[3].Value;
@@ -961,21 +935,18 @@ namespace GreenScopeChemCad
             {
                 pattern = "Density/Specific Gravity:</h3>\\s*<br>\\s*Gas:\\s*(?<1>\\S+)\\s*(?<2>[^\"']*)\\s*at\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<4>[^\\n]*)</NOINDEX>";
                 m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                          TimeSpan.FromSeconds(1));
+                           System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 if (m.Groups.Count == 1)
                 {
                     pattern = "Density/Specific Gravity:</h3>\\s*<br>\\s*Absolute density:\\s*(?<1>\\S+)\\s*(?<2>[^\"']*)\\s*at\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<4>[^\\n]*)</NOINDEX>";
                     m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 }
                 if (m.Groups.Count == 1)
                 {
                     pattern = "Density/Specific Gravity:</h3>\\s*<br>\\s*(?<1>\\S+)\\s*(?<2>[^\"']*)\\s*at\\s*(?<4>[^\\n]*)\\s*<br><code><NOINDEX>(?<4>[^\\n]*)</NOINDEX>";
                     m = System.Text.RegularExpressions.Regex.Match(propertiesResposne, pattern,
-                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                              TimeSpan.FromSeconds(1));
+                               System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
                 }
                 densityValue = m.Groups[1].Value;
                 densityUnit = m.Groups[2].Value;
@@ -990,8 +961,7 @@ namespace GreenScopeChemCad
             string ecoToxResposne = new System.IO.StreamReader(response.GetResponseStream()).ReadToEnd();
             pattern = "LC50; Species:\\s*(?<1>[^\\n]*)\\s*[,;] Conditions:\\s*(?<2>[^\\n]*)\\s*[,;] Concentration:\\s*(?<3>\\S+)\\s*(?<4>\\S+)\\s*for\\s*(?<5>[^\\n]*)\\s*<br><code><NOINDEX>\\s*(?<6>[^\\n]*)\\s*</NOINDEX>";
             System.Text.RegularExpressions.MatchCollection matchColl = System.Text.RegularExpressions.Regex.Matches(ecoToxResposne, pattern,
-                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                TimeSpan.FromSeconds(1));
+                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
 
             double lc50 = 1000000.0;
             System.Text.RegularExpressions.Match lc50Match = null;
@@ -1026,8 +996,7 @@ namespace GreenScopeChemCad
             }
             //pattern = "EC50; Species:\\s*(?<1>[^\\n]*)\\s*[,;] Conditions:\\s*(?<2>[^\\n]*)\\s*[,;] Concentration:\\s*(?<3>[^\\n]*)\\s*for\\s*(?<4>[^\\n]*)\\s*[,;] Effect: \\s*(?<5>[^\\n]*)\\s*<br><code><NOINDEX>\\s*(?<6>[^\\n]*)\\s*</NOINDEX>";
             //matchColl = System.Text.RegularExpressions.Regex.Matches(ecoToxResposne, pattern,
-            //    System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-            //    TimeSpan.FromSeconds(1));
+            //    System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
 
             // NonHuman Tox
             request = (System.Net.HttpWebRequest)System.Net.WebRequest.Create(uriString + ":1:ntxv");
@@ -1036,8 +1005,7 @@ namespace GreenScopeChemCad
 
             pattern = "LD50\\s*(?<1>\\S+)\\s*oral\\s*[(&gt;)\\s*]\\s*(?<2>\\S+)\\s*(?<3>\\S+)\\s*<br><code><NOINDEX>\\s*(?<4>[^\\n]*)\\s*</NOINDEX>";
             matchColl = System.Text.RegularExpressions.Regex.Matches(nonHumanToxResposne, pattern,
-                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                TimeSpan.FromSeconds(1));
+                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
 
             double ld50Oral = 1000000.0;
             System.Text.RegularExpressions.Match ld50OralMatch = null;
@@ -1090,8 +1058,7 @@ namespace GreenScopeChemCad
             {
                 pattern = "LD50\\s*(?<1>\\S+)\\s*" + synonym + "\\s*[(&gt;)\\s*]\\s*(?<2>\\S+)\\s*(?<3>\\S+)\\s*<br><code><NOINDEX>\\s*(?<4>[^\\n]*)\\s*</NOINDEX>";
                 matchColl = System.Text.RegularExpressions.Regex.Matches(nonHumanToxResposne, pattern,
-                    System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                    TimeSpan.FromSeconds(1));
+                    System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
 
                 foreach (System.Text.RegularExpressions.Match match in matchColl)
                 {
@@ -1120,8 +1087,7 @@ namespace GreenScopeChemCad
             }
             pattern = "LD50\\s*(?<1>\\w*)\\s*[(&gt;)\\s*]\\s*(?<2>\\S+)\\s*(?<3>\\S+)\\s*dermal[.\\s+]\\s*\\s*<br><code><NOINDEX>\\s*(?<4>[^\\n]*)\\s*</NOINDEX>";
             matchColl = System.Text.RegularExpressions.Regex.Matches(nonHumanToxResposne, pattern,
-                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled,
-                TimeSpan.FromSeconds(1));
+                System.Text.RegularExpressions.RegexOptions.IgnoreCase | System.Text.RegularExpressions.RegexOptions.Compiled);
 
             foreach (System.Text.RegularExpressions.Match match in matchColl)
             {

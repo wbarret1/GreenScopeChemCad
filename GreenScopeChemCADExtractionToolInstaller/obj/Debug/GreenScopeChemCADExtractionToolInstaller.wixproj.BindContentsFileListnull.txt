@@ -1,1 +1,2 @@
+C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\\DocumentFormat.OpenXml.dll
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\GreenScopeChemCad.exe
