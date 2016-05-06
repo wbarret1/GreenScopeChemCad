@@ -32,6 +32,7 @@ namespace GreenScopeChemCad
         int mainGlobalProduct = 0;
         int mainGlobalProductStream = 0;
         double[] stoichiometry = new double[0];
+        bool updatingComponents = true;
         //ChemicalSpecies m_NISTChemicals;
 
         public Form1()
@@ -113,7 +114,7 @@ namespace GreenScopeChemCad
             this.progressBar1.Value = 10;
 
             VBServerWrapper server = new VBServerWrapper();
-            if (!server.LoadJob(chemCadFileName))
+            if (!server.LoadJob(chemCadFileName, this.checkBox1.Checked))
             {
                 System.Windows.Forms.MessageBox.Show("The desired simulation did not load properly.");
                 server.CloseSimulation();
@@ -1012,6 +1013,7 @@ namespace GreenScopeChemCad
 
         private void AddComponentsToSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, Stream stream)
         {
+            if (!updatingComponents) return;
             IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet> sheets = spreadsheet.WorkbookPart.Workbook.GetFirstChild<DocumentFormat.OpenXml.Spreadsheet.Sheets>().Elements<DocumentFormat.OpenXml.Spreadsheet.Sheet>().Where(s => s.Name == "I. Stream & Compound Data");
             if (sheets.Count() == 0)
             {
@@ -1329,7 +1331,7 @@ namespace GreenScopeChemCad
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 239, streams[i].MoleVaporFraction);
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 240, streams[i].EnthalpyMJHR);
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 241, streams[i].EntropyMJKHR);
-                SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 243, streams[i].LiquidVolumetricFlowRateM3HR);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 243, streams[i].MoleVaporFraction < 0.1 ? streams[i].LiquidVolumetricFlowRateM3HR : streams[i].VaporVolumetricFlowRateM3Hr);
                 SetSpreadsheetCellValue(worksheetPart.Worksheet, componentColumns[i], 246, streams[i].Cost);
             }
         }

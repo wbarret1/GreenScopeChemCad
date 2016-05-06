@@ -21,4 +21,3 @@ C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\D
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.exe
 C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.pdb
-C:\Users\WBARRETT\Desktop\GitHub\GreenScopeChemCad\GreenScopeChemCad\obj\Debug\GreenScopeChemCad.csprojResolveAssemblyReference.cache

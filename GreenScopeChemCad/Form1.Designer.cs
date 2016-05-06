@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -69,6 +70,8 @@
             this.splitter1 = new System.Windows.Forms.Splitter();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.label3 = new System.Windows.Forms.Label();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.tabControl1.SuspendLayout();
             this.tabPage6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
@@ -113,7 +116,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(505, 109);
+            this.button3.Location = new System.Drawing.Point(505, 138);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(162, 24);
             this.button3.TabIndex = 2;
@@ -123,7 +126,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(21, 109);
+            this.button4.Location = new System.Drawing.Point(21, 138);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 24);
             this.button4.TabIndex = 3;
@@ -186,10 +189,10 @@
             this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Controls.Add(this.tabPage7);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabControl1.Location = new System.Drawing.Point(0, 152);
+            this.tabControl1.Location = new System.Drawing.Point(0, 190);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(709, 364);
+            this.tabControl1.Size = new System.Drawing.Size(709, 391);
             this.tabControl1.TabIndex = 8;
             // 
             // tabPage6
@@ -206,7 +209,7 @@
             this.tabPage6.Controls.Add(this.label4);
             this.tabPage6.Location = new System.Drawing.Point(4, 22);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(701, 338);
+            this.tabPage6.Size = new System.Drawing.Size(701, 365);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "Process Reference";
             // 
@@ -361,7 +364,7 @@
             this.tabPage8.Controls.Add(this.checkedListBox1);
             this.tabPage8.Location = new System.Drawing.Point(4, 22);
             this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Size = new System.Drawing.Size(701, 338);
+            this.tabPage8.Size = new System.Drawing.Size(701, 365);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "Input Streams";
             this.tabPage8.UseVisualStyleBackColor = true;
@@ -387,7 +390,7 @@
             // 
             this.tabPage9.Location = new System.Drawing.Point(4, 22);
             this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Size = new System.Drawing.Size(701, 338);
+            this.tabPage9.Size = new System.Drawing.Size(701, 365);
             this.tabPage9.TabIndex = 8;
             this.tabPage9.Text = "Output Streams";
             this.tabPage9.UseVisualStyleBackColor = true;
@@ -398,7 +401,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(701, 338);
+            this.tabPage1.Size = new System.Drawing.Size(701, 365);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Components";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -409,7 +412,7 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(3, 3);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(695, 332);
+            this.dataGridView1.Size = new System.Drawing.Size(695, 359);
             this.dataGridView1.TabIndex = 0;
             // 
             // tabPage2
@@ -418,7 +421,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(701, 338);
+            this.tabPage2.Size = new System.Drawing.Size(701, 365);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "All Streams";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -429,7 +432,7 @@
             this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView2.Location = new System.Drawing.Point(3, 3);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(695, 332);
+            this.dataGridView2.Size = new System.Drawing.Size(695, 359);
             this.dataGridView2.TabIndex = 0;
             // 
             // tabPage3
@@ -437,7 +440,7 @@
             this.tabPage3.Controls.Add(this.dataGridView3);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(701, 338);
+            this.tabPage3.Size = new System.Drawing.Size(701, 365);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Feed Streams";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -448,7 +451,7 @@
             this.dataGridView3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView3.Location = new System.Drawing.Point(0, 0);
             this.dataGridView3.Name = "dataGridView3";
-            this.dataGridView3.Size = new System.Drawing.Size(701, 338);
+            this.dataGridView3.Size = new System.Drawing.Size(701, 365);
             this.dataGridView3.TabIndex = 0;
             // 
             // tabPage4
@@ -456,7 +459,7 @@
             this.tabPage4.Controls.Add(this.dataGridView4);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(701, 338);
+            this.tabPage4.Size = new System.Drawing.Size(701, 365);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Product Streams";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -467,7 +470,7 @@
             this.dataGridView4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView4.Location = new System.Drawing.Point(0, 0);
             this.dataGridView4.Name = "dataGridView4";
-            this.dataGridView4.Size = new System.Drawing.Size(701, 338);
+            this.dataGridView4.Size = new System.Drawing.Size(701, 365);
             this.dataGridView4.TabIndex = 0;
             // 
             // tabPage5
@@ -475,7 +478,7 @@
             this.tabPage5.Controls.Add(this.dataGridView5);
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(701, 338);
+            this.tabPage5.Size = new System.Drawing.Size(701, 365);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Unit Operations";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -486,7 +489,7 @@
             this.dataGridView5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView5.Location = new System.Drawing.Point(0, 0);
             this.dataGridView5.Name = "dataGridView5";
-            this.dataGridView5.Size = new System.Drawing.Size(701, 338);
+            this.dataGridView5.Size = new System.Drawing.Size(701, 365);
             this.dataGridView5.TabIndex = 0;
             // 
             // tabPage7
@@ -494,7 +497,7 @@
             this.tabPage7.Controls.Add(this.dataGridView6);
             this.tabPage7.Location = new System.Drawing.Point(4, 22);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(701, 338);
+            this.tabPage7.Size = new System.Drawing.Size(701, 365);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "Reaction Stoichiometry";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -505,7 +508,7 @@
             this.dataGridView6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView6.Location = new System.Drawing.Point(0, 0);
             this.dataGridView6.Name = "dataGridView6";
-            this.dataGridView6.Size = new System.Drawing.Size(701, 338);
+            this.dataGridView6.Size = new System.Drawing.Size(701, 365);
             this.dataGridView6.TabIndex = 0;
             // 
             // splitter1
@@ -513,13 +516,13 @@
             this.splitter1.Dock = System.Windows.Forms.DockStyle.Top;
             this.splitter1.Location = new System.Drawing.Point(0, 0);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(709, 152);
+            this.splitter1.Size = new System.Drawing.Size(709, 190);
             this.splitter1.TabIndex = 10;
             this.splitter1.TabStop = false;
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(232, 109);
+            this.progressBar1.Location = new System.Drawing.Point(232, 138);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(234, 23);
             this.progressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
@@ -528,17 +531,30 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(131, 115);
+            this.label3.Location = new System.Drawing.Point(131, 144);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(98, 13);
             this.label3.TabIndex = 12;
             this.label3.Text = "Extraction Progress";
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Checked = true;
+            this.checkBox1.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox1.Location = new System.Drawing.Point(28, 106);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(292, 17);
+            this.checkBox1.TabIndex = 13;
+            this.checkBox1.Text = "Get Chemical Proeprty Data From External Data Sources";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(709, 516);
+            this.ClientSize = new System.Drawing.Size(709, 581);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.tabControl1);
@@ -621,6 +637,8 @@
         private System.Windows.Forms.TabPage tabPage9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.CheckedListBox checkedListBox1;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

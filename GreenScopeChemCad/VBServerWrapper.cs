@@ -101,7 +101,7 @@ namespace GreenScopeChemCad
             }
         }
 
-        public bool LoadJob(string bstrJobPath)
+        public bool LoadJob(string bstrJobPath, bool updateCompounds)
         {
             try
             {
@@ -179,7 +179,7 @@ namespace GreenScopeChemCad
                 m_ComponentNames = new string[numComps];
                 for (int i = 0; i < numComps; i++)
                 {
-                    m_Components[i] = new StreamComponent(ids[0], i, this);
+                    m_Components[i] = new StreamComponent(ids[0], i, this, updateCompounds);
                     m_ComponentIDs[i] = p_StreamInfo.GetComponentIDByPos(i);
                     m_ComponentNames[i] = p_StreamInfo.GetComponentNameByPos(i);
                 }
