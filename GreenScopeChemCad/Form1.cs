@@ -301,12 +301,9 @@ namespace GreenScopeChemCad
             componentTable.Columns.Add(new DataColumn("CAS Number", typeof(System.String)));
             componentTable.Columns.Add(new DataColumn("Formula", typeof(System.String)));
             componentTable.Columns.Add(new DataColumn("MolecularWeight", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("criticalTemperature", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("criticalPressure", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("accentricFactor", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("boilingPoint", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("idealGasHeatofFormation", typeof(System.Double)));
-            componentTable.Columns.Add(new DataColumn("idealGasGibbsFreeEnergyOfFormation", typeof(System.Double)));
+            //componentTable.Columns.Add(new DataColumn("boilingPoint", typeof(System.String)));
+            //componentTable.Columns.Add(new DataColumn("idealGasHeatofFormation", typeof(System.Double)));
+            //componentTable.Columns.Add(new DataColumn("idealGasGibbsFreeEnergyOfFormation", typeof(System.Double)));
 
             int numComponents = streams[0].NumberOfComponents;
             int[] compIds = new int[numComponents];
@@ -319,9 +316,9 @@ namespace GreenScopeChemCad
                 row["CAS Number"] = streams[0].casNumber(i);
                 row["Formula"] = streams[0].MolecularFormula(i);
                 row["MolecularWeight"] = streams[0].MolecularWeight(i);
-                row["boilingPoint"] = streams[0].boilingPoint(i);
-                row["idealGasHeatofFormation"] = streams[0].IdealGasHeatOfFormation(i);
-                row["idealGasGibbsFreeEnergyOfFormation"] = streams[0].IdealGasGibbsFreeEnergyOfFormation(i);
+                //row["boilingPoint"] = streams[0].boilingPoint(i);
+                //row["idealGasHeatofFormation"] = streams[0].IdealGasHeatOfFormation(i);
+                //row["idealGasGibbsFreeEnergyOfFormation"] = streams[0].IdealGasGibbsFreeEnergyOfFormation(i);
                 componentTable.Rows.Add(row);
             }
             AddComponentsToSpreadsheet(spreadsheet, streams[0]);

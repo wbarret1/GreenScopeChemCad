@@ -892,15 +892,15 @@ namespace GreenScopeChemCad
             return this.m_Components[index].MeltingPoint;
         }
 
-        public double IdealGasHeatOfFormation(int index)
-        {
-            return this.m_Components[index].IdealGasHeatOfFormation;
-        }
+        //public string IdealGasHeatOfFormation(int index)
+        //{
+        //    return this.m_Components[index].IdealGasHeatOfFormation;
+        //}
 
-        public double IdealGasGibbsFreeEnergyOfFormation(int index)
-        {
-            return this.m_Components[index].IdealGasGibbsFreeEnergyOfFormation;
-        }
+        //public string IdealGasGibbsFreeEnergyOfFormation(int index)
+        //{
+        //    return this.m_Components[index].IdealGasGibbsFreeEnergyOfFormation;
+        //}
 
         public int SourceUnitOperation
         {
@@ -997,12 +997,12 @@ namespace GreenScopeChemCad
         {
             get
             {
-                if (0 == String.Compare(m_EnthalpyUnit, "Btu/h", true)) return m_Enthalpy * 1055.05598654593 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "Btu/hr", true)) return m_Enthalpy * 1055.05598654593 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/h", true)) return m_Enthalpy * 1055.05598654593 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/hr", true)) return m_Enthalpy * 1055.05598654593 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/h", true)) return m_Enthalpy * 1055.05598654593;
-                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/hr", true)) return m_Enthalpy * 1055.05598654593;
+                if (0 == String.Compare(m_EnthalpyUnit, "Btu/h", true)) return m_Enthalpy * 105505.598654593 / 1000000;
+                if (0 == String.Compare(m_EnthalpyUnit, "Btu/hr", true)) return m_Enthalpy * 105505.598654593 / 1000000;
+                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/h", true)) return m_Enthalpy * 105505.598654593 / 1000;
+                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/hr", true)) return m_Enthalpy * 105505.598654593 / 1000;
+                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/h", true)) return m_Enthalpy * 105505.598654593;
+                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/hr", true)) return m_Enthalpy * 105505.598654593;
                 if (0 == String.Compare(m_EnthalpyUnit, "J/h", true)) return m_Enthalpy * 1e-06;
                 if (0 == String.Compare(m_EnthalpyUnit, "J/hr", true)) return m_Enthalpy * 1e-06;
                 if (0 == String.Compare(m_EnthalpyUnit, "kJ/sec", true)) return m_Enthalpy * 3.6;

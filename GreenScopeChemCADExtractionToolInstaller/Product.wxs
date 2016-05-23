@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.0.3" Manufacturer="U.S. EPA" UpgradeCode="D60F7701-DD7C-49F9-A3F1-D8099E8F728A">
+  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.1.3" Manufacturer="U.S. EPA" UpgradeCode="D60F7701-DD7C-49F9-A3F1-D8099E8F728A">
     <Package InstallerVersion="200" Compressed="yes" InstallScope="perUser" />
     <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
 

@@ -99,22 +99,22 @@ namespace GreenScopeChemCad
                 else if (m_Category == "COMP") return 0.0;
                 else if (m_Category == "EXPN") return 0.0;
                 else if (m_Category == "MIXE") return 0.0;
-                else if (m_Category == "BATC") return (1055.05598654593 / 1000000) * (m_UnitOpSpec[60] - m_UnitOpSpec[61] + m_UnitOpSpec[80] - m_UnitOpSpec[81] + m_UnitOpSpec[100] - m_UnitOpSpec[101] + m_UnitOpSpec[120] - m_UnitOpSpec[121] + m_UnitOpSpec[140] - m_UnitOpSpec[141]);// BTU
-                else if (m_Category == "SCDS") return (1055.05598654593 / 1000000) * (m_UnitOpSpec[38] + m_UnitOpSpec[39]);//MMBTU/hr
-                else if (m_Category == "SHOR") return (1055.05598654593 / 1000000) * (m_UnitOpSpec[13] + m_UnitOpSpec[14]);//MMBTU/hr
-                else if (m_Category == "TOWR") return (1055.05598654593 / 1000000) * (m_UnitOpSpec[40] + m_UnitOpSpec[41]);//MMBTU/hr
-                else if (m_Category == "TPLS") return (1055.05598654593 / 1000000) * (m_UnitOpSpec[3] + m_UnitOpSpec[4] + m_UnitOpSpec[5] + m_UnitOpSpec[6] + m_UnitOpSpec[7] + m_UnitOpSpec[8] + m_UnitOpSpec[9] + m_UnitOpSpec[10] + m_UnitOpSpec[11] + m_UnitOpSpec[12] + m_UnitOpSpec[13] + m_UnitOpSpec[14]);//MMBTU/hr
-                else if (m_Category == "FIRE") return (1055.05598654593 / 1000000) * m_UnitOpSpec[2];//MMBTU/hr
-                else if (m_Category == "HTXR") return (1055.05598654593 / 1000000) * m_UnitOpSpec[21];//MMBTU/hr
-                else if (m_Category == "LNGH") return (1055.05598654593 / 1000000) * m_UnitOpSpec[23];//MMBTU/hr
+                else if (m_Category == "BATC") return (105505.598654593 / 1000000) * (m_UnitOpSpec[60] - m_UnitOpSpec[61] + m_UnitOpSpec[80] - m_UnitOpSpec[81] + m_UnitOpSpec[100] - m_UnitOpSpec[101] + m_UnitOpSpec[120] - m_UnitOpSpec[121] + m_UnitOpSpec[140] - m_UnitOpSpec[141]);// BTU
+                else if (m_Category == "SCDS") return (105505.598654593 / 1000000) * (m_UnitOpSpec[38] + m_UnitOpSpec[39]);//MMBTU/hr
+                else if (m_Category == "SHOR") return (105505.598654593 / 1000000) * (m_UnitOpSpec[13] + m_UnitOpSpec[14]);//MMBTU/hr
+                else if (m_Category == "TOWR") return (105505.598654593 / 1000000) * (m_UnitOpSpec[40] + m_UnitOpSpec[41]);//MMBTU/hr
+                else if (m_Category == "TPLS") return (105505.598654593 / 1000000) * (m_UnitOpSpec[3] + m_UnitOpSpec[4] + m_UnitOpSpec[5] + m_UnitOpSpec[6] + m_UnitOpSpec[7] + m_UnitOpSpec[8] + m_UnitOpSpec[9] + m_UnitOpSpec[10] + m_UnitOpSpec[11] + m_UnitOpSpec[12] + m_UnitOpSpec[13] + m_UnitOpSpec[14]);//MMBTU/hr
+                else if (m_Category == "FIRE") return (105505.598654593 / 1000000) * m_UnitOpSpec[2];//MMBTU/hr
+                else if (m_Category == "HTXR") return (105505.598654593 / 1000000) * m_UnitOpSpec[21];//MMBTU/hr
+                else if (m_Category == "LNGH") return (105505.598654593 / 1000000) * m_UnitOpSpec[23];//MMBTU/hr
                 else if (m_Category == "EXTR") return 0.0;
-                else if (m_Category == "CSEP") return (1055.05598654593 / 1000000) * m_UnitOpSpec[41]; //MMBTU/hr
-                else if (m_Category == "BREA") return (1055.05598654593 / 1000000) * m_UnitOpSpec[8];//MMBTU/hr
-                else if (m_Category == "EREA") return (1055.05598654593 / 1000000) * m_UnitOpSpec[6];//MMBTU/hr
-                else if (m_Category == "GIBS") return (1055.05598654593 / 1000000) * m_UnitOpSpec[5];//MMBTU/hr
-                else if (m_Category == "KREA") return (1055.05598654593 / 1000000) * m_UnitOpSpec[8];//MMBTU/hr
+                else if (m_Category == "CSEP") return (105505.598654593 / 1000000) * m_UnitOpSpec[41]; //MMBTU/hr
+                else if (m_Category == "BREA") return (105505.598654593 / 1000000) * m_UnitOpSpec[8];//MMBTU/hr
+                else if (m_Category == "EREA") return (105505.598654593 / 1000000) * m_UnitOpSpec[6];//MMBTU/hr
+                else if (m_Category == "GIBS") return (105505.598654593 / 1000000) * m_UnitOpSpec[5];//MMBTU/hr
+                else if (m_Category == "KREA") return (105505.598654593 / 1000000) * m_UnitOpSpec[8];//MMBTU/hr
                 else if (m_Category == "POLY") return 0.0;
-                else if (m_Category == "REAC") return (1055.05598654593 / 1000000) * m_UnitOpSpec[4];//MMBTU/hr
+                else if (m_Category == "REAC") return (105505.598654593 / 1000000) * m_UnitOpSpec[4];//MMBTU/hr
                 else return 0.0;
             }
         }
@@ -123,9 +123,9 @@ namespace GreenScopeChemCad
         {
             get
             {
-                if (m_Category == "PUMP") return 1055.05598654593 * m_UnitOpSpec[5];//BTU/hr
-                else if (m_Category == "COMP") return (1055.05598654593 / 1000000) * m_UnitOpSpec[6];//BTU/hr
-                else if (m_Category == "EXPN") return (1055.05598654593 / 1000000) * m_UnitOpSpec[6];//BTU/hr
+                if (m_Category == "PUMP") return 105505.598654593 * m_UnitOpSpec[5];//BTU/hr
+                else if (m_Category == "COMP") return (105505.598654593 / 1000000) * m_UnitOpSpec[6];//BTU/hr
+                else if (m_Category == "EXPN") return (105505.598654593 / 1000000) * m_UnitOpSpec[6];//BTU/hr
                 else if (m_Category == "MIXE") return 0.0;
                 else if (m_Category == "BATC") return 0.0;
                 else if (m_Category == "SCDS") return 0.0;

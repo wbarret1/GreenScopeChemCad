@@ -546,7 +546,7 @@
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(292, 17);
             this.checkBox1.TabIndex = 13;
-            this.checkBox1.Text = "Get Chemical Proeprty Data From External Data Sources";
+            this.checkBox1.Text = "Get Chemical Property Data From External Data Sources";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // Form1
