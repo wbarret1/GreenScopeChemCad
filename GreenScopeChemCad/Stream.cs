@@ -997,30 +997,29 @@ namespace GreenScopeChemCad
         {
             get
             {
-                if (0 == String.Compare(m_EnthalpyUnit, "Btu/h", true)) return m_Enthalpy * 105505.598654593 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "Btu/hr", true)) return m_Enthalpy * 105505.598654593 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/h", true)) return m_Enthalpy * 105505.598654593 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kBtu/hr", true)) return m_Enthalpy * 105505.598654593 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/h", true)) return m_Enthalpy * 105505.598654593;
-                if (0 == String.Compare(m_EnthalpyUnit, "mmBtu/hr", true)) return m_Enthalpy * 105505.598654593;
-                if (0 == String.Compare(m_EnthalpyUnit, "J/h", true)) return m_Enthalpy * 1e-06;
-                if (0 == String.Compare(m_EnthalpyUnit, "J/hr", true)) return m_Enthalpy * 1e-06;
-                if (0 == String.Compare(m_EnthalpyUnit, "kJ/sec", true)) return m_Enthalpy * 3.6;
-                if (0 == String.Compare(m_EnthalpyUnit, "kJ/h", true)) return m_Enthalpy * 1e-03;
-                if (0 == String.Compare(m_EnthalpyUnit, "kJ/hr", true)) return m_Enthalpy * 1e-03;
-                if (0 == String.Compare(m_EnthalpyUnit, "mJ/h", true)) return m_Enthalpy;
-                if (0 == String.Compare(m_EnthalpyUnit, "mJ/hr", true)) return m_Enthalpy;
-                if (0 == String.Compare(m_EnthalpyUnit, "cal/h", true)) return m_Enthalpy * 4.1868 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "cal/hr", true)) return m_Enthalpy * 4.1868 / 1000000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kcal/h", true)) return m_Enthalpy * 4.1868 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "kcal/hr", true)) return m_Enthalpy * 4.1868 / 1000;
-                if (0 == String.Compare(m_EnthalpyUnit, "mcal/h", true)) return m_Enthalpy * 4.1868;
-                if (0 == String.Compare(m_EnthalpyUnit, "mcal/hr", true)) return m_Enthalpy * 4.1868;
-                //if (0 == String.Compare(m_EnthalpyUnit, "hp", true)) return m_Enthalpy * 7.457e+02 * 3600;
-                //if (0 == String.Compare(m_EnthalpyUnit, "W", true)) return m_Enthalpy * 3600;
-                //if (0 == String.Compare(m_EnthalpyUnit, "kw", true)) return m_Enthalpy * 3.6;
-                //if (0 == String.Compare(m_EnthalpyUnit, "mw", true)) return m_Enthalpy * 0.0036;
-                throw new System.ArgumentException("Unit not found in list");
+                double retval = m_Enthalpy;
+                string[] splits = m_EnthalpyUnit.Split('/');
+                // Convert Energy
+                // btu, kBTU, MMbtu, J, kj, MJ, cal, kcal, Mcal, hp-hr, kW-h, MW-h, w-h
+                if (0 == String.Compare(splits[0], "btu", true)) retval = retval * 0.00105506;
+                if (0 == String.Compare(splits[0], "kbtu", true)) retval = retval * 1.05506;
+                if (0 == String.Compare(splits[0], "mmbtu", true)) retval = retval * 1055.06;
+                if (0 == String.Compare(splits[0], "j", true)) retval = retval / 1000000;
+                if (0 == String.Compare(splits[0], "kj", true)) retval = retval / 1000;
+                if (0 == String.Compare(splits[0], "cal", true)) retval = retval * 4.1868 / 1000000;
+                if (0 == String.Compare(splits[0], "kcal", true)) retval = retval * 4.1868 / 1000;
+                if (0 == String.Compare(splits[0], "mcal", true)) retval = retval * 4.1868;
+                if (0 == String.Compare(splits[0], "hp-hr", true)) retval = retval * 2.684519537696172792;
+                if (0 == String.Compare(splits[0], "kW-h", true)) retval = retval * 3.6;
+                if (0 == String.Compare(splits[0], "mW-h", true)) retval = retval * 3600;
+                if (0 == String.Compare(splits[0], "W-h", true)) retval = retval * .0036;
+                // Convert Time
+                // h, min, day, sec, hr, s, batch
+                if (0 == String.Compare(splits[1], "min", true)) retval = retval * 60;
+                if (0 == String.Compare(splits[1], "day", true)) retval = retval / 24;
+                if (0 == String.Compare(splits[1], "sec", true)) retval = retval * 3600;
+                if (0 == String.Compare(splits[1], "s", true)) retval = retval * 3600;
+                return retval;
             }
         }
 
@@ -1052,10 +1051,33 @@ namespace GreenScopeChemCad
         {
             get
             {
-                if (m_StreamPropertyUnits[20] == "MMBtu/C/h") return m_StreamPropertyValues[20] * 1054.5;
-                if (m_StreamPropertyUnits[20] == "MJ/C/h") return m_StreamPropertyValues[20];
-                if (m_StreamPropertyUnits[20] == "kJ/C/sec") return m_StreamPropertyValues[20]/1000*3600;
-                throw new System.ArgumentException("Unit not found in list");
+                double retval = m_StreamPropertyValues[20];
+                string[] splits = m_StreamPropertyUnits[20].Split('/');
+                // Convert Energy
+                // btu, kBTU, MMbtu, J, kj, MJ, cal, kcal, Mcal, hp-hr, kW-h, MW-h, w-h
+                if (0 == String.Compare(splits[0], "btu", true)) retval = retval * 0.00105506;
+                if (0 == String.Compare(splits[0], "kbtu", true)) retval = retval * 1.05506;
+                if (0 == String.Compare(splits[0], "mmbtu", true)) retval = retval * 1055.06;
+                if (0 == String.Compare(splits[0], "j", true)) retval = retval / 1000000;
+                if (0 == String.Compare(splits[0], "kj", true)) retval = retval / 1000;
+                if (0 == String.Compare(splits[0], "cal", true)) retval = retval * 4.1868 / 1000000;
+                if (0 == String.Compare(splits[0], "kcal", true)) retval = retval * 4.1868 / 1000;
+                if (0 == String.Compare(splits[0], "mcal", true)) retval = retval * 4.1868;
+                if (0 == String.Compare(splits[0], "hp-hr", true)) retval = retval * 2.684519537696172792;
+                if (0 == String.Compare(splits[0], "kW-h", true)) retval = retval * 3.6;
+                if (0 == String.Compare(splits[0], "mW-h", true)) retval = retval * 3600;
+                if (0 == String.Compare(splits[0], "W-h", true)) retval = retval * .0036;
+                // Convert Temperature
+                //R and F
+                if (0 == String.Compare(splits[1], "R", true)) retval = retval * 5 / 9;
+                if (0 == String.Compare(splits[1], "F", true)) retval = retval * 5 / 9;
+                // Convert Time
+                // h, min, day, sec, hr, s, batch
+                if (0 == String.Compare(splits[2], "min", true)) retval = retval * 60;
+                if (0 == String.Compare(splits[2], "day", true)) retval = retval / 24;
+                if (0 == String.Compare(splits[2], "sec", true)) retval = retval * 3600;
+                if (0 == String.Compare(splits[2], "s", true)) retval = retval * 3600;
+                return retval;
             }
         }
 
