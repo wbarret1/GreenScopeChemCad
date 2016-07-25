@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-  <Product Id="*" Name="GreenScope ChemCAD Extraction Tool Installer" Language="1033" Version="1.0.11.3" Manufacturer="U.S. EPA" UpgradeCode="D60F7701-DD7C-49F9-A3F1-D8099E8F728A">
-    <Package InstallerVersion="200" Compressed="yes" InstallScope="perUser" />
-    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+  <Product
+    Id="*"
+    Name="GreenScope ChemCAD Extraction Tool Installer"
+    Language="1033"
+    Version="1.0.13.3"
+    Manufacturer="U.S. EPA"
+    UpgradeCode="D60F7701-DD7C-49F9-A3F1-D8099E8F728A"
+   >
+    <Package
+       InstallerVersion="200"
+       Compressed="yes"
+       InstallScope="perUser"
+      />
 
-    <Media Id='1' Cabinet='product.cab' EmbedCab='yes' />
-    <Feature Id="ProductFeature" Title="GreenScopeChemCADExtractionToolInstaller" Level="1">
+    <MajorUpgrade 
+      AllowSameVersionUpgrades="yes" 
+      DowngradeErrorMessage="A newer version of [ProductName] is already installed." 
+      />
+
+    <Media 
+      Id='1' 
+      Cabinet='product.cab' 
+      EmbedCab='yes' 
+      />
+    
+    <Feature 
+      Id="ProductFeature" 
+      Title="GreenScopeChemCADExtractionToolInstaller" 
+      Level="1">
       <ComponentRef Id="ProductComponents" />
       <ComponentRef Id="ApplicationShortcut" />
       <ComponentRef Id="OpenOfficeXML" />
     </Feature>
-    <Icon Id="greenscopeIcons" SourceFile="$(var.GreenScopeChemCad.TargetPath)"/>
+    
+    <Icon 
+      Id="greenscopeIcons" 
+      SourceFile="$(var.GreenScopeChemCad.TargetPath)"
+      />
   </Product>
 
 

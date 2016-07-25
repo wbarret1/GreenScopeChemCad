@@ -139,8 +139,7 @@
     <EmbeddedResource Include="SelectChemicalForm.resx">
       <DependentUpon>SelectChemicalForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="GRNS data entries for v1_2 12-14.xlsm" />
-    <None Include="GRNS-LCI v1_2 05-15.xlsm" />
+    <None Include="GRNS data Template 07-2016.xlsm" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest">
       <SubType>Designer</SubType>

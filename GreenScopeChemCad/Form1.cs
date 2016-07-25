@@ -98,7 +98,7 @@ namespace GreenScopeChemCad
             else
             {
                 spreadsheet = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Create(excelFileName, DocumentFormat.OpenXml.SpreadsheetDocumentType.MacroEnabledWorkbook);
-                greenScopeTemplate = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(new System.IO.MemoryStream(Properties.Resources.GRNS_LCI_v1_2_05_15), true);
+                greenScopeTemplate = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(new System.IO.MemoryStream(Properties.Resources.GRNS_data_Template_07_2016), true);
 
                 //Make sure it's clear
                 spreadsheet.DeleteParts<DocumentFormat.OpenXml.Packaging.OpenXmlPart>(spreadsheet.GetPartsOfType<DocumentFormat.OpenXml.Packaging.OpenXmlPart>());
@@ -216,6 +216,8 @@ namespace GreenScopeChemCad
                 else if (unitOps[i].Category == "SHOR") distillationColumns.Add(unitOps[i]);
                 else if (unitOps[i].Category == "TOWR") distillationColumns.Add(unitOps[i]);
                 else if (unitOps[i].Category == "TPLS") distillationColumns.Add(unitOps[i]);
+                else if (unitOps[i].Category == "FLAS") distillationColumns.Add(unitOps[i]);
+                else if (unitOps[i].Category == "VESL") distillationColumns.Add(unitOps[i]);
                 else if (unitOps[i].Category == "FIRE") heatExchangers.Add(unitOps[i]);
                 else if (unitOps[i].Category == "HTXR") heatExchangers.Add(unitOps[i]);
                 else if (unitOps[i].Category == "LNGH") heatExchangers.Add(unitOps[i]);
@@ -1514,8 +1516,33 @@ namespace GreenScopeChemCad
 
         private void AddDistillationUnitOpsToSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, UnitOperation[] distillationColumns)
         {
-            int[] distillationRows = { 40, 41, 42, 43, 44, 45, 46, 47, 48, 49 };
-            AddUnitOpsToSpreadsheet(spreadsheet, distillationColumns, distillationRows);
+            int[] distillationRows = { 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 };
+            IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet> sheets = spreadsheet.WorkbookPart.Workbook.GetFirstChild<DocumentFormat.OpenXml.Spreadsheet.Sheets>().Elements<DocumentFormat.OpenXml.Spreadsheet.Sheet>().Where(s => s.Name == "II. Equipment & Cost Data");
+            if (sheets.Count() == 0)
+            {
+                // The specified worksheet does not exist.
+                return;
+            }
+            string relationshipId = sheets.First().Id.Value;
+            DocumentFormat.OpenXml.Packaging.WorksheetPart worksheetPart = (DocumentFormat.OpenXml.Packaging.WorksheetPart)spreadsheet.WorkbookPart.GetPartById(relationshipId);
+
+            string[] unitOpColumns = { "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "W", "X" };
+
+            for (int i = 0; i < distillationColumns.Length; i++)
+            {
+
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[1], distillationColumns[i].UnitOpId.ToString());
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[2], distillationColumns[i].Label);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[3], String.Empty);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[4], distillationColumns[i].CondenserDuty);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[5], distillationColumns[i].ReboilerDuty);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[6], distillationColumns[i].Power);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[7], distillationColumns[i].TotalPurchaseCost);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[8], distillationColumns[i].TotalInstalledCost);
+                //SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[9], distillationColumns[i].);
+                //SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], distillationRows[10], String.Empty);
+            }
+            worksheetPart.Worksheet.Save();
         }
 
         private void AddHeatExchangerUnitOpsToSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, UnitOperation[] heatExchangers)
@@ -1533,7 +1560,31 @@ namespace GreenScopeChemCad
         private void AddReactorUnitOpsToSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, UnitOperation[] reactors)
         {
             int[] reactorRows = { 101, 102, 103, 104, 105, 106, 107, 108, 109, 110 };
-            AddUnitOpsToSpreadsheet(spreadsheet, reactors, reactorRows);
+            IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet> sheets = spreadsheet.WorkbookPart.Workbook.GetFirstChild<DocumentFormat.OpenXml.Spreadsheet.Sheets>().Elements<DocumentFormat.OpenXml.Spreadsheet.Sheet>().Where(s => s.Name == "II. Equipment & Cost Data");
+            if (sheets.Count() == 0)
+            {
+                // The specified worksheet does not exist.
+                return;
+            }
+            string relationshipId = sheets.First().Id.Value;
+            DocumentFormat.OpenXml.Packaging.WorksheetPart worksheetPart = (DocumentFormat.OpenXml.Packaging.WorksheetPart)spreadsheet.WorkbookPart.GetPartById(relationshipId);
+
+            string[] unitOpColumns = { "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "W", "X" };
+
+            for (int i = 0; i < reactors.Length; i++)
+            {
+
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[1], reactors[i].UnitOpId.ToString());
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[2], reactors[i].Label);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[3], String.Empty);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[4], reactors[i].HeatAdded);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[5], reactors[i].Power);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[6], reactors[i].HeatOfReaction);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[7], reactors[i].TotalPurchaseCost);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[8], reactors[i].TotalInstalledCost);
+                SetSpreadsheetCellValue(worksheetPart.Worksheet, unitOpColumns[i], reactorRows[9], String.Empty);
+            }
+            worksheetPart.Worksheet.Save();
         }
 
         private void AddComponentSeparatorUnitOpsToSpreadsheet(DocumentFormat.OpenXml.Packaging.SpreadsheetDocument spreadsheet, UnitOperation[] componentSeparators)
