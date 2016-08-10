@@ -105,13 +105,12 @@
             // button2
             // 
             this.button2.Enabled = false;
-            this.button2.Location = new System.Drawing.Point(589, 69);
+            this.button2.Location = new System.Drawing.Point(589, 64);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 22);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Select";
+            this.button2.Text = "Change";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
@@ -146,7 +145,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 73);
+            this.label2.Location = new System.Drawing.Point(21, 69);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(92, 13);
             this.label2.TabIndex = 5;
@@ -162,7 +161,7 @@
             // textBox2
             // 
             this.textBox2.Enabled = false;
-            this.textBox2.Location = new System.Drawing.Point(130, 69);
+            this.textBox2.Location = new System.Drawing.Point(130, 65);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(420, 20);
             this.textBox2.TabIndex = 7;

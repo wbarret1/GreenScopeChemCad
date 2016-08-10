@@ -57,6 +57,7 @@ namespace GreenScopeChemCad
                 this.GetReactionInformationFromSpreadsheet(spreadsheet, ref mainGlobalReaction, ref mainGlobalProduct, ref mainGlobalProductStream, ref stoichiometry);
                 spreadsheet.Close();
             }
+            this.button2.Enabled = true;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -65,7 +66,7 @@ namespace GreenScopeChemCad
             saveFileDialog1.FileName = excelFileName;
             saveFileDialog1.ShowDialog();
             excelFileName = String.Copy(saveFileDialog1.FileName);
-            textBox2.Text = excelFileName;
+            this.label2.Text = String.Concat("Excel File Name:  ", excelFileName);
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -98,7 +99,7 @@ namespace GreenScopeChemCad
             else
             {
                 spreadsheet = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Create(excelFileName, DocumentFormat.OpenXml.SpreadsheetDocumentType.MacroEnabledWorkbook);
-                greenScopeTemplate = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(new System.IO.MemoryStream(Properties.Resources.GRNS_data_Template_07_2016), true);
+                greenScopeTemplate = DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(new System.IO.MemoryStream(Properties.Resources.GRNS_data_Template_08_2016), true);
 
                 //Make sure it's clear
                 spreadsheet.DeleteParts<DocumentFormat.OpenXml.Packaging.OpenXmlPart>(spreadsheet.GetPartsOfType<DocumentFormat.OpenXml.Packaging.OpenXmlPart>());
@@ -286,7 +287,13 @@ namespace GreenScopeChemCad
             spreadsheet.Close();
             this.progressBar1.Value = 100;
             this.Cursor = oldCursor;
-            System.Windows.Forms.MessageBox.Show(this, "You can now browse the information or close the application.", "Extraction Complete." );
+            System.Windows.Forms.DialogResult msgBxResult = System.Windows.Forms.MessageBox.Show(this, "You can now browse the information or close the application." + Environment.NewLine + "Click 'Yes' to open the Excel File, 'No' to Exit the program," + Environment.NewLine + "or 'Cancel' to return to the program.", "Extraction Complete.", MessageBoxButtons.YesNoCancel);
+            if (msgBxResult == DialogResult.Yes)
+            {
+                System.Diagnostics.Process.Start(excelFileName);
+                this.Close();
+            }
+            if (msgBxResult == DialogResult.No) this.Close();
         }
 
         private void button4_Click(object sender, EventArgs e)

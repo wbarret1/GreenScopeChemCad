@@ -145,7 +145,7 @@
   <data name="logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="GRNS_data_Template_07_2016" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\GRNS data Template 07-2016.xlsm;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="GRNS_data_Template_08_2016" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\GRNS data Template 08-2016.xlsm;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
